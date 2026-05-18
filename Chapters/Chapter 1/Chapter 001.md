@@ -22,6 +22,8 @@
 
 ##### [Capitulo 1-2c Principles [Principios]](#584773)
 
+##### [Capitulo 1-3 The Accounting Equation [La Ecuación Contable]](#394719)
+
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -851,3 +853,89 @@ are amounts used to generate revenue. The **expense recognition principle [princ
 
 , sometimes called the **matching principle [principio de correspondencia]** , requires expenses to be recorded in the same period as the related revenue. Doing so allows the reporting of a **profit or loss [ganancia o pérdida]** for the period.
 [son cantidades utilizadas para generar ingresos. El **principio de reconocimiento de gastos**, a veces llamado **principio de correspondencia**, requiere que los gastos se registren en el mismo período que el ingreso relacionado. Hacerlo permite reportar una **ganancia o pérdida** para el período.]
+
+<h1 id="394719" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-3 The Accounting Equation [La Ecuación Contable]
+
+  </a>
+</h1>
+
+
+**Objective 3** - State the accounting equation and define each element of the equation.
+[Objetivo 3 - Expresar la ecuación contable y definir cada elemento de la ecuación.]
+
+The resources owned by a business are its **assets [activos]** (The resources owned by a business.)
+[Los recursos propiedad de un negocio.]
+
+Examples of assets include cash, land, buildings, and equipment. The rights or claims to the assets are divided into two types: (1) the rights of **creditors [acreedores]** and (2) the rights of **owners [dueños]** . The rights of creditors are the debts of the business and are called **liabilities [pasivos]** (The rights of creditors that represent debts of the business.)
+[Los derechos de los acreedores que representan las deudas del negocio.]
+
+The rights of owners are called **equity [capital contable / patrimonio]** (The rights of the owners of a business.)
+[Los derechos de los dueños de un negocio.]
+
+Since **stockholders [accionistas]** own a corporation, equity is called **stockholders' equity [capital contable de los accionistas / patrimonio de los accionistas]** (The ownership rights of stockholders in a corporation; the stockholders' rights to the assets in a corporation.)
+[Los derechos de propiedad de los accionistas en una corporación; los derechos de los accionistas sobre los activos de una corporación.]
+
+For a **proprietorship [propiedad única]** , **partnership [sociedad]** , or **limited liability company (LLC) [compañía de responsabilidad limitada]** , equity is called **owner's equity [capital contable del dueño / patrimonio del dueño]** (The equity for a proprietorship, partnership, or a limited liability company.)
+[El capital contable para una propiedad única, sociedad o compañía de responsabilidad limitada.]
+
+---
+
+### The Accounting Equation [La Ecuación Contable]
+
+The following equation shows the relationship among assets, liabilities, and equity:
+[La siguiente ecuación muestra la relación entre activos, pasivos y capital contable:]
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Equity}
+$$
+
+$$
+\text{[Activos]} = \text{[Pasivos]} + \text{[Capital Contable]}
+$$
+
+This equation is called the **accounting equation [ecuación contable]** (The equation that shows the relationship among assets, liabilities, and equity; expressed as Assets = Liabilities + Equity.)
+[La ecuación que muestra la relación entre activos, pasivos y capital contable; expresada como Activos = Pasivos + Capital Contable.]
+
+**Liabilities [Pasivos]** usually are shown before **equity [capital contable]** in the accounting equation because creditors have first rights to the assets.
+[Los **pasivos** generalmente se muestran antes que el **capital contable** en la ecuación contable porque los acreedores tienen primeros derechos sobre los activos.]
+
+Throughout this text, we use the **corporate [corporativo]** form of business. However, most of the concepts and principles described and illustrated also apply to proprietorships, partnerships, and limited liability companies.
+[A lo largo de este texto, utilizamos la forma **corporativa** de negocio. Sin embargo, la mayoría de los conceptos y principios descritos e ilustrados también se aplican a las propiedades únicas, sociedades y compañías de responsabilidad limitada.]
+
+---
+
+### Solving the Accounting Equation [Resolviendo la Ecuación Contable]
+
+Given any two amounts, the accounting equation may be solved for the third unknown amount. To illustrate, if the assets owned by a corporation amount to $100,000 and the liabilities amount to $30,000, the stockholders' equity is equal to $70,000, computed as follows:
+[Dados dos cantidades cualesquiera, la ecuación contable puede resolverse para la tercera cantidad desconocida. Para ilustrar, si los activos propiedad de una corporación ascienden a $100,000 y los pasivos ascienden a $30,000, el capital contable de los accionistas es igual a $70,000, calculado de la siguiente manera:]
+
+$$
+\text{Assets} - \text{Liabilities} = \text{Stockholders' Equity}
+$$
+
+$$
+\text{[Activos]} - \text{[Pasivos]} = \text{[Capital Contable de los Accionistas]}
+$$
+
+$$
+\$100,000 - \$30,000 = \$70,000
+$$
+
+---
+
+### Link to Twitter [Enlace a Twitter]
+
+Twitter's accounting equation for a recent year is:
+[La ecuación contable de Twitter para un año reciente es:]
+
+(Information not provided in the original text)
+[(Información no proporcionada en el texto original)]
+
+The **accounting equation [ecuación contable]** is useful for reporting the financial condition and changes in financial condition of a company. For this reason, the accounting equation serves as the basis for designing financial accounting and reporting systems.
+[La **ecuación contable** es útil para reportar la condición financiera y los cambios en la condición financiera de una empresa. Por esta razón, la ecuación contable sirve como base para diseñar sistemas de contabilidad financiera y de informes.]
+
+---
+
+© 2026 Cengage Learning Inc. All rights reserved. No part of this work may be reproduced or used in any form or by any means - graphic, electronic, or mechanical, or in any other manner - without the written permission of the copyright holder.
