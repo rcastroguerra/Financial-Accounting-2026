@@ -1044,6 +1044,14 @@ The purchase of the land changes the makeup of the assets, but it does not chang
 
 <img src="./img/003.png" width="800"></img>
 
+|  | Assets (Activos) |  | = | Stockholders' Equity |  |
+|------------------|----------------|----------|---|----------------------|----------|
+|                  | Cash | Land | = | Common Stock |  |
+| **Bal.**         | 25,000 | – | = | 25,000 |  |
+| **Adj.**         | -20,000 | +20,000 | = | 0 |  |
+| **Adj. Bal.**    | **5,000** | **20,000** | = | **25,000** |  |
+| **Total**        | **25,000** |        | = | **25,000** |  |
+
 $$
 \text{Cash} + \text{Land} = \text{Common Stock}
 $$
@@ -1084,6 +1092,15 @@ which are assets. Thus, the effect of this transaction is to increase assets (Su
 
 <img src="./img/004.png" width="800"></img>
 
+|  | Assets (Activos) |  |  | = | Liabilities | + Stockholders' Equity |  |
+|------------------|----------------|----------|----------|---|-------------|------------------------|--------------|
+|                  | Cash | Supplies | Land | = | Accounts Payable | Common Stock |
+| **Bal.**         | 5,000 | –     | 20,000 | = | –     | 25,000 |
+| **Adj.**         | 0     | +1,350 | 0      | = | +1,350 | 0 |
+| **Adj. Bal.**    | **5,000** | **1,350** | **20,000** | = | **1,350** | **25,000** |
+| **Total**        | **26,350** |        |        | = | **26,350** |        |
+``
+
 $$
 \text{Cash} + \text{Supplies} + \text{Land} = \text{Accounts Payable} + \text{Common Stock}
 $$
@@ -1108,6 +1125,14 @@ During its first month of operations, NetSolutions received cash of $7,500 for p
 **Effect on the accounting equation [Efecto en la ecuación contable]:**
 
 <img src="./img/005.png" width="800"></img>
+
+|  | Assets (Activos) |  |  | = | Liabilities | + Stockholders' Equity |  |  |
+|------------------|----------------|----------|----------|---|-------------|------------------------|--------------|--------------|
+|                  | Cash | Supplies | Land | = | Accounts Payable | Common Stock | Fees Earned |  |
+| **Bal.**         | 5,000 | 1,350 | 20,000 | = | 1,350 | 25,000 | – |  |
+| **Adj.**         | +7,500 | – | – | = | – | – | +7,500 |  |
+| **Adj. Bal.**    | **12,500** | **1,350** | **20,000** | = | **1,350** | **25,000** | **7,500** |  |
+| **Total**        | **33,850** |        |        | = | **33,850** |        |        |  |
 
 $$
 \text{Cash} + \text{Supplies} + \text{Land} = \text{Accounts Payable} + \text{Common Stock} + \text{Fees Earned}
@@ -1162,11 +1187,14 @@ NetSolutions paid the following expenses during the month: wages, $2,125; rent, 
 <img src="./img/006.png" width="800"></img>
 
 
-| Cash      | Supplies  | Land       | = | + Accounts Payable | + Common Stock | + Fees Earned | - Wages | - Rent | - Utilities | - Miscellaneous |
-| --------- | --------- | ---------- | - | ---------------- | ------------ | ----------- | ------------- | ------------ | ----------------- | ------------- |
-| 12,500    | 1,350     | 20,000     | = | 1,350            | 25,000       | 7,500       | –             | –            | –                 | –             |
-| -3,650    | –         | –          | = | –                | –            | –           | -2,125        | -800         | -450              | -275          |
-| **8,850** | **1,350** | **20,000** | = | **1,350**        | **25,000**   | **7,500**   | **-2,125**    | **-800**     | **-450**          | **-275**      |
+|  | Assets (Activos) |  |  | = | Liabilities | + Stockholders' Equity |  |  |  |  |  |
+|------------------|----------------|----------|----------|---|-------------|------------------------|--------------|--------------|--------------|--------------|--------------|
+|                  | Cash | Supplies | Land | = | Accounts Payable | Common Stock | Fees Earned | Wages | Rent | Utilities | Miscellaneous |
+| **Bal.**         | 12,500 | 1,350 | 20,000 | = | 1,350 | 25,000 | 7,500 | – | – | – | – |
+| **Adj.**         | -3,650 | – | – | = | – | – | – | -2,125 | -800 | -450 | -275 |
+| **Adj. Bal.**    | **8,850** | **1,350** | **20,000** | = | **1,350** | **25,000** | **7,500** | **-2,125** | **-800** | **-450** | **-275** |
+| **Total**        | **30,200** |        |        | = | **30,200** |        |        |        |        |        |        |
+
 
 
 Businesses usually record each revenue and expense transaction as it occurs. However, to simplify, NetSolutions' revenues and expenses are summarized for the month in transactions (d) and (e).
@@ -1186,13 +1214,14 @@ When you pay your monthly credit card bill, you decrease the cash and decrease t
 
 <img src="./img/007.png" width="800"></img>
 
-| Assets (Activos) |     |     |          |     |      | = | Liabilities + Stockholders' Equity (Pasivos + Capital) |     |     |     |     |     |     |     |     |
-|------------------|-----|-----|----------|-----|------|---|--------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-|                  | Cash | + | Supplies | + | Land | = | Accounts Payable | + | Common Stock | + | Fees Earned | - | Wages | Rent | Utilities | Miscellaneous |
-| **Bal.**         | 8,850 |   | 1,350 |   | 20,000 | = | 1,350 |   | 25,000 |   | 7,500 |   | -2,125 | -800 | -450 | -275 |
-| **Adj.**         | -950  |   | 0     |   | 0      | = | -950  |   | 0      |   | 0     |   | 0      | 0    | 0    | 0 |
-| **Adj. Bal.**    | 7,900 |   | 1,350 |   | 20,000 | = | 400   |   | 25,000 |   | 7,500 |   | -2,125 | -800 | -450 | -275 |
-| **Total**        | **29,250** |  |      |   |        | = | **29,250** |   |        |   |       |   |        |      |      |      |      |
+|  | Assets (Activos) |  |  | = | Liabilities + |  Stockholders' Equity |  |  |  |  |  |  |
+|------------------|----------------|----------|--------|---|-------------|------------------------|--------------|-------------|--------|------|------------|----------------|
+|                  | Cash | Supplies | Land | = | Accounts Payable | Common Stock | Fees Earned | Wages | Rent | Utilities | Miscellaneous |
+| **Bal.**         | 8,850 | 1,350 | 20,000 | = | 1,350 | 25,000 | 7,500 | -2,125 | -800 | -450 | -275 |
+| **Adj.**         | -950  | 0     | 0      | = | -950  | 0      | 0     | 0      | 0    | 0    | 0 |
+| **Adj. Bal.**    | 7,900 | 1,350 | 20,000 | = | 400   | 25,000 | 7,500 | -2,125 | -800 | -450 | -275 |
+| **Total**        | **29,250** |        |        | = | **29,250** |        |        |        |        |        |        |
+
 
 Paying an amount on account is different from paying an expense. The paying of an expense reduces stockholders' equity, as illustrated in transaction (e). Paying an amount on account reduces the amount owed on a liability.
 [Pagar una cantidad a crédito es diferente de pagar un gasto. El pago de un gasto reduce el capital contable de los accionistas, como se ilustra en la transacción (e). Pagar una cantidad a crédito reduce el monto adeudado en un pasivo.]
@@ -1211,13 +1240,13 @@ The cost of the supplies on hand (not yet used) at the end of the month is $550.
 
 <img src="./img/008.png" width="800"></img>
 
-| Assets (Activos) |     |     |          |     |      | = | Liabilities + Stockholders' Equity (Pasivos + Capital) |     |     |     |     |     |     |     |     |
-|------------------|-----|-----|----------|-----|------|---|--------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-|                  | Cash | + | Supplies | + | Land | = | Accounts Payable | + | Common Stock | + | Fees Earned | - | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
-| **Bal.**         | 7,900 |   | 1,350 |   | 20,000 |  = | 400 |   | 25,000 |   | 7,500 |   | -2,125 | -800 |  | -450 | -275 |
-| **Adj.**         | 0     |   | -800 |   | 0      |  = | 0   |   | 0      |   | 0     |   | 0      | 0    | -800 | 0 | 0 |
-| **Adj. Bal.**    | 7,900 |   | 550  |   | 20,000 | =  | 400 |   | 25,000 |   | 7,500 |   | -2,125 | -800 | -800 | -450 | -275 |
-| **Total**        | 28,450 |  |      |   |        | =  | 28,450 |   |        |   |       |   |        |      |      |      |        |
+| Assets (Activos) | Cash | Supplies | Land | = | Liabilities + Stockholders' Equity (Pasivos + Capital) | Accounts Payable | Common Stock | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
+|------------------|------|----------|------|---|--------------------------------------------------------|------------------|--------------|-------------|------------|------------|----------------|---------------|-------------|
+| **Bal.**         | 7,900 | 1,350 | 20,000 | = |                                                  | 400 | 25,000 | 7,500 | -2,125 | -800 |  | -450 | -275 |
+| **Adj.**         | 0     | -800  | 0      | = |                                                  | 0   | 0      | 0     | 0      | 0    | -800 | 0 | 0 |
+| **Adj. Bal.**    | 7,900 | 550   | 20,000 | = |                                                  | 400 | 25,000 | 7,500 | -2,125 | -800 | -800 | -450 | -275 |
+| **Total**        | **28,450** |        |        | = |                                            | **28,450** |        |        |        |        |        |        |        |
+
 
 *Note: Supplies decreased from $1,350 to $550, and Supplies Expense of $800 is recorded.*
 [*Nota: Los suministros disminuyeron de $1,350 a $550, y se registró un Gasto por Suministros de $800.*]
