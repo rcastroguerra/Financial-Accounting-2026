@@ -12,6 +12,16 @@
 
 ##### [Capitulo 1-1d Role of Ethics in Accounting and Business [Papel de la Ética en la Contabilidad y los Negocios]](#779912)
 
+##### [Capitulo 1-1e Opportunities for Accountants [Oportunidades para Contadores]](#911962)
+
+##### [Capitulo 1-2 Generally Accepted Accounting Principles (GAAP) [Principios de Contabilidad Generalmente Aceptados]](#321465)
+
+##### [Capitulo 1-2a Characteristics of Financial Information [Características de la Información Financiera]](#776084)
+
+##### [Capitulo 1-2b Assumptions [Supuestos]](#805168)
+
+##### [Capitulo 1-2c Principles [Principios]](#584773)
+
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -428,6 +438,416 @@ https://cdn.cms-twdigitalassets.com/content/dam/legal-twitter/asset-download-fil
 
 <h1 id="911962" style="color:#E65100;">
   <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
-    Titulo
+    1-1e Opportunities for Accountants [Oportunidades para Contadores]
   </a>
 </h1>
+
+
+Numerous career opportunities are available for students majoring in accounting. Currently, the demand for accountants exceeds the number of new graduates entering the job market. This is partly due to the increased regulation of business caused by the accounting and business frauds shown in Exhibit 3. Also, more and more businesses have come to recognize the importance and value of accounting information.
+[Numerosas oportunidades profesionales están disponibles para los estudiantes que se especializan en contabilidad. Actualmente, la demanda de contadores supera el número de nuevos graduados que ingresan al mercado laboral. Esto se debe en parte al aumento de la regulación empresarial causado por los fraudes contables y comerciales mostrados en la Figura 3. Además, cada vez más empresas han llegado a reconocer la importancia y el valor de la información contable.]
+
+As indicated earlier, accountants employed by a business are employed in **private accounting [contabilidad privada]** . Private accountants have a variety of possible career options within a company. Some of these career options are shown in **Exhibit 4 [Figura 4]** along with their starting salaries. As shown in Exhibit 4, several private accounting careers have certification options. Accountants who provide audit services, called **auditors [auditores]** , verify the accuracy of financial records, accounts, and systems.
+[Como se indicó anteriormente, los contadores empleados por una empresa trabajan en **contabilidad privada**. Los contadores privados tienen una variedad de opciones profesionales posibles dentro de una empresa. Algunas de estas opciones profesionales se muestran en la **Figura 4** junto con sus salarios iniciales. Como se muestra en la Figura 4, varias carreras de contabilidad privada tienen opciones de certificación. Los contadores que proporcionan servicios de auditoría, llamados **auditores**, verifican la precisión de los registros financieros, cuentas y sistemas.]
+
+---
+
+### Exhibit 4 [Figura 4]
+
+## Accounting Career Paths and Salaries [Trayectorias Profesionales en Contabilidad y Salarios]
+
+| Accounting Career Track [Trayectoria Profesional] | Description [Descripción] | Career Options [Opciones Profesionales] | Annual Starting Salaries [Salarios Iniciales Anuales] | Certification [Certificación] |
+|---------------------------------------------------|---------------------------|------------------------------------------|--------------------------------------------------------|-------------------------------|
+| **Private Accounting [Contabilidad Privada]** | Accountants employed by companies, government, and not-for-profit entities. [Contadores empleados por empresas, gobierno y entidades sin fines de lucro.] | Bookkeeper [Contador/Registrador] Payroll clerk [Empleado de nómina] General accountant [Contador general] Budget analyst [Analista de presupuesto] Cost accountant [Contador de costos] Internal auditor [Auditor interno] Information technology auditor [Auditor de tecnología de la información] | $40,000 $40,000 $49,000 $53,000 $65,000 $48,000 $53,000 | Certified Payroll Professional (CPP) [Profesional Certificado de Nómina] Certified Management Accountant (CMA) [Contador Administrativo Certificado] Certified Internal Auditor (CIA) [Auditor Interno Certificado] Certified Information Systems Auditor (CISA) [Auditor Certificado de Sistemas de Información] |
+| **Public Accounting [Contabilidad Pública]** | Accountants employed individually or within a public accounting firm in audit and tax services. [Contadores empleados de forma individual o dentro de una firma de contabilidad pública en servicios de auditoría e impuestos.] | Public Accountant [Contador público] | $49,000 | Certified Public Accountant (CPA) [Contador Público Certificado] |
+
+*Source: Robert Half 2020 U.S. Salary Guide (Finance and Accounting), Robert Half International, Inc. (RHI)*
+[Fuente: Robert Half 2020 U.S. Salary Guide (Finanzas y Contabilidad), Robert Half International, Inc.]
+
+---
+
+### Public Accounting [Contabilidad Pública]
+
+Accountants and their staff who provide services on a fee basis are said to be employed in **public accounting [contabilidad pública]** (The field of accounting where accountants and their staff provide services on a fee basis.)
+[El campo de la contabilidad donde los contadores y su personal proporcionan servicios sobre la base de honorarios.]
+
+In public accounting, an accountant may practice as an individual or as a member of a public accounting firm. Public accountants who have met a state's education, experience, and examination requirements may become **Certified Public Accountants (CPAs) [Contadores Públicos Certificados]** (Public accountant who has met a state's education, experience, and examination requirements.)
+[Contador público que ha cumplido con los requisitos de educación, experiencia y examen de un estado.]
+
+**Certified Public Accountants (CPAs) [Contadores Públicos Certificados]** . CPAs typically perform general accounting, audit, or tax services. CPAs often have slightly better starting salaries than private accountants. Career statistics indicate, however, that these salary differences tend to disappear over time. The **American Institute of Certified Public Accountants (AICPA) [Instituto Americano de Contadores Públicos Certificados]** provides information and resources for students interested in accounting at www.startheregoplaces.com.
+[Los CPA típicamente realizan servicios de contabilidad general, auditoría o impuestos. Los CPA a menudo tienen salarios iniciales ligeramente mejores que los contadores privados. Las estadísticas profesionales indican, sin embargo, que estas diferencias salariales tienden a desaparecer con el tiempo. El **Instituto Americano de Contadores Públicos Certificados (AICPA)** proporciona información y recursos para estudiantes interesados en contabilidad en www.startheregoplaces.com.]
+
+---
+
+### Ethics in Action [Ética en Acción]
+
+## Bernie Madoff [Bernie Madoff]
+
+**Bernard L. "Bernie" Madoff** was sentenced to 150 years in prison for defrauding thousands of investors in one of the biggest frauds in American history. Madoff's fraud started several decades earlier when he began a **"Ponzi scheme" ["esquema Ponzi"]** in his investment management firm, Bernard L. Madoff Investment Securities LLC.
+[Bernard L. "Bernie" Madoff fue condenado a 150 años de prisión por defraudar a miles de inversores en uno de los fraudes más grandes de la historia estadounidense. El fraude de Madoff comenzó varias décadas antes cuando inició un **"esquema Ponzi"** en su firma de gestión de inversiones, Bernard L. Madoff Investment Securities LLC.]
+
+In a **Ponzi scheme [esquema Ponzi]** , the investment manager uses funds received from new investors to pay a return to existing investors, rather than basing returns on the investments' actual performance. As long as the investment manager is able to attract new investors, he or she will have new funds to pay existing investors and continue the fraud. While most Ponzi schemes collapse quickly when the investment manager runs out of new investors, Madoff's reputation, popularity, and personal contacts provided a steady stream of investors, which allowed the fraud to survive for decades.
+[En un **esquema Ponzi**, el administrador de inversiones utiliza los fondos recibidos de nuevos inversores para pagar un rendimiento a los inversores existentes, en lugar de basar los rendimientos en el rendimiento real de las inversiones. Mientras el administrador de inversiones pueda atraer nuevos inversores, tendrá nuevos fondos para pagar a los inversores existentes y continuar con el fraude. Si bien la mayoría de los esquemas Ponzi colapsan rápidamente cuando el administrador de inversiones se queda sin nuevos inversores, la reputación, popularidad y contactos personales de Madoff proporcionaron un flujo constante de inversores, lo que permitió que el fraude sobreviviera durante décadas.]
+
+---
+
+### Accounting as a Foundation [La Contabilidad como Base]
+
+Because all functions within a business use accounting information, experience in private or public accounting provides a solid foundation for a career. Many positions in industry and in government agencies are held by individuals with accounting backgrounds.
+[Dado que todas las funciones dentro de una empresa utilizan información contable, la experiencia en contabilidad privada o pública proporciona una base sólida para una carrera. Muchos puestos en la industria y en agencias gubernamentales son ocupados por personas con formación en contabilidad.]
+
+<h1 id="321465" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-2 Generally Accepted Accounting Principles (GAAP) [Principios de Contabilidad Generalmente Aceptados]
+
+  </a>
+</h1>
+
+**Objective 2** - Describe generally accepted accounting principles, including the underlying assumptions and principles.
+[Objetivo 2 - Describir los principios de contabilidad generalmente aceptados, incluyendo los supuestos y principios subyacentes.]
+
+Financial information in the United States is based on **generally accepted accounting principles (GAAP) [principios de contabilidad generalmente aceptados]** (Generally accepted guidelines for the preparation of financial statements.)
+[Directrices generalmente aceptadas para la preparación de estados financieros.]
+
+GAAP is a collection of accounting standards, principles, and assumptions that define how financial information will be reported.
+[GAAP es un conjunto de estándares contables, principios y supuestos que definen cómo se reportará la información financiera.]
+
+**Accounting standards [Estándares contables]** (The rules that determine the accounting for individual business transactions.)
+[Las reglas que determinan la contabilidad para transacciones comerciales individuales.]
+
+are the rules that determine the accounting for individual business transactions.
+[son las reglas que determinan la contabilidad para transacciones comerciales individuales.]
+
+**Accounting principles [Principios contables]** (Principles that provide the framework upon which accounting standards are constructed.)
+[Principios que proporcionan el marco sobre el cual se construyen los estándares contables.]
+
+and **assumptions [supuestos]** (Assumptions that provide the framework upon which accounting standards are constructed.)
+[Supuestos que proporcionan el marco sobre el cual se construyen los estándares contables.]
+
+provide the framework upon which accounting standards are constructed.
+[proporcionan el marco sobre el cual se construyen los estándares contables.]
+
+---
+
+### Standard-Setting Bodies [Organismos Normativos]
+
+Within the United States, the **Financial Accounting Standards Board (FASB) [Junta de Normas de Contabilidad Financiera]** (The authoritative body that has the primary responsibility for developing accounting principles.)
+[El organismo autorizado que tiene la responsabilidad principal de desarrollar los principios contables.]
+
+has the primary responsibility for developing accounting standards. The FASB maintains an electronic database, called the **Accounting Standards Codification [Codificación de Normas de Contabilidad]** (An electronic database maintained by the Financial Accounting Standards Board (FASB) that contains all of the accounting standards that make up GAAP.)
+[Una base de datos electrónica mantenida por la FASB que contiene todos los estándares contables que componen los GAAP.]
+
+, that contains all the accounting standards that make up GAAP. Changes in the FASB Codification are made using **Accounting Standards Updates [Actualizaciones de Normas de Contabilidad]** (Published changes to accounting standards that are the source of updates to the Accounting Standards Codification.)
+[Cambios publicados a los estándares contables que son la fuente de actualizaciones de la Codificación de Normas de Contabilidad.]
+
+The **Securities and Exchange Commission (SEC) [Comisión de Bolsa y Valores]** (An agency of the U.S. government that has authority over the accounting and financial disclosures for companies whose shares of ownership (stock) are traded and sold to the public.)
+[Una agencia del gobierno de EE.UU. que tiene autoridad sobre la contabilidad y las divulgaciones financieras de las empresas cuyas acciones de propiedad (capital) se negocian y venden al público.]
+
+, an agency of the U.S. government, has authority over the accounting and financial disclosures for companies whose shares of ownership (stock) are traded and sold to the public. The SEC normally accepts the accounting standards set forth by the FASB. However, the SEC may issue Staff Accounting Bulletins on accounting matters that may not have been addressed by the FASB.
+[tiene autoridad sobre la contabilidad y las divulgaciones financieras de las empresas cuyas acciones se negocian y venden al público. La SEC normalmente acepta los estándares contables establecidos por la FASB. Sin embargo, la SEC puede emitir Boletines de Contabilidad del Personal sobre asuntos contables que pueden no haber sido abordados por la FASB.]
+
+Outside the United States, most countries use accounting standards and principles adopted by the **International Accounting Standards Board (IASB) [Junta de Normas Internacionales de Contabilidad]** (An organization that issues International Financial Reporting Standards for many countries outside the United States.)
+[Una organización que emite Normas Internacionales de Información Financiera para muchos países fuera de los Estados Unidos.]
+
+The IASB issues **International Financial Reporting Standards (IFRS) [Normas Internacionales de Información Financiera]** . In some cases, differences exist between FASB and IASB accounting principles. These differences are identified throughout the chapters of this text and in Appendix A.
+[La IASB emite las **Normas Internacionales de Información Financiera (IFRS)** . En algunos casos, existen diferencias entre los principios contables de la FASB y la IASB. Estas diferencias se identifican a lo largo de los capítulos de este texto y en el Apéndice A.]
+
+---
+
+### Business Insight [Perspectiva Empresarial]
+
+#### Pathways Commission [Comisión Pathways]
+
+The **Pathways Commission** issued its study titled *Charting a National Strategy for the Next Generation of Accountants*. The Commission was made up of diverse members and was jointly sponsored by the **American Institute of Certified Public Accountants (AICPA) [Instituto Americano de Contadores Públicos Certificados]** and the **American Accounting Association (AAA) [Asociación Americana de Contabilidad]** . The Commission emphasized the importance of accounting for a prosperous society and good decision making. The Commission also emphasized that accountants must be **critical thinkers [pensadores críticos]** who are comfortable addressing the shades of gray required by accounting judgments.
+[La **Comisión Pathways** publicó su estudio titulado *Trazando una Estrategia Nacional para la Próxima Generación de Contadores*. La Comisión enfatizó la importancia de la contabilidad para una sociedad próspera y una buena toma de decisiones. La Comisión también enfatizó que los contadores deben ser **pensadores críticos** que se sientan cómodos abordando los matices requeridos por los juicios contables.]
+
+*Source: Charting a National Strategy for the Next Generation of Accountants, The Pathways Commission, July 2012.*
+
+---
+
+### Using Data Analytics [Uso de la Analítica de Datos]
+
+#### What Is It? [¿Qué es?]
+
+A company's success will increasingly rely on the ability to collect, interpret, and gather insights from massive volumes of data.
+[El éxito de una empresa dependerá cada vez más de la capacidad de recopilar, interpretar y obtener conocimientos a partir de grandes volúmenes de datos.]
+
+**Data analytics [Analítica de datos]** (The science of analyzing large amounts of raw data, sometimes called "big data," to discover patterns, identify anomalies, or gain other useful insights for decision making.)
+[La ciencia de analizar grandes cantidades de datos en bruto, a veces llamados "big data", para descubrir patrones, identificar anomalías u obtener otros conocimientos útiles para la toma de decisiones.]
+
+is the science of analyzing raw data to discover patterns, identify anomalies, or gain other useful insights. The four basic types of data analytics are as follows:
+[es la ciencia de analizar datos en bruto para descubrir patrones, identificar anomalías u obtener otros conocimientos útiles. Los cuatro tipos básicos de analítica de datos son los siguientes:]
+
+| Type [Tipo] | Description [Descripción] | Example [Ejemplo] |
+|-------------|---------------------------|-------------------|
+| **Descriptive analytics [Analítica descriptiva]** | Describes and summarizes outcomes. [Describe y resume resultados.] | a sale report by product, region of country, and customer. [un informe de ventas por producto, región del país y cliente.] |
+| **Diagnostic analytics [Analítica diagnóstica]** | Tries to explain results by identifying relationships among data. [Intenta explicar resultados identificando relaciones entre datos.] | determining whether a YouTube video featuring a product increased sales within 48 hours after its first showing. [determinar si un video de YouTube que presenta un producto aumentó las ventas dentro de las 48 horas posteriores a su primera exhibición.] |
+| **Predictive analytics [Analítica predictiva]** | Uses statistical methods to predict future outcomes. [Utiliza métodos estadísticos para predecir resultados futuros.] | predicting the effects of methods for creating customer satisfaction on future sales. [predecir los efectos de los métodos para crear satisfacción del cliente en las ventas futuras.] |
+| **Prescriptive analytics [Analítica prescriptiva]** | Recommends future actions for achieving company goals and objectives. [Recomienda acciones futuras para lograr las metas y objetivos de la empresa.] | analyzing the effects of energy saving alternatives on meeting the company's goal of reducing greenhouse gas emissions by 25%. [analizar los efectos de las alternativas de ahorro de energía para cumplir con el objetivo de la empresa de reducir las emisiones de gases de efecto invernadero en un 25%.] |
+
+Data analytics is conducted using a variety of mathematical models, algorithms, and visualizations. Because of accounting's role in providing useful information, accountants are increasingly using data analytics to help businesses make better decisions. For this reason, we provide suggestions for the use of data analytics.
+[La analítica de datos se realiza utilizando una variedad de modelos matemáticos, algoritmos y visualizaciones. Debido al papel de la contabilidad en proporcionar información útil, los contadores utilizan cada vez más la analítica de datos para ayudar a las empresas a tomar mejores decisiones. Por esta razón, proporcionamos sugerencias para el uso de la analítica de datos.]
+
+---
+
+<h1 id="776084" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-2a Characteristics of Financial Information [Características de la Información Financiera]
+
+  </a>
+</h1>
+
+The primary goal of **financial accounting [contabilidad financiera]** is to provide information that is useful for decision making. To be useful, financial reports must possess two important characteristics: **relevance [relevancia]** and **faithful representation [representación fiel]** .
+[El objetivo principal de la **contabilidad financiera** es proporcionar información que sea útil para la toma de decisiones. Para ser útiles, los informes financieros deben poseer dos características importantes: **relevancia** y **representación fiel** .]
+
+---
+
+### Fundamental Characteristics [Características Fundamentales]
+
+**Relevant [Relevante]** (A characteristic of financial reports that pertains to information having the potential to impact decision making.)
+[Una característica de los informes financieros que pertenece a la información que tiene el potencial de impactar la toma de decisiones.]
+
+**Relevant [Relevante]** information has the potential to impact decision making.
+[La información **relevante** tiene el potencial de impactar la toma de decisiones.]
+
+**Faithful representation [Representación fiel]** (A characteristic of financial reports that pertains to information accurately reflecting an entity's economic activity or condition.)
+[Una característica de los informes financieros que pertenece a la información que refleja con precisión la actividad o condición económica de una entidad.]
+
+**Faithful representation [Representación fiel]** means that the information accurately reflects an entity's economic activity or condition.
+[**Representación fiel** significa que la información refleja con precisión la actividad o condición económica de una entidad.]
+
+---
+
+### Enhancing Characteristics [Características de Mejora]
+
+The characteristics of relevant and faithful representation are enhanced by the following:
+[Las características de relevancia y representación fiel se mejoran con lo siguiente:]
+
+| Characteristic [Característica] | Description [Descripción] |
+|--------------------------------|---------------------------|
+| **Comparability [Comparabilidad]** (A secondary characteristic of financial information; comparability includes consistent reporting, that allows users to identify similarities and differences among reported items.) [Una característica secundaria de la información financiera; la comparabilidad incluye la presentación de informes consistente, que permite a los usuarios identificar similitudes y diferencias entre los elementos reportados.] | which includes **consistent reporting [informes consistentes]** , allows users to identify similarities and differences among reported items. [que incluye **informes consistentes**, permite a los usuarios identificar similitudes y diferencias entre los elementos reportados.] |
+| **Verifiability [Verificabilidad]** (A secondary characteristic of financial information that allows users to agree on the meaning of reported items.) [Una característica secundaria de la información financiera que permite a los usuarios estar de acuerdo sobre el significado de los elementos reportados.] | allows users to agree on the meaning of reported items. [permite a los usuarios estar de acuerdo sobre el significado de los elementos reportados.] |
+| **Timeliness [Oportunidad]** (A secondary characteristic of financial information that requires distribution of financial reports in time to influence a user's decision.) [Una característica secundaria de la información financiera que requiere la distribución de informes financieros a tiempo para influir en la decisión de un usuario.] | requires distribution of financial reports in time to influence a user's decision. [requiere la distribución de informes financieros a tiempo para influir en la decisión de un usuario.] |
+| **Understandability [Comprensibilidad]** (A secondary characteristic of financial information that requires clear and concise financial reports that facilitate user interpretation and analysis.) [Una característica secundaria de la información financiera que requiere informes financieros claros y concisos que faciliten la interpretación y el análisis del usuario.] | requires clear and concise financial reports that facilitate user interpretation and analysis. [requiere informes financieros claros y concisos que faciliten la interpretación y el análisis del usuario.] |
+
+---
+
+### Business Insight [Perspectiva Empresarial]
+
+## Covid-19 Pandemic [Pandemia de COVID-19]
+
+The coronavirus (COVID-19) pandemic is causing significant disruptions to companies and their business operations in the United States and throughout the world. As a result, the **Financial Accounting Standards Board (FASB) [Junta de Normas de Contabilidad Financiera]** has delayed the effective date of several accounting standards and is considering how to apply **generally accepted accounting principles (GAAP) [principios de contabilidad generalmente aceptados]** to a variety of issues generated by the pandemic. For example, companies with less than 500 employees may have received payroll loans under the **Payroll Protection Program (PPP) [Programa de Protección de Nóminas]** . Some or all of these loans may be forgiven if certain conditions are met. Currently, GAAP does not have specific guidance on the accounting and disclosures for this type of government assistance.
+[La pandemia de coronavirus (COVID-19) está causando interrupciones significativas en las empresas y sus operaciones comerciales en los Estados Unidos y en todo el mundo. Como resultado, la **Junta de Normas de Contabilidad Financiera (FASB)** ha retrasado la fecha de vigencia de varias normas contables y está considerando cómo aplicar los **principios de contabilidad generalmente aceptados (GAAP)** a una variedad de issues generados por la pandemia. Por ejemplo, las empresas con menos de 500 empleados pueden haber recibido préstamos de nómina bajo el **Programa de Protección de Nóminas (PPP)** . Algunos o todos estos préstamos pueden ser condonados si se cumplen ciertas condiciones. Actualmente, los GAAP no tienen una guía específica sobre la contabilidad y divulgación de este tipo de asistencia gubernamental.]
+
+
+<h1 id="805168" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-2b Assumptions [Supuestos]
+
+  </a>
+</h1>
+
+**Financial accounting [Contabilidad financiera]** and **generally accepted accounting principles (GAAP) [principios de contabilidad generalmente aceptados]** are based upon the following assumptions:
+[La **contabilidad financiera** y los **principios de contabilidad generalmente aceptados (GAAP)** se basan en los siguientes supuestos:]
+
+- **Monetary unit [Unidad monetaria]**
+- **Time period [Período de tiempo]**
+- **Business entity [Entidad de negocio]**
+- **Going concern [Negocio en marcha]**
+
+---
+
+### Monetary Unit Assumption [Supuesto de Unidad Monetaria]
+
+The **monetary unit assumption [supuesto de unidad monetaria]** (An accounting assumption that requires that financial reports be expressed in a single monetary unit, or currency.)
+[Un supuesto contable que requiere que los informes financieros se expresen en una sola unidad monetaria o moneda.]
+
+requires that financial reports be expressed in a single money unit, or currency. This provides a common measurement of the effects of economic events and transactions on an entity. The monetary unit used is normally determined by the country in which the company operates. For example, in the United States, the U.S. dollar is used as the monetary unit.
+[requiere que los informes financieros se expresen en una sola unidad monetaria o moneda. Esto proporciona una medida común de los efectos de los eventos económicos y las transacciones en una entidad. La unidad monetaria utilizada normalmente está determinada por el país en el que opera la empresa. Por ejemplo, en los Estados Unidos, el dólar estadounidense se utiliza como unidad monetaria.]
+
+---
+
+### Time Period Assumption [Supuesto de Período de Tiempo]
+
+The **time period assumption [supuesto de período de tiempo]** (An accounting assumption that allows a company to report its economic activities on a regular basis for a specific period of time.)
+[Un supuesto contable que permite a una empresa reportar sus actividades económicas de manera regular durante un período de tiempo específico.]
+
+allows a company to report its economic activities on a regular basis for a specific period of time. In doing so, financial condition and changes in financial condition are reported periodically on a consistent basis. In the United States, reports are normally required on a yearly basis supplemented with quarterly reports.
+[permite a una empresa reportar sus actividades económicas de manera regular durante un período de tiempo específico. Al hacerlo, la condición financiera y los cambios en la condición financiera se reportan periódicamente de manera consistente. En los Estados Unidos, los informes normalmente se requieren anualmente, complementados con informes trimestrales.]
+
+#### Link to Twitter [Enlace a Twitter]
+
+Twitter publishes quarterly as well as yearly financial reports that are available at https://investor.twitterinc.com.
+[Twitter publica informes financieros trimestrales y anuales que están disponibles en https://investor.twitterinc.com.]
+
+---
+
+### Fiscal Year [Año Fiscal]
+
+The annual accounting period adopted by a company is called its **fiscal year [año fiscal]** (The annual accounting period adopted by a business.)
+[El período contable anual adoptado por un negocio.]
+
+The fiscal year most commonly used is the calendar year beginning January 1 and ending December 31. However, other periods are not unusual, especially for companies organized as corporations. For example, a corporation may adopt a fiscal year that ends when business activities have reached the lowest point in its annual operating cycle, which allows more time to prepare financial reports. For example, a company's fiscal year could begin August 1, 20Y7, and end on July 31, 20Y8.
+[El año fiscal más comúnmente utilizado es el año calendario que comienza el 1 de enero y termina el 31 de diciembre. Sin embargo, otros períodos no son inusuales, especialmente para empresas organizadas como corporaciones. Por ejemplo, una corporación puede adoptar un año fiscal que termina cuando las actividades comerciales han alcanzado su punto más bajo en su ciclo operativo anual, lo que permite más tiempo para preparar los informes financieros.]
+
+---
+
+### Business Entity Assumption [Supuesto de Entidad de Negocio]
+
+The **business entity assumption [supuesto de entidad de negocio]** (A concept of accounting that limits the economic data in the accounting system to data related directly to the activities of the business.)
+[Un concepto contable que limita los datos económicos en el sistema contable a datos relacionados directamente con las actividades del negocio.]
+
+limits the economic data in financial reports to that directly related to the activities of the business. In other words, the business is viewed as an entity separate from its owners, creditors, or other businesses. For example, the accountant for a business with one owner would record the activities of the business only and would not record the personal activities, property, or debts of the owner.
+[limita los datos económicos en los informes financieros a aquellos directamente relacionados con las actividades del negocio. En otras palabras, el negocio es visto como una entidad separada de sus dueños, acreedores u otros negocios. Por ejemplo, el contador de un negocio con un solo dueño registraría solo las actividades del negocio y no registraría las actividades personales, propiedades o deudas del dueño.]
+
+A business entity may take the form of a **proprietorship [propiedad única]** , **partnership [sociedad]** , **corporation [corporación]** , or **limited liability company (LLC) [compañía de responsabilidad limitada]** . Each of these forms and their major characteristics are listed in **Exhibit 5 [Figura 5]** .
+[Una entidad de negocio puede tomar la forma de una **propiedad única**, **sociedad**, **corporación** o **compañía de responsabilidad limitada (LLC)**. Cada una de estas formas y sus características principales se enumeran en la **Figura 5**.]
+
+---
+
+### Exhibit 5 [Figura 5]
+
+## Forms of Business Entities [Formas de Entidades de Negocio]
+
+| Form of Entity [Forma de Entidad] | Characteristics [Características] |
+|-----------------------------------|----------------------------------|
+| **Proprietorship [Propiedad única]** | 10% of business organizations in the United States (combined with limited liability companies). [10% de las organizaciones comerciales en los Estados Unidos (combinado con compañías de responsabilidad limitada).] |
+| **Partnership [Sociedad]** | Combines the skills and resources of more than one person. [Combina las habilidades y recursos de más de una persona.] Generates 90% of business revenues. [Genera el 90% de los ingresos comerciales.] 20% of the business organizations in the United States. [20% de las organizaciones comerciales en los Estados Unidos.] |
+| **Corporation [Corporación]** | Ownership is divided into shares called **stock [acciones]** . [La propiedad se divide en acciones llamadas **acciones**.] Can obtain large amounts of resources by issuing stock. [Puede obtener grandes cantidades de recursos mediante la emisión de acciones.] Used by large businesses. [Utilizada por grandes empresas.] |
+| **Limited Liability Company (LLC) [Compañía de Responsabilidad Limitada]** | 10% of business organizations in the United States (combined with partnerships). [10% de las organizaciones comerciales en los Estados Unidos (combinado con sociedades).] Often used as an alternative to a partnership. [A menudo se utiliza como una alternativa a la sociedad.] |
+
+The three types of businesses discussed earlier—**service [servicio]** , **retail [venta al por menor]** , and **manufacturing [fabricación]** —may be organized as proprietorships, partnerships, corporations, or limited liability companies.
+[Los tres tipos de negocios discutidos anteriormente —**servicio**, **venta al por menor** y **fabricación**— pueden organizarse como propiedades únicas, sociedades, corporaciones o compañías de responsabilidad limitada.]
+
+Because of the large amount of resources required to operate a manufacturing business, most manufacturers such as Ford Motor Company (F) are corporations. Most large retailers such as Walmart (WMT) and The Home Depot (HD) are also corporations. Companies organized as corporations often include **Inc.** as part of their name to indicate that they are incorporated. For example, Twitter's legal name is **Twitter, Inc.**
+[Dado la gran cantidad de recursos necesarios para operar un negocio de fabricación, la mayoría de los fabricantes como Ford Motor Company (F) son corporaciones. La mayoría de los grandes minoristas como Walmart (WMT) y The Home Depot (HD) también son corporaciones. Las empresas organizadas como corporaciones a menudo incluyen **Inc.** como parte de su nombre para indicar que están incorporadas. Por ejemplo, el nombre legal de Twitter es **Twitter, Inc.** ]
+
+#### Link to Twitter [Enlace a Twitter]
+
+Although Twitter is organized as a corporation in Delaware, its principal offices are in San Francisco.
+[Aunque Twitter está organizado como una corporación en Delaware, sus oficinas principales están en San Francisco.]
+
+---
+
+### Going Concern Assumption [Supuesto de Negocio en Marcha]
+
+The **going concern assumption [supuesto de negocio en marcha]** (An assumption that requires that financial reports be prepared assuming that the entity will continue operating in the future.)
+[Un supuesto que requiere que los informes financieros se preparen asumiendo que la entidad continuará operando en el futuro.]
+
+requires that financial reports be prepared assuming that the entity will continue operating into the future. This assumption justifies reporting items such as equipment, buildings, and land at their initial or **historical cost [costo histórico]** rather than liquidation or forced sale values.
+[requiere que los informes financieros se preparen asumiendo que la entidad continuará operando en el futuro. Este supuesto justifica reportar elementos como equipos, edificios y terrenos a su **costo histórico** inicial en lugar de valores de liquidación o venta forzosa.]
+
+---
+
+### International Connection [Conexión Internacional]
+
+#### IFRS - International Financial Reporting Standards [Normas Internacionales de Información Financiera]
+
+**IFRS** are considered to be more **"principles-based" ["basadas en principios"]** than U.S. GAAP, which is considered to be more **"rules-based" ["basadas en reglas"]** . For example, U.S. GAAP consists of approximately 17,000 pages, which include numerous industry-specific accounting rules. In contrast, IFRS allow more judgment in deciding how business transactions are recorded. Many believe that the strong regulatory and litigation environment in the United States is the cause for the more rules-based GAAP approach. Regardless, IFRS and GAAP share many common principles.
+[Las **IFRS** se consideran más **"basadas en principios"** que los GAAP de EE.UU., que se consideran más **"basadas en reglas"**. Por ejemplo, los GAAP de EE.UU. constan de aproximadamente 17,000 páginas, que incluyen numerosas reglas contables específicas por industria. En contraste, las IFRS permiten un mayor juicio al decidir cómo se registran las transacciones comerciales. Muchos creen que el fuerte entorno regulatorio y de litigios en los Estados Unidos es la causa del enfoque de GAAP más basado en reglas. Independientemente, las IFRS y los GAAP comparten muchos principios comunes.]
+
+---
+
+### Pathways Challenge [Desafío Pathways]
+
+## This Is Accounting! [¡Esto es Contabilidad!]
+
+## Economic Activity [Actividad Económica]
+
+Over 20 years ago, Starbucks (SBUX) and Pepsi (PEP) created a business called **The North American Coffee Partnership**. The business combined Starbucks' expertise in coffee with Pepsi's ability to manufacture, market, and sell ready-to-drink coffee products. Its first product, Frappuccino, took off and today the business dominates the ready-to-drink market with over $2 billion in annual sales.
+[Hace más de 20 años, Starbucks (SBUX) y Pepsi (PEP) crearon un negocio llamado **The North American Coffee Partnership**. El negocio combinó la experiencia de Starbucks en café con la capacidad de Pepsi para fabricar, comercializar y vender productos de café listos para beber. Su primer producto, Frappuccino, despegó y hoy el negocio domina el mercado de bebidas listas para beber con más de $2 mil millones en ventas anuales.]
+
+### Critical Thinking/Judgment [Pensamiento Crítico/Juicio]
+
+- Should the $2 billion in annual sales be reported as part of Starbucks' annual report?
+  [¿Deberían reportarse los $2 mil millones en ventas anuales como parte del informe anual de Starbucks?]
+
+- Should the $2 billion in annual sales be reported as part of Pepsi's annual report?
+  [¿Deberían reportarse los $2 mil millones en ventas anuales como parte del informe anual de Pepsi?]
+
+- Should the $2 billion in annual sales be reported as part of a separate business's annual report?
+  [¿Deberían reportarse los $2 mil millones en ventas anuales como parte del informe anual de un negocio separado?]
+
+
+<h1 id="584773" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-2c Principles [Principios]
+  </a>
+</h1>
+
+
+
+In addition to the preceding characteristics and assumptions, the following four principles are an integral part of **financial accounting [contabilidad financiera]** :
+[Además de las características y supuestos anteriores, los siguientes cuatro principios son parte integral de la **contabilidad financiera**:]
+
+- **Measurement [Medición]**
+- **Historical cost [Costo histórico]**
+- **Revenue recognition [Reconocimiento de ingresos]**
+- **Expense recognition [Reconocimiento de gastos]**
+
+---
+
+### Measurement Principle [Principio de Medición]
+
+The **measurement principle [principio de medición]** (A principle that requires that amounts be objective and verifiable.)
+[Un principio que requiere que las cantidades sean objetivas y verificables.]
+
+determines the amount that will be recorded and reported. The measurement principle requires that amounts be **objective [objetivo]** and **verifiable [verificable]** . An amount is objective if it is based upon independent, unbiased evidence. An amount is verifiable if it can be confirmed by a third party. Transactions between two independent parties, called **arm's-length transactions [transacciones en condiciones de plena competencia]** (Transactions between two independent parties.)
+[Transacciones entre dos partes independientes.]
+
+provide amounts that are objective and verifiable.
+[determina la cantidad que se registrará y reportará. El principio de medición requiere que las cantidades sean **objetivas** y **verificables**. Una cantidad es objetiva si se basa en evidencia independiente e imparcial. Una cantidad es verificable si puede ser confirmada por un tercero. Las transacciones entre dos partes independientes, llamadas **transacciones en condiciones de plena competencia**, proporcionan cantidades que son objetivas y verificables.]
+
+#### Example [Ejemplo]:
+
+To illustrate, assume that Aaron Publishers purchased the following building from Schenk Enterprises on February 20, 20Y1, for $150,000:
+[Para ilustrar, suponga que Aaron Publishers compró el siguiente edificio a Schenk Enterprises el 20 de febrero de 20Y1 por $150,000:]
+
+| Description [Descripción] | Amount [Cantidad] |
+|---------------------------|-------------------|
+| Price listed by Schenk Enterprises on January 1, 20Y1 [Precio listado por Schenk Enterprises el 1 de enero de 20Y1] | $160,000 |
+| Aaron Publishers' initial offer to buy on January 31, 20Y1 [Oferta inicial de Aaron Publishers para comprar el 31 de enero de 20Y1] | $140,000 |
+| **Aaron Publishers' purchase price on February 20, 20Y1 [Precio de compra de Aaron Publishers el 20 de febrero de 20Y1]** | **$150,000** |
+| Estimated selling price on December 31, 20Y3 [Precio de venta estimado el 31 de diciembre de 20Y3] | $220,000 |
+| Assessed value for property taxes, December 31, 20Y3 [Valor tasado para impuestos a la propiedad, 31 de diciembre de 20Y3] | $190,000 |
+
+Aaron Publishers would record the building at the February 20, 20Y1, purchase price of $150,000. This amount is both objective and verifiable, as it was the result of a transaction between two independent parties.
+[Aaron Publishers registraría el edificio al precio de compra del 20 de febrero de 20Y1 de $150,000. Esta cantidad es tanto objetiva como verificable, ya que fue el resultado de una transacción entre dos partes independientes.]
+
+---
+
+### Historical Cost Principle [Principio de Costo Histórico]
+
+Recording an item at its initial transaction price is called the **historical cost principle [principio de costo histórico]** (A concept of accounting that states that an asset should be recorded and maintained in the accounting records at its initial transaction price.)
+[Un concepto contable que establece que un activo debe ser registrado y mantenido en los registros contables a su precio de transacción inicial.]
+
+Under the historical cost principle, amounts do not normally change until another transaction occurs.
+[Bajo el principio de costo histórico, las cantidades normalmente no cambian hasta que ocurre otra transacción.]
+
+To illustrate, the fact that the preceding building has an estimated selling price of $220,000 on December 31, 20Y3, indicates that the building's value has increased. However, the $220,000 is not recorded in the accounting records because Aaron Publishers has not sold the building. If, however, Aaron sells the building on January 9, 20Y4, for $240,000, a **profit [ganancia/utilidad]** of $90,000 ($240,000 - $150,000) would be recorded by Aaron Publishers.
+[Para ilustrar, el hecho de que el edificio anterior tenga un precio de venta estimado de $220,000 el 31 de diciembre de 20Y3 indica que el valor del edificio ha aumentado. Sin embargo, los $220,000 no se registran en los registros contables porque Aaron Publishers no ha vendido el edificio. Si, sin embargo, Aaron vende el edificio el 9 de enero de 20Y4 por $240,000, una **ganancia/utilidad** de $90,000 ($240,000 - $150,000) sería registrada por Aaron Publishers.]
+
+---
+
+### Revenue Recognition Principle [Principio de Reconocimiento de Ingresos]
+
+**Revenue [Ingreso]** (Increases in owner's equity as a result of providing services or selling goods to customers.)
+[Aumentos en el capital contable del dueño como resultado de proporcionar servicios o vender bienes a los clientes.]
+
+is the amount earned (received) from providing services or selling goods to customers. The **revenue recognition principle [principio de reconocimiento de ingresos]** (A concept of accounting that states that revenues are recorded when earned, which is when the services have been performed or products have been delivered to customers.)
+[Un concepto contable que establece que los ingresos se registran cuando se ganan, es decir, cuando los servicios han sido realizados o los productos han sido entregados a los clientes.]
+
+determines when revenue is recorded in the accounting records. Normally, revenue is recorded when the services have been performed or goods are delivered to the customer.
+[es la cantidad ganada (recibida) por proporcionar servicios o vender bienes a los clientes. El **principio de reconocimiento de ingresos** determina cuándo se registran los ingresos en los registros contables. Normalmente, los ingresos se registran cuando los servicios han sido realizados o los bienes han sido entregados al cliente.]
+
+---
+
+### Expense Recognition Principle [Principio de Reconocimiento de Gastos]
+
+**Expenses [Gastos]** (Amounts used to generate revenue; assets used up or services consumed in the process of generating revenues.)
+[Cantidades utilizadas para generar ingresos; activos utilizados o servicios consumidos en el proceso de generar ingresos.]
+
+are amounts used to generate revenue. The **expense recognition principle [principio de reconocimiento de gastos]** (A principle, sometimes called the matching principle, that requires expenses to be recorded in the same period as the related revenue; a concept of accounting in which expenses are matched with the revenue generated during a period by those expenses.)
+[Un principio, a veces llamado principio de correspondencia, que requiere que los gastos se registren en el mismo período que el ingreso relacionado; un concepto contable en el que los gastos se corresponden con los ingresos generados durante un período por esos gastos.]
+
+, sometimes called the **matching principle [principio de correspondencia]** , requires expenses to be recorded in the same period as the related revenue. Doing so allows the reporting of a **profit or loss [ganancia o pérdida]** for the period.
+[son cantidades utilizadas para generar ingresos. El **principio de reconocimiento de gastos**, a veces llamado **principio de correspondencia**, requiere que los gastos se registren en el mismo período que el ingreso relacionado. Hacerlo permite reportar una **ganancia o pérdida** para el período.]
