@@ -1187,7 +1187,7 @@ NetSolutions paid the following expenses during the month: wages, $2,125; rent, 
 <img src="./img/006.png" width="800"></img>
 
 
-|  | Assets (Activos) |  |  | = | Liabilities | + Stockholders' Equity |  |  |  |  |  |
+|  | Assets (Activos) |  |  | = | Liabilities + | Stockholders' Equity |  |  |  |  |  |
 |------------------|----------------|----------|----------|---|-------------|------------------------|--------------|--------------|--------------|--------------|--------------|
 |                  | Cash | Supplies | Land | = | Accounts Payable | Common Stock | Fees Earned | Wages | Rent | Utilities | Miscellaneous |
 | **Bal.**         | 12,500 | 1,350 | 20,000 | = | 1,350 | 25,000 | 7,500 | – | – | – | – |
@@ -1240,12 +1240,14 @@ The cost of the supplies on hand (not yet used) at the end of the month is $550.
 
 <img src="./img/008.png" width="800"></img>
 
-| Assets (Activos) | Cash | Supplies | Land | = | Liabilities + Stockholders' Equity (Pasivos + Capital) | Accounts Payable | Common Stock | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
-|------------------|------|----------|------|---|--------------------------------------------------------|------------------|--------------|-------------|------------|------------|----------------|---------------|-------------|
-| **Bal.**         | 7,900 | 1,350 | 20,000 | = |                                                  | 400 | 25,000 | 7,500 | -2,125 | -800 |  | -450 | -275 |
-| **Adj.**         | 0     | -800  | 0      | = |                                                  | 0   | 0      | 0     | 0      | 0    | -800 | 0 | 0 |
-| **Adj. Bal.**    | 7,900 | 550   | 20,000 | = |                                                  | 400 | 25,000 | 7,500 | -2,125 | -800 | -800 | -450 | -275 |
-| **Total**        | **28,450** |        |        | = |                                            | **28,450** |        |        |        |        |        |        |        |
+|  | Assets (Activos) |  |  | = | Liabilities +|  Stockholders' Equity |  |  |  |  |  |  |  |
+|------------------|----------------|----------|----------|---|-------------|------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+|                  | Cash | Supplies | Land | = | Accounts Payable | Common Stock | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
+| **Bal.**         | 7,900 | 1,350 | 20,000 | = | 400 | 25,000 | 7,500 | -2,125 | -800 |  | -450 | -275 |
+| **Adj.**         | 0     | -800  | 0      | = | 0   | 0      | 0     | 0      | 0    | -800 | 0 | 0 |
+| **Adj. Bal.**    | 7,900 | 550   | 20,000 | = | 400 | 25,000 | 7,500 | -2,125 | -800 | -800 | -450 | -275 |
+| **Total**        | **28,450** |        |        | = | **28,450** |        |        |        |        |        |        |        |
+``
 
 
 *Note: Supplies decreased from $1,350 to $550, and Supplies Expense of $800 is recorded.*
@@ -1270,7 +1272,7 @@ are distributions of earnings to stockholders. The payment of dividends decrease
 
 ## Accounting Equation
 
-| Assets |  |  |  | = | Liabilities | Stockholders' Equity |  |  |  |  |  |  |
+| Assets |  |  |  | = | Liabilities + | Stockholders' Equity |  |  |  |  |  |  |
 |--------|----|----|------|---|-------------|----------------------|----|----|----|----|----|----|
 |        | Cash | Supplies | Land |   | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. |
 | Bal.   | 7,900 | 550 | 20,000 | = | 400 | 25,000 | 0 | 7,500 | -2,125 | -800 | -450 | -275 |
