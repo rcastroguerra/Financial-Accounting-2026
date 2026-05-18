@@ -24,6 +24,8 @@
 
 ##### [Capitulo 1-3 The Accounting Equation [La Ecuación Contable]](#394719)
 
+##### [Capitulo 1-4 Business Transactions and the Accounting Equation [Transacciones Comerciales y la Ecuación Contable]](#981259)
+
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -938,4 +940,344 @@ The **accounting equation [ecuación contable]** is useful for reporting the fin
 
 ---
 
-© 2026 Cengage Learning Inc. All rights reserved. No part of this work may be reproduced or used in any form or by any means - graphic, electronic, or mechanical, or in any other manner - without the written permission of the copyright holder.
+<h1 id="981259" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-4 Business Transactions and the Accounting Equation [Transacciones Comerciales y la Ecuación Contable]
+
+  </a>
+</h1>
+
+
+**Objective 4** - Describe and illustrate how business transactions can be recorded in terms of the resulting change in the elements of the accounting equation.
+[Objetivo 4 - Describir e ilustrar cómo las transacciones comerciales pueden registrarse en términos del cambio resultante en los elementos de la ecuación contable.]
+
+Paying a monthly bill, such as a telephone bill of $168, affects a business's financial condition because it now has less cash on hand. Such an economic event or condition that directly changes an entity's financial condition or its results of operations is a **business transaction [transacción comercial]** (An economic event or condition that directly changes an entity's financial condition or directly affects its results of operations.)
+[Un evento o condición económica que cambia directamente la condición financiera de una entidad o afecta directamente sus resultados de operaciones.]
+
+For example, purchasing land for $50,000 is a business transaction. In contrast, a change in a business's credit rating does not directly affect cash or any other asset, liability, or stockholders' equity amount.
+[Por ejemplo, comprar un terreno por $50,000 es una transacción comercial. En contraste, un cambio en la calificación crediticia de un negocio no afecta directamente el efectivo ni ningún otro activo, pasivo o cantidad de capital contable de los accionistas.]
+
+---
+
+### Business Insight [Perspectiva Empresarial]
+
+## The Accounting Equation [La Ecuación Contable]
+
+The accounting equation serves as the basic foundation for the accounting systems of all companies. The accounting equation is used by the smallest business, such as the local convenience store, to the largest business, such as The Coca-Cola Company (KO). Some examples taken from recent financial reports of well-known companies follow:
+[La ecuación contable sirve como la base fundamental para los sistemas contables de todas las empresas. La ecuación contable es utilizada desde el negocio más pequeño, como la tienda de conveniencia local, hasta el negocio más grande, como The Coca-Cola Company (KO). Algunos ejemplos tomados de informes financieros recientes de empresas conocidas son los siguientes:]
+
+| Company [Empresa] | Assets [Activos] | = | Liabilities [Pasivos] | + | Stockholders' Equity [Capital Contable] |
+|-------------------|----------------:|---|---------------------:|---|----------------------------------------:|
+| Alphabet Inc. (GOOG) | $232,792 | = | $55,164 | + | $177,628 |
+| The Coca-Cola Company (KO) | $83,216 | = | $64,158 | + | $19,058 |
+| DuPont (DD) | $187,855 | = | $93,563 | + | $94,292 |
+| eBay (EBAY) | $22,819 | = | $16,538 | + | $6,281 |
+| Ford Motor Company (F) | $256,540 | = | $220,608 | + | $35,932 |
+| Microsoft Corporation (MSFT) | $286,556 | = | $184,226 | + | $102,330 |
+| Southwest Airlines Co. (LUV) | $25,895 | = | $16,063 | + | $9,832 |
+| Walmart Inc. (WMT) | $219,295 | = | $146,799 | + | $72,496 |
+
+---
+
+### Introduction to NetSolutions [Introducción a NetSolutions]
+
+All business transactions can be stated in terms of changes in the elements of the accounting equation. How business transactions affect the accounting equation can be illustrated by using some typical transactions. As a basis for illustration, a business organized by Chris Clark is used.
+[Todas las transacciones comerciales pueden expresarse en términos de cambios en los elementos de la ecuación contable. Cómo las transacciones comerciales afectan la ecuación contable se puede ilustrar usando algunas transacciones típicas. Como base para la ilustración, se utiliza un negocio organizado por Chris Clark.]
+
+> **Note [Nota]:** All business transactions can be stated in terms of changes in the elements of the accounting equation.
+> [Todas las transacciones comerciales pueden expresarse en términos de cambios en los elementos de la ecuación contable.]
+
+Assume that on November 1, 20Y3, Chris Clark organizes a corporation that will be known as **NetSolutions**. The first phase of Chris's business plan is to operate NetSolutions as a service business assisting individuals and small businesses in developing web pages and installing computer software. Chris expects this initial phase of the business to last one to two years. During this period, Chris plans on gathering information on the software and hardware needs of customers. During the second phase of the business plan, Chris plans to expand NetSolutions into a personalized retailer of software and hardware for individuals and small businesses.
+[Suponga que el 1 de noviembre de 20Y3, Chris Clark organiza una corporación que se llamará **NetSolutions**. La primera fase del plan de negocios de Chris es operar NetSolutions como un negocio de servicio que ayuda a individuos y pequeñas empresas a desarrollar páginas web e instalar software de computadora. Chris espera que esta fase inicial del negocio dure de uno a dos años. Durante este período, Chris planea recopilar información sobre las necesidades de software y hardware de los clientes. Durante la segunda fase del plan de negocios, Chris planea expandir NetSolutions en un minorista personalizado de software y hardware para individuos y pequeñas empresas.]
+
+Each transaction during NetSolutions' first month of operations is described in the following paragraphs. The effect of each transaction on the accounting equation is then shown.
+[Cada transacción durante el primer mes de operaciones de NetSolutions se describe en los siguientes párrafos. Luego se muestra el efecto de cada transacción en la ecuación contable.]
+
+---
+
+### Transaction A [Transacción A]
+
+**Nov. 1, 20Y3** - Chris Clark deposited $25,000 in a bank account in the name of NetSolutions in exchange for shares of **common stock [acciones comunes]** in the corporation.
+[1 de noviembre de 20Y3 - Chris Clark depositó $25,000 en una cuenta bancaria a nombre de NetSolutions a cambio de acciones comunes en la corporación.]
+
+A corporation issues **common stock [acciones comunes]** (Certificates issued by a corporation to investors as proof of their ownership rights; an account representing the ownership rights of investors in a corporation; a class of stock issued by a corporation that bears no preference rights.)
+[Certificados emitidos por una corporación a los inversores como prueba de sus derechos de propiedad; una cuenta que representa los derechos de propiedad de los inversores en una corporación; una clase de acción emitida por una corporación que no tiene derechos de preferencia.]
+
+to investors as proof of their ownership rights.
+[a los inversores como prueba de sus derechos de propiedad.]
+
+This transaction increases **Cash [Efectivo]** under **Assets [Activos]** (on the left side of the equation) by $25,000. To balance the equation, **Common Stock [Acciones Comunes]** under **Stockholders' Equity [Capital Contable de los Accionistas]** (on the right side of the equation) increases by the same amount.
+[Esta transacción aumenta **Efectivo** en **Activos** (en el lado izquierdo de la ecuación) en $25,000. Para equilibrar la ecuación, **Acciones Comunes** en **Capital Contable de los Accionistas** (en el lado derecho de la ecuación) aumenta en la misma cantidad.]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+$$
+\text{Assets} = \text{Stockholders' Equity}
+$$
+
+$$
+\text{Cash} = \text{Common Stock}
+$$
+
+$$
+\$25,000 = \$25,000
+$$
+
+The preceding accounting equation is only for the business, NetSolutions. Under the **business entity assumption [supuesto de entidad de negocio]** , Chris's personal assets, such as a home or personal bank account, and personal liabilities are excluded from the equation.
+[La ecuación contable anterior es solo para el negocio, NetSolutions. Bajo el **supuesto de entidad de negocio**, los activos personales de Chris, como una casa o cuenta bancaria personal, y sus pasivos personales están excluidos de la ecuación.]
+
+---
+
+### Transaction B [Transacción B]
+
+**Nov. 5, 20Y3** - NetSolutions paid $20,000 for the purchase of land as a future building site.
+[5 de noviembre de 20Y3 - NetSolutions pagó $20,000 por la compra de un terreno como futuro sitio para un edificio.]
+
+The land is located in a business park with access to transportation facilities. Chris Clark plans to rent office space and equipment during the first phase of the business plan. During the second phase, Chris plans to build an office and a warehouse for NetSolutions on the land.
+[El terreno está ubicado en un parque empresarial con acceso a instalaciones de transporte. Chris Clark planea alquilar espacio de oficina y equipo durante la primera fase del plan de negocios. Durante la segunda fase, Chris planea construir una oficina y un almacén para NetSolutions en el terreno.]
+
+The purchase of the land changes the makeup of the assets, but it does not change the total assets. The items in the equation prior to this transaction and the effect of the transaction follow. The new amounts are called **balances [saldos]** .
+[La compra del terreno cambia la composición de los activos, pero no cambia el total de activos. Los elementos en la ecuación antes de esta transacción y el efecto de la transacción se presentan a continuación. Las nuevas cantidades se llaman **saldos**.]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+
+<img src="./img/003.png" width="800"></img>
+
+$$
+\text{Cash} + \text{Land} = \text{Common Stock}
+$$
+
+$$
+\text{Cash} =  \$25,000 - \$20,000 = \$5,000 \quad 
+$$
+
+$$
+\quad \text{Land} = \$20,000
+$$
+
+Después de la transacción:
+- Cash = $5,000
+- Land = $20,000
+- Common Stock = $25,000
+
+---
+
+### Transaction C [Transacción C]
+
+**Nov. 10, 20Y3** - NetSolutions purchased supplies for $1,350 and agreed to pay the supplier in the near future.
+[10 de noviembre de 20Y3 - NetSolutions compró suministros por $1,350 y acordó pagar al proveedor en el futuro cercano.]
+
+You have probably used a credit card to buy clothing or other merchandise. In this type of transaction, you received clothing for a promise to pay your credit card bill in the future. That is, you received an asset and incurred a liability to pay a future bill. NetSolutions entered into a similar transaction by purchasing supplies for $1,350 and agreeing to pay the supplier in the near future. This type of transaction is called a **purchase on account [compra a crédito]** and is often described as follows: *Purchased supplies on account, $1,350*
+[Probablemente haya usado una tarjeta de crédito para comprar ropa u otros artículos. En este tipo de transacción, usted recibió ropa a cambio de una promesa de pagar su factura de tarjeta de crédito en el futuro. Es decir, recibió un activo e incurrió en un pasivo para pagar una factura futura. NetSolutions realizó una transacción similar al comprar suministros por $1,350 y acordar pagar al proveedor en el futuro cercano. Este tipo de transacción se llama **compra a crédito** y a menudo se describe de la siguiente manera: *Compró suministros a crédito, $1,350*]
+
+The liability created by a purchase on account is called an **account payable [cuenta por pagar]** (The liability created by a purchase on account.)
+[El pasivo creado por una compra a crédito.]
+
+Items such as supplies that will be used in the business in the future are called **prepaid expenses [gastos pagados por adelantado]** (Assets created by making advanced payments for expense items, such as insurance premiums or supplies, that will be used in the business in the future.)
+[Activos creados por realizar pagos anticipados por conceptos de gastos, como primas de seguros o suministros, que se utilizarán en el negocio en el futuro.]
+
+which are assets. Thus, the effect of this transaction is to increase assets (Supplies) and liabilities (Accounts Payable) by $1,350.
+[que son activos. Por lo tanto, el efecto de esta transacción es aumentar los activos (Suministros) y los pasivos (Cuentas por Pagar) en $1,350.]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+<img src="./img/004.png" width="800"></img>
+
+$$
+\text{Cash} + \text{Supplies} + \text{Land} = \text{Accounts Payable} + \text{Common Stock}
+$$
+
+$$
+\$5,000 + \$1,350 + \$20,000 = \$1,350 + \$25,000
+$$
+
+---
+
+### Transaction D [Transacción D]
+
+**Nov. 18, 20Y3** - NetSolutions received cash of $7,500 for providing services to customers.
+[18 de noviembre de 20Y3 - NetSolutions recibió efectivo de $7,500 por proporcionar servicios a los clientes.]
+
+You may have earned money by painting houses or mowing lawns. If so, you received money for rendering services to a customer. Likewise, a business earns money by selling goods or services to its customers. This amount is called **revenue [ingreso]** .
+[Es posible que haya ganado dinero pintando casas o cortando césped. Si es así, recibió dinero por prestar servicios a un cliente. Del mismo modo, un negocio gana dinero vendiendo bienes o servicios a sus clientes. Esta cantidad se llama **ingreso**.]
+
+During its first month of operations, NetSolutions received cash of $7,500 for providing services to customers. The receipt of cash increases NetSolutions' assets and also increases stockholders' equity in the business. The revenues of $7,500 are recorded in a **Fees Earned [Honorarios Ganados]** column to the right of Common Stock.
+[Durante su primer mes de operaciones, NetSolutions recibió efectivo de $7,500 por proporcionar servicios a los clientes. La recepción de efectivo aumenta los activos de NetSolutions y también aumenta el capital contable de los accionistas en el negocio. Los ingresos de $7,500 se registran en una columna de **Honorarios Ganados** a la derecha de Acciones Comunes.]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+<img src="./img/005.png" width="800"></img>
+
+$$
+\text{Cash} + \text{Supplies} + \text{Land} = \text{Accounts Payable} + \text{Common Stock} + \text{Fees Earned}
+$$
+
+$$
+\$5,000 + \$1,350 + \$20,000 = \$1,350 + \$25,000 + \$7,500
+$$
+
+Diferentes términos se utilizan para los diferentes tipos de ingresos:
+
+| English Term [Término en Inglés] | Spanish Translation [Traducción al Español] | Definition [Definición] |
+|--------------------------------|---------------------------------------------|------------------------|
+| **Fees earned [Honorarios ganados]** | Honorarios ganados | Revenue from providing services. [Ingresos por la prestación de servicios.] |
+| **Sales [Ventas]** | Ventas | Revenue from the sale of merchandise. [Ingresos por la venta de mercancía.] |
+| **Rent revenue [Ingreso por alquiler]** | Ingreso por alquiler | Earnings from property that is leased to others for use. [Ganancias por propiedades que se alquilan a otros para su uso.] |
+| **Interest revenue [Ingreso por intereses]** | Ingreso por intereses | Earnings received for interest. [Ganancias recibidas por intereses.] |
+
+Instead of receiving cash at the time services are provided or goods are sold, a business may accept payment at a later date. Such revenues are described as **fees earned on account [honorarios ganados a crédito]** or **sales on account [ventas a crédito]** . For example, if NetSolutions had provided services on account instead of for cash, transaction (d) would have been described as follows: *Fees earned on account, $7,500*.
+[En lugar de recibir efectivo en el momento en que se prestan los servicios o se venden los bienes, una empresa puede aceptar el pago en una fecha posterior. Dichos ingresos se describen como **honorarios ganados a crédito** o **ventas a crédito**. Por ejemplo, si NetSolutions hubiera proporcionado servicios a crédito en lugar de en efectivo, la transacción (d) se habría descrito de la siguiente manera: *Honorarios ganados a crédito, $7,500*.]
+
+In such cases, the firm has an asset, called an **account receivable [cuenta por cobrar]** (An asset, which is a claim against the customer created by selling merchandise or services on credit.)
+[Un activo, que es un derecho de cobro contra el cliente creado por la venta de mercancía o servicios a crédito.]
+
+which is a claim against the customer. The effect of the transaction increases Accounts Receivable and Fees Earned. When customers pay their accounts, Cash increases and Accounts Receivable decreases.
+[que es un derecho de cobro contra el cliente. El efecto de la transacción aumenta Cuentas por Cobrar y Honorarios Ganados. Cuando los clientes pagan sus cuentas, el Efectivo aumenta y las Cuentas por Cobrar disminuyen.]
+
+---
+
+### Business Insight [Perspectiva Empresarial]
+
+## Round-Tripping [Transacciones circulares]
+
+**Round-tripping** is a situation whereby a company "sells" goods and services to another company and then, under a prearranged agreement, the customer resells the exact same goods and services back to the original company. Round-tripping has been used by companies to artificially inflate their sales. However, such agreements do not have commercial substance, since there is no economic change to either company after the round-trip. Thus, round-tripped sales are not transactions from an accounting perspective.
+[**Round-tripping** es una situación en la que una empresa "vende" bienes y servicios a otra empresa y luego, bajo un acuerdo preestablecido, el cliente revende exactamente los mismos bienes y servicios a la empresa original. El round-tripping ha sido utilizado por empresas para inflar artificialmente sus ventas. Sin embargo, tales acuerdos no tienen sustancia comercial, ya que no hay cambio económico para ninguna de las dos empresas después del round-trip. Por lo tanto, las ventas circulares no son transacciones desde una perspectiva contable.]
+
+---
+
+### Transaction E [Transacción E]
+
+**Nov. 30, 20Y3** - NetSolutions paid the following expenses during the month: wages, $2,125; rent, $800; utilities, $450; and miscellaneous, $275.
+[30 de noviembre de 20Y3 - NetSolutions pagó los siguientes gastos durante el mes: salarios, $2,125; alquiler, $800; servicios públicos, $450; y varios, $275.]
+
+During the month, NetSolutions spent cash or used up other assets in earning revenue. Assets used in this process of earning revenue are called **expenses [gastos]** . Expenses include supplies used and payments for employee wages, utilities, and other services.
+[Durante el mes, NetSolutions gastó efectivo o utilizó otros activos para generar ingresos. Los activos utilizados en este proceso de generación de ingresos se llaman **gastos**. Los gastos incluyen suministros utilizados y pagos por salarios de empleados, servicios públicos y otros servicios.]
+
+NetSolutions paid the following expenses during the month: wages, $2,125; rent, $800; utilities, $450; and miscellaneous, $275. Miscellaneous expenses include small amounts paid for such items as postage, coffee, and newspapers. The effect of expenses is the opposite of revenues in that expenses reduce assets and stockholders' equity. Like fees earned, the expenses are recorded in columns to the right of Common Stock. However, since expenses reduce stockholders' equity, the expenses are entered as negative amounts.
+[NetSolutions pagó los siguientes gastos durante el mes: salarios, $2,125; alquiler, $800; servicios públicos, $450; y varios, $275. Los gastos varios incluyen pequeñas cantidades pagadas por artículos como correo, café y periódicos. El efecto de los gastos es el opuesto al de los ingresos, ya que los gastos reducen los activos y el capital contable de los accionistas. Al igual que los honorarios ganados, los gastos se registran en columnas a la derecha de Acciones Comunes. Sin embargo, dado que los gastos reducen el capital contable de los accionistas, los gastos se registran como cantidades negativas.]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+<img src="./img/006.png" width="800"></img>
+
+
+| Cash      | Supplies  | Land       | = | + Accounts Payable | + Common Stock | + Fees Earned | - Wages | - Rent | - Utilities | - Miscellaneous |
+| --------- | --------- | ---------- | - | ---------------- | ------------ | ----------- | ------------- | ------------ | ----------------- | ------------- |
+| 12,500    | 1,350     | 20,000     | = | 1,350            | 25,000       | 7,500       | –             | –            | –                 | –             |
+| -3,650    | –         | –          | = | –                | –            | –           | -2,125        | -800         | -450              | -275          |
+| **8,850** | **1,350** | **20,000** | = | **1,350**        | **25,000**   | **7,500**   | **-2,125**    | **-800**     | **-450**          | **-275**      |
+
+
+Businesses usually record each revenue and expense transaction as it occurs. However, to simplify, NetSolutions' revenues and expenses are summarized for the month in transactions (d) and (e).
+[Las empresas generalmente registran cada transacción de ingresos y gastos a medida que ocurre. Sin embargo, para simplificar, los ingresos y gastos de NetSolutions se resumen para el mes en las transacciones (d) y (e).]
+
+---
+
+### Transaction F [Transacción F]
+
+**Nov. 30, 20Y3** - NetSolutions paid creditors on account, $950.
+[30 de noviembre de 20Y3 - NetSolutions pagó a los acreedores a crédito, $950.]
+
+When you pay your monthly credit card bill, you decrease the cash and decrease the amount you owe to the credit card company. Likewise, when NetSolutions paid $950 to creditors during the month, it reduced assets and liabilities.
+[Cuando paga su factura mensual de tarjeta de crédito, disminuye el efectivo y disminuye el monto que le debe a la compañía de la tarjeta de crédito. Del mismo modo, cuando NetSolutions pagó $950 a los acreedores durante el mes, redujo los activos y los pasivos.]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+<img src="./img/007.png" width="800"></img>
+
+| Assets (Activos) |     |     |          |     |      | = | Liabilities + Stockholders' Equity (Pasivos + Capital) |     |     |     |     |     |     |     |     |
+|------------------|-----|-----|----------|-----|------|---|--------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+|                  | Cash | + | Supplies | + | Land | = | Accounts Payable | + | Common Stock | + | Fees Earned | - | Wages | Rent | Utilities | Miscellaneous |
+| **Bal.**         | 8,850 |   | 1,350 |   | 20,000 | = | 1,350 |   | 25,000 |   | 7,500 |   | -2,125 | -800 | -450 | -275 |
+| **Adj.**         | -950  |   | 0     |   | 0      | = | -950  |   | 0      |   | 0     |   | 0      | 0    | 0    | 0 |
+| **Adj. Bal.**    | 7,900 |   | 1,350 |   | 20,000 | = | 400   |   | 25,000 |   | 7,500 |   | -2,125 | -800 | -450 | -275 |
+| **Total**        | **29,250** |  |      |   |        | = | **29,250** |   |        |   |       |   |        |      |      |      |      |
+
+Paying an amount on account is different from paying an expense. The paying of an expense reduces stockholders' equity, as illustrated in transaction (e). Paying an amount on account reduces the amount owed on a liability.
+[Pagar una cantidad a crédito es diferente de pagar un gasto. El pago de un gasto reduce el capital contable de los accionistas, como se ilustra en la transacción (e). Pagar una cantidad a crédito reduce el monto adeudado en un pasivo.]
+
+---
+
+### Transaction G [Transacción G]
+
+**Nov. 30, 20Y3** - Chris Clark determined that the cost of supplies on hand at the end of the month was $550.
+[30 de noviembre de 20Y3 - Chris Clark determinó que el costo de los suministros disponibles al final del mes era de $550.]
+
+The cost of the supplies on hand (not yet used) at the end of the month is $550. Thus, $800 ($1,350 - $550) of supplies must have been used during the month. This decrease in supplies is recorded as an expense, as follows:
+[El costo de los suministros disponibles (aún no utilizados) al final del mes es de $550. Por lo tanto, $800 ($1,350 - $550) de suministros deben haber sido utilizados durante el mes. Esta disminución en los suministros se registra como un gasto, de la siguiente manera:]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+<img src="./img/008.png" width="800"></img>
+
+| Assets (Activos) |     |     |          |     |      | = | Liabilities + Stockholders' Equity (Pasivos + Capital) |     |     |     |     |     |     |     |     |
+|------------------|-----|-----|----------|-----|------|---|--------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+|                  | Cash | + | Supplies | + | Land | = | Accounts Payable | + | Common Stock | + | Fees Earned | - | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
+| **Bal.**         | 7,900 |   | 1,350 |   | 20,000 |  = | 400 |   | 25,000 |   | 7,500 |   | -2,125 | -800 |  | -450 | -275 |
+| **Adj.**         | 0     |   | -800 |   | 0      |  = | 0   |   | 0      |   | 0     |   | 0      | 0    | -800 | 0 | 0 |
+| **Adj. Bal.**    | 7,900 |   | 550  |   | 20,000 | =  | 400 |   | 25,000 |   | 7,500 |   | -2,125 | -800 | -800 | -450 | -275 |
+| **Total**        | 28,450 |  |      |   |        | =  | 28,450 |   |        |   |       |   |        |      |      |      |        |
+
+*Note: Supplies decreased from $1,350 to $550, and Supplies Expense of $800 is recorded.*
+[*Nota: Los suministros disminuyeron de $1,350 a $550, y se registró un Gasto por Suministros de $800.*]
+
+---
+
+### Transaction H [Transacción H]
+
+**Nov. 30, 20Y3** - Paid dividends, $2,000.
+[30 de noviembre de 20Y3 - Pagó dividendos, $2,000.]
+
+**Dividends [Dividendos]** (Distributions of earnings to stockholders; an account representing the distribution of a corporation's earnings to stockholders.)
+[Distribuciones de ganancias a los accionistas; una cuenta que representa la distribución de las ganancias de una corporación a los accionistas.]
+
+are distributions of earnings to stockholders. The payment of dividends decreases cash and stockholders' equity. Like expenses, dividends are recorded in a separate column to the right of Common Stock as a negative amount. The effect of the payment of dividends of $2,000 is as follows:
+[son distribuciones de ganancias a los accionistas. El pago de dividendos disminuye el efectivo y el capital contable de los accionistas. Al igual que los gastos, los dividendos se registran en una columna separada a la derecha de Acciones Comunes como una cantidad negativa. El efecto del pago de dividendos de $2,000 es el siguiente:]
+
+**Effect on the accounting equation [Efecto en la ecuación contable]:**
+
+<img src="./img/009.png" width="800"></img>
+
+## Accounting Equation
+
+| Assets |  |  |  | = | Liabilities | Stockholders' Equity |  |  |  |  |  |  |
+|--------|----|----|------|---|-------------|----------------------|----|----|----|----|----|----|
+|        | Cash | Supplies | Land |   | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. |
+| Bal.   | 7,900 | 550 | 20,000 | = | 400 | 25,000 | 0 | 7,500 | -2,125 | -800 | -450 | -275 |
+| Adj.   | -2,000 |  |  | = |  |  | -2,000 | 0 | 0 | 0 | -350 | 0 |
+| Adj. Bal. | 5,900 | 200 | 20,000 | = | 400 | 25,000 | -2,000 | 7,500 | -2,125 | -800 | -800 | -275 |
+| **Total** | **26,100** |  |  | = | **26,100** |  |  |  |  |  |  |  |
+
+
+
+
+**Verification [Verificación]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\$5,900 + \$550 + \$20,000 = \$400 + \$25,000 + \$7,500 - \$2,125 - \$800 - \$800 - \$450 - \$275 - \$2,000
+$$
+
+$$
+\$26,450 = \$26,450
+$$ 
+
+---
+
+### Summary of Transactions [Resumen de Transacciones]
+
+| Transaction | Description [Descripción] | Effect on Equation [Efecto en la Ecuación] |
+|-------------|---------------------------|---------------------------------------------|
+| A | Investment of cash by owner [Inversión de efectivo por el dueño] | Increase Cash, Increase Common Stock |
+| B | Purchase of land for cash [Compra de terreno al contado] | Decrease Cash, Increase Land |
+| C | Purchase of supplies on account [Compra de suministros a crédito] | Increase Supplies, Increase Accounts Payable |
+| D | Receipt of cash for services [Recepción de efectivo por servicios] | Increase Cash, Increase Fees Earned |
+| E | Payment of expenses [Pago de gastos] | Decrease Cash, Increase Expenses (decrease equity) |
+| F | Payment to creditors on account [Pago a acreedores a crédito] | Decrease Cash, Decrease Accounts Payable |
+| G | Use of supplies and payment of dividends [Uso de suministros y pago de dividendos] | Decrease Supplies, Increase Supplies Expense; Decrease Cash, Increase Dividends |
+
+---
