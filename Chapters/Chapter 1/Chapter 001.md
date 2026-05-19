@@ -29,6 +29,10 @@
 ##### [Capitulo 1-4a Summary [Resumen]](#020166)
 
 ##### [Capitulo 1-4b Classifications of Stockholders' Equity [Clasificaciones del Capital Contable de los Accionistas]](#943711)
+
+##### [Capitulo 1-5 Financial Statements [Estados Financieros]](#106292)
+
+##### [Capitulo 1-5a Income Statement [Estado de Resultados]](#388711)
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -1738,6 +1742,268 @@ $$
 
 <h1 id="106292" style="color:#E65100;">
   <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
-    Titulo
+    1-5 Financial Statements [Estados Financieros]
   </a>
 </h1>
+
+
+After transactions have been recorded and summarized, reports are prepared for users. The accounting reports providing this information are called **financial statements [estados financieros]** (Financial reports that summarize the effects of events on a business.)
+[Después de que las transacciones han sido registradas y resumidas, se preparan informes para los usuarios. Los informes contables que proporcionan esta información se llaman **estados financieros** (Informes financieros que resumen los efectos de los eventos en un negocio).]
+
+The primary financial statements of a corporation are the:
+[Los estados financieros principales de una corporación son:]
+
+1. **Income Statement [Estado de Resultados]**
+2. **Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable de los Accionistas]**
+3. **Balance Sheet [Balance General]**
+4. **Statement of Cash Flows [Estado de Flujos de Efectivo]**
+
+The order in which the financial statements are prepared and the nature of each statement are described in **Exhibit 8 [Figura 8]** .
+[El orden en que se preparan los estados financieros y la naturaleza de cada estado se describen en la **Figura 8**.]
+
+---
+
+### Exhibit 8 [Figura 8]
+
+## Financial Statements [Estados Financieros]
+
+| Order Prepared [Orden de Preparación] | Financial Statement [Estado Financiero] | Description of Statement [Descripción del Estado] |
+|---------------------------------------|-----------------------------------------|-----------------------------------------------------|
+| 1 | **Income Statement [Estado de Resultados]** (A summary of the revenue and expenses for a specific period of time, such as a month or a year.) [Un resumen de los ingresos y gastos para un período de tiempo específico, como un mes o un año.] | A summary of the revenue and expenses for a specific period of time, such as a month or year. [Un resumen de los ingresos y gastos para un período de tiempo específico, como un mes o un año.] |
+| 2 | **Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable de los Accionistas]** (A summary of the changes in the stockholders' equity in a corporation that have occurred during a specific period of time, such as a month or a year.) [Un resumen de los cambios en el capital contable de los accionistas en una corporación que han ocurrido durante un período de tiempo específico, como un mes o un año.] | A summary of the changes in stockholders' equity that have occurred during a specific period of time, such as a month or a year. [Un resumen de los cambios en el capital contable de los accionistas que han ocurrido durante un período de tiempo específico, como un mes o un año.] |
+| 3 | **Balance Sheet [Balance General]** (A list of the assets, liabilities, and stockholders' equity as of a specific date, usually at the close of the last day of a month or a year.) [Una lista de los activos, pasivos y capital contable de los accionistas a una fecha específica, generalmente al cierre del último día de un mes o un año.] | A list of the assets, liabilities, and stockholders' equity as of a specific date, usually at the close of the last day of a month or a year. [Una lista de los activos, pasivos y capital contable de los accionistas a una fecha específica, generalmente al cierre del último día de un mes o un año.] |
+| 4 | **Statement of Cash Flows [Estado de Flujos de Efectivo]** | A summary of the cash receipts and cash payments for a specific period of time, such as a month or a year. [Un resumen de los recibos de efectivo y pagos de efectivo para un período de tiempo específico, como un mes o un año.] |
+
+---
+
+### Exhibit 9 [Figura 9]
+
+## Financial Statements for NetSolutions [Estados Financieros para NetSolutions]
+
+<img src="./img/014.png" width="800"></img>
+
+*[Image: Financial statements for NetSolutions including Income Statement, Statement of Stockholders' Equity, Balance Sheet, and Statement of Cash Flows]*
+*[Imagen: Estados financieros para NetSolutions que incluyen el Estado de Resultados, Estado de Cambios en el Capital Contable de los Accionistas, Balance General y Estado de Flujos de Efectivo]*
+
+
+## NetSolutions
+
+### Income Statement [Estado de Resultados]
+**For the Month Ended November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| Fees earned | | 7,500 |
+| | | |
+| **Expenses:** | | |
+| Wages expense | 2,125 | |
+| Rent expense | 800 | |
+| Supplies expense | 800 | |
+| Utilities expense | 450 | |
+| Miscellaneous expense | 275 | |
+| **Total expenses** | | (4,450) |
+| **Net income** | | **3,050** |
+
+---
+
+### Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable]
+**For the Month Ended November 30, 20Y3**
+
+| Concept | Common Stock | Retained Earnings | Total |
+|---------|--------------|-------------------|-------|
+| Balances, November 1, 20Y3 | $0 | $0 | $0 |
+| Issued common stock | 25,000 | | 25,000 |
+| Net income | | 3,050 | 3,050 |
+| Dividends | | (2,000) | (2,000) |
+| **Balances, November 30, 20Y3** | **$25,000** | **$1,050** | **$26,050** |
+
+---
+
+### Balance Sheet [Balance General]
+**November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Assets** | | |
+| Cash | 5,900 | |
+| Supplies | 550 | |
+| Land | 20,000 | |
+| **Total assets** | | **26,450** |
+| | | |
+| **Liabilities** | | |
+| Accounts payable | 400 | |
+| | | |
+| **Stockholders' Equity** | | |
+| Common stock | 25,000 | |
+| Retained earnings | 1,050 | |
+| **Total stockholders' equity** | | **26,050** |
+| | | |
+| **Total liabilities and stockholders' equity** | | **26,450** |
+
+---
+
+### Statement of Cash Flows [Estado de Flujos de Efectivo]
+**For the Month Ended November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Cash flows from operating activities:** | | |
+| Cash received from customers | 7,500 | |
+| Cash paid for expenses and to creditors | (4,600) | |
+| **Net cash flows from operating activities** | | **2,900** |
+| | | |
+| **Cash flows from investing activities:** | | |
+| Cash paid for acquisition of land | (20,000) | |
+| | | |
+| **Cash flows from financing activities:** | | |
+| Cash received from issuing common stock | 25,000 | |
+| Cash dividends | (2,000) | |
+| **Net cash flows from financing activities** | | **23,000** |
+| | | |
+| **Net increase in cash** | | **5,900** |
+| Cash balance, November 1, 20Y3 | | 0 |
+| **Cash balance, November 30, 20Y3** | | **5,900** |
+
+
+
+
+
+---
+
+### Important Notes [Notas Importantes]
+
+All financial statements are identified by:
+[Todos los estados financieros se identifican por:]
+
+1. **The name of the business** [El nombre del negocio]
+2. **The title of the statement** [El título del estado]
+3. **The date or period of time** [La fecha o período de tiempo]
+
+**Key distinction [Distinción clave]:**
+
+| Type of Statement [Tipo de Estado] | Period/Date [Período/Fecha] |
+|-----------------------------------|----------------------------|
+| Income Statement [Estado de Resultados] | **Period of time** [Período de tiempo] |
+| Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable] | **Period of time** [Período de tiempo] |
+| Statement of Cash Flows [Estado de Flujos de Efectivo] | **Period of time** [Período de tiempo] |
+| Balance Sheet [Balance General] | **Specific date** [Fecha específica] |
+
+The data presented in the **income statement, the statement of stockholders' equity, and the statement of cash flows** are for a **period of time**. The data presented in the **balance sheet** are for a **specific date**.
+[Los datos presentados en el **estado de resultados, el estado de cambios en el capital contable de los accionistas y el estado de flujos de efectivo** son para un **período de tiempo**. Los datos presentados en el **balance general** son para una **fecha específica**.]
+
+---
+
+### Summary of Financial Statements [Resumen de los Estados Financieros]
+
+| Statement [Estado] | Purpose [Propósito] | Time Period [Período] |
+|-------------------|---------------------|----------------------|
+| **Income Statement [Estado de Resultados]** | Reports revenues and expenses [Reporta ingresos y gastos] | Period of time [Período de tiempo] |
+| **Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable]** | Reports changes in stockholders' equity [Reporta cambios en el capital contable de los accionistas] | Period of time [Período de tiempo] |
+| **Balance Sheet [Balance General]** | Reports assets, liabilities, and equity [Reporta activos, pasivos y capital contable] | Specific date [Fecha específica] |
+| **Statement of Cash Flows [Estado de Flujos de Efectivo]** | Reports cash receipts and payments [Reporta recibos y pagos de efectivo] | Period of time [Período de tiempo] |
+
+---
+
+### Interrelationships Among Financial Statements [Interrelaciones entre los Estados Financieros]
+
+The four financial statements are interrelated as follows:
+[Los cuatro estados financieros están interrelacionados de la siguiente manera:]
+
+1. **Net income (or net loss)** from the **Income Statement** is used in preparing the **Statement of Stockholders' Equity**.
+   [**El ingreso neto (o pérdida neta)** del **Estado de Resultados** se utiliza para preparar el **Estado de Cambios en el Capital Contable de los Accionistas**.]
+
+2. **Ending retained earnings** from the **Statement of Stockholders' Equity** is used in preparing the **Balance Sheet**.
+   [**Las ganancias retenidas finales** del **Estado de Cambios en el Capital Contable de los Accionistas** se utilizan para preparar el **Balance General**.]
+
+3. **Cash** reported on the **Balance Sheet** should agree with the ending cash balance reported on the **Statement of Cash Flows**.
+   [El **efectivo** reportado en el **Balance General** debe concordar con el saldo final de efectivo reportado en el **Estado de Flujos de Efectivo**.]
+
+$$
+\text{Net Income (Income Statement)} \rightarrow \text{Retained Earnings (Statement of Stockholders' Equity)} \rightarrow \text{Balance Sheet}
+$$
+
+---
+
+<h1 id="388711" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-5a Income Statement [Estado de Resultados]
+  </a>
+</h1>
+
+
+The **income statement [estado de resultados]** reports the revenues and expenses for a period of time, based on the revenue and expense recognition principles. These principles match revenues and their related expenses so that they are reported in the same period. The excess of the revenue over the expenses is called **net income [ingreso neto]** , **net profit [utilidad neta]** , or **earnings [ganancias]** . If the expenses exceed the revenue, the excess is a **net loss [pérdida neta]** .
+[El **estado de resultados** reporta los ingresos y gastos durante un período de tiempo, basado en los principios de reconocimiento de ingresos y gastos. Estos principios relacionan los ingresos con sus gastos correspondientes para que se reporten en el mismo período. El exceso de los ingresos sobre los gastos se llama **ingreso neto**, **utilidad neta** o **ganancias**. Si los gastos exceden los ingresos, el exceso es una **pérdida neta**.]
+
+> **Note [Nota]:** When revenues exceed expenses, it is referred to as net income, net profit, or earnings. When expenses exceed revenues, it is referred to as net loss.
+> [**Nota:** Cuando los ingresos exceden los gastos, se denomina ingreso neto, utilidad neta o ganancias. Cuando los gastos exceden los ingresos, se denomina pérdida neta.]
+
+**Definitions [Definiciones]:**
+
+| Term [Término] | Definition [Definición] |
+|----------------|--------------------------|
+| **Net income [Ingreso neto]** (The amount by which revenues exceed expenses.) [La cantidad por la cual los ingresos exceden los gastos.] | The amount by which revenues exceed expenses. [La cantidad por la cual los ingresos exceden los gastos.] |
+| **Net profit [Utilidad neta]** (The amount by which revenues exceed expenses.) [La cantidad por la cual los ingresos exceden los gastos.] | The amount by which revenues exceed expenses. [La cantidad por la cual los ingresos exceden los gastos.] |
+| **Earnings [Ganancias]** (The amount by which revenues exceed expenses.) [La cantidad por la cual los ingresos exceden los gastos.] | The amount by which revenues exceed expenses. [La cantidad por la cual los ingresos exceden los gastos.] |
+| **Net loss [Pérdida neta]** (The amount by which expenses exceed revenues.) [La cantidad por la cual los gastos exceden los ingresos.] | The amount by which expenses exceed revenues. [La cantidad por la cual los gastos exceden los ingresos.] |
+
+---
+
+### Link to Twitter [Enlace a Twitter]
+
+For a recent year, Twitter reported net income of $1,206 million.
+[Para un año reciente, Twitter reportó un ingreso neto de $1,206 millones.]
+
+---
+
+### NetSolutions Income Statement [Estado de Resultados de NetSolutions]
+
+The revenue and expenses for NetSolutions were shown in **Exhibit 6 [Figura 6]** as separate increases and decreases. **Net income [Ingreso neto]** for a period increases the stockholders' equity (retained earnings) for the period. A **net loss [pérdida neta]** decreases stockholders' equity (retained earnings) for the period.
+[Los ingresos y gastos de NetSolutions se mostraron en la **Figura 6** como aumentos y disminuciones separados. El **ingreso neto** de un período aumenta el capital contable de los accionistas (ganancias retenidas) del período. Una **pérdida neta** disminuye el capital contable de los accionistas (ganancias retenidas) del período.]
+
+The revenue, expenses, and net income of $3,050 for NetSolutions are reported on the income statement in **Exhibit 9 [Figura 9]** . The order in which the expenses are listed in the income statement varies among businesses. Most businesses list expenses in order of size, beginning with the larger items. **Miscellaneous expense [Gastos varios]** is usually shown as the last item, regardless of the amount.
+[Los ingresos, gastos e ingreso neto de $3,050 para NetSolutions se reportan en el estado de resultados en la **Figura 9**. El orden en que se enumeran los gastos en el estado de resultados varía entre los negocios. La mayoría de los negocios enumeran los gastos en orden de tamaño, comenzando con los elementos más grandes. Los **gastos varios** generalmente se muestran como el último elemento, independientemente del monto.]
+
+**NetSolutions Income Statement (from Exhibit 9) [Estado de Resultados de NetSolutions (de la Figura 9)]:**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| Fees earned | | 7,500 |
+| | | |
+| **Expenses:** | | |
+| Wages expense | 2,125 | |
+| Rent expense | 800 | |
+| Supplies expense | 800 | |
+| Utilities expense | 450 | |
+| Miscellaneous expense | 275 | |
+| **Total expenses** | | (4,450) |
+| **Net income** | | **3,050** |
+
+**Formulas [Fórmulas]:**
+
+$$
+\text{Net Income} = \text{Revenues} - \text{Expenses}
+$$
+
+$$
+\text{Ingreso Neto} = \text{Ingresos} - \text{Gastos}
+$$
+
+$$
+\text{Net Loss} = \text{Expenses} - \text{Revenues}
+$$
+
+$$
+\text{Pérdida Neta} = \text{Gastos} - \text{Ingresos}
+$$
+
+---
+
+### Business Insight [Perspectiva Empresarial]
+
+## Inclusivity [Inclusividad]
+
+Investors and other business stakeholders are increasingly concerned not only about whether a company earns a net income, but also about a company's impact on society. For example, a company that practices **inclusivity [inclusividad]** has as an objective that every person should have equal rights, support, consideration, and opportunities to achieve their full potential. To achieve this objective, an inclusive company will enact policies and procedures that are accommodating and respectful of a person's race, ethnicity, sexual orientation, gender identity, physical abilities, religion, age, and culture.
+[Los inversores y otras partes interesadas en los negocios están cada vez más preocupados no solo por si una empresa obtiene un ingreso neto, sino también por el impacto de una empresa en la sociedad. Por ejemplo, una empresa que practica la **inclusividad** tiene como objetivo que cada persona tenga igualdad de derechos, apoyo, consideración y oportunidades para alcanzar su máximo potencial. Para lograr este objetivo, una empresa inclusiva promulgará políticas y procedimientos que sean acogedores y respetuosos con la raza, el origen étnico, la orientación sexual, la identidad de género, las capacidades físicas, la religión, la edad y la cultura de una persona.]
+
+---
+
