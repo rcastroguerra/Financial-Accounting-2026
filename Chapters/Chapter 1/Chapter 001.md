@@ -1540,7 +1540,6 @@ $$
 $$
 
 ---
-
 ### Check Up Corner 1-1 [Esquina de Verificación 1-1]
 
 ## Business Transactions and the Accounting Equation [Transacciones Comerciales y la Ecuación Contable]
@@ -1576,7 +1575,42 @@ Indicate the effect that each of these transactions has on the following account
 
 ---
 
-### Solution Template [Plantilla de Solución]
+### Solution [Solución]
+
+<img src="./img/013.png" width="800"></img>
+
+**Step-by-step calculation [Cálculo paso a paso]:**
+
+|  | Assets (Activos) |  | = | Liabilities | + | Stockholders' Equity |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  | Cash | + | Accounts Receivable | = | Accounts Payable | + | Common Stock | + | Fees Earned | - | Wages Exp. | - | Utilities Exp. | - | Dividends |
+| **Bal.** | 32,500 | | 5,000 | = | 2,500 | | 32,500 | | 5,000 | | 2,500 | | 0 | | 0 |
+| **a.** | +20,000 | | – | = | – | | +20,000 | | – | | – | | – | | – |
+| **b.** | -2,000 | | – | = | -2,000 | | – | | – | | – | | – | | – |
+| **c.** | +5,000 | | -5,000 | = | – | | – | | – | | – | | – | | – |
+| **d.** | – | | +18,000 | = | – | | – | | +18,000 | | – | | – | | – |
+| **e.** | -10,000 | | – | = | – | | – | | – | | +10,000 | | – | | – |
+| **f.** | -3,000 | | – | = | – | | – | | – | | – | | +3,000 | | – |
+| **g.** | -4,500 | | – | = | – | | – | | – | | – | | – | | +4,500 |
+| **Final Bal.** | **38,000** | | **18,000** | = | **500** | | **52,500** | | **23,000** | | **12,500** | | **3,000** | | **4,500** |
+| **Total** | **56,000** | | | = | | | **56,000** | | | | | | | | |
+
+**Final Balances [Saldos Finales]:**
+
+| Account [Cuenta] | Balance [Saldo] |
+|-----------------|-----------------|
+| Cash [Efectivo] | $38,000 |
+| Accounts Receivable [Cuentas por Cobrar] | $18,000 |
+| Accounts Payable [Cuentas por Pagar] | $500 |
+| Common Stock [Acciones Comunes] | $52,500 |
+| Dividends [Dividendos] | $4,500 |
+| Fees Earned [Honorarios Ganados] | $23,000 |
+| Wages Expense [Gasto por Salarios] | $12,500 |
+| Utilities Expense [Gasto por Servicios Públicos] | $3,000 |
+
+---
+
+### Effects Summary Table [Tabla Resumen de Efectos]
 
 | Transaction | Cash | Accounts Receivable | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Expense | Utilities Expense |
 |-------------|------|---------------------|------------------|--------------|-----------|-------------|---------------|-------------------|
@@ -1673,11 +1707,31 @@ $$
 $$
 
 $$
-\$33,000 + \$18,000 = \$500 + \$52,500 + \$23,000 - \$12,500 - \$3,000 - \$4,500
+\$38,000 + \$18,000 = \$500 + \$52,500 + \$23,000 - \$12,500 - \$3,000 - \$4,500
 $$
 
 $$
-\$51,000 = \$51,000
+\$56,000 = \$56,000
+$$
+
+---
+
+### Verification [Verificación]
+
+**Total Assets [Total Activos]:**
+$$
+\$38,000 + \$18,000 = \$56,000
+$$
+
+**Total Liabilities + Stockholders' Equity [Total Pasivos + Capital Contable]:**
+$$
+\$500 + \$52,500 + \$23,000 - \$12,500 - \$3,000 - \$4,500 = \$56,000
+$$
+
+**The accounting equation is in balance [La ecuación contable está en equilibrio]:** ✅
+
+$$
+\$56,000 = \$56,000
 $$
 
 ---
