@@ -2366,3 +2366,260 @@ $$
     1-5d Statement of Cash Flows [Estado de Flujos de Efectivo]
   </a>
 </h1>
+
+
+As discussed earlier, businesses engage in three types of activities. As a result, the **statement of cash flows [estado de flujos de efectivo]** consists of the following three sections, as shown in **Exhibit 9**:
+[Como se discutió anteriormente, las empresas realizan tres tipos de actividades. Como resultado, el **estado de flujos de efectivo** consta de las siguientes tres secciones, como se muestra en la **Figura 9**:]
+
+1. **Operating activities [Actividades de operación]**
+2. **Investing activities [Actividades de inversión]**
+3. **Financing activities [Actividades de financiamiento]**
+
+<img src="./img/014.png" width="800" alt="Exhibit 9 - Financial Statements for NetSolutions including Statement of Cash Flows">
+
+---
+
+### Cash Flows from Operating Activities [Flujos de Efectivo de las Actividades de Operación]
+
+This section reports a summary of cash receipts and cash payments from operations. The net cash flow from operating activities normally differs from the amount of net income for the period. In **Exhibit 9**, NetSolutions reported net cash flows from operating activities of $2,900 and net income of $3,050. This difference occurs because revenues and expenses may not be recorded at the same time that cash is received from customers or paid to creditors.
+[Esta sección reporta un resumen de los recibos de efectivo y los pagos de efectivo de las operaciones. El flujo de efectivo neto de las actividades de operación normalmente difiere del monto del ingreso neto del período. En la **Figura 9**, NetSolutions reportó flujos de efectivo netos de las actividades de operación de $2,900 y un ingreso neto de $3,050. Esta diferencia ocurre porque los ingresos y gastos pueden no registrarse al mismo tiempo que el efectivo se recibe de los clientes o se paga a los acreedores.]
+
+### Statement of Cash Flows [Estado de Flujos de Efectivo]
+**For the Month Ended November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Cash flows from operating activities:** | | |
+| Cash received from customers | 7,500 | |
+| Cash paid for expenses and to creditors | (4,600) | |
+| **Net cash flows from operating activities** | | **2,900** |
+
+
+
+
+
+---
+
+### Cash Flows from Investing Activities [Flujos de Efectivo de las Actividades de Inversión]
+
+This section reports the cash transactions for the acquisition and sale of relatively permanent assets. **Exhibit 9** reports that NetSolutions paid $20,000 for the purchase of land during November.
+[Esta sección reporta las transacciones de efectivo por la adquisición y venta de activos relativamente permanentes. La **Figura 9** reporta que NetSolutions pagó $20,000 por la compra de terreno durante noviembre.]
+
+### Statement of Cash Flows [Estado de Flujos de Efectivo]
+**For the Month Ended November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Cash flows from investing activities:** | | |
+| Cash paid for acquisition of land | (20,000) | |
+
+
+
+
+
+---
+
+### Cash Flows from Financing Activities [Flujos de Efectivo de las Actividades de Financiamiento]
+
+This section reports the cash transactions related to cash investments by stockholders, borrowings, and dividends. **Exhibit 9** shows that Chris Clark invested $25,000 in exchange for common stock of NetSolutions. NetSolutions also paid $2,000 of dividends during November.
+[Esta sección reporta las transacciones de efectivo relacionadas con inversiones de efectivo por parte de los accionistas, préstamos y dividendos. La **Figura 9** muestra que Chris Clark invirtió $25,000 a cambio de acciones comunes de NetSolutions. NetSolutions también pagó $2,000 de dividendos durante noviembre.]
+
+### Statement of Cash Flows [Estado de Flujos de Efectivo]
+**For the Month Ended November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Cash flows from financing activities:** | | |
+| Cash received from issuing common stock | 25,000 | |
+| Cash dividends | (2,000) | |
+| **Net cash flows from financing activities** | | **23,000** |
+
+
+
+---
+### Cash Balance Reconciliation [Reconciliación del Saldo de Efectivo]
+
+**NetSolutions - Statement of Cash Flows [Estado de Flujos de Efectivo]**
+**For the Month Ended November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Net increase in cash** | | **5,900** |
+| Cash balance, November 1, 20Y3 | | 0 |
+| **Cash balance, November 30, 20Y3** | | **5,900** |
+
+---
+
+### Formulas [Fórmulas]
+
+**Net Cash Flow from Financing Activities [Flujo de Efectivo Neto de Actividades de Financiamiento]:**
+
+$$
+\text{Net Financing CF} = \text{Cash Inflows from Financing} - \text{Cash Outflows from Financing}
+$$
+
+$$
+\text{Flujo Neto de Financiamiento} = \text{Entradas de Efectivo por Financiamiento} - \text{Salidas de Efectivo por Financiamiento}
+$$
+
+**Explanation [Explicación]:** 
+- Cash Inflows [Entradas]: issuing common stock [emisión de acciones comunes], borrowings [préstamos recibidos]
+- Cash Outflows [Salidas]: dividends paid [pago de dividendos], loan repayments [pago de préstamos]
+
+**Example [Ejemplo] (NetSolutions):**
+$$
+25,000 - 2,000 = 23,000
+$$
+
+**Positive / Negative Meaning [Significado Positivo / Negativo]:** 
+- If positive [si es positivo] $\rightarrow$ more cash in than out [entra más efectivo del que sale] (company receives financing [la empresa recibe financiamiento])
+- If negative [si es negativo] $\rightarrow$ more cash out than in [sale más efectivo del que entra] (company returns cash to investors [la empresa devuelve efectivo a los inversores])
+
+---
+
+**Net Increase (Decrease) in Cash [Aumento (Disminución) Neto en Efectivo]:**
+
+$$
+\text{Net Increase in Cash} = \text{Operating CF} + \text{Investing CF} + \text{Financing CF}
+$$
+
+$$
+\text{Aumento Neto en Efectivo} = \text{CF Operación} + \text{CF Inversión} + \text{CF Financiamiento}
+$$
+
+**Example [Ejemplo] (NetSolutions):**
+$$
+2,900 + (-20,000) + 23,000 = 5,900
+$$
+
+**Positive / Negative Meaning [Significado Positivo / Negativo]:**
+- If positive [si es positivo] $\rightarrow$ cash increased during the period [el efectivo aumentó durante el período]
+- If negative [si es negativo] $\rightarrow$ cash decreased during the period [el efectivo disminuyó durante el período]
+
+---
+
+**Ending Cash Balance [Saldo Final de Efectivo]:**
+
+$$
+\text{Ending Cash Balance} = \text{Beginning Cash Balance} + \text{Net Increase in Cash}
+$$
+
+$$
+\text{Saldo Final de Efectivo} = \text{Saldo Inicial de Efectivo} + \text{Aumento Neto en Efectivo}
+$$
+
+**Example [Ejemplo] (NetSolutions):**
+$$
+0 + 5,900 = 5,900
+$$
+
+**Positive / Negative Meaning [Significado Positivo / Negativo]:**
+- If positive [si es positivo] $\rightarrow$ company has cash available [la empresa tiene efectivo disponible]
+- If negative [si es negativo] $\rightarrow$ bank overdraft [sobregiro bancario]
+
+---
+
+### Final Step: Reconciliation from Beginning to Ending Cash [Último Paso: Reconciliación desde el Efectivo Inicial al Final]
+
+| Step [Paso] | Formula [Fórmula] | Example [Ejemplo] |
+|-------------|-------------------|-------------------|
+| 1. Net increase (decrease) in cash [Aumento (disminución) neto en efectivo] | $\Delta \text{Cash} = \text{CF}_{\text{Operating}} + \text{CF}_{\text{Investing}} + \text{CF}_{\text{Financing}}$ | $2,900 + (-20,000) + 23,000 = 5,900$ |
+| 2. Add beginning cash balance [Sumar saldo inicial de efectivo] | $\text{Cash}_{\text{Beginning}} = \text{Saldo Inicial}$ | $0$ |
+| 3. Equals ending cash balance [Es igual al saldo final de efectivo] | $\text{Cash}_{\text{Ending}} = \text{Cash}_{\text{Beginning}} + \Delta \text{Cash}$ [Saldo Final = Saldo Inicial + Aumento Neto] | $0 + 5,900 = 5,900$ |
+
+**Name of this table [Nombre de esta tabla]:** Table 1 - Cash Balance Reconciliation [Tabla 1 - Reconciliación del Saldo de Efectivo]
+
+---
+
+### Link to Twitter [Enlace a Twitter]
+
+For a recent year, Twitter reported $1,340 million of cash inflows from operating activities, $2,056 million of cash used for investing activities, $978 million of cash from financing activities, and a net increase in cash of $262 million.
+[Para un año reciente, Twitter reportó $1,340 millones de entradas de efectivo por actividades de operación, $2,056 millones de efectivo utilizado en actividades de inversión, $978 millones de efectivo por actividades de financiamiento, y un aumento neto en efectivo de $262 millones.]
+
+---
+
+### NetSolutions Statement of Cash Flows [Estado de Flujos de Efectivo de NetSolutions]
+
+Based on the transactions from **Exhibit 6**, the Statement of Cash Flows for NetSolutions is as follows:
+[Basado en las transacciones de la **Figura 6**, el Estado de Flujos de Efectivo para NetSolutions es el siguiente:]
+
+**NetSolutions - Statement of Cash Flows [Estado de Flujos de Efectivo]**
+**For the Month Ended November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Cash flows from operating activities:** | | |
+| Cash received from customers | 7,500 | |
+| Cash paid for expenses and to creditors | (4,600) | |
+| **Net cash flows from operating activities** | | **2,900** |
+| | | |
+| **Cash flows from investing activities:** | | |
+| Cash paid for acquisition of land | (20,000) | |
+| **Net cash flows from investing activities** | | **(20,000)** |
+| | | |
+| **Cash flows from financing activities:** | | |
+| Cash received from issuing common stock | 25,000 | |
+| Cash dividends | (2,000) | |
+| **Net cash flows from financing activities** | | **23,000** |
+| | | |
+| **Net increase in cash** | | **5,900** |
+| Cash balance, November 1, 20Y3 | | 0 |
+| **Cash balance, November 30, 20Y3** | | **5,900** |
+
+---
+
+### Summary of Formulas [Resumen de Fórmulas]
+
+**Net Cash Flow from Operating Activities [Flujo de Efectivo Neto de Actividades de Operación]:**
+
+$$
+\text{Net Cash Flow from Operating Activities} = \text{Cash Received from Customers} - \text{Cash Paid for Expenses and to Creditors}
+$$
+
+$$
+\text{Flujo de Efectivo Neto de Actividades de Operación} = \text{Efectivo Recibido de Clientes} - \text{Efectivo Pagado por Gastos y a Acreedores}
+$$
+
+**Net Increase (Decrease) in Cash [Aumento (Disminución) Neto en Efectivo]:**
+
+$$
+\text{Net Increase in Cash} = \text{Operating CF} + \text{Investing CF} + \text{Financing CF}
+$$
+
+$$
+\text{Aumento Neto en Efectivo} = \text{CF Operación} + \text{CF Inversión} + \text{CF Financiamiento}
+$$
+
+**Ending Cash Balance [Saldo Final de Efectivo]:**
+
+$$
+\text{Ending Cash Balance} = \text{Beginning Cash Balance} + \text{Net Increase in Cash}
+$$
+
+$$
+\text{Saldo Final de Efectivo} = \text{Saldo Inicial de Efectivo} + \text{Aumento Neto en Efectivo}
+$$
+
+---
+
+### Key Points [Puntos Clave]
+
+| Section [Sección] | Description [Descripción] |
+|-------------------|---------------------------|
+| **Operating Activities** | Cash receipts and payments from normal business operations |
+| **Investing Activities** | Cash transactions for buying/selling long-term assets |
+| **Financing Activities** | Cash transactions with stockholders and creditors (borrowings and dividends) |
+
+**Important Note [Nota Importante]:**
+The net cash flow from operating activities ($2,900) differs from net income ($3,050) because:
+[El flujo de efectivo neto de las actividades de operación ($2,900) difiere del ingreso neto ($3,050) porque:]
+- Revenues may be recorded before cash is received
+- Expenses may be recorded before cash is paid
+
+---
+
+<h1 id="909174" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    Titulo
+  </a>
+</h1>
