@@ -1272,13 +1272,13 @@ are distributions of earnings to stockholders. The payment of dividends decrease
 
 ## Accounting Equation
 
-| Assets |  |  |  | = | Liabilities + | Stockholders' Equity |  |  |  |  |  |  |
-|--------|----|----|------|---|-------------|----------------------|----|----|----|----|----|----|
-|        | Cash | Supplies | Land |   | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. |
-| Bal.   | 7,900 | 550 | 20,000 | = | 400 | 25,000 | 0 | 7,500 | -2,125 | -800 | -450 | -275 |
-| Adj.   | -2,000 |  |  | = |  |  | -2,000 | 0 | 0 | 0 | -350 | 0 |
-| Adj. Bal. | 5,900 | 200 | 20,000 | = | 400 | 25,000 | -2,000 | 7,500 | -2,125 | -800 | -800 | -275 |
-| **Total** | **26,100** |  |  | = | **26,100** |  |  |  |  |  |  |  |
+| |     |       |    Assets [Activos]    | = | Liabilities [Pasivos] | + Stockholders' Equity [Capital Contable] |  |     |     |     |     |     |     |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|     | Cash | + | Supplies | + | Land | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
+| **Bal.** | 7,900 |   | 550 |   | 20,000 | = | 400 | + | 25,000 | 0 | 7,500 | -2,125 | -800 | -800 | -450 | -275 |
+| **Adj.** | -2,000 |   | 0 |   | 0 | = | 0 | + | 0 | -2,000 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Adj. Bal.** | **5,900** |   | **550** |   | **20,000** | = | **400** | + | **25,000** | **-2,000** | **7,500** | **-2,125** | **-800** | **-800** | **-450** | **-275** |
+| **Total** | **26,450** |   |       |   |       | = | **26,450** |   |       |     |     |     |     |     |     |     |
 
 
 
