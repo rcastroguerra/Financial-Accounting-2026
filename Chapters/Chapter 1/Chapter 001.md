@@ -26,6 +26,9 @@
 
 ##### [Capitulo 1-4 Business Transactions and the Accounting Equation [Transacciones Comerciales y la Ecuación Contable]](#981259)
 
+##### [Capitulo 1-4a Summary [Resumen]](#020166)
+
+##### [Capitulo 1-4b Classifications of Stockholders' Equity [Clasificaciones del Capital Contable de los Accionistas]](#943711)
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -1312,3 +1315,375 @@ $$
 | G | Use of supplies and payment of dividends [Uso de suministros y pago de dividendos] | Decrease Supplies, Increase Supplies Expense; Decrease Cash, Increase Dividends |
 
 ---
+
+<h1 id="020166" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-4a Summary [Resumen]
+
+  </a>
+</h1>
+
+## 1-4a Summary [Resumen]
+
+The transactions of NetSolutions are summarized in **Exhibit 6 [Figura 6]** . Each transaction is identified by letter, and the balance of each accounting equation element is shown after every transaction.
+[Las transacciones de NetSolutions se resumen en la **Figura 6**. Cada transacción se identifica con una letra, y el saldo de cada elemento de la ecuación contable se muestra después de cada transacción.]
+
+---
+
+### Exhibit 6 [Figura 6]
+
+## Summary of Transactions for NetSolutions [Resumen de Transacciones para NetSolutions]
+
+<img src="./img/010.png" width="800"></img>
+
+|  | Assets (Activos) |  |  | = | Liabilities | + Stockholders' Equity |  |  |  |  |  |  |  |
+|------------------|----------------|----------|----------|---|-------------|------------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+|                  | Cash | Supplies | Land | = | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
+| **a. Bal.**      | 25,000 | – | – | = | – | 25,000 | – | – | – | – | – | – | – |
+| **b. Adj.**      | -20,000 | – | +20,000 | = | – | – | – | – | – | – | – | – | – |
+| **c. Bal.**      | 5,000 | – | 20,000 | = | – | 25,000 | – | – | – | – | – | – | – |
+| **d. Adj.**      | 0 | +1,350 | 0 | = | +1,350 | 0 | – | – | – | – | – | – | – |
+| **e. Bal.**      | 5,000 | 1,350 | 20,000 | = | 1,350 | 25,000 | – | – | – | – | – | – |
+| **f. Adj.**      | +7,500 | – | – | = | – | – | – | +7,500 | – | – | – | – | – |
+| **g. Bal.**      | 12,500 | 1,350 | 20,000 | = | 1,350 | 25,000 | – | 7,500 | – | – | – | – |
+| **h. Adj.**      | -3,650 | – | – | = | -950 | – | -2,000 | – | -2,125 | -800 | -800 | -450 | -275 |
+| **Final Bal.**   | **8,850** | **550** | **20,000** | = | **400** | **25,000** | **-2,000** | **7,500** | **-2,125** | **-800** | **-800** | **-450** | **-275** |
+| **Total**        | **26,450** |        |        | = | **26,450** |        |        |        |        |        |        |        |        |
+
+
+*[Image: Summary of transactions A through H showing the accounting equation after each transaction]*
+*[Imagen: Resumen de las transacciones A a H mostrando la ecuación contable después de cada transacción]*
+
+---
+
+### Key Observations [Observaciones Clave]
+
+You should note the following:
+[Debe tener en cuenta lo siguiente:]
+
+1. **The effect of every transaction is an increase or a decrease in one or more of the accounting equation elements.**
+   [El efecto de cada transacción es un aumento o una disminución en uno o más de los elementos de la ecuación contable.]
+
+2. **The two sides of the accounting equation are always equal.**
+   [Los dos lados de la ecuación contable son siempre iguales.]
+
+3. **The stockholders' equity [capital contable de los accionistas]** is increased by amounts invested by stockholders (**common stock [acciones comunes]**).
+   [El **capital contable de los accionistas** aumenta por las cantidades invertidas por los accionistas (**acciones comunes**).]
+
+4. **The stockholders' equity [capital contable de los accionistas]** is increased by **revenues [ingresos]** and decreased by **expenses [gastos]**.
+   [El **capital contable de los accionistas** aumenta por los **ingresos** y disminuye por los **gastos**.]
+
+5. **The stockholders' equity [capital contable de los accionistas]** is decreased by **dividends [dividendos]** paid to stockholders.
+   [El **capital contable de los accionistas** disminuye por los **dividendos** pagados a los accionistas.]
+
+---
+
+### Summary Table [Tabla Resumen]
+
+| Transaction | Description [Descripción] | Effect on Equation [Efecto en la Ecuación] |
+|-------------|---------------------------|---------------------------------------------|
+| A | Investment of cash by owner [Inversión de efectivo por el dueño] | Increase Cash, Increase Common Stock |
+| B | Purchase of land for cash [Compra de terreno al contado] | Decrease Cash, Increase Land |
+| C | Purchase of supplies on account [Compra de suministros a crédito] | Increase Supplies, Increase Accounts Payable |
+| D | Receipt of cash for services [Recepción de efectivo por servicios] | Increase Cash, Increase Fees Earned |
+| E | Payment of expenses [Pago de gastos] | Decrease Cash, Increase Expenses (decrease equity) |
+| F | Payment to creditors on account [Pago a acreedores a crédito] | Decrease Cash, Decrease Accounts Payable |
+| G | Use of supplies [Uso de suministros] | Decrease Supplies, Increase Supplies Expense |
+| H | Payment of dividends [Pago de dividendos] | Decrease Cash, Increase Dividends (decrease equity) |
+
+---
+
+### Verification [Verificación]
+
+After all transactions, the accounting equation remains in balance:
+[Después de todas las transacciones, la ecuación contable permanece en equilibrio:]
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Capital Contable}
+$$
+
+---
+
+<h1 id="943711" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-4b Classifications of Stockholders' Equity [Clasificaciones del Capital Contable de los Accionistas]
+  </a>
+</h1>
+
+**Stockholders' equity [Capital contable de los accionistas]** is classified as:
+[El **capital contable de los accionistas** se clasifica como:]
+
+- **Common Stock [Acciones Comunes]**
+- **Retained Earnings [Ganancias Retenidas]**
+
+---
+
+### Common Stock [Acciones Comunes]
+
+**Common stock [Acciones comunes]** is shares of ownership distributed to investors of a corporation. It represents the portion of stockholders' equity contributed by investors. For NetSolutions, shares of common stock of $25,000 were distributed to Chris Clark in exchange for investing in the business.
+[**Las acciones comunes** son acciones de propiedad distribuidas a los inversores de una corporación. Representan la porción del capital contable de los accionistas contribuida por los inversores. Para NetSolutions, se distribuyeron acciones comunes por valor de $25,000 a Chris Clark a cambio de su inversión en el negocio.]
+
+---
+
+### Retained Earnings [Ganancias Retenidas]
+
+**Retained earnings [Ganancias retenidas]** (The stockholders' equity created from business operations through revenue and expense transactions; an account representing the net income retained in a corporation.)
+[El capital contable de los accionistas creado a partir de las operaciones comerciales a través de transacciones de ingresos y gastos; una cuenta que representa el ingreso neto retenido en una corporación.]
+
+is the stockholders' equity created from business operations through revenue and expense transactions. For NetSolutions, retained earnings of $3,050 were created by its November operations (revenue and expense transactions), computed as follows:
+[es el capital contable de los accionistas creado a partir de las operaciones comerciales a través de transacciones de ingresos y gastos. Para NetSolutions, se crearon ganancias retenidas de $3,050 mediante sus operaciones de noviembre (transacciones de ingresos y gastos), calculadas de la siguiente manera:]
+
+---
+
+### Retained Earnings Calculation for NetSolutions [Cálculo de Ganancias Retenidas para NetSolutions]
+
+<img src="./img/011.png" width="800"></img>
+
+
+**NetSolutions Retained Earnings [Ganancias Retenidas de NetSolutions]**
+**November Operations [Operaciones de Noviembre]**
+**(Revenue and Expense Transactions) [(Transacciones de Ingresos y Gastos)]**
+
+| Transaction | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
+|-------------|-------------|------------|-----------|---------------|----------------|-------------|
+| Transaction d. | +7,500 | | | | | |
+| Transaction e. | | -2,125 | -800 | | -450 | -275 |
+| Transaction g. | | | | -800 | | |
+| **Balance, Nov. 30** | **+7,500** | **-2,125** | **-800** | **-800** | **-450** | **-275** |
+
+**Calculation [Cálculo]:**
+
+$$
+\text{Retained Earnings} = \text{Fees Earned} - \text{All Expenses}
+$$
+
+$$
+\text{Retained Earnings} = \$7,500 - \$2,125 - \$800 - \$800 - \$450 - \$275
+$$
+
+$$
+\text{Retained Earnings} = \$7,500 - \$4,450 = \$3,050
+$$
+
+---
+
+### Effect of Dividends [Efecto de los Dividendos]
+
+Stockholders' equity created by investments by stockholders (**common stock [acciones comunes]**) and by business operations (**retained earnings [ganancias retenidas]**) are reported separately. Since **dividends [dividendos]** are distributions of earnings to stockholders, dividends reduce retained earnings. NetSolutions paid $2,000 in dividends during November, thus reducing retained earnings to $1,050 ($3,050 - $2,000).
+[El capital contable de los accionistas creado por inversiones de los accionistas (**acciones comunes**) y por operaciones comerciales (**ganancias retenidas**) se reporta por separado. Dado que los **dividendos** son distribuciones de ganancias a los accionistas, los dividendos reducen las ganancias retenidas. NetSolutions pagó $2,000 en dividendos durante noviembre, reduciendo así las ganancias retenidas a $1,050 ($3,050 - $2,000).]
+
+**Formula for Retained Earnings after Dividends [Fórmula para Ganancias Retenidas después de Dividendos]:**
+
+$$
+\text{Retained Earnings (after dividends)} = \text{Retained Earnings (before dividends)} - \text{Dividends}
+$$
+
+$$
+\text{Retained Earnings (after dividends)} = \$3,050 - \$2,000 = \$1,050
+$$
+
+---
+
+### Exhibit 7 [Figura 7]
+
+## Effects of Transactions on Stockholders' Equity [Efectos de las Transacciones en el Capital Contable de los Accionistas]
+
+<img src="./img/012.png" width="800"></img>
+
+```text
+Stockholders' Equity
+  ----------------------------------------------------------------
+
+        +                     −              +              −
+  ┌───────────────┬──────────────────┬──────────────┬───────────────┐
+  │ Investments   │ Distributions    │ Revenues     │ Expenses      │
+  └───────────────┴──────────────────┴──────────────┴───────────────┘
+          │                 │                │              │
+          │                 │                │              │
+          ▼                 ▼                ▼              ▼
+  ┌───────────────┐   ┌───────────┐   ┌────────────────────────────┐
+  │ Common Stock  │   │ Dividends │   │     Net Income (Net Loss)  │
+  └───────────────┘   └───────────┘   └────────────────────────────┘
+          │                  │                      │
+          ▼                  ▼                      ▼
+
+  └───────────────┘       └───────────────────────────────────┘
+    Common Stock                   Retained Earnings
+```
+
+**The effects of investments by stockholders, dividends, revenues, and expenses on stockholders' equity are as follows:**
+[Los efectos de las inversiones de los accionistas, dividendos, ingresos y gastos en el capital contable de los accionistas son los siguientes:]
+
+| Transaction Type | Effect on Stockholders' Equity |
+|-----------------|--------------------------------|
+| **Investment by stockholders (Common Stock)** | **Increase** [+] |
+| **Revenues** | **Increase** [+] |
+| **Expenses** | **Decrease** [-] |
+| **Dividends** | **Decrease** [-] |
+
+**General Formulas [Fórmulas Generales]:**
+
+$$
+\text{Stockholders' Equity} = \text{Common Stock} + \text{Retained Earnings}
+$$
+
+$$
+\text{Retained Earnings} = \text{Revenues} - \text{Expenses} - \text{Dividends}
+$$
+
+$$
+\text{Net Income} = \text{Revenues} - \text{Expenses}
+$$
+
+---
+
+### Check Up Corner 1-1 [Esquina de Verificación 1-1]
+
+## Business Transactions and the Accounting Equation [Transacciones Comerciales y la Ecuación Contable]
+
+**Drive Time Delivery** is a local delivery service operating in Cleveland, Ohio. On February 1, Drive Time has the following balances:
+[**Drive Time Delivery** es un servicio de entrega local que opera en Cleveland, Ohio. El 1 de febrero, Drive Time tiene los siguientes saldos:]
+
+| Account [Cuenta] | Balance [Saldo] |
+|-----------------|-----------------|
+| Cash [Efectivo] | $32,500 |
+| Accounts Receivable [Cuentas por Cobrar] | $5,000 |
+| Accounts Payable [Cuentas por Pagar] | $2,500 |
+| Common Stock [Acciones Comunes] | $32,500 |
+| Fees Earned [Honorarios Ganados] | $5,000 |
+| Wages Expense [Gasto por Salarios] | $2,500 |
+
+Drive Time Delivery completed the following transactions during February:
+[Drive Time Delivery realizó las siguientes transacciones durante febrero:]
+
+| Transaction | Description [Descripción] |
+|-------------|---------------------------|
+| **a.** | Received cash from owner as an additional investment in common stock, $20,000 [Recibió efectivo del dueño como inversión adicional en acciones comunes, $20,000] |
+| **b.** | Paid creditors on account, $2,000 [Pagó a acreedores a crédito, $2,000] |
+| **c.** | Received cash from customers on account, $5,000 [Recibió efectivo de clientes a crédito, $5,000] |
+| **d.** | Billed customers for delivery services on account, $18,000 [Facturó a clientes por servicios de entrega a crédito, $18,000] |
+| **e.** | Paid wages expense, $10,000 [Pagó gasto por salarios, $10,000] |
+| **f.** | Paid utilities expense, $3,000 [Pagó gasto por servicios públicos, $3,000] |
+| **g.** | Paid dividends, $4,500 [Pagó dividendos, $4,500] |
+
+**Requirement [Requisito]:**
+Indicate the effect that each of these transactions has on the following accounting equation elements: **Cash, Accounts Receivable, Accounts Payable, Common Stock, Dividends, Fees Earned, Wages Expense, Utilities Expense.**
+[Indique el efecto que cada una de estas transacciones tiene en los siguientes elementos de la ecuación contable: **Efectivo, Cuentas por Cobrar, Cuentas por Pagar, Acciones Comunes, Dividendos, Honorarios Ganados, Gasto por Salarios, Gasto por Servicios Públicos.** ]
+
+---
+
+### Solution Template [Plantilla de Solución]
+
+| Transaction | Cash | Accounts Receivable | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Expense | Utilities Expense |
+|-------------|------|---------------------|------------------|--------------|-----------|-------------|---------------|-------------------|
+| **a.** | ↑ | | | ↑ | | | | |
+| **b.** | ↓ | | ↓ | | | | | |
+| **c.** | ↑ | ↓ | | | | | | |
+| **d.** | | ↑ | | | | ↑ | | |
+| **e.** | ↓ | | | | | | ↑ | |
+| **f.** | ↓ | | | | | | | ↑ |
+| **g.** | ↓ | | | | ↑ | | | |
+
+**Legend [Leyenda]:**
+- ↑ = Increase [Aumento]
+- ↓ = Decrease [Disminución]
+
+---
+
+### Accounting Equation Formulas [Fórmulas de la Ecuación Contable]
+
+**Basic Accounting Equation [Ecuación Contable Básica]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Capital Contable de los Accionistas}
+$$
+
+**Expanded Accounting Equation [Ecuación Contable Expandida]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Common Stock} + \text{Revenues} - \text{Expenses} - \text{Dividends}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Acciones Comunes} + \text{Ingresos} - \text{Gastos} - \text{Dividendos}
+$$
+
+**Net Income Formula [Fórmula del Ingreso Neto]:**
+
+$$
+\text{Net Income} = \text{Revenues} - \text{Expenses}
+$$
+
+$$
+\text{Ingreso Neto} = \text{Ingresos} - \text{Gastos}
+$$
+
+**Ending Retained Earnings Formula [Fórmula de Ganancias Retenidas Finales]:**
+
+$$
+\text{Ending Retained Earnings} = \text{Beginning Retained Earnings} + \text{Net Income} - \text{Dividends}
+$$
+
+$$
+\text{Ganancias Retenidas Finales} = \text{Ganancias Retenidas Iniciales} + \text{Ingreso Neto} - \text{Dividendos}
+$$
+
+---
+
+### Drive Time Delivery - Initial Accounting Equation [Ecuación Contable Inicial]
+
+**February 1 balances [Saldos del 1 de febrero]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Cash} + \text{Accounts Receivable} = \text{Accounts Payable} + \text{Common Stock} + \text{Fees Earned} - \text{Wages Expense}
+$$
+
+$$
+\$32,500 + \$5,000 = \$2,500 + \$32,500 + \$5,000 - \$2,500
+$$
+
+$$
+\$37,500 = \$37,500
+$$
+
+---
+
+### Final Accounting Equation after all transactions [Ecuación Contable Final después de todas las transacciones]
+
+**After transactions a through g [Después de las transacciones a hasta g]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Cash} + \text{Accounts Receivable} = \text{Accounts Payable} + \text{Common Stock} + \text{Fees Earned} - \text{Wages Expense} - \text{Utilities Expense} - \text{Dividends}
+$$
+
+$$
+\$33,000 + \$18,000 = \$500 + \$52,500 + \$23,000 - \$12,500 - \$3,000 - \$4,500
+$$
+
+$$
+\$51,000 = \$51,000
+$$
+
+---
+
+<h1 id="106292" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    Titulo
+  </a>
+</h1>
