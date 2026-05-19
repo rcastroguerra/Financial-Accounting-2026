@@ -33,6 +33,12 @@
 ##### [Capitulo 1-5 Financial Statements [Estados Financieros]](#106292)
 
 ##### [Capitulo 1-5a Income Statement [Estado de Resultados]](#388711)
+
+##### [Capitulo 1-5b Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable de los Accionistas]](#230958)
+
+##### [Capitulo 1-5c Balance Sheet [Balance General]](#618874)
+
+##### [Capitulo 1-5d Statement of Cash Flows [Estado de Flujos de Efectivo]](#015759)
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -1980,6 +1986,9 @@ The revenue, expenses, and net income of $3,050 for NetSolutions are reported on
 
 **Formulas [Fórmulas]:**
 
+
+**Net Income (Ingreso Neto) - when Revenues > Expenses (cuando Ingresos > Gastos):**
+
 $$
 \text{Net Income} = \text{Revenues} - \text{Expenses}
 $$
@@ -1988,6 +1997,8 @@ $$
 \text{Ingreso Neto} = \text{Ingresos} - \text{Gastos}
 $$
 
+**Net Loss (Pérdida Neta) - when Expenses > Revenues (cuando Gastos > Ingresos):**
+
 $$
 \text{Net Loss} = \text{Expenses} - \text{Revenues}
 $$
@@ -1995,6 +2006,11 @@ $$
 $$
 \text{Pérdida Neta} = \text{Gastos} - \text{Ingresos}
 $$
+
+
+
+- If the result is positive → **Net Income** (Ingreso Neto)
+- If the result is negative → **Net Loss** (Pérdida Neta)
 
 ---
 
@@ -2006,4 +2022,347 @@ Investors and other business stakeholders are increasingly concerned not only ab
 [Los inversores y otras partes interesadas en los negocios están cada vez más preocupados no solo por si una empresa obtiene un ingreso neto, sino también por el impacto de una empresa en la sociedad. Por ejemplo, una empresa que practica la **inclusividad** tiene como objetivo que cada persona tenga igualdad de derechos, apoyo, consideración y oportunidades para alcanzar su máximo potencial. Para lograr este objetivo, una empresa inclusiva promulgará políticas y procedimientos que sean acogedores y respetuosos con la raza, el origen étnico, la orientación sexual, la identidad de género, las capacidades físicas, la religión, la edad y la cultura de una persona.]
 
 ---
+<h1 id="230958" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-5b Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable de los Accionistas]
+  </a>
+</h1>
 
+The **statement of stockholders' equity [estado de cambios en el capital contable de los accionistas]** reports the changes in stockholders' equity for a period of time. It is prepared after the income statement, because the net income or net loss for the period is reported in the Retained Earnings column. It is prepared before the balance sheet, because the amount of common stock and retained earnings at the end of the period is reported on the balance sheet. Because of this, the statement of stockholders' equity is viewed as the connecting link between the income statement and the balance sheet.
+[El **estado de cambios en el capital contable de los accionistas** reporta los cambios en el capital contable de los accionistas durante un período de tiempo. Se prepara después del estado de resultados, porque el ingreso neto o la pérdida neta del período se reporta en la columna de Ganancias Retenidas. Se prepara antes del balance general, porque el monto de las acciones comunes y las ganancias retenidas al final del período se reporta en el balance general. Debido a esto, el estado de cambios en el capital contable de los accionistas se considera el vínculo de conexión entre el estado de resultados y el balance general.]
+
+---
+
+### NetSolutions Transactions [Transacciones de NetSolutions]
+
+NetSolutions had three types of transactions during November that affected its stockholders' equity:
+[NetSolutions tuvo tres tipos de transacciones durante noviembre que afectaron su capital contable de los accionistas:]
+
+1. Common stock of $25,000 issued to Chris Clark.
+   [Acciones comunes de $25,000 emitidas a Chris Clark.]
+
+2. Revenues and expenses, which resulted in net income of $3,050.
+   [Ingresos y gastos, que resultaron en un ingreso neto de $3,050.]
+
+3. Dividends of $2,000 paid to stockholders (Chris Clark).
+   [Dividendos de $2,000 pagados a los accionistas (Chris Clark).]
+
+These transactions are summarized in the statement of stockholders' equity for NetSolutions shown in **Exhibit 9**.
+[Estas transacciones se resumen en el estado de cambios en el capital contable de los accionistas para NetSolutions que se muestra en la **Figura 9**.]
+
+
+---
+
+### How the Statement is Prepared [Cómo se Prepara el Estado]
+
+Changes in each stockholders' equity element are reported in a separate column on the statement of stockholders' equity. Since NetSolutions was organized on November 1, there are no beginning balances for Common Stock or Retained Earnings. During November:
+[Los cambios en cada elemento del capital contable de los accionistas se reportan en una columna separada en el estado de cambios en el capital contable de los accionistas. Dado que NetSolutions se organizó el 1 de noviembre, no hay saldos iniciales para Acciones Comunes o Ganancias Retenidas. Durante noviembre:]
+
+- **Common Stock [Acciones Comunes]:** $25,000 was issued and is entered in the Common Stock column.
+  [**Acciones Comunes:** Se emitieron $25,000 y se ingresan en la columna de Acciones Comunes.]
+
+- **Retained Earnings [Ganancias Retenidas]:** Net income of $3,050 and dividends of $2,000 are entered, yielding an ending balance of $1,050.
+  [**Ganancias Retenidas:** Se ingresan el ingreso neto de $3,050 y los dividendos de $2,000, resultando en un saldo final de $1,050.]
+
+- **Total Column [Columna Total]:** Each change is carried over to the Total column.
+  [**Columna Total:** Cada cambio se traslada a la columna Total.]
+
+After all changes are entered, the columns are totaled, representing the final balances as of November 30. These ending balances for Common Stock and Retained Earnings and the total stockholders' equity are reported on the November 30, 20Y3, balance sheet shown in Exhibit 9.
+[Después de ingresar todos los cambios, se totalizan las columnas, representando los saldos finales al 30 de noviembre. Estos saldos finales de Acciones Comunes y Ganancias Retenidas y el capital contable total de los accionistas se reportan en el balance general del 30 de noviembre de 20Y3 que se muestra en la Figura 9.]
+
+---
+### Statement of Stockholders' Equity [Estado de Cambios en el Capital Contable]
+**For the Month Ended November 30, 20Y3**
+
+| Concept | Common Stock | Retained Earnings | Total |
+|---------|--------------|-------------------|-------|
+| Balances, November 1, 20Y3 | $0 | $0 | $0 |
+| Issued common stock | 25,000 | | 25,000 |
+| Net income | | 3,050 | 3,050 |
+| Dividends | | (2,000) | (2,000) |
+| **Balances, November 30, 20Y3** | **$25,000** | **$1,050** | **$26,050** |
+
+---
+
+### December Example [Ejemplo de Diciembre]
+
+The ending common stock and retained earnings balances for November become the beginning balances for December. To illustrate, assume that during December NetSolutions issued no common stock, earned net income of $4,055, and paid dividends of $2,000. The statement of stockholders' equity for December would be as follows:
+[Los saldos finales de acciones comunes y ganancias retenidas de noviembre se convierten en los saldos iniciales para diciembre. Para ilustrar, suponga que durante diciembre NetSolutions no emitió acciones comunes, obtuvo un ingreso neto de $4,055 y pagó dividendos de $2,000. El estado de cambios en el capital contable de los accionistas para diciembre sería el siguiente:]
+
+<img src="./img/015.png" width="800">
+
+**NetSolutions - Statement of Stockholders' Equity (December):**
+
+| Concept | Common Stock | Retained Earnings | Total |
+|---------|--------------|-------------------|-------|
+| Balances, December 1, 20Y3 | $25,000 | $1,050 | $26,050 |
+| Net income | | 4,055 | 4,055 |
+| Dividends | | (2,000) | (2,000) |
+| **Balances, December 31, 20Y3** | **$25,000** | **$3,105** | **$28,105** |
+
+---
+
+### Formulas [Fórmulas]
+
+**Basic Formula for Ending Retained Earnings [Fórmula Básica para Ganancias Retenidas Finales]:**
+
+$$
+\text{Ending Retained Earnings} = \text{Beginning Retained Earnings} + \text{Net Income} - \text{Dividends}
+$$
+
+$$
+\text{Ganancias Retenidas Finales} = \text{Ganancias Retenidas Iniciales} + \text{Ingreso Neto} - \text{Dividendos}
+$$
+
+**If there is a Net Loss instead of Net Income [Si hay Pérdida Neta en lugar de Ingreso Neto]:**
+
+$$
+\text{Ending Retained Earnings} = \text{Beginning Retained Earnings} - \text{Net Loss} - \text{Dividends}
+$$
+
+$$
+\text{Ganancias Retenidas Finales} = \text{Ganancias Retenidas Iniciales} - \text{Pérdida Neta} - \text{Dividendos}
+$$
+
+**Total Stockholders' Equity [Capital Contable Total de los Accionistas]:**
+
+$$
+\text{Total Stockholders' Equity} = \text{Common Stock} + \text{Retained Earnings}
+$$
+
+$$
+\text{Capital Contable Total} = \text{Acciones Comunes} + \text{Ganancias Retenidas}
+$$
+
+**Net Income (from Income Statement) [Ingreso Neto (del Estado de Resultados)]:**
+
+$$
+\text{Net Income} = \text{Revenues} - \text{Expenses}
+$$
+
+$$
+\text{Ingreso Neto} = \text{Ingresos} - \text{Gastos}
+$$
+
+---
+
+### Retained Earnings Statement [Estado de Ganancias Retenidas]
+
+Instead of a statement of stockholders' equity, companies may prepare a **retained earnings statement [estado de ganancias retenidas]** (A summary of the changes in the retained earnings in a corporation that have occurred during a specific period of time, such as a month or a year.)
+[En lugar de un estado de cambios en el capital contable de los accionistas, las empresas pueden preparar un **estado de ganancias retenidas** (Un resumen de los cambios en las ganancias retenidas en una corporación que han ocurrido durante un período de tiempo específico, como un mes o un año).]
+
+This is often the case when a company has few (if any) common stock transactions. In such cases, only retained earnings changes from period to period.
+[Este es a menudo el caso cuando una empresa tiene pocas (si es que tiene alguna) transacciones de acciones comunes. En tales casos, solo cambian las ganancias retenidas de un período a otro.]
+
+To illustrate, a retained earnings statement for NetSolutions for December is as follows:
+[Para ilustrar, un estado de ganancias retenidas para NetSolutions para diciembre es el siguiente:]
+
+**NetSolutions - Retained Earnings Statement [Estado de Ganancias Retenidas]:**
+
+<img src="./img/016.png" width="800">
+
+| Concept | | Amount ($) |
+|-------------------------------------------|---|-----------:|
+| Retained earnings, December 1, 20Y3 | | 1,050 |
+| Net income | 4,055 | |
+| Dividends | (2,000) | |
+| **Retained earnings, December 31, 20Y3** | | **3,105** |
+
+**Formula for Retained Earnings Statement [Fórmula para el Estado de Ganancias Retenidas]:**
+
+$$
+\text{Retained Earnings (Ending)} = \text{Retained Earnings (Beginning)} + \text{Net Income} - \text{Dividends}
+$$
+
+$$
+\text{Ganancias Retenidas (Final)} = \text{Ganancias Retenidas (Inicial)} + \text{Ingreso Neto} - \text{Dividendos}
+$$
+
+---
+
+### Key Points Summary [Resumen de Puntos Clave]
+
+| Concept | Effect on Stockholders' Equity |
+|---------|--------------------------------|
+| **Issuing Common Stock** | Increases Common Stock |
+| **Net Income** | Increases Retained Earnings |
+| **Net Loss** | Decreases Retained Earnings |
+| **Dividends** | Decreases Retained Earnings |
+
+**Order of Preparation [Orden de Preparación]:**
+
+$$
+\text{Income Statement} \rightarrow \text{Statement of Stockholders' Equity} \rightarrow \text{Balance Sheet}
+$$
+
+$$
+\text{Estado de Resultados} \rightarrow \text{Estado de Cambios en el Capital Contable} \rightarrow \text{Balance General}
+$$
+
+Since most large companies report a statement of stockholders' equity, the statement of stockholders' equity will be used throughout the remainder of this text.
+[Dado que la mayoría de las grandes empresas reportan un estado de cambios en el capital contable de los accionistas, el estado de cambios en el capital contable de los accionistas se utilizará en el resto de este texto.]
+
+---
+
+<h1 id="618874" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-5c Balance Sheet [Balance General]
+  </a>
+</h1>
+
+The **balance sheet [balance general]** in **Exhibit 9** reports the amounts of NetSolutions' assets, liabilities, and stockholders' equity as of November 30, 20Y3, in a vertical format. This form of balance sheet is commonly used and is called the **report form [forma de informe]** (A form of balance sheet with the "Liabilities" and "Stockholders' Equity" sections presented below the "Assets" section.)
+[El **balance general** en la **Figura 9** reporta los montos de los activos, pasivos y capital contable de los accionistas de NetSolutions al 30 de noviembre de 20Y3, en un formato vertical. Esta forma de balance general se usa comúnmente y se llama **forma de informe** (Una forma de balance general con las secciones de "Pasivos" y "Capital Contable de los Accionistas" presentadas debajo de la sección de "Activos").]
+
+<img src="./img/014.png" width="800" alt="Exhibit 9 - Financial Statements for NetSolutions including Balance Sheet">
+
+### Balance Sheet [Balance General]
+**November 30, 20Y3**
+
+| Concept | | Amount ($) |
+|---------|---------|------------|
+| **Assets** | | |
+| Cash | 5,900 | |
+| Supplies | 550 | |
+| Land | 20,000 | |
+| **Total assets** | | **26,450** |
+| | | |
+| **Liabilities** | | |
+| Accounts payable | 400 | |
+| | | |
+| **Stockholders' Equity** | | |
+| Common stock | 25,000 | |
+| Retained earnings | 1,050 | |
+| **Total stockholders' equity** | | **26,050** |
+| | | |
+| **Total liabilities and stockholders' equity** | | **26,450** |
+
+The asset and liability amounts are taken from the last line of the summary of transactions in **Exhibit 6**. The amounts for common stock, retained earnings, and total stockholders' equity are taken from the statement of stockholders' equity.
+[Los montos de activos y pasivos se toman de la última línea del resumen de transacciones en la **Figura 6**. Los montos de acciones comunes, ganancias retenidas y capital contable total de los accionistas se toman del estado de cambios en el capital contable de los accionistas.]
+
+The **Assets [Activos]** section of the balance sheet presents assets in the order that they will be converted into cash or used in operations. Cash is presented first, followed by receivables, supplies, prepaid insurance, and other assets. The assets of a more permanent nature are shown next, such as land, buildings, and equipment.
+[La sección de **Activos** del balance general presenta los activos en el orden en que se convertirán en efectivo o se utilizarán en las operaciones. El efectivo se presenta primero, seguido de cuentas por cobrar, suministros, seguros pagados por adelantado y otros activos. Los activos de naturaleza más permanente se muestran a continuación, como terrenos, edificios y equipos.]
+
+In the **Liabilities [Pasivos]** section of the balance sheet in Exhibit 9, accounts payable is the only liability. When there are two or more liabilities, each should be listed and the total amount of liabilities presented as follows:
+[En la sección de **Pasivos** del balance general en la Figura 9, las cuentas por pagar son el único pasivo. Cuando hay dos o más pasivos, cada uno debe enumerarse y el monto total de los pasivos presentarse de la siguiente manera:]
+
+> **Note:** The following table is a generic example, not related to NetSolutions.
+> [**Nota:** La siguiente tabla es un ejemplo genérico, no relacionado con NetSolutions.]
+
+| Liabilities [Pasivos] | Amount ($) |
+|----------------------|-----------:|
+| Accounts payable [Cuentas por pagar] | $400 |
+| Wages payable [Salarios por pagar] | 2,570 |
+| **Total liabilities [Total pasivos]** | **$2,970** |
+
+---
+
+### Balance Sheet [Balance General] (Ejemplo Hipotético)
+**November 30, 20Y3**
+
+| Concept | | Amount ($) | Changes / Adjust |
+|---------|---------|------------|------------------|
+| **Assets** | | | |
+| Cash | 5,900 | | → no change |
+| Supplies | 550 | | → no change |
+| Land | 20,000 | | → no change |
+| **Total assets** | | **26,450** | → no change |
+| | | | |
+| **Liabilities** | | | |
+| Accounts payable | 400 | | → no change |
+| Wages payable | 2,570 | | ↑ +$2,570 |
+| **Total liabilities** | | **2,970** | ↑ +$2,570 |
+| | | | |
+| **Stockholders' Equity** | | | |
+| Common stock | 25,000 | | → no change |
+| Retained earnings | (1,520) | | ↓ -$2,570 |
+| **Total stockholders' equity** | | **23,480** | ↓ -$2,570 |
+| | | | |
+| **Total liabilities and stockholders' equity** | | **26,450** | → no change |
+
+**Legend [Leyenda]:**
+- ↑ = Increase [Aumento]
+- ↓ = Decrease [Disminución]
+- → = No change [Sin cambio]
+
+---
+
+### Explanation: Why Retained Earnings must decrease [Explicación: Por qué Retained Earnings debe disminuir]
+
+The fundamental accounting equation must always remain in balance:
+[La ecuación contable fundamental debe mantenerse siempre en equilibrio:]
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Capital Contable}
+$$
+
+#### Original Balance Sheet (NetSolutions) [Balance General Original (NetSolutions)]:
+
+| Element | Value |
+|---------|-------|
+| Assets (Activos) | $26,450 |
+| Liabilities (Pasivos) | $400 |
+| Stockholders' Equity (Capital Contable) | $26,050 |
+
+**Verification [Verificación]:** $400 + $26,050 = **$26,450** ✅
+
+#### When we add Wages payable = $2,570 [Cuando añadimos Wages payable = $2,570]:
+
+If we add a new liability, total liabilities increase:
+[Si añadimos un nuevo pasivo, los pasivos totales aumentan:]
+
+| Before (Antes) | After (Después) |
+|----------------|-----------------|
+| Accounts payable = $400 | Accounts payable = $400 |
+| (No Wages payable) | Wages payable = **+$2,570** |
+| **Total liabilities = $400** | **Total liabilities = $2,970** |
+
+**Increase in liabilities [Aumento en pasivos]:** **+$2,570**
+
+#### To keep the equation in balance [Para mantener la ecuación en equilibrio]:
+
+Since **Assets do not change** ($26,450 remains the same), **Stockholders' Equity must decrease** by the same amount (+$2,570):
+[Dado que los **Activos no cambian** ($26,450 sigue igual), el **Capital Contable debe disminuir** en la misma cantidad (+$2,570):]
+
+$$
+\text{Stockholders' Equity} = \text{Assets} - \text{Liabilities}
+$$
+
+$$
+\text{Stockholders' Equity} = \$26,450 - \$2,970 = \$23,480
+$$
+
+#### Where does the decrease occur? [¿Dónde ocurre la disminución?]
+
+Stockholders' Equity is composed of:
+[El Capital Contable está compuesto por:]
+
+$$
+\text{Stockholders' Equity} = \text{Common Stock} + \text{Retained Earnings}
+$$
+
+- **Common Stock** = $25,000 (does not change because no new shares were issued)
+  [**Acciones Comunes** = $25,000 (no cambia porque no se emitieron nuevas acciones)]
+
+- **Retained Earnings** must adjust to make the total $23,480:
+  [**Ganancias Retenidas** debe ajustarse para que el total sea $23,480:]
+
+$$
+\text{Retained Earnings} = \text{Stockholders' Equity} - \text{Common Stock}
+$$
+
+$$
+\text{Retained Earnings} = \$23,480 - \$25,000 = -\$1,520
+$$
+
+
+---
+
+<h1 id="015759" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-5d Statement of Cash Flows [Estado de Flujos de Efectivo]
+  </a>
+</h1>
