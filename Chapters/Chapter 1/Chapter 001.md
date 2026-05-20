@@ -2851,10 +2851,17 @@ $$
 To illustrate, the following data (in millions of dollars) from recent balance sheets of Twitter (TWTR) and Alphabet (GOOG) are used.
 [Para ilustrar, se utilizan los siguientes datos (en millones de dólares) de balances generales recientes de Twitter (TWTR) y Alphabet (GOOG).]
 
-| Company [Empresa] | End of Year 1 - Total Liabilities [Fin de Año 1 - Pasivos Totales] | End of Year 1 - Total Stockholders' Equity [Fin de Año 1 - Patrimonio Neto Total] | End of Year 2 - Total Liabilities [Fin de Año 2 - Pasivos Totales] | End of Year 2 - Total Stockholders' Equity [Fin de Año 2 - Patrimonio Neto Total] |
-|-------------------|-----------------------------------|---------------------------------------------|-----------------------------------|---------------------------------------------|
-| Twitter | $2,365 | $5,047 | $3,357 | $6,806 |
-| Alphabet | $44,793 | $152,502 | $55,164 | $177,628 |
+| Item [Concepto] | Twitter | Alphabet |
+|-----------------|---------|----------|
+| **End of Year 1 [Fin de Año 1]** | | |
+| Total Liabilities [Pasivos Totales] | $2,365 | $44,793 |
+| Total Stockholders' Equity [Patrimonio Neto Total] | $5,047 | $152,502 |
+| **Ratio (Liabilities/Equity) [Ratio (Pasivos/Patrimonio)]** | $\frac{2,365}{5,047} = 0.47$ | $\frac{44,793}{152,502} = 0.29$ |
+| | | |
+| **End of Year 2 [Fin de Año 2]** | | |
+| Total Liabilities [Pasivos Totales] | $3,357 | $55,164 |
+| Total Stockholders' Equity [Patrimonio Neto Total] | $6,806 | $177,628 |
+| **Ratio (Liabilities/Equity) [Ratio (Pasivos/Patrimonio)]** | $\frac{3,357}{6,806} = 0.49$ | $\frac{55,164}{177,628} = 0.31$ |
 
 The ratios of liabilities to stockholders' equity for Twitter and Alphabet are computed as follows:
 [Los ratios de pasivos a patrimonio neto para Twitter y Alphabet se calculan de la siguiente manera:]
