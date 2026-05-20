@@ -39,6 +39,8 @@
 ##### [Capitulo 1-5c Balance Sheet [Balance General]](#618874)
 
 ##### [Capitulo 1-5d Statement of Cash Flows [Estado de Flujos de Efectivo]](#015759)
+
+##### [Capitulo 1-5e Interrelationships among Financial Statements [Interrelaciones entre los Estados Financieros]](#909174)
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -2543,62 +2545,90 @@ For a recent year, Twitter reported $1,340 million of cash inflows from operatin
 Based on the transactions from **Exhibit 6**, the Statement of Cash Flows for NetSolutions is as follows:
 [Basado en las transacciones de la **Figura 6**, el Estado de Flujos de Efectivo para NetSolutions es el siguiente:]
 
-**NetSolutions - Statement of Cash Flows [Estado de Flujos de Efectivo]**
-**For the Month Ended November 30, 20Y3**
+<img src="./img/017.png" width="800"></img>
 
-| Concept | | Amount ($) |
-|---------|---------|------------|
-| **Cash flows from operating activities:** | | |
-| Cash received from customers | 7,500 | |
-| Cash paid for expenses and to creditors | (4,600) | |
-| **Net cash flows from operating activities** | | **2,900** |
+
+
+
+**NetSolutions - Statement of Cash Flows [Estado de Flujos de Efectivo]**
+**For the Month Ended November 30, 20Y3 [Para el mes terminado el 30 de noviembre de 20Y3]**
+
+| Concept [Concepto] | Calculation [Cálculo] | Amount ($) [Monto ($)] |
+|--------------------|----------------------|------------------------|
+| **Cash flows from operating activities [Flujos de efectivo de actividades de operación]:** | | |
+| Cash received from customers [Efectivo recibido de clientes] | Transaction (d) | 7,500 |
+| Cash paid for expenses and to creditors [Efectivo pagado por gastos y a acreedores] | Transactions (e) + (f) = $3,650 + $950 | (4,600) |
+| **Net cash flows from operating activities [Flujo de efectivo neto de actividades de operación]** | $7,500 – $4,600 | **$2,900** |
 | | | |
-| **Cash flows from investing activities:** | | |
-| Cash paid for acquisition of land | (20,000) | |
-| **Net cash flows from investing activities** | | **(20,000)** |
+| **Cash flows from investing activities [Flujos de efectivo de actividades de inversión]:** | | |
+| Cash paid for acquisition of land [Efectivo pagado por adquisición de terreno] | Transaction (b) | (20,000) |
+| **Net cash flows from investing activities [Flujo de efectivo neto de actividades de inversión]** | | **($20,000)** |
 | | | |
-| **Cash flows from financing activities:** | | |
-| Cash received from issuing common stock | 25,000 | |
-| Cash dividends | (2,000) | |
-| **Net cash flows from financing activities** | | **23,000** |
+| **Cash flows from financing activities [Flujos de efectivo de actividades de financiamiento]:** | | |
+| Cash received from issuing common stock [Efectivo recibido por emisión de acciones comunes] | Transaction (a) | 25,000 |
+| Cash dividends [Dividendos en efectivo] | Transaction (h) | (2,000) |
+| **Net cash flows from financing activities [Flujo de efectivo neto de actividades de financiamiento]** | $25,000 – $2,000 | **$23,000** |
 | | | |
-| **Net increase in cash** | | **5,900** |
-| Cash balance, November 1, 20Y3 | | 0 |
-| **Cash balance, November 30, 20Y3** | | **5,900** |
+| **Net increase in cash [Aumento neto en efectivo]** | $2,900 + (–$20,000) + $23,000 | **$5,900** |
+| Cash balance, November 1, 20Y3 [Saldo de efectivo, 1 de noviembre de 20Y3] | | 0 |
+| **Cash balance, November 30, 20Y3 [Saldo de efectivo, 30 de noviembre de 20Y3]** | $0 + $5,900 | **$5,900** |
 
 ---
 
-### Summary of Formulas [Resumen de Fórmulas]
+### Formulas Used in This Statement [Fórmulas Usadas en Este Estado]
 
 **Net Cash Flow from Operating Activities [Flujo de Efectivo Neto de Actividades de Operación]:**
 
 $$
-\text{Net Cash Flow from Operating Activities} = \text{Cash Received from Customers} - \text{Cash Paid for Expenses and to Creditors}
+\text{Net Operating CF} = \text{Cash Received from Customers} - \text{Cash Paid for Expenses and to Creditors}
 $$
 
 $$
-\text{Flujo de Efectivo Neto de Actividades de Operación} = \text{Efectivo Recibido de Clientes} - \text{Efectivo Pagado por Gastos y a Acreedores}
+\text{CF Operación Neto} = \text{Efectivo Recibido de Clientes} - \text{Efectivo Pagado por Gastos y a Acreedores}
+$$
+
+**Net Cash Flow from Financing Activities [Flujo de Efectivo Neto de Actividades de Financiamiento]:**
+
+$$
+\text{Net Financing CF} = \text{Cash Inflows from Financing} - \text{Cash Outflows from Financing}
+$$
+
+$$
+\text{CF Financiamiento Neto} = \text{Entradas de Efectivo por Financiamiento} - \text{Salidas de Efectivo por Financiamiento}
 $$
 
 **Net Increase (Decrease) in Cash [Aumento (Disminución) Neto en Efectivo]:**
 
 $$
-\text{Net Increase in Cash} = \text{Operating CF} + \text{Investing CF} + \text{Financing CF}
+\Delta \text{Cash} = \text{Operating CF} + \text{Investing CF} + \text{Financing CF}
 $$
 
 $$
-\text{Aumento Neto en Efectivo} = \text{CF Operación} + \text{CF Inversión} + \text{CF Financiamiento}
+\Delta \text{Efectivo} = \text{CF Operación} + \text{CF Inversión} + \text{CF Financiamiento}
 $$
 
 **Ending Cash Balance [Saldo Final de Efectivo]:**
 
 $$
-\text{Ending Cash Balance} = \text{Beginning Cash Balance} + \text{Net Increase in Cash}
+\text{Ending Cash} = \text{Beginning Cash} + \Delta \text{Cash}
 $$
 
 $$
-\text{Saldo Final de Efectivo} = \text{Saldo Inicial de Efectivo} + \text{Aumento Neto en Efectivo}
+\text{Saldo Final} = \text{Saldo Inicial} + \Delta \text{Efectivo}
 $$
+
+---
+
+### Classification of Individual Transactions [Clasificación de Transacciones Individuales]
+
+| Transaction | Amount ($) | Cash Flow Activity [Actividad de Flujo de Efectivo] |
+|-------------|------------|------------------------------------------------------|
+| a. | $25,000 | Financing (Issued common stock) [Financiamiento (Emisión de acciones comunes)] |
+| b. | –20,000 | Investing (Purchase of land) [Inversión (Compra de terreno)] |
+| d. | 7,500 | Operating (Fees earned) [Operación (Honorarios ganados)] |
+| e. | –3,650 | Operating (Payment of expenses) [Operación (Pago de gastos)] |
+| f. | –950 | Operating (Payment of account payable) [Operación (Pago de cuenta por pagar)] |
+| h. | –2,000 | Financing (Paid dividends) [Financiamiento (Pago de dividendos)] |
 
 ---
 
@@ -2613,13 +2643,305 @@ $$
 **Important Note [Nota Importante]:**
 The net cash flow from operating activities ($2,900) differs from net income ($3,050) because:
 [El flujo de efectivo neto de las actividades de operación ($2,900) difiere del ingreso neto ($3,050) porque:]
-- Revenues may be recorded before cash is received
-- Expenses may be recorded before cash is paid
+- Revenues may be recorded before cash is received [Los ingresos pueden registrarse antes de recibir el efectivo]
+- Expenses may be recorded before cash is paid [Los gastos pueden registrarse antes de pagar el efectivo]
+
+---
+
+### Extending to December: Statement of Cash Flows for a Later Period [Extendiendo a Diciembre: Estado de Flujos de Efectivo para un Período Posterior]
+
+Since November is NetSolutions' first period of operations, the net cash flow for November and the November 30 cash balance are the same amount ($5,900). However, in later periods, the statement of cash flows shows a **beginning cash balance**, an **increase or decrease in cash for the period**, and an **ending cash balance**.
+[Dado que noviembre es el primer período de operaciones de NetSolutions, el flujo de efectivo neto de noviembre y el saldo de efectivo del 30 de noviembre son el mismo monto ($5,900). Sin embargo, en períodos posteriores, el estado de flujos de efectivo muestra un **saldo de efectivo inicial**, un **aumento o disminución de efectivo en el período** y un **saldo de efectivo final**].
+
+**Example [Ejemplo]:** Assume that for December NetSolutions has a **decrease in cash of $3,835**. The last three lines of NetSolutions' statement of cash flows for December would be as follows:
+[Supongamos que para diciembre NetSolutions tiene una **disminución de efectivo de $3,835**. Las últimas tres líneas del estado de flujos de efectivo de NetSolutions para diciembre serían las siguientes:]
+
+**NetSolutions - Statement of Cash Flows (December) [Estado de Flujos de Efectivo (Diciembre)]**
+**For the Month Ended December 31, 20Y3 [Para el mes terminado el 31 de diciembre de 20Y3]**
+
+| Concept [Concepto] | Amount ($) [Monto ($)] | Explanation [Explicación] |
+|--------------------|------------------------|---------------------------|
+| **Net decrease in cash [Disminución neta en efectivo]** | **($3,835)** | Negative sign means more cash went out than came in during December [El signo negativo significa que salió más efectivo del que entró durante diciembre] |
+| Cash balance, December 1, 20Y3 [Saldo de efectivo, 1 de diciembre de 20Y3] | **$5,900** | This is the ending cash balance from November 30 [Este es el saldo final de efectivo del 30 de noviembre] |
+| **Cash balance, December 31, 20Y3 [Saldo de efectivo, 31 de diciembre de 20Y3]** | **$2,065** | Calculated as: $5,900 + ($3,835) = $2,065 [Calculado como: $5,900 + ($3,835) = $2,065] |
+
+---
+
+### Explanation of the December Table [Explicación de la Tabla de Diciembre]
+
+This table demonstrates the **accumulative nature** of the Statement of Cash Flows:
+[Esta tabla demuestra la **naturaleza acumulativa** del Estado de Flujos de Efectivo:]
+
+| Element [Elemento] | Value [Valor] | Meaning [Significado] |
+|--------------------|---------------|----------------------|
+| **Cash balance, December 1** | $5,900 | Cash the company had at the start of December (what was left from November) [Efectivo que la empresa tenía al inicio de diciembre (lo que quedó de noviembre)] |
+| **Net decrease in cash** | ($3,835) | During December, the company paid out $3,835 more than it received [Durante diciembre, la empresa pagó $3,835 más de lo que recibió] |
+| **Cash balance, December 31** | $2,065 | Cash left at the end of December after the decrease [Efectivo restante al final de diciembre después de la disminución] |
+
+**Formula applied [Fórmula aplicada]:**
+
+$$
+\text{Cash Dec 31} = \text{Cash Dec 1} + \text{Net Decrease in Cash}
+$$
+
+$$
+\text{Cash Dec 31} = 5,900 + (-3,835) = 2,065
+$$
+
+$$
+\text{Saldo 31 Dic} = \text{Saldo 1 Dic} + \text{Disminución Neta en Efectivo}
+$$
+
+$$
+\text{Saldo 31 Dic} = 5,900 + (-3,835) = 2,065
+$$
+
+
+---
+
+### Visual Summary: November vs. December [Resumen Visual: Noviembre vs. Diciembre]
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    NOVEMBER (First Month)                       │
+├─────────────────────────────────────────────────────────────────┤
+│  Cash balance, November 1                 $0                    │
+│  Net increase in cash                  +$5,900                  │
+│  Cash balance, November 30              $5,900  ──────┐         │
+└─────────────────────────────────────────────────────────│───────┘
+                                                          │
+                                                          ▼ (Carries over)
+┌─────────────────────────────────────────────────────────────────┐
+│                    DECEMBER (Second Month)                      │
+├─────────────────────────────────────────────────────────────────┤
+│  Cash balance, December 1                $5,900  ←──────┘       │
+│  Net decrease in cash                  ($3,835)                 │
+│  Cash balance, December 31              $2,065                  │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### Key Takeaway [Conclusión Clave]
+
+> **The ending cash balance of one period becomes the beginning cash balance of the next period.**
+> [**El saldo de efectivo final de un período se convierte en el saldo de efectivo inicial del período siguiente.**]
+
+This is why the Statement of Cash Flows always shows three lines at the bottom:
+[Por eso el Estado de Flujos de Efectivo siempre muestra tres líneas en la parte inferior:]
+
+1. Beginning cash balance [Saldo inicial de efectivo]
+2. Net increase or decrease in cash [Aumento o disminución neta en efectivo]
+3. Ending cash balance [Saldo final de efectivo]
+
+---
 
 ---
 
 <h1 id="909174" style="color:#E65100;">
   <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
-    Titulo
+    1-5e Interrelationships among Financial Statements [Interrelaciones entre los Estados Financieros]
+
   </a>
 </h1>
+
+
+Financial statements are prepared in the order of the income statement, statement of stockholders' equity, balance sheet, and statement of cash flows. This order is important because the financial statements are interrelated. These interrelationships for NetSolutions are shown in Exhibit 9 and are described in Exhibit 10.
+[Los estados financieros se preparan en el siguiente orden: estado de resultados, estado de cambios en el patrimonio neto, balance general y estado de flujos de efectivo. Este orden es importante porque los estados financieros están interrelacionados. Estas interrelaciones para NetSolutions se muestran en la Figura 9 y se describen en la Figura 10.]
+
+---
+
+## Exhibit 10 [Figura 10]
+
+### Financial Statement Interrelationships [Interrelaciones de los Estados Financieros]
+
+| Financial Statements [Estados Financieros] | Interrelationship [Interrelación] | NetSolutions Example [Ejemplo de NetSolutions] |
+|-------------------------------------------|-----------------------------------|--------------------------------------------------|
+| **Income Statement** [Estado de Resultados] → **Statement of Stockholders' Equity** [Estado de Cambios en el Patrimonio Neto] | Net income or net loss reported on the income statement is also reported on the statement of stockholders' equity as either an addition (net income) to or deduction (net loss) from the beginning retained earnings. [La utilidad neta o pérdida neta reportada en el estado de resultados también se reporta en el estado de cambios en el patrimonio neto como una adición (utilidad neta) o deducción (pérdida neta) de las ganancias retenidas iniciales.] | NetSolutions' net income of $3,050 for November is added to the beginning retained earnings on November 1, 20Y3, of $0 on the statement of stockholders' equity. [La utilidad neta de NetSolutions de $3,050 para noviembre se suma a las ganancias retenidas iniciales del 1 de noviembre de 20Y3 de $0 en el estado de cambios en el patrimonio neto.] |
+| **Statement of Stockholders' Equity** [Estado de Cambios en el Patrimonio Neto] → **Balance Sheet** [Balance General] | Common stock, retained earnings, and total stockholders' equity at the end of the period are reported on the statement of stockholders' equity and balance sheet. [Las acciones comunes, las ganancias retenidas y el patrimonio neto total al final del período se reportan en el estado de cambios en el patrimonio neto y en el balance general.] | NetSolutions' common stock of $25,000, retained earnings of $1,050, and total stockholders' equity of $26,050 as of November 30, 20Y3, are also reported on the balance sheet. [Las acciones comunes de NetSolutions de $25,000, las ganancias retenidas de $1,050 y el patrimonio neto total de $26,050 al 30 de noviembre de 20Y3 también se reportan en el balance general.] |
+| **Balance Sheet** [Balance General] → **Statement of Cash Flows** [Estado de Flujos de Efectivo] | The cash reported on the balance sheet is also reported as the end-of-period cash on the statement of cash flows. [El efectivo reportado en el balance general también se reporta como el efectivo al final del período en el estado de flujos de efectivo.] | Cash of $5,900 reported on the balance sheet as of November 30, 20Y3, is also reported on the November statement of cash flows as the end-of-period cash. [El efectivo de $5,900 reportado en el balance general al 30 de noviembre de 20Y3 también se reporta en el estado de flujos de efectivo de noviembre como el efectivo al final del período.] |
+
+---
+
+### Summary of Interrelationships [Resumen de Interrelaciones]
+
+| Connection [Conexión] | What flows [Qué fluye] | Formula [Fórmula] |
+|-----------------------|----------------------|-------------------|
+| Income Statement → Statement of Stockholders' Equity | Net Income [Utilidad Neta] | $\text{Ending RE} = \text{Beginning RE} + \text{Net Income} - \text{Dividends}$ |
+| Statement of Stockholders' Equity → Balance Sheet | Common Stock, Retained Earnings, Total Equity [Acciones Comunes, Ganancias Retenidas, Patrimonio Total] | $\text{Total Equity} = \text{Common Stock} + \text{Retained Earnings}$ |
+| Balance Sheet → Statement of Cash Flows | Ending Cash [Efectivo Final] | $\text{Cash (Balance Sheet)} = \text{Ending Cash (SCF)}$ |
+
+---
+
+## Exhibit 11 [Figura 11]
+
+### Balance Sheet as Connecting Link [Balance General como Vínculo de Conexión]
+
+The unique role of the balance sheet as the connecting link between the statement of cash flows, income statement, and statement of stockholders' equity is illustrated in Exhibit 11 for NetSolutions.
+[El papel único del balance general como el vínculo de conexión entre el estado de flujos de efectivo, el estado de resultados y el estado de cambios en el patrimonio neto se ilustra en la Figura 11 para NetSolutions.]
+
+<img src="./img/018.png" width="800"></img>
+
+> *[Image: Diagram showing the Balance Sheet as the central link connecting all financial statements]*
+> *[Imagen: Diagrama que muestra el Balance General como el vínculo central que conecta todos los estados financieros]*
+
+---
+
+### Importance of Interrelationships [Importancia de las Interrelaciones]
+
+The preceding interrelationships are important in analyzing financial statements and the impact of transactions on a business. In addition, these interrelationships serve as a check on whether the financial statements are prepared correctly. For example, if the ending cash on the statement of cash flows does not agree with the balance sheet cash, then an error has occurred.
+[Las interrelaciones anteriores son importantes para analizar los estados financieros y el impacto de las transacciones en un negocio. Además, estas interrelaciones sirven como verificación de si los estados financieros están preparados correctamente. Por ejemplo, si el efectivo final en el estado de flujos de efectivo no coincide con el efectivo del balance general, entonces ha ocurrido un error.]
+
+---
+
+## Check Up Corner 1-2 [Verificación Rápida 1-2]
+
+### Financial Statements [Estados Financieros]
+
+Levart Travel Service's assets and liabilities at December 31, 20Y6, and its revenue and expenses for the year follow.
+[Los activos y pasivos de Levart Travel Service al 31 de diciembre de 20Y6, y sus ingresos y gastos del año son los siguientes:]
+
+| Item [Concepto] | Amount ($) [Monto ($)] | Item [Concepto] | Amount ($) [Monto ($)] |
+|-----------------|------------------------|-----------------|------------------------|
+| Accounts payable [Cuentas por pagar] | $12,200 | Land [Terreno] | $90,000 |
+| Accounts receivable [Cuentas por cobrar] | $31,350 | Miscellaneous expense [Gastos varios] | $12,950 |
+| Cash [Efectivo] | $53,050 | Office expense [Gastos de oficina] | $63,000 |
+| Common stock [Acciones comunes] | $100,000 | Supplies [Suministros] | $3,350 |
+| Fees earned [Honorarios ganados] | $263,200 | Wages expense [Gastos de salarios] | $131,700 |
+
+The retained earnings were $30,000 on January 1, 20Y6, the beginning of the year. During the year, no common stock was issued and dividends of $20,000 were paid.
+[Las ganancias retenidas fueron $30,000 el 1 de enero de 20Y6, el inicio del año. Durante el año, no se emitieron acciones comunes y se pagaron dividendos de $20,000.]
+
+**a.** Prepare an income statement for the year ended December 31, 20Y6.
+[Prepare un estado de resultados para el año terminado el 31 de diciembre de 20Y6.]
+
+**b.** Prepare a statement of stockholders' equity for the year ended December 31, 20Y6.
+[Prepare un estado de cambios en el patrimonio neto para el año terminado el 31 de diciembre de 20Y6.]
+
+**c.** Prepare a balance sheet as of December 31, 20Y6.
+[Prepare un balance general al 31 de diciembre de 20Y6.]
+
+**d.** Indicate the interrelationships of these three financial statements.
+[Indique las interrelaciones de estos tres estados financieros.]
+
+## Solution
+
+<img src="./img/019.png" width="800"></img>
+
+---
+
+## Analysis for Decision Making [Análisis para la Toma de Decisiones]
+
+### Ratio of Liabilities to Stockholders' Equity [Ratio de Pasivos a Patrimonio Neto]
+
+The basic financial statements illustrated in this chapter are useful to bankers, creditors, stockholders, and others in analyzing and interpreting the financial performance and condition of a company. Various tools and techniques that are often used to analyze and interpret a company's financial performance and condition are described and illustrated in the Analysis for Decision Making section. We begin with a method for analyzing the ability of a company to pay its creditors.
+[Los estados financieros básicos ilustrados en este capítulo son útiles para banqueros, acreedores, accionistas y otros para analizar e interpretar el rendimiento financiero y la condición de una empresa. Se describen e ilustran varias herramientas y técnicas que se utilizan a menudo para analizar e interpretar el rendimiento financiero y la condición de una empresa. Comenzamos con un método para analizar la capacidad de una empresa para pagar a sus acreedores.]
+
+The relationship between liabilities and stockholders' equity can be expressed as a **ratio of liabilities to stockholders' equity** (A comprehensive leverage ratio that measures the relationship of the claims of creditors to stockholders' equity; a solvency ratio that measures how much of the company is financed by debt and equity, computed as total liabilities divided by total stockholders' equity), as follows:
+[La relación entre pasivos y patrimonio neto se puede expresar como un **ratio de pasivos a patrimonio neto** (un ratio de apalancamiento integral que mide la relación de los reclamos de los acreedores con respecto al patrimonio neto; un ratio de solvencia que mide cuánto de la empresa está financiado por deuda y patrimonio, calculado como pasivos totales divididos por patrimonio neto total), de la siguiente manera:]
+
+$$
+\text{Ratio of Liabilities to Stockholders' Equity} = \frac{\text{Total Liabilities}}{\text{Total Stockholders' Equity}}
+$$
+
+$$
+\text{Ratio de Pasivos a Patrimonio Neto} = \frac{\text{Pasivos Totales}}{\text{Patrimonio Neto Total}}
+$$
+
+To illustrate, the following data (in millions of dollars) from recent balance sheets of Twitter (TWTR) and Alphabet (GOOG) are used.
+[Para ilustrar, se utilizan los siguientes datos (en millones de dólares) de balances generales recientes de Twitter (TWTR) y Alphabet (GOOG).]
+
+| Company [Empresa] | End of Year 1 - Total Liabilities [Fin de Año 1 - Pasivos Totales] | End of Year 1 - Total Stockholders' Equity [Fin de Año 1 - Patrimonio Neto Total] | End of Year 2 - Total Liabilities [Fin de Año 2 - Pasivos Totales] | End of Year 2 - Total Stockholders' Equity [Fin de Año 2 - Patrimonio Neto Total] |
+|-------------------|-----------------------------------|---------------------------------------------|-----------------------------------|---------------------------------------------|
+| Twitter | $2,365 | $5,047 | $3,357 | $6,806 |
+| Alphabet | $44,793 | $152,502 | $55,164 | $177,628 |
+
+The ratios of liabilities to stockholders' equity for Twitter and Alphabet are computed as follows:
+[Los ratios de pasivos a patrimonio neto para Twitter y Alphabet se calculan de la siguiente manera:]
+
+**Twitter:**
+
+$$
+\text{End of Year 1 [Fin de Año 1]} = \frac{2,365}{5,047} = 0.47
+$$
+
+$$
+\text{End of Year 2 [Fin de Año 2]} = \frac{3,357}{6,806} = 0.49
+$$
+
+**Alphabet:**
+
+$$
+\text{End of Year 1 [Fin de Año 1]} = \frac{44,793}{152,502} = 0.29
+$$
+
+$$
+\text{End of Year 2 [Fin de Año 2]} = \frac{55,164}{177,628} = 0.31
+$$
+
+---
+
+### Interpretation of the Ratio [Interpretación del Ratio]
+
+The rights of creditors to a business's assets come before the rights of stockholders. Thus, the lower the ratio of liabilities to stockholders' equity, the better able the company is to withstand poor business conditions and to pay its obligations to creditors.
+[Los derechos de los acreedores sobre los activos de un negocio vienen antes que los derechos de los accionistas. Por lo tanto, cuanto menor sea el ratio de pasivos a patrimonio neto, mejor podrá la empresa resistir malas condiciones comerciales y pagar sus obligaciones a los acreedores.]
+
+Alphabet is a very profitable company that requires very little debt. Alphabet's ratio of liabilities to stockholders' equity was 0.29 at the end of Year 1, while increasing slightly to 0.31 at the end of Year 2. Ratios less than 1.0 are protective to creditors. Thus, Alphabet's ratios indicate little creditor risk. In contrast, Twitter's ratio of liabilities to stockholders' equity of 0.49 at the end of Year 2 is over 50% more than that of Alphabet's, indicating more risk to Twitter's creditors. Creditors normally would not be concerned with a liabilities to stockholders' equity ratio of 0.49. In addition, the increase to 0.49 in Year 2 from 0.47 in Year 1 indicates only a minor decrease in protection for creditors.
+[Alphabet es una empresa muy rentable que requiere muy poca deuda. El ratio de pasivos a patrimonio neto de Alphabet fue de 0.29 al final del Año 1, mientras que aumentó ligeramente a 0.31 al final del Año 2. Los ratios inferiores a 1.0 son protectores para los acreedores. Por lo tanto, los ratios de Alphabet indican poco riesgo para los acreedores. En contraste, el ratio de pasivos a patrimonio neto de Twitter de 0.49 al final del Año 2 es más del 50% superior al de Alphabet, lo que indica más riesgo para los acreedores de Twitter. Normalmente, los acreedores no se preocuparían por un ratio de pasivos a patrimonio neto de 0.49. Además, el aumento a 0.49 en el Año 2 desde 0.47 en el Año 1 indica solo una disminución menor en la protección para los acreedores.]
+
+---
+
+### Interpretation Guide [Guía de Interpretación]
+
+| Ratio Value [Valor del Ratio] | Meaning [Significado] |
+|------------------------------|----------------------|
+| Less than 1.0 [Menos de 1.0] | Protective to creditors [Protector para los acreedores] |
+| Equal to 1.0 [Igual a 1.0] | Liabilities equal equity [Pasivos igualan al patrimonio] |
+| Greater than 1.0 [Mayor de 1.0] | More debt than equity, higher risk [Más deuda que patrimonio, mayor riesgo] |
+| Increasing over time [Aumentando con el tiempo] | Decreasing protection for creditors [Disminución de protección para los acreedores] |
+| Decreasing over time [Disminuyendo con el tiempo] | Increasing protection for creditors [Aumento de protección para los acreedores] |
+
+---
+
+## Make a Decision [Toma una Decisión]
+
+### Ratio of Liabilities to Stockholders' Equity [Ratio de Pasivos a Patrimonio Neto]
+
+| Activity [Actividad] | Description [Descripción] |
+|---------------------|---------------------------|
+| MAD 1-1 | Compare Amazon.com to Best Buy [Compara Amazon.com con Best Buy] (Continuing company analysis [Análisis continuo de empresas]) |
+| MAD 1-2 | Analyze Target for Three Years [Analiza Target durante tres años] |
+| MAD 1-3 | Analyze Walmart for Three Years [Analiza Walmart durante tres años] |
+| MAD 1-4 | Compare Target and Walmart [Compara Target y Walmart] |
+| MAD 1-5 | Compare Wendy's and Chipotle Mexican Grill [Compara Wendy's y Chipotle Mexican Grill] |
+
+---
+
+## Key Formulas Summary [Resumen de Fórmulas Clave]
+
+**Ratio of Liabilities to Stockholders' Equity [Ratio de Pasivos a Patrimonio Neto]:**
+
+$$
+\text{Ratio} = \frac{\text{Total Liabilities}}{\text{Total Stockholders' Equity}}
+$$
+
+**From Income Statement to Statement of Stockholders' Equity:**
+
+$$
+\text{Ending Retained Earnings} = \text{Beginning Retained Earnings} + \text{Net Income} - \text{Dividends}
+$$
+
+**From Statement of Stockholders' Equity to Balance Sheet:**
+
+$$
+\text{Total Stockholders' Equity} = \text{Common Stock} + \text{Retained Earnings}
+$$
+
+**From Balance Sheet to Statement of Cash Flows:**
+
+$$
+\text{Cash (Balance Sheet)} = \text{Ending Cash (Statement of Cash Flows)}
+$$
+
+---
+
