@@ -2916,7 +2916,6 @@ Alphabet is a very profitable company that requires very little debt. Alphabet's
 | MAD 1-5 | Compare Wendy's and Chipotle Mexican Grill [Compara Wendy's y Chipotle Mexican Grill] |
 
 ---
-
 ## Key Formulas Summary [Resumen de Fórmulas Clave]
 
 **Ratio of Liabilities to Stockholders' Equity [Ratio de Pasivos a Patrimonio Neto]:**
@@ -2925,22 +2924,47 @@ $$
 \text{Ratio} = \frac{\text{Total Liabilities}}{\text{Total Stockholders' Equity}}
 $$
 
+$$
+\text{Ratio} = \frac{\text{Pasivos Totales}}{\text{Patrimonio Neto Total}}
+$$
+
+---
+
 **From Income Statement to Statement of Stockholders' Equity:**
+**[Del Estado de Resultados al Estado de Cambios en el Patrimonio Neto]:**
 
 $$
 \text{Ending Retained Earnings} = \text{Beginning Retained Earnings} + \text{Net Income} - \text{Dividends}
 $$
 
+$$
+\text{Ganancias Retenidas Finales} = \text{Ganancias Retenidas Iniciales} + \text{Utilidad Neta} - \text{Dividendos}
+$$
+
+---
+
 **From Statement of Stockholders' Equity to Balance Sheet:**
+**[Del Estado de Cambios en el Patrimonio Neto al Balance General]:**
 
 $$
 \text{Total Stockholders' Equity} = \text{Common Stock} + \text{Retained Earnings}
 $$
 
+$$
+\text{Patrimonio Neto Total} = \text{Acciones Comunes} + \text{Ganancias Retenidas}
+$$
+
+---
+
 **From Balance Sheet to Statement of Cash Flows:**
+**[Del Balance General al Estado de Flujos de Efectivo]:**
 
 $$
 \text{Cash (Balance Sheet)} = \text{Ending Cash (Statement of Cash Flows)}
+$$
+
+$$
+\text{Efectivo (Balance General)} = \text{Efectivo Final (Estado de Flujos de Efectivo)}
 $$
 
 ---
