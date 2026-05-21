@@ -49,6 +49,8 @@
 ##### [Capitulo 1-6c Practice [Práctica]](#471412)
 
 ##### [Capitulo 1-6d Exercises [Ejercicios]](#332369)
+
+##### [Capitulo 1-6e Problem [Problema]](#525794)
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -4293,6 +4295,362 @@ Since the ratio decreased, the creditor's risk has **decreased**.
 | 6 | Balance Sheet | Assets = Liabilities + Equity |
 | 7 | Statement of Cash Flows | Operating, Investing, Financing activities |
 | 8 | Ratio Analysis | Liabilities to Stockholders' Equity ratio |
+
+---
+
+<h1 id="525794" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-6e Problem [Problema]
+
+  </a>
+</h1>
+
+
+
+**Cecil Jameson, Attorney-at-Law** is organized as a corporation and operated by Cecil Jameson. On July 1, 20Y4, the company has the following assets, liabilities, and common stock: cash, $1,000; accounts receivable, $3,200; supplies, $850; land, $10,000; accounts payable, $1,530; common stock, $10,000. Office space and office equipment are currently being rented, pending the construction of an office complex on land purchased last year.
+[Cecil Jameson, Abogado, está organizado como una corporación y es operado por Cecil Jameson. El 1 de julio de 20Y4, la empresa tiene los siguientes activos, pasivos y acciones comunes: efectivo, $1,000; cuentas por cobrar, $3,200; suministros, $850; terreno, $10,000; cuentas por pagar, $1,530; acciones comunes, $10,000. El espacio de oficina y el equipo de oficina se están alquilando actualmente, en espera de la construcción de un complejo de oficinas en un terreno comprado el año pasado.]
+
+---
+
+### Business Transactions during July [Transacciones comerciales durante julio]
+
+| Transaction | Description [Descripción] |
+|-------------|---------------------------|
+| a. | Received cash from clients for services, $3,928. [Recibió efectivo de clientes por servicios, $3,928.] |
+| b. | Paid creditors on account, $1,055. [Pagó a acreedores a cuenta, $1,055.] |
+| c. | Received cash from Cecil Jameson as an additional investment in exchange for common stock, $3,700. [Recibió efectivo de Cecil Jameson como inversión adicional a cambio de acciones comunes, $3,700.] |
+| d. | Paid office rent for the month, $1,200. [Pagó alquiler de oficina del mes, $1,200.] |
+| e. | Charged clients for legal services on account, $2,025. [Cobró a clientes por servicios legales a cuenta, $2,025.] |
+| f. | Purchased supplies on account, $245. [Compró suministros a cuenta, $245.] |
+| g. | Received cash from clients on account, $3,000. [Recibió efectivo de clientes a cuenta, $3,000.] |
+| h. | Received invoice for paralegal services from Legal Aid Inc. for July (to be paid on August 10), $1,635. [Recibió factura por servicios de paralegal de Legal Aid Inc. por julio (para pagar el 10 de agosto), $1,635.] |
+| i. | Paid the following: wages expense, $850; utilities expense, $325; answering service expense, $250; and miscellaneous expense, $75. [Pagó lo siguiente: gastos de salarios, $850; gastos de servicios públicos, $325; gastos de servicio de respuesta, $250; y gastos varios, $75.] |
+| j. | Determined that the cost of supplies on hand was $980; therefore, the cost of supplies used during the month was $115. [Determinó que el costo de los suministros disponibles era $980; por lo tanto, el costo de los suministros utilizados durante el mes fue $115.] |
+| k. | Paid dividends, $1,000. [Pagó dividendos, $1,000.] |
+
+---
+
+## Instructions [Instrucciones]
+
+1. Determine the amount of retained earnings as of July 1, 20Y4.
+   [Determine el monto de las ganancias retenidas al 1 de julio de 20Y4.]
+
+2. State the assets, liabilities, and stockholders' equity as of July 1 in equation form similar to that shown in this chapter. In tabular form below the equation, indicate the increases and decreases resulting from each transaction and the new balances after each transaction.
+   [Exprese los activos, pasivos y patrimonio de los accionistas al 1 de julio en forma de ecuación similar a la mostrada en este capítulo. En forma tabular debajo de la ecuación, indique los aumentos y disminuciones resultantes de cada transacción y los nuevos saldos después de cada transacción.]
+
+3. Prepare an income statement for July, a statement of stockholders' equity for July, and a balance sheet as of July 31, 20Y4.
+   [Prepare un estado de resultados para julio, un estado de cambios en el patrimonio neto para julio y un balance general al 31 de julio de 20Y4.]
+
+4. **Optional.** Prepare a statement of cash flows for July.
+   [**Opcional.** Prepare un estado de flujos de efectivo para julio.]
+
+---
+
+## Solution [Solución]
+
+### Part 1: Retained Earnings as of July 1, 20Y4 [Parte 1: Ganancias Retenidas al 1 de julio de 20Y4]
+
+**Accounting Equation [Ecuación Contable]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio de los Accionistas}
+$$
+
+$$
+\text{Stockholders' Equity} = \text{Assets} - \text{Liabilities}
+$$
+
+$$
+\text{Patrimonio} = \text{Activos} - \text{Pasivos}
+$$
+
+**Assets as of July 1, 20Y4 [Activos al 1 de julio de 20Y4]:**
+
+| Asset [Activo] | Amount (\$) [Monto ($)] |
+|----------------|------------------------|
+| Cash [Efectivo] | $1,000 |
+| Accounts receivable [Cuentas por cobrar] | 3,200 |
+| Supplies [Suministros] | 850 |
+| Land [Terreno] | 10,000 |
+| **Total assets [Total activos]** | **$15,050** |
+
+**Liabilities as of July 1, 20Y4 [Pasivos al 1 de julio de 20Y4]:**
+
+| Liability [Pasivo] | Amount (\$) [Monto (\$)] |
+|--------------------|------------------------|
+| Accounts payable [Cuentas por pagar] | $1,530 |
+| **Total liabilities [Total pasivos]** | **$1,530** |
+
+**Stockholders' Equity as of July 1, 20Y4 [Patrimonio al 1 de julio de 20Y4]:**
+
+| Equity Component [Componente del Patrimonio] | Amount (\$) [Monto (\$)] |
+|----------------------------------------------|------------------------|
+| Common stock [Acciones comunes] | $10,000 |
+| Retained earnings [Ganancias retenidas] | ? |
+| **Total stockholders' equity [Total patrimonio]** | **$13,520** |
+
+**Calculation of Retained Earnings [Cálculo de las Ganancias Retenidas]:**
+
+$$
+\text{Retained Earnings} = \text{Total Assets} - \text{Total Liabilities} - \text{Common Stock}
+$$
+
+$$
+\text{Ganancias Retenidas} = \text{Activos Totales} - \text{Pasivos Totales} - \text{Acciones Comunes}
+$$
+
+$$
+\text{Retained Earnings} = \$15,050 - \$1,530 - \$10,000 = \$3,520
+$$
+
+**Answer [Respuesta]:** Retained earnings as of July 1, 20Y4 = **$3,520**
+[Ganancias retenidas al 1 de julio de 20Y4 = **$3,520**]
+
+---
+
+### Part 2: Tabular Analysis of Transactions [Parte 2: Análisis Tabular de Transacciones]
+
+**Initial Accounting Equation (July 1, 20Y4) [Ecuación Contable Inicial (1 de julio de 20Y4)]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\$15,050 = \$1,530 + (\$10,000 + \$3,520)
+$$
+
+**Transaction Analysis Table [Tabla de Análisis de Transacciones]:**
+
+<img src="./img/020.png" width="800"></img>
+
+| Concepto | Cash | A/R | Supplies | Land | A/P | Common Stock | Ret. Earn. | Fees Earned | Rent Exp. | Wages Exp. | Utilities Exp. | Advertising Exp. | Supplies Exp. | Misc. Exp. | Dividends |
+|----------|------:|----:|----------:|-----:|----:|--------------:|------------:|------------:|----------:|------------:|---------------:|-----------------:|--------------:|-----------:|-----------:|
+| Bal. Inicial | 1,000 | 3,200 | 850 | 10,000 | 1,530 | 10,000 | 3,520 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| a | +3,928 | | | | | | | +3,928 | | | | | | | |
+| **Bal. a** | **4,928** | **3,200** | **850** | **10,000** | **1,530** | **10,000** | **3,520** | **3,928** | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| b | -1,055 | | | | -1,055 | | | | | | | | | | |
+| **Bal. b** | **3,873** | **3,200** | **850** | **10,000** | **475** | **10,000** | **3,520** | **3,928** | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| c | +3,700 | | | | | +3,700 | | | | | | | | | |
+| **Bal. c** | **7,573** | **3,200** | **850** | **10,000** | **475** | **13,700** | **3,520** | **3,928** | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| d | -1,200 | | | | | | | | 1,200 | | | | | | |
+| **Bal. d** | **6,373** | **3,200** | **850** | **10,000** | **475** | **13,700** | **3,520** | **3,928** | **1,200** | 0 | 0 | 0 | 0 | 0 | 0 |
+| e | | +2,025 | | | | | | +2,025 | | | | | | | |
+| **Bal. e** | **6,373** | **5,225** | **850** | **10,000** | **475** | **13,700** | **3,520** | **5,953** | **1,200** | 0 | 0 | 0 | 0 | 0 | 0 |
+| f | | | +245 | | +245 | | | | | | | | | | |
+| **Bal. f** | **6,373** | **5,225** | **1,095** | **10,000** | **720** | **13,700** | **3,520** | **5,953** | **1,200** | 0 | 0 | 0 | 0 | 0 | 0 |
+| g | +3,000 | -3,000 | | | | | | | | | | | | | |
+| **Bal. g** | **9,373** | **2,225** | **1,095** | **10,000** | **720** | **13,700** | **3,520** | **5,953** | **1,200** | 0 | 0 | 0 | 0 | 0 | 0 |
+| h | | | | | +1,635 | | | | | 1,635 | | | | | |
+| **Bal. h** | **9,373** | **2,225** | **1,095** | **10,000** | **2,355** | **13,700** | **3,520** | **5,953** | **1,200** | **1,635** | 0 | 0 | 0 | 0 | 0 |
+| i | -1,500 | | | | | | | | | +850 | 325 | 250 | | 75 | |
+| **Bal. i** | **7,873** | **2,225** | **1,095** | **10,000** | **2,355** | **13,700** | **3,520** | **5,953** | **1,200** | **2,485** | **325** | **250** | 0 | **75** | 0 |
+| j | | | -115 | | | | | | | | | | 115 | | |
+| **Bal. j** | **7,873** | **2,225** | **980** | **10,000** | **2,355** | **13,700** | **3,520** | **5,953** | **1,200** | **2,485** | **325** | **250** | **115** | **75** | 0 |
+| k | -1,000 | | | | | | | | | | | | | | 1,000 |
+| **Bal. Final** | **6,873** | **2,225** | **980** | **10,000** | **2,355** | **13,700** | **3,520** | **5,953** | **1,200** | **2,485** | **325** | **250** | **115** | **75** | **1,000** |
+``
+
+---
+
+### Part 3: Financial Statements [Parte 3: Estados Financieros]
+
+#### Income Statement for July [Estado de Resultados para julio]
+
+**Cecil Jameson, Attorney-at-Law**
+**Income Statement [Estado de Resultados]**
+**For the Month Ended July 31, 20Y4 [Para el mes terminado el 31 de julio de 20Y4]**
+
+## Cecil Jameson, Attorney-at-Law
+### Income Statement  
+### For the Month Ended July 31, 20Y4  
+
+| Concept [Concepto] | Amounts [Importes] | Totals [Totales] |
+|-------------------|------------------:|-----------------:|
+| Fees earned |  | 5,953 |
+| | | |
+| **Expenses** | | |
+| Paralegal expense | 1,635 | |
+| Rent expense | 1,200 | |
+| Wages expense | 850 | |
+| Utilities expense | 325 | |
+| Answering service expense | 250 | |
+| Supplies expense | 115 | |
+| Miscellaneous expense | 75 | |
+| **Total expenses** | | **(4,450)** |
+| | | |
+| **Net income** | | **1,503** |
+
+**Revenue Calculation [Cálculo de Ingresos]:**
+- Transaction a: $3,928
+- Transaction e: $2,025
+- **Total Revenue = $5,953**
+
+**Expenses Detail [Detalle de Gastos]:**
+- Wages: $850 (i)
+- Paralegal: $1,635 (h)
+- Office rent: $1,200 (d)
+- Utilities: $325 (i)
+- Answering service: $250 (i)
+- Supplies: $115 (j)
+- Miscellaneous: $75 (i)
+- **Total Expenses = $4,450**
+
+---
+
+#### Statement of Stockholders' Equity for July [Estado de Cambios en el Patrimonio Neto para julio]
+
+**Cecil Jameson, Attorney-at-Law**
+**Statement of Stockholders' Equity [Estado de Cambios en el Patrimonio Neto]**
+**For the Month Ended July 31, 20Y4 [Para el mes terminado el 31 de julio de 20Y4]**
+
+| Concept [Concepto] | Common Stock [Acciones Comunes] | Retained Earnings [Ganancias Retenidas] | Total Stockholders' Equity [Patrimonio Total] |
+|--------------------|--------------------------------|------------------------------------------|------------------------------------------------|
+| **Balances, July 1, 20Y4 [Saldo, 1 Jul 20Y4]** | **$10,000** | **$3,520** | **$13,520** |
+| Issued common stock [Emisión de acciones comunes] | +$3,700 | | +$3,700 |
+| Net income [Utilidad neta] | | +$1,503 | +$1,503 |
+| Dividends [Dividendos] | | –$1,000 | –$1,000 |
+| **Balances, July 31, 20Y4 [Saldo, 31 Jul 20Y4]** | **$13,700** | **$4,023** | **$17,723** |
+
+---
+
+#### Balance Sheet as of July 31, 20Y4 [Balance General al 31 de julio de 20Y4]
+
+**Cecil Jameson, Attorney-at-Law**
+**Balance Sheet [Balance General]**
+**July 31, 20Y4 [31 de julio de 20Y4]**
+
+## Cecil Jameson, Attorney-at-Law
+### Balance Sheet  
+### July 31, 20Y4  
+
+| Concept [Concepto] | Amounts [Importes] | Totals [Totales] |
+|-------------------|------------------:|-----------------:|
+| **Assets** | | |
+| Cash |  | 6,873 |
+| Accounts receivable |  |2,225 |
+| Supplies |  | 980|
+| Land |  |10,000 |
+| **Total assets** | | **20,078** |
+| | | |
+| **Liabilities** | | |
+| Accounts payable | | **2,355** |
+| | | |
+| **Stockholders’ Equity** | | |
+| Common stock | 13,700 | |
+| Retained earnings | 4,023 | |
+| **Total stockholders’ equity** | | **17,723** |
+| | | |
+| **Total liabilities and stockholders’ equity** | | **20,078** |
+
+**Verification [Verificación]:**
+
+$$
+\text{Assets} = \$6,873 + \$2,225 + \$980 + \$10,000 = \$20,078
+$$
+
+$$
+\text{Liabilities + Equity} = \$2,355 + \$17,723 = \$20,078
+$$
+
+$$
+\$20,078 = \$20,078 \quad \text{✓ BALANCES / CUADRA}
+$$
+
+---
+
+### Part 4: Statement of Cash Flows for July (Optional) [Parte 4: Estado de Flujos de Efectivo para julio (Opcional)]
+
+**Classification of cash transactions [Clasificación de transacciones de efectivo]:**
+
+| Transaction | Amount ($) | Activity [Actividad] |
+|-------------|------------|----------------------|
+| a. Cash from clients for services | +$3,928 | Operating |
+| b. Paid creditors on account | –$1,055 | Operating |
+| c. Additional investment | +$3,700 | Financing |
+| d. Paid office rent | –$1,200 | Operating |
+| g. Received cash from clients on account | +$3,000 | Operating |
+| i. Paid expenses (wages, utilities, answering, misc.) | –$1,500 | Operating |
+| k. Paid dividends | –$1,000 | Financing |
+
+**Cecil Jameson, Attorney-at-Law**
+**Statement of Cash Flows [Estado de Flujos de Efectivo]**
+**For the Month Ended July 31, 20Y4 [Para el mes terminado el 31 de julio de 20Y4]**
+
+
+| Concept [Concepto] | Amounts [Importes] | Totals [Totales] |
+|--------------------|--------------------|------------------|
+| **Cash flows from operating activities [Flujos de efectivo de actividades de operación]:** | | |
+| &nbsp;&nbsp;Cash received from clients [Efectivo recibido de clientes] | $6,928 | |
+| &nbsp;&nbsp;Cash paid for operating expenses [Efectivo pagado por gastos de operación] | (3,755) | |
+| **Net cash flows from operating activities** | | **$3,173** |
+| | | |
+| **Cash flows from investing activities [Flujos de efectivo de actividades de inversión]:** | | |
+| &nbsp;&nbsp;Cash paid for purchase of assets [Efectivo pagado por compra de activos] | -0- | |
+| **Net cash flows from investing activities** | | **$0** |
+| | | |
+| **Cash flows from financing activities [Flujos de efectivo de actividades de financiamiento]:** | | |
+| &nbsp;&nbsp;Cash received from issuing common stock [Efectivo recibido por emisión de acciones comunes] | $3,700 | |
+| &nbsp;&nbsp;Cash paid for dividends [Efectivo pagado por dividendos] | (1,000) | |
+| **Net cash flows from financing activities** | | **$2,700** |
+| | | |
+| **Net increase in cash [Aumento neto en efectivo]** | | **$5,873** |
+| &nbsp;&nbsp;Cash balance, July 1, 20Y4 [Saldo, 1 Jul 20Y4] |  | $1,000 |
+| **Cash balance, July 31, 20Y4 [Saldo, 31 Jul 20Y4]** | | **$6,873** |
+| | | <u><u>6,873</u></u> |
+
+**Operating Cash Flow Details [Detalle del flujo de efectivo operativo]:**
+
+| Item | Amount ($) |
+|------|------------|
+| Cash received from clients (a: $3,928 + g: $3,000) | $6,928 |
+| Cash paid to creditors on account (b) | ($1,055) |
+| Cash paid for office rent (d) | ($1,200) |
+| Cash paid for other expenses (i) | ($1,500) |
+| **Net cash from operating activities** | **$3,173** |
+
+---
+
+## Summary of Key Figures [Resumen de Cifras Clave]
+
+| Item | Amount ($) |
+|------|------------|
+| Retained earnings, July 1, 20Y4 | $3,520 |
+| Total revenue (July) | $5,953 |
+| Total expenses (July) | $4,450 |
+| Net income (July) | $1,503 |
+| Retained earnings, July 31, 20Y4 | $4,023 |
+| Total assets, July 31, 20Y4 | $20,078 |
+| Total liabilities, July 31, 20Y4 | $2,355 |
+| Total stockholders' equity, July 31, 20Y4 | $17,723 |
+| Net increase in cash (July) | $5,873 |
+| Cash balance, July 31, 20Y4 | $6,873 |
+
+---
+
+## Formulas Used [Fórmulas Utilizadas]
+
+**Accounting Equation [Ecuación Contable]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+**Retained Earnings Calculation [Cálculo de Ganancias Retenidas]:**
+
+$$
+\text{Retained Earnings} = \text{Total Assets} - \text{Total Liabilities} - \text{Common Stock}
+$$
+
+**Net Income [Utilidad Neta]:**
+
+$$
+\text{Net Income} = \text{Revenue} - \text{Expenses}
+$$
 
 ---
 
