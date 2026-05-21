@@ -41,6 +41,14 @@
 ##### [Capitulo 1-5d Statement of Cash Flows [Estado de Flujos de Efectivo]](#015759)
 
 ##### [Capitulo 1-5e Interrelationships among Financial Statements [Interrelaciones entre los Estados Financieros]](#909174)
+
+##### [Capitulo 1-6 Chapter Review [Revisión del Capítulo]](#169215)
+
+##### [Capitulo 1-6b Key Terms [Términos Clave]](#733152)
+
+##### [Capitulo 1-6c Practice [Práctica]](#471412)
+
+##### [Capitulo 1-6d Exercises [Ejercicios]](#332369)
 ---
 
 <h1 id="963349" style="color:#E65100;">
@@ -2973,6 +2981,1318 @@ $$
 $$
 \text{Efectivo (Balance General)} = \text{Efectivo Final (Estado de Flujos de Efectivo)}
 $$
+
+---
+
+<h1 id="169215" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-6 Chapter Review [Revisión del Capítulo]
+
+  </a>
+</h1>
+
+### 1. Business Activities and Accounting [Actividades Empresariales y Contabilidad]
+
+A business provides goods or services (outputs) to customers with the objective of earning a profit. Three types of businesses include service, retail, and manufacturing businesses. Businesses engage in operating, investing, and financing activities. Accounting is an information system that provides reports to users about the economic activities and condition of a business. Ethics are moral principles that guide the conduct of individuals. Good ethical conduct depends on individual character and company culture. Accountants are engaged in private accounting or public accounting.
+[Una empresa proporciona bienes o servicios (productos) a los clientes con el objetivo de obtener ganancias. Tres tipos de empresas incluyen empresas de servicios, minoristas y manufactureras. Las empresas realizan actividades de operación, inversión y financiamiento. La contabilidad es un sistema de información que proporciona informes a los usuarios sobre las actividades económicas y la condición de un negocio. La ética son principios morales que guían la conducta de los individuos. Una buena conducta ética depende del carácter individual y la cultura empresarial. Los contadores se dedican a la contabilidad privada o a la contabilidad pública.]
+
+---
+
+### 2. Generally Accepted Accounting Principles (GAAP) [Principios de Contabilidad Generalmente Aceptados (PCGA)]
+
+Generally accepted accounting principles (GAAP) are used in preparing financial statements. To be useful, financial reports should provide information that is relevant and a faithful representation of the economic activity or condition, which are enhanced by comparability, verifiability, timeliness, and understandability. GAAP is based upon the assumptions of monetary unit, time period, business entity, and going concern. The principles of measurement, historical cost, revenue recognition, and expense recognition are an integral part of GAAP. The Financial Standards Board (FASB), Securities and Exchange Commission (SEC), and International Accounting Standards Board (IASB) develop standards that are incorporated into GAAP.
+[Los principios de contabilidad generalmente aceptados (PCGA) se utilizan en la preparación de los estados financieros. Para ser útiles, los informes financieros deben proporcionar información que sea relevante y una representación fiel de la actividad o condición económica, lo que se mejora mediante la comparabilidad, verificabilidad, oportunidad y comprensibilidad. Los PCGA se basan en los supuestos de unidad monetaria, período de tiempo, entidad empresarial y negocio en marcha. Los principios de medición, costo histórico, reconocimiento de ingresos y reconocimiento de gastos son parte integral de los PCGA. El Financial Accounting Standards Board (FASB), la Securities and Exchange Commission (SEC) y el International Accounting Standards Board (IASB) desarrollan normas que se incorporan a los PCGA.]
+
+---
+
+### 3. The Accounting Equation [La Ecuación Contable]
+
+The resources owned by a business and the rights or claims to these resources may be stated in the form of an equation, as follows:
+[Los recursos propiedad de una empresa y los derechos o reclamos sobre estos recursos pueden expresarse en forma de ecuación, de la siguiente manera:]
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio}
+$$
+
+---
+
+### 4. Transactions and the Accounting Equation [Transacciones y la Ecuación Contable]
+
+All business transactions can be stated in terms of the change in one or more of the three elements of the accounting equation.
+[Todas las transacciones comerciales pueden expresarse en términos del cambio en uno o más de los tres elementos de la ecuación contable.]
+
+**Example [Ejemplo]:** An increase in an asset must be balanced by:
+[Un aumento en un activo debe ser equilibrado por:]
+- An increase in another asset (exchange) [Un aumento en otro activo (intercambio)]
+- A decrease in a liability or equity [Una disminución en un pasivo o patrimonio]
+- An increase in a liability or equity [Un aumento en un pasivo o patrimonio]
+
+---
+
+### 5. The Four Primary Financial Statements [Los Cuatro Estados Financieros Principales]
+
+The primary financial statements of a corporation are the income statement, the statement of stockholders' equity, the balance sheet, and the statement of cash flows. The income statement reports a period's net income or net loss, which is also reported on the statement of stockholders' equity. The ending common stock and retained earnings reported on the statement of stockholders' equity are also reported on the balance sheet. The ending cash balance is reported on the balance sheet and the statement of cash flows.
+[Los estados financieros principales de una corporación son el estado de resultados, el estado de cambios en el patrimonio neto, el balance general y el estado de flujos de efectivo. El estado de resultados reporta la utilidad neta o pérdida neta de un período, que también se reporta en el estado de cambios en el patrimonio neto. Las acciones comunes finales y las ganancias retenidas reportadas en el estado de cambios en el patrimonio neto también se reportan en el balance general. El saldo de efectivo final se reporta en el balance general y en el estado de flujos de efectivo.]
+
+**Order of Preparation [Orden de Preparación]:**
+
+| Order [Orden] | Financial Statement [Estado Financiero] |
+|---------------|----------------------------------------|
+| 1 | Income Statement [Estado de Resultados] |
+| 2 | Statement of Stockholders' Equity [Estado de Cambios en el Patrimonio Neto] |
+| 3 | Balance Sheet [Balance General] |
+| 4 | Statement of Cash Flows [Estado de Flujos de Efectivo] |
+
+**Interrelationships [Interrelaciones]:**
+
+| Connection [Conexión] | What flows [Qué fluye] |
+|-----------------------|----------------------|
+| Income Statement → Statement of Stockholders' Equity | Net Income / Net Loss [Utilidad Neta / Pérdida Neta] |
+| Statement of Stockholders' Equity → Balance Sheet | Ending Common Stock, Ending Retained Earnings [Acciones Comunes Finales, Ganancias Retenidas Finales] |
+| Balance Sheet → Statement of Cash Flows | Ending Cash [Efectivo Final] |
+
+---
+
+### 6. Ratio of Liabilities to Stockholders' Equity [Ratio de Pasivos a Patrimonio Neto]
+
+The relationship between liabilities and stockholders' equity can be expressed as a ratio of liabilities to stockholders' equity, which is computed as total liabilities divided by total stockholders' equity. Since the rights of creditors to a business's assets come before the rights of stockholders, the lower the ratio the better able the company is to withstand poor business conditions and to pay its obligations to creditors.
+[La relación entre pasivos y patrimonio neto se puede expresar como un ratio de pasivos a patrimonio neto, que se calcula como pasivos totales divididos por patrimonio neto total. Dado que los derechos de los acreedores sobre los activos de un negocio vienen antes que los derechos de los accionistas, cuanto menor sea el ratio, mejor podrá la empresa resistir malas condiciones comerciales y pagar sus obligaciones a los acreedores.]
+
+**Formula [Fórmula]:**
+
+$$
+\text{Ratio of Liabilities to Stockholders' Equity} = \frac{\text{Total Liabilities}}{\text{Total Stockholders' Equity}}
+$$
+
+$$
+\text{Ratio de Pasivos a Patrimonio Neto} = \frac{\text{Pasivos Totales}}{\text{Patrimonio Neto Total}}
+$$
+
+**Interpretation Guide [Guía de Interpretación]:**
+
+| Ratio Value [Valor del Ratio] | Meaning [Significado] |
+|------------------------------|----------------------|
+| Lower ratio [Ratio más bajo] | Better ability to withstand poor conditions and pay obligations [Mejor capacidad para resistir malas condiciones y pagar obligaciones] |
+| Higher ratio [Ratio más alto] | More risk for creditors [Más riesgo para los acreedores] |
+| Ratio < 1.0 [Ratio < 1.0] | Protective to creditors [Protector para los acreedores] |
+
+---
+
+## Key Formulas Summary [Resumen de Fórmulas Clave]
+
+**Accounting Equation [Ecuación Contable]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio}
+$$
+
+**Ratio of Liabilities to Stockholders' Equity [Ratio de Pasivos a Patrimonio Neto]:**
+
+$$
+\text{Ratio} = \frac{\text{Total Liabilities}}{\text{Total Stockholders' Equity}}
+$$
+
+$$
+\text{Ratio} = \frac{\text{Pasivos Totales}}{\text{Patrimonio Neto Total}}
+$$
+
+**Retained Earnings Calculation [Cálculo de Ganancias Retenidas]:**
+
+$$
+\text{Ending Retained Earnings} = \text{Beginning Retained Earnings} + \text{Net Income} - \text{Dividends}
+$$
+
+$$
+\text{Ganancias Retenidas Finales} = \text{Ganancias Retenidas Iniciales} + \text{Utilidad Neta} - \text{Dividendos}
+$$
+
+---
+
+## Quick Reference: Financial Statement Order [Referencia Rápida: Orden de los Estados Financieros]
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  1. INCOME STATEMENT [ESTADO DE RESULTADOS]                     │
+│     → Reports Net Income (or Net Loss)                          │
+│     → Net Income flows to Statement of Stockholders' Equity     │
+└────────────────────────────┬────────────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  2. STATEMENT OF STOCKHOLDERS' EQUITY                           │
+│     [ESTADO DE CAMBIOS EN EL PATRIMONIO NETO]                   │
+│     → Shows changes in Common Stock and Retained Earnings       │
+│     → Ending balances flow to Balance Sheet                     │
+└────────────────────────────┬────────────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  3. BALANCE SHEET [BALANCE GENERAL]                             │
+│     → Reports Assets, Liabilities, and Equity                   │
+│     → Assets = Liabilities + Equity                             │
+│     → Ending Cash flows to Statement of Cash Flows              │
+└────────────────────────────┬────────────────────────────────────┘
+                             │
+                             ▼
+┌─────────────────────────────────────────────────────────────────┐
+│  4. STATEMENT OF CASH FLOWS                                     │
+│     [ESTADO DE FLUJOS DE EFECTIVO]                              │
+│     → Reports operating, investing, and financing activities    │
+│     → Ending Cash must match Balance Sheet                      │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<h1 id="733152" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-6b Key Terms [Términos Clave]
+
+  </a>
+</h1>
+
+#### **account payable [cuenta por pagar]**
+> (The liability created by a purchase on account.)
+[El pasivo creado por una compra a crédito.]
+
+#### **account receivable [cuenta por cobrar]**
+> (An asset, which is a claim against the customer created by selling merchandise or services on credit.)
+[Un activo, que es un derecho de cobro contra el cliente creado por la venta de mercancías o servicios a crédito.]
+
+#### **accounting [contabilidad]**
+> (An information system that provides reports to stakeholders about the economic activities and condition of a business.)
+[Un sistema de información que proporciona informes a las partes interesadas sobre las actividades económicas y la condición de un negocio.]
+
+#### **accounting assumptions [supuestos contables]**
+> (Assumptions that provide the framework upon which accounting standards are constructed.)
+[Supuestos que proporcionan el marco sobre el cual se construyen los estándares contables.]
+
+#### **accounting equation [ecuación contable]**
+> (The equation that shows the relationship among assets, liabilities, and equity; expressed as Assets = Liabilities + Equity.)
+[La ecuación que muestra la relación entre activos, pasivos y patrimonio; expresada como Activos = Pasivos + Patrimonio.]
+
+#### **accounting principles [principios contables]**
+> (Principles that provide the framework upon which accounting standards are constructed.)
+[Principios que proporcionan el marco sobre el cual se construyen los estándares contables.]
+
+#### **accounting standards [estándares contables]**
+> (The rules that determine the accounting for individual business transactions.)
+[Las reglas que determinan la contabilidad para transacciones comerciales individuales.]
+
+#### **Accounting Standards Codification [Codificación de Estándares Contables]**
+> (An electronic database maintained by the Financial Accounting Standards Board (FASB) that contains all of the accounting standards that make up the generally accepted accounting principles (GAAP).)
+[Una base de datos electrónica mantenida por el Financial Accounting Standards Board (FASB) que contiene todos los estándares contables que componen los principios de contabilidad generalmente aceptados (PCGA).]
+
+#### **Accounting Standards Updates [Actualizaciones de Estándares Contables]**
+> (Published changes to accounting standards that are the source of updates to the Accounting Standards Codification.)
+[Cambios publicados a los estándares contables que son la fuente de actualizaciones de la Codificación de Estándares Contables.]
+
+#### **arm's-length transactions [transacciones independientes]**
+> (Transactions between two independent parties.)
+[Transacciones entre dos partes independientes.]
+
+#### **assets [activos]**
+> (The resources owned by a business.)
+[Los recursos propiedad de un negocio.]
+
+#### **balance sheet [balance general]**
+> (A list of the assets, liabilities, and stockholders' equity as of a specific date, usually at the close of the last day of a month or a year.)
+[Una lista de los activos, pasivos y patrimonio de los accionistas en una fecha específica, generalmente al cierre del último día de un mes o un año.]
+
+#### **business [negocio]**
+> (An organization in which basic resources (inputs), such as materials and labor, are assembled and processed to provide goods or services (outputs) to customers.)
+[Una organización en la que los recursos básicos (insumos), como materiales y mano de obra, se ensamblan y procesan para proporcionar bienes o servicios (productos) a los clientes.]
+
+#### **business entity assumption [supuesto de entidad comercial]**
+> (A concept of accounting that limits the economic data in the accounting system to data related directly to the activities of the business.)
+[Un concepto de contabilidad que limita los datos económicos en el sistema contable a datos relacionados directamente con las actividades del negocio.]
+
+#### **business transaction [transacción comercial]**
+> (An economic event or condition that directly changes an entity's financial condition or directly affects its results of operations.)
+[Un evento o condición económica que cambia directamente la condición financiera de una entidad o afecta directamente sus resultados de operaciones.]
+
+#### **Certified Public Accountants (CPAs) [Contadores Públicos Certificados]**
+> (Public accountant who has met a state's education, experience, and examination requirements.)
+[Contador público que ha cumplido con los requisitos de educación, experiencia y examen de un estado.]
+
+#### **common stock [acciones comunes]**
+> (Certificates issued by a corporation to investors as proof of their ownership rights; an account representing the ownership rights of investors in a corporation; a class of stock issued by a corporation that bears no preference rights.)
+[Certificados emitidos por una corporación a los inversores como prueba de sus derechos de propiedad; una cuenta que representa los derechos de propiedad de los inversores en una corporación; una clase de acciones emitidas por una corporación que no tiene derechos preferenciales.]
+
+#### **comparability [comparabilidad]**
+> (A secondary characteristic of financial information; comparability includes consistent reporting, that allows users to identify similarities and differences among reported items.)
+[Una característica secundaria de la información financiera; la comparabilidad incluye informes consistentes, que permiten a los usuarios identificar similitudes y diferencias entre los elementos reportados.]
+
+#### **corporation [corporación]**
+> (A business organized under state or federal statutes as a separate legal entity.)
+[Un negocio organizado bajo estatutos estatales o federales como una entidad legal separada.]
+
+#### **cost principle [principio de costo]**
+> (A concept of accounting that states that an asset should be recorded and maintained in the accounting records at its initial transaction price.)
+[Un concepto de contabilidad que establece que un activo debe registrarse y mantenerse en los registros contables a su precio de transacción inicial.]
+
+#### **data analytics [analítica de datos]**
+> (The science of analyzing large amounts of raw data, sometimes called "big data," to discover patterns, identify anomalies, or gain other useful insights for decision making.)
+[La ciencia de analizar grandes cantidades de datos sin procesar, a veces llamados "big data", para descubrir patrones, identificar anomalías u obtener otras ideas útiles para la toma de decisiones.]
+
+#### **dividends [dividendos]**
+> (Distributions of earnings to stockholders; an account representing the distribution of a corporation's earnings to stockholders.)
+[Distribuciones de ganancias a los accionistas; una cuenta que representa la distribución de las ganancias de una corporación a los accionistas.]
+
+#### **earnings [ganancias]**
+> (The amount by which revenues exceed expenses.)
+[La cantidad en la que los ingresos exceden los gastos.]
+
+#### **equity [patrimonio]**
+> (The rights of the owners of a business.)
+[Los derechos de los propietarios de un negocio.]
+
+#### **ethics [ética]**
+> (Moral principles that guide the conduct of individuals.)
+[Principios morales que guían la conducta de los individuos.]
+
+#### **expense recognition principle [principio de reconocimiento de gastos]**
+> (A principle, sometimes called the matching principle, that requires expenses to be recorded in the same period as the related revenue; a concept of accounting in which expenses are matched with the revenue generated during a period by those expenses.)
+[Un principio, a veces llamado principio de asociación, que requiere que los gastos se registren en el mismo período que los ingresos relacionados; un concepto de contabilidad en el que los gastos se asocian con los ingresos generados durante un período por esos gastos.]
+
+#### **expenses [gastos]**
+> (Amounts used to generate revenue; assets used up or services consumed in the process of generating revenues.)
+[Cantidades utilizadas para generar ingresos; activos utilizados o servicios consumidos en el proceso de generar ingresos.]
+
+#### **faithful representation [representación fiel]**
+> (A characteristic of financial reports that pertains to information accurately reflecting an entity's economic activity or condition.)
+[Una característica de los informes financieros que se refiere a la información que refleja con precisión la actividad o condición económica de una entidad.]
+
+#### **fees earned [honorarios ganados]**
+> (Revenue from providing services.)
+[Ingresos por la prestación de servicios.]
+
+#### **financial accounting [contabilidad financiera]**
+> (The branch of accounting that is concerned with recording transactions using generally accepted accounting principles (GAAP) for a business or other economic unit and with a periodic preparation of various statements from such records.)
+[La rama de la contabilidad que se ocupa de registrar transacciones utilizando los principios de contabilidad generalmente aceptados (PCGA) para un negocio u otra unidad económica y de la preparación periódica de varios estados a partir de dichos registros.]
+##### **Financial Accounting Standards Board (FASB) [Junta de Normas de Contabilidad > Financiera]**
+(The authoritative body that has the primary responsibility for developing accounting principles.)
+[El organismo autorizado que tiene la responsabilidad principal de desarrollar los principios contables.]
+
+#### **financial statements [estados financieros]**
+> (Financial reports that summarize the effects of events on a business.)
+[Informes financieros que resumen los efectos de los eventos en un negocio.]
+
+#### **financing activities [actividades de financiamiento]**
+> (Activities by which a company obtains funds to start and operate the company.)
+[Actividades mediante las cuales una empresa obtiene fondos para iniciar y operar la empresa.]
+
+#### **fiscal year [año fiscal]**
+> (The annual accounting period adopted by a business.)
+[El período contable anual adoptado por un negocio.]
+##### **generally accepted accounting principles (GAAP) [principios de contabilidad > generalmente aceptados (PCGA)]**
+(Generally accepted guidelines for the preparation of financial statements.)
+[Directrices generalmente aceptadas para la preparación de estados financieros.]
+
+#### **general-purpose financial statements [estados financieros de propósito general]**
+> (A type of financial accounting report that is distributed to external users. The term "general purpose" refers to the wide range of decision-making needs that the reports are designed to serve.)
+[Un tipo de informe de contabilidad financiera que se distribuye a los usuarios externos. El término "propósito general" se refiere a la amplia gama de necesidades de toma de decisiones que los informes están diseñados para servir.]
+
+#### **going concern assumption [supuesto de negocio en marcha]**
+> (An assumption that requires that financial reports be prepared assuming that the entity will continue operating in the future.)
+[Un supuesto que requiere que los informes financieros se preparen asumiendo que la entidad continuará operando en el futuro.]
+
+#### **historical cost principle [principio de costo histórico]**
+> (A concept of accounting that states that an asset should be recorded and maintained in the accounting records at its initial transaction price.)
+[Un concepto de contabilidad que establece que un activo debe registrarse y mantenerse en los registros contables a su precio de transacción inicial.]
+
+#### **income statement [estado de resultados]**
+> (A summary of the revenue and expenses for a specific period of time, such as a month or a year.)
+[Un resumen de los ingresos y gastos durante un período de tiempo específico, como un mes o un año.]
+
+#### **interest revenue [ingresos por intereses]**
+> (Earnings received for interest.)
+[Ganancias recibidas por intereses.]
+##### **International Accounting Standards Board (IASB) [Junta de Normas Internacionales de > Contabilidad]**
+(An organization that issues International Financial Reporting Standards for many countries outside the United States.)
+[Una organización que emite Normas Internacionales de Información Financiera para muchos países fuera de los Estados Unidos.]
+
+#### **investing activities [actividades de inversión]**
+> (Activities by which a company acquires long-term assets for use in the operating activities of the company.)
+[Actividades mediante las cuales una empresa adquiere activos a largo plazo para su uso en las actividades operativas de la empresa.]
+
+#### **liabilities [pasivos]**
+> (The rights of creditors that represent debts of the business.)
+[Los derechos de los acreedores que representan deudas del negocio.]
+
+#### **limited liability company (LLC) [compañía de responsabilidad limitada]**
+> (A business form consisting of one or more persons or entities filing an operating agreement with a state to conduct business with limited liability to the owners, yet treated as a partnership for tax purposes.)
+[Una forma comercial que consiste en una o más personas o entidades que presentan un acuerdo operativo ante un estado para realizar negocios con responsabilidad limitada para los propietarios, pero tratada como una sociedad para fines fiscales.]
+
+#### **managerial accounting [contabilidad gerencial]**
+> (The branch of accounting that uses both historical and estimated data in providing information that management uses in conducting daily operations, in planning future operations, and in developing overall business strategies.)
+[La rama de la contabilidad que utiliza datos históricos y estimados para proporcionar información que la gerencia utiliza en la realización de operaciones diarias, en la planificación de operaciones futuras y en el desarrollo de estrategias comerciales generales.]
+
+#### **manufacturing businesses [empresas manufactureras]**
+> (A type of business that changes basic inputs into products that are sold to individual customers.)
+[Un tipo de negocio que transforma insumos básicos en productos que se venden a clientes individuales.]
+
+#### **measurement principle [principio de medición]**
+> (A principle that requires that amounts be objective and verifiable.)
+[Un principio que requiere que las cantidades sean objetivas y verificables.]
+
+#### **monetary unit assumption [supuesto de unidad monetaria]**
+> (An accounting assumption that requires that financial reports be expressed in a single monetary unit, or currency.)
+[Un supuesto contable que requiere que los informes financieros se expresen en una sola unidad monetaria o moneda.]
+
+#### **natural business year [año comercial natural]**
+> (A fiscal year that ends when business activities have reached the lowest point in an annual operating cycle.)
+[Un año fiscal que termina cuando las actividades comerciales han alcanzado el punto más bajo en un ciclo operativo anual.]
+
+#### **net income [utilidad neta]**
+> (The amount by which revenues exceed expenses.)
+[La cantidad en la que los ingresos exceden los gastos.]
+
+#### **net loss [pérdida neta]**
+> (The amount by which expenses exceed revenues.)
+[La cantidad en la que los gastos exceden los ingresos.]
+
+#### **operating activities [actividades de operación]**
+> (Activities by which a company generates revenues from customers.)
+[Actividades mediante las cuales una empresa genera ingresos de los clientes.]
+
+#### **owner's equity [patrimonio del propietario]**
+> (The equity for a proprietorship, partnership, or a limited liability company.)
+[El patrimonio de una propiedad unipersonal, sociedad o compañía de responsabilidad limitada.]
+
+#### **partnership [sociedad]**
+> (An unincorporated business form consisting of two or more persons conducting business as co-owners for profit.)
+[Una forma comercial no incorporada que consiste en dos o más personas que realizan negocios como copropietarios con fines de lucro.]
+
+#### **prepaid expenses [gastos pagados por adelantado]**
+> (Assets created by making advanced payments for expense items, such as insurance premiums or supplies, that will be used in the business in the future.)
+[Activos creados mediante pagos anticipados por conceptos de gastos, como primas de seguros o suministros, que se utilizarán en el negocio en el futuro.]
+
+#### **private accounting [contabilidad privada]**
+> (The field of accounting whereby accountants are employed by a business firm or a not-for-profit organization.)
+[El campo de la contabilidad donde los contadores son empleados por una empresa comercial o una organización sin fines de lucro.]
+
+#### **profit [ganancia]**
+> (The difference between the amounts received from customers for goods or services provided and the amounts paid for the inputs used to provide the goods or services.)
+[La diferencia entre las cantidades recibidas de los clientes por bienes o servicios proporcionados y las cantidades pagadas por los insumos utilizados para proporcionar los bienes o servicios.]
+
+#### **proprietorship [propiedad unipersonal]**
+> (A business owned by one individual.)
+[Un negocio propiedad de un solo individuo.]
+
+#### **public accounting [contabilidad pública]**
+> (The field of accounting where accountants and their staff provide services on a fee basis.)
+[El campo de la contabilidad donde los contadores y su personal proporcionan servicios a cambio de honorarios.]
+##### **Public Company Accounting Oversight Board (PCAOB) [Junta de Supervisión Contable de > Empresas Públicas]**
+(A new oversight body for the accounting profession that was established by the Sarbanes-Oxley Act.)
+[Un nuevo organismo de supervisión para la profesión contable que fue establecido por la Ley Sarbanes-Oxley.]
+
+#### **ratio of liabilities to stockholders' equity [ratio de pasivos a patrimonio neto]**
+> (A comprehensive leverage ratio that measures the relationship of the claims of creditors to stockholders' equity; a solvency ratio that measures how much of the company is financed by debt and equity, computed as total liabilities divided by total stockholders' equity.)
+[Un ratio de apalancamiento integral que mide la relación de los reclamos de los acreedores con respecto al patrimonio neto; un ratio de solvencia que mide cuánto de la empresa está financiado por deuda y patrimonio, calculado como pasivos totales divididos por patrimonio neto total.]
+
+#### **relevant [relevante]**
+> (A characteristic of financial reports that pertains to information having the potential to impact decision making.)
+[Una característica de los informes financieros que se refiere a la información que tiene el potencial de impactar la toma de decisiones.]
+
+#### **rent revenue [ingresos por alquiler]**
+> (Earnings from property that is leased to others for use.)
+[Ganancias de propiedades que se arriendan a otros para su uso.]
+
+#### **report form [forma de informe]**
+> (A form of balance sheet with the "Liabilities" and "Stockholders' Equity" sections presented below the "Assets" section.)
+[Una forma de balance general con las secciones de "Pasivos" y "Patrimonio de los Accionistas" presentadas debajo de la sección de "Activos".]
+
+#### **retail businesses [empresas minoristas]**
+> (A type of business that purchases products from other businesses and sells them to customers.)
+[Un tipo de negocio que compra productos de otras empresas y los vende a los clientes.]
+
+#### **retained earnings [ganancias retenidas]**
+> (The stockholders' equity created from business operations through revenue and expense transactions; an account representing the net income retained in a corporation.)
+[El patrimonio de los accionistas creado a partir de las operaciones comerciales a través de transacciones de ingresos y gastos; una cuenta que representa la utilidad neta retenida en una corporación.]
+
+#### **retained earnings statement [estado de ganancias retenidas]**
+> (A summary of the changes in the retained earnings in a corporation that have occurred during a specific period of time, such as a month or a year.)
+[Un resumen de los cambios en las ganancias retenidas en una corporación que han ocurrido durante un período de tiempo específico, como un mes o un año.]
+
+#### **revenue [ingresos]**
+> (Increases in owner's equity as a result of providing services or selling goods to customers.)
+[Aumentos en el patrimonio del propietario como resultado de proporcionar servicios o vender bienes a los clientes.]
+
+#### **revenue recognition principle [principio de reconocimiento de ingresos]**
+> (A concept of accounting that states that revenues are recorded when earned, which is when the services have been performed or products have been delivered to customers.)
+[Un concepto de contabilidad que establece que los ingresos se registran cuando se ganan, es decir, cuando los servicios se han realizado o los productos se han entregado a los clientes.]
+
+#### **sales [ventas]**
+> (How revenue from the sale of merchandise is recorded; the total amount charged customers for merchandise sold, including cash sales and sales on account.)
+[Cómo se registran los ingresos por la venta de mercancías; el monto total cobrado a los clientes por la mercancía vendida, incluyendo ventas en efectivo y ventas a crédito.]
+
+#### **Sarbanes-Oxley Act (SOx) [Ley Sarbanes-Oxley]**
+> (An act passed by Congress to restore public confidence and trust in the financial statements of companies.)
+[Una ley aprobada por el Congreso para restaurar la confianza y la confianza pública en los estados financieros de las empresas.]
+
+#### **Securities and Exchange Commission (SEC) [Comisión de Bolsa y Valores]**
+> (An agency of the U.S. government that has authority over the accounting and financial disclosures for companies whose shares of ownership (stock) are traded and sold to the public.)
+[Una agencia del gobierno de los EE. UU. que tiene autoridad sobre la contabilidad y las divulgaciones financieras de las empresas cuyas acciones de propiedad (acciones) se negocian y venden al público.]
+
+#### **service businesses [empresas de servicios]**
+> (A business providing services rather than products to customers.)
+[Un negocio que proporciona servicios en lugar de productos a los clientes.]
+
+#### **statement of cash flows [estado de flujos de efectivo]**
+> (A summary of the cash receipts and cash payments for a specific period of time, such as a month or a year.)
+[Un resumen de los recibos de efectivo y los pagos de efectivo durante un período de tiempo específico, como un mes o un año.]
+
+#### **statement of stockholders' equity [estado de cambios en el patrimonio neto]**
+> (A summary of the changes in the stockholders' equity in a corporation that have occurred during a specific period of time, such as a month or a year.)
+[Un resumen de los cambios en el patrimonio de los accionistas en una corporación que han ocurrido durante un período de tiempo específico, como un mes o un año.]
+
+#### **stockholders' equity [patrimonio de los accionistas]**
+> (The ownership rights of stockholders in a corporation; the stockholders' rights to the assets in a corporation.)
+[Los derechos de propiedad de los accionistas en una corporación; los derechos de los accionistas sobre los activos de una corporación.]
+
+#### **timeliness [oportunidad]**
+> (A secondary characteristic of financial information that requires distribution of financial reports in time to influence a user's decision.)
+[Una característica secundaria de la información financiera que requiere la distribución de informes financieros a tiempo para influir en la decisión de un usuario.]
+
+#### **time period assumption [supuesto de período de tiempo]**
+> (An accounting assumption that allows a company to report its economic activities on a regular basis for a specific period of time.)
+[Un supuesto contable que permite a una empresa informar sus actividades económicas de manera regular durante un período de tiempo específico.]
+
+#### **understandability [comprensibilidad]**
+> (A secondary characteristic of financial information that requires clear and concise financial reports that facilitate user interpretation and analysis.)
+[Una característica secundaria de la información financiera que requiere informes financieros claros y concisos que faciliten la interpretación y el análisis del usuario.]
+
+#### **verifiability [verificabilidad]**
+> (A secondary characteristic of financial information that allows users to agree on the meaning of reported items.)
+[Una característica secundaria de la información financiera que permite a los usuarios acordar el significado de los elementos reportados.]
+
+---
+
+## Key Terms by Category [Términos Clave por Categoría]
+
+### Financial Statements [Estados Financieros]
+
+| English | Español |
+|---------|---------|
+| Balance sheet | Balance general |
+| Income statement | Estado de resultados |
+| Statement of cash flows | Estado de flujos de efectivo |
+| Statement of stockholders' equity | Estado de cambios en el patrimonio neto |
+| Retained earnings statement | Estado de ganancias retenidas |
+
+### Accounting Equation Elements [Elementos de la Ecuación Contable]
+
+| English | Español |
+|---------|---------|
+| Assets | Activos |
+| Liabilities | Pasivos |
+| Equity | Patrimonio |
+| Stockholders' equity | Patrimonio de los accionistas |
+| Owner's equity | Patrimonio del propietario |
+| Retained earnings | Ganancias retenidas |
+| Common stock | Acciones comunes |
+
+### Business Activities [Actividades Empresariales]
+
+| English | Español |
+|---------|---------|
+| Operating activities | Actividades de operación |
+| Investing activities | Actividades de inversión |
+| Financing activities | Actividades de financiamiento |
+
+### Types of Businesses [Tipos de Empresas]
+
+| English | Español |
+|---------|---------|
+| Service businesses | Empresas de servicios |
+| Retail businesses | Empresas minoristas |
+| Manufacturing businesses | Empresas manufactureras |
+
+### Business Forms [Formas de Negocio]
+
+| English | Español |
+|---------|---------|
+| Proprietorship | Propiedad unipersonal |
+| Partnership | Sociedad |
+| Corporation | Corporación |
+| Limited liability company (LLC) | Compañía de responsabilidad limitada |
+
+### Accounting Principles and Assumptions [Principios y Supuestos Contables]
+
+| English | Español |
+|---------|---------|
+| Cost principle / Historical cost principle | Principio de costo / Principio de costo histórico |
+| Revenue recognition principle | Principio de reconocimiento de ingresos |
+| Expense recognition principle | Principio de reconocimiento de gastos |
+| Measurement principle | Principio de medición |
+| Business entity assumption | Supuesto de entidad comercial |
+| Going concern assumption | Supuesto de negocio en marcha |
+| Monetary unit assumption | Supuesto de unidad monetaria |
+| Time period assumption | Supuesto de período de tiempo |
+
+### Qualitative Characteristics [Características Cualitativas]
+
+| English | Español |
+|---------|---------|
+| Relevant | Relevante |
+| Faithful representation | Representación fiel |
+| Comparability | Comparabilidad |
+| Verifiability | Verificabilidad |
+| Timeliness | Oportunidad |
+| Understandability | Comprensibilidad |
+
+### Ratios [Ratios]
+
+| English | Español |
+|---------|---------|
+| Ratio of liabilities to stockholders' equity | Ratio de pasivos a patrimonio neto |
+
+---
+
+<h1 id="471412" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-6c Practice [Práctica]
+
+  </a>
+</h1>
+
+---
+
+### Multiple-Choice Questions [Preguntas de Opción Múltiple]
+
+---
+
+**1.** A profit-making business operating as a separate legal entity and in which ownership is divided into shares of stock is known as a:
+[Un negocio con fines de lucro que opera como una entidad legal separada y en el que la propiedad se divide en acciones se conoce como:]
+
+- a. proprietorship. [propiedad unipersonal]
+- b. service business. [empresa de servicios]
+- c. partnership. [sociedad]
+- d. corporation. [corporación]
+
+**Answer [Respuesta]: d. corporation [corporación]**
+
+*Explanation [Explicación]: A corporation is a business organized under state or federal statutes as a separate legal entity, with ownership divided into shares of stock. [Una corporación es un negocio organizado bajo estatutos estatales o federales como una entidad legal separada, con la propiedad dividida en acciones.]*
+
+---
+
+**2.** The resources owned by a business are called:
+[Los recursos propiedad de un negocio se llaman:]
+
+- a. assets. [activos]
+- b. liabilities. [pasivos]
+- c. retained earnings. [ganancias retenidas]
+- d. common stock. [acciones comunes]
+
+**Answer [Respuesta]: a. assets [activos]**
+
+*Explanation [Explicación]: Assets are the resources owned by a business, such as cash, accounts receivable, supplies, land, and equipment. [Los activos son los recursos propiedad de un negocio, como efectivo, cuentas por cobrar, suministros, terreno y equipo.]*
+
+---
+
+**3.** A listing of a business entity's assets, liabilities, and stockholders' equity as of a specific date is a(n):
+[Una lista de los activos, pasivos y patrimonio de los accionistas de una entidad comercial en una fecha específica es un(n):]
+
+- a. balance sheet. [balance general]
+- b. income statement. [estado de resultados]
+- c. statement of stockholders' equity. [estado de cambios en el patrimonio neto]
+- d. statement of cash flows. [estado de flujos de efectivo]
+
+**Answer [Respuesta]: a. balance sheet [balance general]**
+
+*Explanation [Explicación]: The balance sheet reports assets, liabilities, and stockholders' equity as of a specific date. The other statements cover a period of time. [El balance general reporta activos, pasivos y patrimonio de los accionistas en una fecha específica. Los otros estados cubren un período de tiempo.]*
+
+---
+
+**4.** If total assets increased $20,000 during a period and total liabilities increased $12,000 during the same period, the amount and direction (increase or decrease) of the change in stockholders' equity for that period is a(n):
+[Si los activos totales aumentaron $20,000 durante un período y los pasivos totales aumentaron $12,000 durante el mismo período, el monto y la dirección (aumento o disminución) del cambio en el patrimonio de los accionistas para ese período es un(n):]
+
+- a. $32,000 increase. [$32,000 aumento]
+- b. $32,000 decrease. [$32,000 disminución]
+- c. $8,000 increase. [$8,000 aumento]
+- d. $8,000 decrease. [$8,000 disminución]
+
+**Answer [Respuesta]: c. $8,000 increase [$8,000 aumento]**
+
+*Explanation [Explicación]:*
+
+Using the accounting equation [Usando la ecuación contable]:
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio de los Accionistas}
+$$
+
+Solving for the change in stockholders' equity [Resolviendo para el cambio en el patrimonio de los accionistas]:
+
+$$
+\Delta \text{Stockholders' Equity} = \Delta \text{Assets} - \Delta \text{Liabilities}
+$$
+
+$$
+\Delta \text{Patrimonio} = \Delta \text{Activos} - \Delta \text{Pasivos}
+$$
+
+$$
+\Delta \text{Stockholders' Equity} = \$20,000 - \$12,000 = \$8,000 \text{ increase}
+$$
+
+$$
+\Delta \text{Patrimonio} = \$20,000 - \$12,000 = \$8,000 \text{ aumento}
+$$
+
+---
+
+**5.** If revenue was $45,000, expenses were $37,500, and dividends were $10,000, the amount of net income or net loss would be:
+[Si los ingresos fueron $45,000, los gastos fueron $37,500 y los dividendos fueron $10,000, el monto de la utilidad neta o pérdida neta sería:]
+
+- a. $45,000 net income. [$45,000 utilidad neta]
+- b. $7,500 net income. [$7,500 utilidad neta]
+- c. $37,500 net loss. [$37,500 pérdida neta]
+- d. $2,500 net loss. [$2,500 pérdida neta]
+
+**Answer [Respuesta]: b. $7,500 net income [$7,500 utilidad neta]**
+
+*Explanation [Explicación]:*
+
+Net income is calculated as [La utilidad neta se calcula como]:
+
+$$
+\text{Net Income} = \text{Revenue} - \text{Expenses}
+$$
+
+$$
+\text{Utilidad Neta} = \text{Ingresos} - \text{Gastos}
+$$
+
+$$
+\text{Net Income} = \$45,000 - \$37,500 = \$7,500
+$$
+
+$$
+\text{Utilidad Neta} = \$45,000 - \$37,500 = \$7,500
+$$
+
+*Note [Nota]: Dividends are not used in the calculation of net income. Dividends are distributions of earnings to stockholders and appear on the statement of stockholders' equity. [Los dividendos no se utilizan en el cálculo de la utilidad neta. Los dividendos son distribuciones de ganancias a los accionistas y aparecen en el estado de cambios en el patrimonio neto.]*
+
+---
+
+## Summary of Answers [Resumen de Respuestas]
+
+| Question [Pregunta] | Answer [Respuesta] |
+|---------------------|-------------------|
+| 1 | d. corporation [corporación] |
+| 2 | a. assets [activos] |
+| 3 | a. balance sheet [balance general] |
+| 4 | c. $8,000 increase [$8,000 aumento] |
+| 5 | b. $7,500 net income [$7,500 utilidad neta] |
+
+---
+
+## Key Formulas Used [Fórmulas Clave Utilizadas]
+
+**Accounting Equation [Ecuación Contable]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio de los Accionistas}
+$$
+
+**Solving for Change in Stockholders' Equity [Resolviendo para el Cambio en el Patrimonio]:**
+
+$$
+\Delta \text{Stockholders' Equity} = \Delta \text{Assets} - \Delta \text{Liabilities}
+$$
+
+$$
+\Delta \text{Patrimonio} = \Delta \text{Activos} - \Delta \text{Pasivos}
+$$
+
+**Net Income Calculation [Cálculo de la Utilidad Neta]:**
+
+$$
+\text{Net Income} = \text{Revenue} - \text{Expenses}
+$$
+
+$$
+\text{Utilidad Neta} = \text{Ingresos} - \text{Gastos}
+$$
+
+---
+
+## Quick Reference [Referencia Rápida]
+
+| Concept [Concepto] | Definition [Definición] |
+|--------------------|-------------------------|
+| **Corporation** | Separate legal entity, ownership divided into stock [Entidad legal separada, propiedad dividida en acciones] |
+| **Assets** | Resources owned by a business [Recursos propiedad de un negocio] |
+| **Balance Sheet** | Reports assets, liabilities, and equity at a specific date [Reporta activos, pasivos y patrimonio en una fecha específica] |
+| **Accounting Equation** | Assets = Liabilities + Equity [Activos = Pasivos + Patrimonio] |
+| **Net Income** | Revenue - Expenses [Ingresos - Gastos] |
+
+---
+
+<h1 id="332369" style="color:#E65100;">
+  <a href="#Chapter_001" style="color:inherit; text-decoration:none;">
+    1-6d Exercises [Ejercicios]
+
+  </a>
+</h1>
+
+
+
+## Exercise 1 [Ejercicio 1]
+
+### Cost Principle [Principio del Costo]
+
+**Obj. 2** - Describe generally accepted accounting principles, including the underlying assumptions and principles.
+[Describa los principios de contabilidad generalmente aceptados, incluyendo los supuestos y principios subyacentes.]
+
+On February 22, Kountry Repair Service extended an offer of $200,000 for land that had been priced for sale at $250,000. On April 3, Kountry Repair accepted the seller's counteroffer of $230,000 and bought the land for this amount. On September 15, the land was assessed at a value of $185,000 for property tax purposes. On January 9 of the next year, Kountry Repair was offered $300,000 for the land by a national retail chain. At what value should the land be recorded in Kountry Repair Service's records?
+[El 22 de febrero, Kountry Repair Service extendió una oferta de $200,000 por un terreno que había estado a la venta por $250,000. El 3 de abril, Kountry Repair aceptó la contraoferta del vendedor de $230,000 y compró el terreno por este monto. El 15 de septiembre, el terreno fue tasado en $185,000 para fines de impuestos a la propiedad. El 9 de enero del año siguiente, a Kountry Repair se le ofrecieron $300,000 por el terreno por una cadena minorista nacional. ¿A qué valor debe registrarse el terreno en los registros de Kountry Repair Service?]
+
+**Solution [Solución]:**
+
+According to the **cost principle [principio del costo]**, land should be recorded at its actual purchase price, not at its assessed value, offered price, or listing price.
+[Según el **principio del costo**, el terreno debe registrarse a su precio de compra real, no a su valor tasado, precio ofrecido o precio de lista.]
+
+$$
+\text{Recorded Value} = \text{Purchase Price} = \$230,000
+$$
+
+$$
+\text{Valor Registrado} = \text{Precio de Compra} = \$230,000
+$$
+
+**Answer [Respuesta]:** The land should be recorded at **$230,000**.
+[El terreno debe registrarse a **$230,000**.]
+
+---
+
+## Exercise 2 [Ejercicio 2]
+
+### Accounting Equation [Ecuación Contable]
+
+**Obj. 3** - State the accounting equation and define each element of the equation.
+[Exprese la ecuación contable y defina cada elemento de la ecuación.]
+
+Dream-It LLC is a motivational consulting business. At the end of its accounting period, December 31, 20Y2, Dream-It has assets of $780,000 and liabilities of $150,000. Using the accounting equation, determine the following amounts:
+[Dream-It LLC es un negocio de consultoría motivacional. Al final de su período contable, el 31 de diciembre de 20Y2, Dream-It tiene activos de $780,000 y pasivos de $150,000. Usando la ecuación contable, determine los siguientes montos:]
+
+**a.** Stockholders' equity as of December 31, 20Y2.
+[Patrimonio de los accionistas al 31 de diciembre de 20Y2.]
+
+**b.** Stockholders' equity as of December 31, 20Y3, assuming that assets increased by $90,000 and liabilities increased by $25,000 during 20Y3.
+[Patrimonio de los accionistas al 31 de diciembre de 20Y3, suponiendo que los activos aumentaron en $90,000 y los pasivos aumentaron en $25,000 durante 20Y3.]
+
+**Solution [Solución]:**
+
+**Accounting Equation [Ecuación Contable]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio de los Accionistas}
+$$
+
+Solving for Stockholders' Equity [Resolviendo para el Patrimonio de los Accionistas]:
+
+$$
+\text{Stockholders' Equity} = \text{Assets} - \text{Liabilities}
+$$
+
+$$
+\text{Patrimonio} = \text{Activos} - \text{Pasivos}
+$$
+
+**a. As of December 31, 20Y2 [Al 31 de diciembre de 20Y2]:**
+
+$$
+\text{Stockholders' Equity} = \$780,000 - \$150,000 = \$630,000
+$$
+
+$$
+\text{Patrimonio} = \$780,000 - \$150,000 = \$630,000
+$$
+
+**b. As of December 31, 20Y3 [Al 31 de diciembre de 20Y3]:**
+
+First, calculate the new asset and liability balances [Primero, calcule los nuevos saldos de activos y pasivos]:
+
+$$
+\text{Assets, Dec 31, 20Y3} = \$780,000 + \$90,000 = \$870,000
+$$
+
+$$
+\text{Activos, 31 Dic 20Y3} = \$780,000 + \$90,000 = \$870,000
+$$
+
+$$
+\text{Liabilities, Dec 31, 20Y3} = \$150,000 + \$25,000 = \$175,000
+$$
+
+$$
+\text{Pasivos, 31 Dic 20Y3} = \$150,000 + \$25,000 = \$175,000
+$$
+
+Then, calculate stockholders' equity [Luego, calcule el patrimonio de los accionistas]:
+
+$$
+\text{Stockholders' Equity} = \$870,000 - \$175,000 = \$695,000
+$$
+
+$$
+\text{Patrimonio} = \$870,000 - \$175,000 = \$695,000
+$$
+
+**Answers [Respuestas]:**
+- **a. $630,000**
+- **b. $695,000**
+
+---
+
+## Exercise 3 [Ejercicio 3]
+
+### Transactions [Transacciones]
+
+**Obj. 4** - Describe and illustrate how business transactions can be recorded in terms of the resulting change in the elements of the accounting equation.
+[Describa e ilustre cómo las transacciones comerciales pueden registrarse en términos del cambio resultante en los elementos de la ecuación contable.]
+
+Arrowhead Delivery Service is owned and operated by Gates Deeter. The following selected transactions were completed by Arrowhead Delivery during August:
+[Arrowhead Delivery Service es propiedad y es operado por Gates Deeter. Las siguientes transacciones seleccionadas fueron completadas por Arrowhead Delivery durante agosto:]
+
+1. Received cash in exchange for common stock, $25,000.
+   [Recibió efectivo a cambio de acciones comunes, $25,000.]
+
+2. Paid creditors on account, $3,750.
+   [Pagó a acreedores a cuenta, $3,750.]
+
+3. Billed customers for delivery services on account, $22,400.
+   [Facturó a clientes por servicios de entrega a cuenta, $22,400.]
+
+4. Received cash from customers on account, $11,300.
+   [Recibió efectivo de clientes a cuenta, $11,300.]
+
+5. Paid dividends, $6,000.
+   [Pagó dividendos, $6,000.]
+
+Indicate the effect of each transaction on the following accounting equation elements: Assets, Liabilities, Common Stock, Dividends, Revenue, and Expense. To illustrate, the answer to (1) follows:
+[Indique el efecto de cada transacción en los siguientes elementos de la ecuación contable: Activos, Pasivos, Acciones Comunes, Dividendos, Ingresos y Gastos. Para ilustrar, la respuesta a (1) es la siguiente:]
+
+(1) Asset (Cash) increases by $25,000; Common Stock increases by $25,000.
+[El activo (Efectivo) aumenta en $25,000; las Acciones Comunes aumentan en $25,000.]
+
+**Solution [Solución]:**
+
+| Transaction [Transacción] | Assets [Activos] | Liabilities [Pasivos] | Common Stock [Acciones Comunes] | Dividends [Dividendos] | Revenue [Ingresos] | Expense [Gastos] |
+|---------------------------|-----------------|----------------------|--------------------------------|------------------------|--------------------|------------------|
+| 1 | +$25,000 (Cash) | No effect | +$25,000 | No effect | No effect | No effect |
+| 2 | –$3,750 (Cash) | –$3,750 | No effect | No effect | No effect | No effect |
+| 3 | +$22,400 (Accounts Receivable) | No effect | No effect | No effect | +$22,400 | No effect |
+| 4 | +$11,300 (Cash); –$11,300 (Accounts Receivable) | No effect | No effect | No effect | No effect | No effect |
+| 5 | –$6,000 (Cash) | No effect | No effect | +$6,000 | No effect | No effect |
+
+---
+
+## Exercise 4 [Ejercicio 4]
+
+### Income Statement [Estado de Resultados]
+
+**Obj. 5** - Describe the financial statements of a corporation and explain how they interrelate.
+[Describa los estados financieros de una corporación y explique cómo se interrelacionan.]
+
+The revenues and expenses of Ousel Travel Service for the year ended November 30, 20Y8, follow:
+[Los ingresos y gastos de Ousel Travel Service para el año terminado el 30 de noviembre de 20Y8, son los siguientes:]
+
+| Item [Concepto] | Amount ($) [Monto ($)] |
+|-----------------|------------------------|
+| Fees earned [Honorarios ganados] | $1,475,000 |
+| Office expense [Gasto de oficina] | $320,000 |
+| Miscellaneous expense [Gastos varios] | $28,000 |
+| Wages expense [Gastos de salarios] | $885,000 |
+
+Prepare an income statement for the year ended November 30, 20Y8.
+[Prepare un estado de resultados para el año terminado el 30 de noviembre de 20Y8.]
+
+**Solution [Solución]:**
+
+**Ousel Travel Service**
+**Income Statement [Estado de Resultados]**
+**For the Year Ended November 30, 20Y8 [Para el año terminado el 30 de noviembre de 20Y8]**
+
+| Concept [Concepto] | Debit [Debe ($)] | Credit [Haber ($)] |
+|-------------------|----------------------|------------------------|
+| **Fees earned [Honorarios ganados]** | | 1,475,000 |
+| | | |
+| **Expenses [Gastos]:** | | |
+| Wages expense [Gastos de salarios] | 885,000 | |
+| Office expense [Gasto de oficina] | 320,000 | |
+| Miscellaneous expense [Gastos varios] | $\underline{28,000}$ | |
+| **Total expenses [Gastos totales]** | | $\underline{(1,233,000)}$ |
+| **Net income [Utilidad neta]** | | $\underline{\underline{242,000}}$ |
+
+**Calculations [Cálculos]:**
+
+$$
+\text{Total Expenses} = \$885,000 + \$320,000 + \$28,000 = \$1,233,000
+$$
+
+$$
+\text{Gastos Totales} = \$885,000 + \$320,000 + \$28,000 = \$1,233,000
+$$
+
+$$
+\text{Net Income} = \text{Revenue} - \text{Expenses} = \$1,475,000 - \$1,233,000 = \$242,000
+$$
+
+$$
+\text{Utilidad Neta} = \text{Ingresos} - \text{Gastos} = \$1,475,000 - \$1,233,000 = \$242,000
+$$
+
+---
+
+## Exercise 5 [Ejercicio 5]
+
+### Statement of Stockholders' Equity [Estado de Cambios en el Patrimonio Neto]
+
+**Obj. 5** - Describe the financial statements of a corporation and explain how they interrelate.
+[Describa los estados financieros de una corporación y explique cómo se interrelacionan.]
+
+Using the income statement for Ousel Travel Service from Exercise 4, prepare a statement of stockholders' equity for the year ended November 30, 20Y8. Shane Ousel invested an additional $50,000 in the business in exchange for common stock during the year and cash dividends of $30,000 were paid. As of December 1, 20Y7, common stock had a balance of $100,000 and retained earnings had a balance of $566,000.
+[Usando el estado de resultados de Ousel Travel Service del Ejercicio 4, prepare un estado de cambios en el patrimonio neto para el año terminado el 30 de noviembre de 20Y8. Shane Ousel invirtió $50,000 adicionales en el negocio a cambio de acciones comunes durante el año y se pagaron dividendos en efectivo de $30,000. Al 1 de diciembre de 20Y7, las acciones comunes tenían un saldo de $100,000 y las ganancias retenidas tenían un saldo de $566,000.]
+
+**Solution [Solución]:**
+
+**Ousel Travel Service**
+**Statement of Stockholders' Equity [Estado de Cambios en el Patrimonio Neto]**
+**For the Year Ended November 30, 20Y8 [Para el año terminado el 30 de noviembre de 20Y8]**
+
+| Concept [Concepto] | Common Stock [Acciones Comunes] | Retained Earnings [Ganancias Retenidas] | Total Stockholders' Equity [Patrimonio Total] |
+|--------------------|--------------------------------|------------------------------------------|------------------------------------------------|
+| **Balances, December 1, 20Y7 [Saldo, 1 Dic 20Y7]** | **$100,000** | **$566,000** | **$666,000** |
+| Issued common stock [Emisión de acciones comunes] | +$50,000 | | +$50,000 |
+| Net income [Utilidad neta] | | +$242,000 | +$242,000 |
+| Dividends [Dividendos] |$\underline{                }$ | $\underline{(-\$30,000)}$ | $\underline{(-\$30,000)}$ |
+| **Balances, November 30, 20Y8 [Saldo, 30 Nov 20Y8]** | $\underline{\underline{\$150,000}}$ | $\underline{\underline{\$778,000}}$ | $\underline{\underline{\$928,000}}$ |
+
+**Calculations [Cálculos]:**
+
+$$
+\text{Common Stock, Nov 30, 20Y8} = \$100,000 + \$50,000 = \$150,000
+$$
+
+$$
+\text{Acciones Comunes, 30 Nov 20Y8} = \$100,000 + \$50,000 = \$150,000
+$$
+
+$$
+\text{Retained Earnings, Nov 30, 20Y8} = \$566,000 + \$242,000 - \$30,000 = \$778,000
+$$
+
+$$
+\text{Ganancias Retenidas, 30 Nov 20Y8} = \$566,000 + \$242,000 - \$30,000 = \$778,000
+$$
+
+$$
+\text{Total Equity, Nov 30, 20Y8} = \$150,000 + \$778,000 = \$928,000
+$$
+
+$$
+\text{Patrimonio Total, 30 Nov 20Y8} = \$150,000 + \$778,000 = \$928,000
+$$
+
+---
+## Exercise 6 [Ejercicio 6]
+
+### Balance Sheet [Balance General]
+
+**Obj. 5** - Describe the financial statements of a corporation and explain how they interrelate.
+[Describa los estados financieros de una corporación y explique cómo se interrelacionan.]
+
+Using the following data for Ousel Travel Service as well as the statement of stockholders' equity from Exercise 5, prepare a balance sheet as of November 30, 20Y8:
+[Usando los siguientes datos para Ousel Travel Service, así como el estado de cambios en el patrimonio neto del Ejercicio 5, prepare un balance general al 30 de noviembre de 20Y8:]
+
+**Data provided [Datos proporcionados]:**
+
+| Item [Concepto] | Amount ($) [Monto ($)] |
+|-----------------|------------------------|
+| Accounts payable [Cuentas por pagar] | $62,500 |
+| Accounts receivable [Cuentas por cobrar] | $186,000 |
+| Cash [Efectivo] | $308,000 |
+| Common stock [Acciones comunes] | $150,000 |
+| Land [Terreno] | $480,000 |
+| Supplies [Suministros] | $16,500 |
+
+**Data from Exercise 5 [Datos del Ejercicio 5]:**
+- Retained earnings, November 30, 20Y8 = **$778,000**
+- Total stockholders' equity, November 30, 20Y8 = **$928,000**
+
+---
+
+### Solution [Solución]
+
+**Ousel Travel Service**
+**Balance Sheet [Balance General]**
+**November 30, 20Y8 [30 de noviembre de 20Y8]**
+
+**Assets [Activos]**
+
+| Concept [Concepto] | Amount ($) [Monto ($)] |
+|--------------------|------------------------|
+| Cash [Efectivo] | $308,000 |
+| Accounts receivable [Cuentas por cobrar] | 186,000 |
+| Supplies [Suministros] | 16,500 |
+| Land [Terreno] | 480,000 |
+| **Total assets [Total activos]** | **$990,500** |
+
+**Liabilities [Pasivos]**
+
+| Concept [Concepto] | Amount ($) [Monto ($)] |
+|--------------------|------------------------|
+| Accounts payable [Cuentas por pagar] | $62,500 |
+| **Total liabilities [Total pasivos]** | **$62,500** |
+
+**Stockholders' Equity [Patrimonio de los Accionistas]**
+
+| Concept [Concepto] | Amount ($) [Monto ($)] |
+|--------------------|------------------------|
+| Common stock [Acciones comunes] | $150,000 |
+| Retained earnings [Ganancias retenidas] (from Exercise 5) | 778,000 |
+| **Total stockholders' equity [Total patrimonio]** | **$928,000** |
+
+**Total liabilities and stockholders' equity [Total pasivos y patrimonio]** | **$990,500** |
+
+---
+
+### Verification [Verificación]
+
+**Accounting Equation [Ecuación Contable]:**
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio de los Accionistas}
+$$
+
+**Assets [Activos]:**
+
+$$
+\$308,000 + \$186,000 + \$16,500 + \$480,000 = \$990,500
+$$
+
+**Liabilities + Equity [Pasivos + Patrimonio]:**
+
+$$
+\$62,500 + \$928,000 = \$990,500
+$$
+
+$$
+\$990,500 = \$990,500 \quad \text{✓ BALANCES / CUADRA}
+$$
+
+---
+
+### Summary [Resumen]
+
+| Account [Cuenta] | Debit [Debe] | Credit [Haber] |
+|-----------------|--------------|----------------|
+| Cash | $308,000 | |
+| Accounts receivable | $186,000 | |
+| Supplies | $16,500 | |
+| Land | $480,000 | |
+| Accounts payable | | $62,500 |
+| Common stock | | $150,000 |
+| Retained earnings | | $778,000 |
+| **Totals** | **$990,500** | **$990,500** |
+
+
+
+---
+
+## Exercise 7 [Ejercicio 7]
+
+### Statement of Cash Flows [Estado de Flujos de Efectivo]
+
+**Obj. 5** - Describe the financial statements of a corporation and explain how they interrelate.
+[Describa los estados financieros de una corporación y explique cómo se interrelacionan.]
+
+A summary of cash flows for Ousel Travel Service for the year ended November 30, 20Y8, follows:
+[Un resumen de los flujos de efectivo de Ousel Travel Service para el año terminado el 30 de noviembre de 20Y8, es el siguiente:]
+
+| Cash flows [Flujos de efectivo] | Amount ($) [Monto ($)] |
+|--------------------------------|------------------------|
+| **Cash receipts [Recibos de efectivo]:** | |
+| Cash received from customers [Efectivo recibido de clientes] | $1,465,000 |
+| Cash received from issuing common stock [Efectivo recibido por emisión de acciones comunes] | $50,000 |
+| **Cash payments [Pagos de efectivo]:** | |
+| Cash paid for operating expenses [Efectivo pagado por gastos de operación] | $1,230,000 |
+| Cash paid for land [Efectivo pagado por terreno] | $150,000 |
+| Cash paid for dividends [Efectivo pagado por dividendos] | $30,000 |
+
+The cash balance as of December 1, 20Y7, was $203,000.
+[El saldo de efectivo al 1 de diciembre de 20Y7 era de $203,000.]
+
+Prepare a statement of cash flows for Ousel Travel Service for the year ended November 30, 20Y8.
+[Prepare un estado de flujos de efectivo de Ousel Travel Service para el año terminado el 30 de noviembre de 20Y8.]
+
+**Solution [Solución]:**
+
+First, classify each cash flow by activity:
+[Primero, clasifique cada flujo de efectivo por actividad:]
+
+| Cash Flow [Flujo de Efectivo] | Amount ($) | Activity [Actividad] |
+|------------------------------|------------|----------------------|
+| Cash received from customers | $1,465,000 | Operating [Operación] |
+| Cash paid for operating expenses | ($1,230,000) | Operating [Operación] |
+| Cash paid for land | ($150,000) | Investing [Inversión] |
+| Cash received from issuing common stock | $50,000 | Financing [Financiamiento] |
+| Cash paid for dividends | ($30,000) | Financing [Financiamiento] |
+
+**Ousel Travel Service**
+**Statement of Cash Flows [Estado de Flujos de Efectivo]**
+**For the Year Ended November 30, 20Y8 [Para el año terminado el 30 de noviembre de 20Y8]**
+
+**Ousel Travel Service**
+**Statement of Cash Flows [Estado de Flujos de Efectivo]**
+**For the Year Ended November 30, 20Y8 [Para el año terminado el 30 de noviembre de 20Y8]**
+
+| Concepto [Concept] | Amounts [Importes] |  Totals [Totales] |
+|--------------------|----------------------|------------------------|
+| **Operating activities [Actividades de operación]:** | | |
+| &nbsp;&nbsp;Cash received from customers [Efectivo recibido de clientes] | 1,465,000 |  |
+| &nbsp;&nbsp;Cash paid for operating expenses [Efectivo pagado por gastos de operación] | 1,230,000 | |
+| **Net cash from operating activities [Flujo neto de actividades de operación]** | | **235,000** |
+| | | |
+| **Investing activities [Actividades de inversión]:** | | |
+| &nbsp;&nbsp;Cash paid for purchase of land [Efectivo pagado por compra de terreno] |  | (150,000) |
+| **Net cash from investing activities [Flujo neto de actividades de inversión]** |  | (**150,000**) |
+| | | |
+| **Financing activities [Actividades de financiamiento]:** | | |
+| &nbsp;&nbsp;Cash received from issuing common stock [Efectivo recibido por emisión de acciones comunes] | 50,000 |  |
+| &nbsp;&nbsp;Cash dividends [Dividendos en efectivo] | $\underline{(30,000)}$ | |
+| **Net cash from financing activities [Flujo neto de actividades de financiamiento]** | | **20,000** |
+| | | |
+| **Net increase in cash [Aumento neto en efectivo]** | | $\underline{105,000}$ |
+| &nbsp;&nbsp;Cash balance, December 1, 20Y7 [Saldo, 1 Dic 20Y7] | | 203,000 |
+| **Cash balance, November 30, 20Y8 [Saldo, 30 Nov 20Y8]** | | $\underline{\underline{308,000}}$ |
+
+**Calculations [Cálculos]:**
+
+$$
+\text{Net Operating CF} = \$1,465,000 - \$1,230,000 = \$235,000
+$$
+
+$$
+\text{Net Investing CF} = -\$150,000
+$$
+
+$$
+\text{Net Financing CF} = \$50,000 - \$30,000 = \$20,000
+$$
+
+$$
+\text{Net Increase in Cash} = \$235,000 - \$150,000 + \$20,000 = \$105,000
+$$
+
+$$
+\text{Ending Cash Balance} = \$203,000 + \$105,000 = \$308,000
+$$
+
+---
+
+## Exercise 8 [Ejercicio 8]
+
+### Ratio of Liabilities to Stockholders' Equity [Ratio de Pasivos a Patrimonio Neto]
+
+**Obj. 6** - Describe and illustrate the use of the ratio of liabilities to stockholders' equity in evaluating a company's financial condition.
+[Describa e ilustre el uso del ratio de pasivos a patrimonio neto para evaluar la condición financiera de una empresa.]
+
+The following data were taken from Mesa Company's balance sheet:
+[Los siguientes datos fueron tomados del balance general de Mesa Company:]
+
+| Item [Concepto] | Dec. 31, 20Y6 [31 Dic 20Y6] | Dec. 31, 20Y5 [31 Dic 20Y5] |
+|-----------------|------------------------------|------------------------------|
+| Total liabilities [Pasivos totales] | $547,800 | $518,000 |
+| Total stockholders' equity [Patrimonio total] | $415,000 | $370,000 |
+
+**a.** Compute the ratio of liabilities to stockholders' equity.
+[Calcule el ratio de pasivos a patrimonio neto.]
+
+**b.** Has the creditor's risk increased or decreased from December 31, 20Y5, to December 31, 20Y6?
+[¿El riesgo del acreedor ha aumentado o disminuido del 31 de diciembre de 20Y5 al 31 de diciembre de 20Y6?]
+
+**Solution [Solución]:**
+
+**a. Compute the ratio [Calcular el ratio]:**
+
+$$
+\text{Ratio of Liabilities to Stockholders' Equity} = \frac{\text{Total Liabilities}}{\text{Total Stockholders' Equity}}
+$$
+
+$$
+\text{Ratio de Pasivos a Patrimonio Neto} = \frac{\text{Pasivos Totales}}{\text{Patrimonio Neto Total}}
+$$
+
+**For December 31, 20Y5 [Para el 31 de diciembre de 20Y5]:**
+
+$$
+\text{Ratio} = \frac{\$518,000}{\$370,000} = 1.40
+$$
+
+**For December 31, 20Y6 [Para el 31 de diciembre de 20Y6]:**
+
+$$
+\text{Ratio} = \frac{\$547,800}{\$415,000} = 1.32
+$$
+
+**b. Determine creditor risk [Determinar el riesgo del acreedor]:**
+
+The ratio decreased from **1.40 to 1.32**.
+[El ratio disminuyó de **1.40 a 1.32**.]
+
+A **lower ratio** indicates **better protection for creditors** (less risk).
+[Un **ratio más bajo** indica **mejor protección para los acreedores** (menos riesgo).]
+
+Since the ratio decreased, the creditor's risk has **decreased**.
+[Dado que el ratio disminuyó, el riesgo del acreedor ha **disminuido**.]
+
+**Answer [Respuesta]:**
+- **a. 20Y5: 1.40; 20Y6: 1.32**
+- **b. The creditor's risk has decreased. [El riesgo del acreedor ha disminuido.]**
+
+---
+
+## Summary of Exercises [Resumen de Ejercicios]
+
+| Exercise [Ejercicio] | Topic [Tema] | Key Concept [Concepto Clave] |
+|----------------------|--------------|------------------------------|
+| 1 | Cost Principle | Recording assets at purchase price |
+| 2 | Accounting Equation | Assets = Liabilities + Equity |
+| 3 | Transactions | Effect of transactions on accounting equation |
+| 4 | Income Statement | Net income = Revenue - Expenses |
+| 5 | Statement of Stockholders' Equity | Changes in common stock and retained earnings |
+| 6 | Balance Sheet | Assets = Liabilities + Equity |
+| 7 | Statement of Cash Flows | Operating, Investing, Financing activities |
+| 8 | Ratio Analysis | Liabilities to Stockholders' Equity ratio |
 
 ---
 
