@@ -4508,6 +4508,10 @@ $$
 **Statement of Stockholders' Equity [Estado de Cambios en el Patrimonio Neto]**
 **For the Month Ended July 31, 20Y4 [Para el mes terminado el 31 de julio de 20Y4]**
 
+## Cecil Jameson, Attorney-at-Law
+### Statement of Stockholders' Equity 
+### For the Month Ended July 31, 20Y4 
+
 | Concept [Concepto] | Common Stock [Acciones Comunes] | Retained Earnings [Ganancias Retenidas] | Total Stockholders' Equity [Patrimonio Total] |
 |--------------------|--------------------------------|------------------------------------------|------------------------------------------------|
 | **Balances, July 1, 20Y4 [Saldo, 1 Jul 20Y4]** | **$10,000** | **$3,520** | **$13,520** |
