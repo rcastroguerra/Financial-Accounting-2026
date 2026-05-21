@@ -3937,8 +3937,8 @@ Prepare an income statement for the year ended November 30, 20Y8.
 **Income Statement [Estado de Resultados]**
 **For the Year Ended November 30, 20Y8 [Para el año terminado el 30 de noviembre de 20Y8]**
 
-| Concept [Concepto] | Debit [Debe ($)] | Credit [Haber ($)] |
-|-------------------|----------------------|------------------------|
+| Concept [Concepto] | Amounts [Importes] | Totals [Totales] |
+|--------------------|--------------------|------------------|
 | **Fees earned [Honorarios ganados]** | | 1,475,000 |
 | | | |
 | **Expenses [Gastos]:** | | |
@@ -4138,7 +4138,7 @@ $$
 A summary of cash flows for Ousel Travel Service for the year ended November 30, 20Y8, follows:
 [Un resumen de los flujos de efectivo de Ousel Travel Service para el año terminado el 30 de noviembre de 20Y8, es el siguiente:]
 
-| Cash flows [Flujos de efectivo] | Amount ($) [Monto ($)] |
+| Cash flows [Flujos de efectivo] | Amount [Monto ($)] |
 |--------------------------------|------------------------|
 | **Cash receipts [Recibos de efectivo]:** | |
 | Cash received from customers [Efectivo recibido de clientes] | $1,465,000 |
