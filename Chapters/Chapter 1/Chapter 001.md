@@ -2230,7 +2230,7 @@ The **balance sheet [balance general]** in **Exhibit 9** reports the amounts of 
 ### Balance Sheet [Balance General]
 **November 30, 20Y3**
 
-| Concept | | Amount ($) |
+| Concept |Amount ($) | Totals |
 |---------|---------|------------|
 | **Assets** | | |
 | Cash | 5,900 | |
@@ -2240,6 +2240,7 @@ The **balance sheet [balance general]** in **Exhibit 9** reports the amounts of 
 | | | |
 | **Liabilities** | | |
 | Accounts payable | 400 | |
+| Total liabilities |  |400 |
 | | | |
 | **Stockholders' Equity** | | |
 | Common stock | 25,000 | |
@@ -2563,7 +2564,7 @@ Based on the transactions from **Exhibit 6**, the Statement of Cash Flows for Ne
 **NetSolutions - Statement of Cash Flows [Estado de Flujos de Efectivo]**
 **For the Month Ended November 30, 20Y3 [Para el mes terminado el 30 de noviembre de 20Y3]**
 
-| Concept [Concepto] | Calculation [Cálculo] | Amount ($) [Monto ($)] |
+| Concept [Concepto] | Calculation [Cálculo] | Amount (\$) [Monto ($)] |
 |--------------------|----------------------|------------------------|
 | **Cash flows from operating activities [Flujos de efectivo de actividades de operación]:** | | |
 | Cash received from customers [Efectivo recibido de clientes] | Transaction (d) | 7,500 |
@@ -2669,7 +2670,7 @@ Since November is NetSolutions' first period of operations, the net cash flow fo
 **NetSolutions - Statement of Cash Flows (December) [Estado de Flujos de Efectivo (Diciembre)]**
 **For the Month Ended December 31, 20Y3 [Para el mes terminado el 31 de diciembre de 20Y3]**
 
-| Concept [Concepto] | Amount ($) [Monto ($)] | Explanation [Explicación] |
+| Concept [Concepto] | Amount (\$) [Monto (\$)] | Explanation [Explicación] |
 |--------------------|------------------------|---------------------------|
 | **Net decrease in cash [Disminución neta en efectivo]** | **($3,835)** | Negative sign means more cash went out than came in during December [El signo negativo significa que salió más efectivo del que entró durante diciembre] |
 | Cash balance, December 1, 20Y3 [Saldo de efectivo, 1 de diciembre de 20Y3] | **$5,900** | This is the ending cash balance from November 30 [Este es el saldo final de efectivo del 30 de noviembre] |
@@ -2811,7 +2812,7 @@ The preceding interrelationships are important in analyzing financial statements
 Levart Travel Service's assets and liabilities at December 31, 20Y6, and its revenue and expenses for the year follow.
 [Los activos y pasivos de Levart Travel Service al 31 de diciembre de 20Y6, y sus ingresos y gastos del año son los siguientes:]
 
-| Item [Concepto] | Amount ($) [Monto ($)] | Item [Concepto] | Amount ($) [Monto ($)] |
+| Item [Concepto] | Amount (\$) [Monto ($)] | Item [Concepto] | Amount (\$) [Monto ($)] |
 |-----------------|------------------------|-----------------|------------------------|
 | Accounts payable [Cuentas por pagar] | $12,200 | Land [Terreno] | $90,000 |
 | Accounts receivable [Cuentas por cobrar] | $31,350 | Miscellaneous expense [Gastos varios] | $12,950 |
@@ -4033,7 +4034,7 @@ Using the following data for Ousel Travel Service as well as the statement of st
 
 **Data provided [Datos proporcionados]:**
 
-| Item [Concepto] | Amount ($) [Monto ($)] |
+| Item [Concepto] | Amount (\$) [Monto ($)] |
 |-----------------|------------------------|
 | Accounts payable [Cuentas por pagar] | $62,500 |
 | Accounts receivable [Cuentas por cobrar] | $186,000 |
@@ -4056,7 +4057,7 @@ Using the following data for Ousel Travel Service as well as the statement of st
 
 **Assets [Activos]**
 
-| Concept [Concepto] | Amount ($) [Monto ($)] |
+| Concept [Concepto] | Amount (\$) [Monto ($)] |
 |--------------------|------------------------|
 | Cash [Efectivo] | $308,000 |
 | Accounts receivable [Cuentas por cobrar] | 186,000 |
@@ -4066,14 +4067,14 @@ Using the following data for Ousel Travel Service as well as the statement of st
 
 **Liabilities [Pasivos]**
 
-| Concept [Concepto] | Amount ($) [Monto ($)] |
+| Concept [Concepto] | Amount (\$) [Monto ($)] |
 |--------------------|------------------------|
 | Accounts payable [Cuentas por pagar] | $62,500 |
 | **Total liabilities [Total pasivos]** | **$62,500** |
 
 **Stockholders' Equity [Patrimonio de los Accionistas]**
 
-| Concept [Concepto] | Amount ($) [Monto ($)] |
+| Concept [Concepto] | Amount (\$) [Monto ($)] |
 |--------------------|------------------------|
 | Common stock [Acciones comunes] | $150,000 |
 | Retained earnings [Ganancias retenidas] (from Exercise 5) | 778,000 |
@@ -4140,7 +4141,7 @@ $$
 A summary of cash flows for Ousel Travel Service for the year ended November 30, 20Y8, follows:
 [Un resumen de los flujos de efectivo de Ousel Travel Service para el año terminado el 30 de noviembre de 20Y8, es el siguiente:]
 
-| Cash flows [Flujos de efectivo] | Amount [Monto ($)] |
+| Cash flows [Flujos de efectivo] | Amount [Monto (\$)] |
 |--------------------------------|------------------------|
 | **Cash receipts [Recibos de efectivo]:** | |
 | Cash received from customers [Efectivo recibido de clientes] | $1,465,000 |
@@ -4585,6 +4586,7 @@ $$
 **Statement of Cash Flows [Estado de Flujos de Efectivo]**
 **For the Month Ended July 31, 20Y4 [Para el mes terminado el 31 de julio de 20Y4]**
 
+<img src="./img/022.png" width="800"></img>
 
 | Concept [Concepto] | Amounts [Importes] | Totals [Totales] |
 |--------------------|--------------------|------------------|
