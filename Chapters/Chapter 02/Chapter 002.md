@@ -4,6 +4,10 @@
 
 ##### [Capitulo 2-1a Chart of Accounts [Catálogo de Cuentas]](#036422)
 
+##### [Capitulo 2-2 Double-Entry Accounting System [Sistema de Contabilidad de Partida Doble]](#634405)
+
+##### [Capitulo 2-2a Balance Sheet Accounts [Cuentas del Balance General]](#237274)
+
 <h1 id="675031" style="color:#E65100;">
   <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
     2-1 Using Accounts to Record Transactions [Usando Cuentas para Registrar Transacciones]
@@ -312,4 +316,193 @@ These accounts will be used in recording NetSolutions' December transactions.
 | Dividends [Dividendos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
 
 ---
+
+<h1 id="634405" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-2 Double-Entry Accounting System [Sistema de Contabilidad de Partida Doble]
+  </a>
+</h1>
+
+
+All businesses use what is called the **double-entry accounting system** (A system of accounting for recording transactions, based on recording increases and decreases in accounts so that debits equal credits.)
+[Todos los negocios utilizan lo que se llama **sistema de contabilidad de partida doble** (Un sistema de contabilidad para registrar transacciones, basado en registrar aumentos y disminuciones en cuentas de modo que los débitos sean iguales a los créditos).]
+
+This system is based on the accounting equation and requires:
+[Este sistema se basa en la ecuación contable y requiere:]
+
+- Every business transaction to be recorded in **at least two accounts**.
+  [Que cada transacción comercial se registre en **al menos dos cuentas**.]
+- The total debits recorded for each transaction to be **equal to** the total credits recorded.
+  [Que el total de débitos registrados para cada transacción sea **igual al** total de créditos registrados.]
+
+The double-entry accounting system also has specific **rules of debit and credit** (In the double-entry accounting system, specific rules for recording debits and credits based on the type of account.) for recording transactions in the accounts.
+[El sistema de contabilidad de partida doble también tiene **reglas específicas de débito y crédito** (En el sistema de contabilidad de partida doble, reglas específicas para registrar débitos y créditos según el tipo de cuenta) para registrar transacciones en las cuentas.]
+
+---
+
+## Link to Apple [Enlace a Apple]
+
+Apple records transactions using generally accepted accounting principles and double-entry accounting.
+[Apple registra transacciones utilizando los principios de contabilidad generalmente aceptados y la contabilidad de partida doble.]
+
+---
+
+## Key Concepts [Conceptos Clave]
+
+| English [Inglés] | Español [Español] |
+|------------------|-------------------|
+| Double-entry accounting system | Sistema de contabilidad de partida doble |
+| Rules of debit and credit | Reglas de débito y crédito |
+| Accounting equation | Ecuación contable |
+
+---
+
+## Summary [Resumen]
+
+The **double-entry accounting system** is based on two fundamental principles:
+[El **sistema de contabilidad de partida doble** se basa en dos principios fundamentales:]
+
+1. **Every transaction affects at least two accounts** [Cada transacción afecta al menos dos cuentas]
+2. **Total debits must equal total credits for each transaction** [Los débitos totales deben ser iguales a los créditos totales para cada transacción]
+
+---
+
+## Rules of Debit and Credit [Reglas de Débito y Crédito]
+
+| Account Type [Tipo de Cuenta] | Increase [Aumento] | Decrease [Disminución] | Normal Balance [Saldo Normal] |
+|-------------------------------|--------------------|------------------------|-------------------------------|
+| Assets [Activos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+| Liabilities [Pasivos] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Stockholders' Equity [Patrimonio] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Revenue [Ingresos] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Expenses [Gastos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+| Dividends [Dividendos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+
+---
+
+## The Accounting Equation [La Ecuación Contable]
+
+The double-entry system is based on the accounting equation:
+[El sistema de partida doble se basa en la ecuación contable:]
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio de los Accionistas}
+$$
+
+This equation must always remain in balance after each transaction.
+[Esta ecuación siempre debe permanecer equilibrada después de cada transacción.]
+
+---
+
+## Journal Entry Example [Ejemplo de Asiento de Diario]
+
+To illustrate, the receipt of cash from a client for services would be recorded as:
+[Para ilustrar, la recepción de efectivo de un cliente por servicios se registraría como:]
+
+| Account [Cuenta] | Debit [Débito] | Credit [Crédito] |
+|-----------------|----------------|------------------|
+| Cash [Efectivo] | XXX | |
+| Fees Earned [Honorarios Ganados] | | XXX |
+
+In this entry, total debits equal total credits.
+[En este asiento, los débitos totales son iguales a los créditos totales.]
+
+---
+
+<h1 id="237274" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-2a Balance Sheet Accounts [Cuentas del Balance General]
+
+  </a>
+</h1>
+
+The debit and credit rules for balance sheet accounts are as follows:
+[Las reglas de débito y crédito para las cuentas del balance general son las siguientes:]
+
+---
+
+## Assets [Activos]
+
+| Rule [Regla] | Debit [Débito] | Credit [Crédito] |
+|--------------|----------------|------------------|
+| Increase [Aumento] | ✓ | |
+| Decrease [Disminución] | | ✓ |
+| Normal Balance [Saldo Normal] | ✓ | |
+
+**Assets normally have a debit balance.**
+[Los activos normalmente tienen un saldo deudor.]
+
+---
+
+## Liabilities [Pasivos]
+
+| Rule [Regla] | Debit [Débito] | Credit [Crédito] |
+|--------------|----------------|------------------|
+| Increase [Aumento] | | ✓ |
+| Decrease [Disminución] | ✓ | |
+| Normal Balance [Saldo Normal] | | ✓ |
+
+**Liabilities normally have a credit balance.**
+[Los pasivos normalmente tienen un saldo acreedor.]
+
+---
+
+## Stockholders' Equity [Patrimonio de los Accionistas]
+
+| Rule [Regla] | Debit [Débito] | Credit [Crédito] |
+|--------------|----------------|------------------|
+| Increase [Aumento] | | ✓ |
+| Decrease [Disminución] | ✓ | |
+| Normal Balance [Saldo Normal] | | ✓ |
+
+**Stockholders' equity normally has a credit balance.**
+[El patrimonio de los accionistas normalmente tiene un saldo acreedor.]
+
+---
+
+## Summary Table [Tabla Resumen]
+
+| Account Type [Tipo de Cuenta] | Increase [Aumento] | Decrease [Disminución] | Normal Balance [Saldo Normal] |
+|-------------------------------|--------------------|------------------------|-------------------------------|
+| Assets [Activos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+| Liabilities [Pasivos] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Stockholders' Equity [Patrimonio] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+
+---
+
+## Key Examples [Ejemplos Clave]
+
+### Asset Account [Cuenta de Activo] - Cash [Efectivo]
+
+| | Debit [Débito] | Credit [Crédito] |
+|--|----------------|------------------|
+| Increase (receipt of cash) [Aumento (recepción de efectivo)] | ✓ | |
+| Decrease (payment of cash) [Disminución (pago de efectivo)] | | ✓ |
+| Normal balance [Saldo normal] | ✓ | |
+
+### Liability Account [Cuenta de Pasivo] - Accounts Payable [Cuentas por Pagar]
+
+| | Debit [Débito] | Credit [Crédito] |
+|--|----------------|------------------|
+| Increase (purchase on account) [Aumento (compra a crédito)] | | ✓ |
+| Decrease (payment on account) [Disminución (pago a cuenta)] | ✓ | |
+| Normal balance [Saldo normal] | | ✓ |
+
+### Stockholders' Equity Account [Cuenta de Patrimonio] - Common Stock [Acciones Comunes]
+
+| | Debit [Débito] | Credit [Crédito] |
+|--|----------------|------------------|
+| Increase (issuing stock) [Aumento (emisión de acciones)] | | ✓ |
+| Decrease (treasury stock) [Disminución (acciones propias)] | ✓ | |
+| Normal balance [Saldo normal] | | ✓ |
+
+---
+
+## Visual Representation [Representación Visual]
+
+### Assets [Activos]
 
