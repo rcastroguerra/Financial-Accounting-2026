@@ -8,6 +8,8 @@
 
 ##### [Capitulo 2-2a Balance Sheet Accounts [Cuentas del Balance General]](#237274)
 
+##### [Capitulo 2-2b Income Statement Accounts [Cuentas del Estado de Resultados]](#628626)
+
 <h1 id="675031" style="color:#E65100;">
   <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
     2-1 Using Accounts to Record Transactions [Usando Cuentas para Registrar Transacciones]
@@ -420,8 +422,11 @@ In this entry, total debits equal total credits.
   </a>
 </h1>
 
+
 The debit and credit rules for balance sheet accounts are as follows:
 [Las reglas de débito y crédito para las cuentas del balance general son las siguientes:]
+
+<img src="./img/004.png" width="800"></img>
 
 ---
 
@@ -505,4 +510,183 @@ The debit and credit rules for balance sheet accounts are as follows:
 ## Visual Representation [Representación Visual]
 
 ### Assets [Activos]
+```
+                   Asset Account [Cuenta de Activo]
+        Debit (Débito)                      Credit (Crédito)
+    (Normal Balance)
+         Increase                                  Decrease
+```
+
+### Liabilities [Pasivos]
+```
+                   Liability Account [Cuenta de Pasivo]
+        Debit (Débito)                      Credit (Crédito)
+                                           (Normal Balance)
+         Decrease                                 Increase
+```
+
+### Stockholders' Equity [Patrimonio]
+```
+              Stockholders' Equity Account [Cuenta de Patrimonio]
+        Debit (Débito)                      Credit (Crédito)
+                                           (Normal Balance)
+         Decrease                                 Increase
+```
+
+---
+
+## Key Principles [Principios Clave]
+
+1. **Assets** are increased with debits and decreased with credits.
+   [Los **activos** aumentan con débitos y disminuyen con créditos.]
+
+2. **Liabilities** are increased with credits and decreased with debits.
+   [Los **pasivos** aumentan con créditos y disminuyen con débitos.]
+
+3. **Stockholders' Equity** is increased with credits and decreased with debits.
+   [El **patrimonio de los accionistas** aumenta con créditos y disminuye con débitos.]
+
+---
+
+## Why These Rules? [¿Por qué estas reglas?]
+
+These rules ensure that the accounting equation remains in balance:
+[Estas reglas aseguran que la ecuación contable se mantenga en equilibrio:]
+
+$$
+\text{Assets} = \text{Liabilities} + \text{Stockholders' Equity}
+$$
+
+$$
+\text{Activos} = \text{Pasivos} + \text{Patrimonio de los Accionistas}
+$$
+
+If assets increase with a debit, then liabilities and equity must increase with credits to maintain equality.
+[Si los activos aumentan con un débito, entonces los pasivos y el patrimonio deben aumentar con créditos para mantener la igualdad.]
+
+---
+
+<h1 id="628626" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-2b Income Statement Accounts [Cuentas del Estado de Resultados]
+
+  </a>
+</h1>
+
+
+
+The debit and credit rules for income statement accounts are based on their relationship with stockholders' equity. As shown for balance sheet accounts, stockholders' equity accounts are increased by credits. Because revenues increase stockholders' equity, revenue accounts are increased by credits and decreased by debits. Because stockholders' equity accounts are decreased by debits, expense accounts are increased by debits and decreased by credits. Thus, the rules of debit and credit for revenue and expense accounts are as follows:
+[Las reglas de débito y crédito para las cuentas del estado de resultados se basan en su relación con el patrimonio de los accionistas. Como se muestra para las cuentas del balance general, las cuentas de patrimonio de los accionistas aumentan con créditos. Debido a que los ingresos aumentan el patrimonio de los accionistas, las cuentas de ingresos aumentan con créditos y disminuyen con débitos. Debido a que las cuentas de patrimonio de los accionistas disminuyen con débitos, las cuentas de gastos aumentan con débitos y disminuyen con créditos. Por lo tanto, las reglas de débito y crédito para las cuentas de ingresos y gastos son las siguientes:]
+
+<img src="./img/005.png" width="800"></img>
+
+---
+
+## Income Statement Accounts [Cuentas del Estado de Resultados]
+
+| | Revenue Accounts [Cuentas de Ingresos] | Expense Accounts [Cuentas de Gastos] |
+|--|----------------------------------------|--------------------------------------|
+| **Increase [Aumento]** | Credit [Crédito] (+) | Debit [Débito] (+) |
+| **Decrease [Disminución]** | Debit [Débito] (–) | Credit [Crédito] (–) |
+| **Normal Balance [Saldo Normal]** | Credit [Crédito] | Debit [Débito] |
+
+---
+
+## Summary of Debit and Credit Rules [Resumen de Reglas de Débito y Crédito]
+
+| Account Type [Tipo de Cuenta] | Increase [Aumento] | Decrease [Disminución] | Normal Balance [Saldo Normal] |
+|-------------------------------|--------------------|------------------------|-------------------------------|
+| Revenue [Ingresos] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Expenses [Gastos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+
+---
+
+## Why These Rules? [¿Por qué estas reglas?]
+
+Because revenues increase stockholders' equity, and stockholders' equity increases with credits, revenues increase with credits.
+[Debido a que los ingresos aumentan el patrimonio de los accionistas, y el patrimonio de los accionistas aumenta con créditos, los ingresos aumentan con créditos.]
+
+Because expenses decrease stockholders' equity, and stockholders' equity decreases with debits, expenses increase with debits.
+[Debido a que los gastos disminuyen el patrimonio de los accionistas, y el patrimonio de los accionistas disminuye con débitos, los gastos aumentan con débitos.]
+
+---
+
+## Visual Representation [Representación Visual]
+
+### Revenue Account [Cuenta de Ingresos]
+```
+                    Revenue Account [Cuenta de Ingresos]
+        Debit (Débito)                      Credit (Crédito)
+                                           (Normal Balance)
+         Decrease                                 Increase
+```
+
+### Expense Account [Cuenta de Gastos]
+```
+                    Expense Account [Cuenta de Gastos]
+        Debit (Débito)                      Credit (Crédito)
+        (Normal Balance)
+         Increase                                 Decrease
+```
+
+---
+
+## Business Insight [Perspectiva Empresarial]
+
+### The Hijacking Receivable [La Cuenta por Cobrar del Secuestro]
+
+A company's chart of accounts should reflect the basic nature of its operations. Occasionally, however, transactions take place that give rise to unusual accounts. The following is a story of one such account.
+[El catálogo de cuentas de una empresa debe reflejar la naturaleza básica de sus operaciones. Sin embargo, ocasionalmente ocurren transacciones que dan lugar a cuentas inusuales. La siguiente es la historia de una de esas cuentas.]
+
+Before strict airport security was implemented across the United States, several airlines experienced hijacking incidents. One such incident occurred when a Southern Airways jet en route from Memphis to Miami was hijacked during a stopover in Birmingham, Alabama. The three hijackers boarded the plane in Birmingham armed with handguns and grenades. At gunpoint, the hijackers took the plane, the plane's crew, and the passengers to nine American cities, Toronto, and eventually to Havana, Cuba.
+[Antes de que se implementara la seguridad estricta en los aeropuertos de los Estados Unidos, varias aerolíneas experimentaron incidentes de secuestro. Uno de esos incidentes ocurrió cuando un jet de Southern Airways en ruta de Memphis a Miami fue secuestrado durante una escala en Birmingham, Alabama. Los tres secuestradores abordaron el avión en Birmingham armados con pistolas y granadas. Bajo amenaza de armas, los secuestradores llevaron el avión, la tripulación y los pasajeros a nueve ciudades estadounidenses, Toronto y finalmente a La Habana, Cuba.]
+
+During the long flight, the hijackers demanded a ransom of $10 million. Southern Airways, however, was only able to come up with $2 million. Eventually, the pilot talked the hijackers into settling for the $2 million when the plane landed in Chattanooga for refueling.
+[Durante el largo vuelo, los secuestradores exigieron un rescate de $10 millones. Sin embargo, Southern Airways solo pudo reunir $2 millones. Finalmente, el piloto convenció a los secuestradores de conformarse con los $2 millones cuando el avión aterrizó en Chattanooga para repostar combustible.]
+
+Upon landing in Havana, the Cuban authorities arrested the hijackers and, after a brief delay, sent the plane, passengers, and crew back to the United States. The hijackers and the $2 million stayed in Cuba.
+[Al aterrizar en La Habana, las autoridades cubanas arrestaron a los secuestradores y, después de una breve demora, enviaron el avión, los pasajeros y la tripulación de regreso a los Estados Unidos. Los secuestradores y los $2 millones se quedaron en Cuba.]
+
+How did Southern Airways account for and report the hijacking payment in its subsequent financial statements? As you might have analyzed, the initial entry credited Cash for $2 million. The debit was to an account entitled "Hijacking Payment." This account was reported as a type of receivable under "other assets" on Southern Airways' balance sheet. The company maintained that it would be able to collect the cash from the Cuban government and that, therefore, a receivable existed. In fact, Southern Airways was later repaid $2 million by the Cuban government.
+[¿Cómo contabilizó y reportó Southern Airways el pago del secuestro en sus estados financieros posteriores? Como habrás analizado, el asiento inicial acreditó Efectivo por $2 millones. El débito fue a una cuenta titulada "Pago por Secuestro". Esta cuenta se reportó como un tipo de cuenta por cobrar bajo "otros activos" en el balance general de Southern Airways. La empresa mantuvo que podría cobrar el efectivo del gobierno cubano y que, por lo tanto, existía una cuenta por cobrar. De hecho, Southern Airways fue reembolsada más tarde por $2 millones por el gobierno cubano.]
+
+---
+
+## Accounting Entry for the Hijacking Payment [Asiento Contable para el Pago del Secuestro]
+
+| Account [Cuenta] | Debit [Débito] | Credit [Crédito] |
+|-----------------|----------------|------------------|
+| Hijacking Receivable [Cuenta por Cobrar por Secuestro] | $2,000,000 | |
+| Cash [Efectivo] | | $2,000,000 |
+
+---
+
+## Key Takeaways [Conclusiones Clave]
+
+1. **Revenues** increase stockholders' equity and are recorded with **credits**.
+   [Los **ingresos** aumentan el patrimonio de los accionistas y se registran con **créditos**.]
+
+2. **Expenses** decrease stockholders' equity and are recorded with **debits**.
+   [Los **gastos** disminuyen el patrimonio de los accionistas y se registran con **débitos**.]
+
+3. Unusual transactions can create unique accounts not normally found in a chart of accounts.
+   [Las transacciones inusuales pueden crear cuentas únicas que normalmente no se encuentran en un catálogo de cuentas.]
+
+4. The double-entry system still applies: debits must equal credits.
+   [El sistema de partida doble todavía se aplica: los débitos deben ser iguales a los créditos.]
+
+---
+
+## Complete Summary of Debit/Credit Rules [Resumen Completo de Reglas de Débito/Crédito]
+
+| Account Type [Tipo de Cuenta] | Increase [Aumento] | Decrease [Disminución] | Normal Balance [Saldo Normal] |
+|-------------------------------|--------------------|------------------------|-------------------------------|
+| Assets [Activos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+| Liabilities [Pasivos] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Stockholders' Equity [Patrimonio] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Revenue [Ingresos] | Credit [Crédito] | Debit [Débito] | Credit [Crédito] |
+| Expenses [Gastos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+| Dividends [Dividendos] | Debit [Débito] | Credit [Crédito] | Debit [Débito] |
+
+---
 
