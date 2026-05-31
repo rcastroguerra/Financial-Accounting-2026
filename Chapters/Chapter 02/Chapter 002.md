@@ -457,6 +457,55 @@ The debit and credit rules for balance sheet accounts are as follows:
 
 <img src="./img/004.png" width="800"></img>
 
+<table style="border-collapse: collapse;" >
+<tr>
+    <th colspan="8"  style="text-align:center; font-size:24px;">Balance Sheet Accounts [Cuentas del Balance General]</th>
+</tr>
+<tr>
+    <th colspan="2"  style="text-align:center;">Assets [Activos]</th>
+    <th rowspan="2" style="border: none;"><span style="font-size:22px; font-weight:bold;">=</span></th>
+    <th colspan="2"  style="text-align:center;">Liabilities [Pasivos]</th>
+    <th rowspan="2" style="border: none;"><span style="font-size:22px; font-weight:bold;">+</span></th>
+    <th colspan="2"  style="text-align:center;">Stockholders' Equity [Patrimonio de los Accionistas]</th>
+</tr>
+<tr>
+    <th colspan="2"  style="text-align:center;">Assets Accounts[Cuenta de Activos] </th>
+    <th colspan="2"  style="text-align:center;">Liabilities Accounts[Cuenta de Pasivos]</th>
+    <th colspan="2"  style="text-align:center;">Stockholders' Equity Accounts[Cuenta de Patrimonio de los Accionistas]</th>
+</tr>
+<tr>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">Debit [Débito]</th>
+    <th style="text-align:center; border-bottom: none;">Credit [Crédito]</th>
+    <th style="border: none;"></th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">Debit [Débito]</th>
+    <th style="text-align:center; border-bottom: none;">Credit [Crédito]</th>
+    <th style="border: none;"></th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">Debit [Débito]</th>
+    <th style="text-align:center; border-bottom: none;">Credit [Crédito]</th>
+</tr>
+<tr>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↑</span> Increase [Aumento]
+    </th>
+    <th style="text-align:center; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↓</span> Decrease [Disminución]
+    </th>
+    <th style="border: none;"></th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↓</span> Decrease [Disminución]</th>
+    <th style="text-align:center; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↑</span> Increase [Aumento]
+    </th>
+    <th style="border: none;"></th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↓</span> Decrease [Disminución]</th>
+    <th style="text-align:center; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↑</span> Increase [Aumento]
+    </th>
+</tr>
+</table>
+
+
 ---
 
 ## Assets [Activos]
@@ -612,7 +661,7 @@ The debit and credit rules for income statement accounts are based on their rela
 ---
 <table style="border-collapse: collapse;" >
 <tr>
-    <th colspan="5"  style="text-align:center;">Income Statement Accounts [Cuentas del Estado de Resultados]</th>
+    <th colspan="5"  style="text-align:center; font-size:24px;">Income Statement Accounts [Cuentas del Estado de Resultados]</th>
 </tr>
 <tr>
     <th colspan="2"  style="text-align:center;">Revenue Accounts [Cuentas de Ingresos]</th>
@@ -627,13 +676,18 @@ The debit and credit rules for income statement accounts are based on their rela
     <th style="text-align:center; border-bottom: none;">Credit [Crédito]</th>
 </tr>
 <tr>
-    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">Decrease [Disminución]</th>
-    <th style="text-align:center; border-bottom: none;">Increase [Aumento]</th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↓</span> Decrease [Disminución]</th>
+    <th style="text-align:center; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↑</span> Increase [Aumento]
+    </th>
     <th style="border: none;"></th>
     <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">
-        Increase [Aumento]
+        <span style="font-size:22px; font-weight:bold;">↑</span> Increase [Aumento]
     </th>
-    <th style="text-align:center; border-bottom: none;">Decrease [Disminución]</th>
+    <th style="text-align:center; border-bottom: none;">
+        <span style="font-size:22px; font-weight:bold;">↓</span> Decrease [Disminución]
+    </th>
 </tr>
 </table>
 
