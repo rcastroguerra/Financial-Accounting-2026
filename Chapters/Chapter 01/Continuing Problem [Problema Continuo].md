@@ -57,8 +57,8 @@ On **June 1, 20Y5**, Peyton established a corporation known as **PS Music**. Usi
 ## Part 1: Transaction Analysis Table [Parte 1: Tabla de Análisis de Transacciones]
 
 | **Assets** |  |  |  | =   **Liabilities** | +  **Stockholders' Equity** |  |  |  |  |  |  |  |  |  |
-|-------------|---|---|---|-----------------|---|--------------------------|---|---|---|---|---|---|---|---|
-| Transacción | Cash | + Accounts Receivable | + Supplies | = Accounts Payable | + Common Stock | - Dividends | + Fees Earned | - Music Expense | - Office Rent Expense | - Equipment Rent Expense | - Advertising Expense | - Wages Expense | - Utilities Expense | - Supplies Expense | - Miscellaneous Expense |
+|-------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Transacción | Cash | + Accounts Receivable | + Supplies | = Accounts Payable | + Common Stock | - Dividends | + Fees Earned | - Music Expense | - Office Rent Expense | - Equipment Rent Expense | - Advertising Expense | - Wages Expense | - Utilities Expense | - Supplies Expense | - Miscellaneous Expense |
 |||||||||||||||||
 | Bal Jun 1   | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0    | 0 |
 | 1           | 4000 |      |      |      | 4000 |      |      |      |      |      |      |      |      |      |      |
@@ -858,3 +858,85 @@ $$
 | **Total liabilities and stockholders' equity [Total pasivos y patrimonio de los accionistas]** | | **$5,090** |
 
 **✓ The balance balances perfectly [✓ El balance cuadra perfectamente]**
+
+<h1 id="297769" style="color:#E65100;">
+  <a href="#Continuing_Problem_[Problema_Continuo]" style="color:inherit; text-decoration:none;">
+    Part 5: Statement of Cash Flows [Parte 5: Estado de Flujos de Efectivo]
+
+  </a>
+</h1>
+
+
+**PS Music**
+**Statement of Cash Flows [Estado de Flujos de Efectivo]**
+**For the Month Ended June 30, 20Y5 [Para el mes terminado el 30 de junio de 20Y5]**
+
+| Concept [Concepto] | Amounts [Importes] | Totals [Totales] |
+|--------------------|--------------------|------------------|
+| **Cash flows from operating activities [Flujos de efectivo de actividades de operación]:** | | |
+| &nbsp;&nbsp;Cash received from clients [Efectivo recibido de clientes] | | $5,200 |
+| &nbsp;&nbsp;Cash paid for operating expenses [Efectivo pagado por gastos de operación] | | (4,780) |
+| **Net cash flows from operating activities** | | **$420** |
+| | | |
+| **Cash flows from investing activities [Flujos de efectivo de actividades de inversión]:** | | |
+| &nbsp;&nbsp;Cash paid for purchase of assets [Efectivo pagado por compra de activos] | | -0- |
+| **Net cash flows from investing activities** | | **$0** |
+| | | |
+| **Cash flows from financing activities [Flujos de efectivo de actividades de financiamiento]:** | | |
+| &nbsp;&nbsp;Cash received from issuing common stock [Efectivo recibido por emisión de acciones comunes] | | $4,000 |
+| &nbsp;&nbsp;Cash paid for dividends [Efectivo pagado por dividendos] | | (500) |
+| **Net cash flows from financing activities** | | **$3,500** |
+| | | |
+| **Net increase in cash [Aumento neto en efectivo]** | | **$3,920** |
+| &nbsp;&nbsp;Cash balance, June 1, 20Y5 [Saldo, 1 de junio de 20Y5] | | 0 |
+| **Cash balance, June 30, 20Y5 [Saldo, 30 de junio de 20Y5]** | | **$3,920** |
+
+---
+
+### Cash Received from Clients [Efectivo Recibido de Clientes]
+
+| Source [Fuente] | Amount [Monto] |
+|-----------------|----------------|
+| June 2 - Radio station | $3,500 |
+| June 16 - Dentist | $300 |
+| June 25 - Charity ball | $500 |
+| June 30 - Local club dance | $900 |
+| **Total** | **$5,200** |
+
+### Cash Paid for Operating Expenses [Efectivo Pagado por Gastos de Operación]
+
+| Expense [Gasto] | Amount [Monto] |
+|-----------------|----------------|
+| Office rent (June 2) | $800 |
+| Advertising (June 6) | $500 |
+| Equipment rent (June 8) | $675 |
+| Music expense (June 12) | $350 |
+| Payment on account (June 13) | $100 |
+| Music expense (June 29) | $240 |
+| Wages expense (June 30) | $400 |
+| Utilities expense (June 30) | $300 |
+| Miscellaneous expense (June 30) | $415 |
+| Royalties (June 30) | $1,000 |
+| **Total** | **$4,780** |
+
+---
+
+### Cash Flows from Investing Activities [Flujos de Efectivo de las Actividades de Inversión]
+
+This section reports the cash transactions for the acquisition and sale of relatively permanent assets. During June, PS Music made no purchases or sales of long-term assets such as land, buildings, or equipment.
+[Esta sección reporta las transacciones de efectivo por la adquisición y venta de activos relativamente permanentes. Durante junio, PS Music no realizó compras ni ventas de activos a largo plazo como terrenos, edificios o equipo.]
+
+| Concept [Concepto] | Amounts [Importes] | Totals [Totales] |
+|--------------------|--------------------|------------------|
+| **Cash flows from investing activities [Flujos de efectivo de actividades de inversión]:** | | |
+| &nbsp;&nbsp;Cash paid for purchase of assets [Efectivo pagado por compra de activos] | | -0- |
+| **Net cash flows from investing activities [Flujo de efectivo neto de actividades de inversión]** | | **$0** |
+
+**Formula Used [Fórmula Utilizada]:**
+
+$$
+\text{Net Investing CF} = \text{Cash Inflows from Sales of Assets} - \text{Cash Outflows for Purchases of Assets}
+$$
+
+$$
+\text{Net Investing CF} = \$0 - \$0 = \$0

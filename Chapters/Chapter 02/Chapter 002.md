@@ -27,6 +27,25 @@ In Chapter 1, the November transactions for NetSolutions were recorded using the
 
 <img src="./img/001.png" width="800" alt="NetSolutions November Transactions">
 
+|      | Cash   | Supp.  | Land   | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
+|------|--------|--------|--------|------------------|---------------|------------|-------------|-------------|-------------|----------------|----------------|--------------|
+| a.   | 25,000 |        |        |                  |               |            | +25,000     |             |             |                |                |              |
+| b.   | -20,000| +20,000|        |                  |               |            |             |             |             |                |                |              |
+| c.   | -5,000 |        | +5,000 |                  |               |            |             |             |             |                |                |              |
+| d.   |        | +1,350 |        | +1,350           |               |            |             |             |             |                |                |              |
+|      |        |        |        |                  | 25,000        |            |             |             |             |                |                |              |
+| Bal. | 5,000  | 1,350  | 20,000 | 1,350            | 25,000        |            |             |             |             |                |                |              |
+| e.   | +7,500 |        |        |                  |               |            | +7,500      |             |             |                |                |              |
+| Bal. | 12,500 | 1,350  | 20,000 | 1,350            | 25,000        |            | 7,500       |             |             |                |                |              |
+| f.   | -3,650 |        |        |                  |               |            |             | -2,125      | -800        |                | -450           | -275         |
+| g.   | -8,850 | +1,350 | 20,000 | +1,350           | 25,000        |            | 7,500       | -2,125      | -800        |                | -450           | -275         |
+| h.   | -950   |        |        | -950             |               |            |             |             |             |                |                |              |
+| i.   | +400   | +1,350 | 20,000 | +400             | 25,000        |            | 7,500       | -2,125      | -800        |                | -450           | -275         |
+| j.   | -2,000 |        |        |                  |               | -2,000     |             |             |             |                |                |              |
+| Bal. | 7,900  | 550    | 20,000 | 400              | 25,000        |            | 7,500       | -2,125      | -800        | -800           | -450           | -275         |
+| k.   | -2,000 |        |        |                  |               | -2,000     |             |             |             |                |                |              |
+| Bal. | 5,900  | 550    | 20,000 | 400              | 25,000        | -2,000     | 7,500       | -2,125      | -800        | -800           | -450           | -275         |
+
 To illustrate, the Cash column of Exhibit 1 records the increases and decreases in cash. Likewise, the other columns in Exhibit 1 record the increases and decreases in the other accounting equation elements. Each of these columns can be organized into a separate account.
 [Para ilustrar, la columna de Efectivo de la Figura 1 registra los aumentos y disminuciones en efectivo. Del mismo modo, las otras columnas de la Figura 1 registran los aumentos y disminuciones en los otros elementos de la ecuación contable. Cada una de estas columnas puede organizarse en una cuenta separada.]
 
@@ -48,8 +67,8 @@ The account form that follows is called a **T account** (The simplest form of an
 
 | Title      |        |
 | ---------- | ------ |
-| Left side  | Debit  |
-| Right side | Credit |
+| Left side  | Right side   |
+| Debit| Credit |
 
 
 The amounts shown in the Cash column of Exhibit 1 would be recorded in a cash account as follows:
@@ -59,6 +78,16 @@ The amounts shown in the Cash column of Exhibit 1 would be recorded in a cash ac
 > [Los montos ingresados en el lado izquierdo de una cuenta son **débitos**, y los montos ingresados en el lado derecho de una cuenta son **créditos**.]
 
 <img src="./img/003.png" width="800" alt="Cash Account T Account">
+
+### Cash
+
+| Debit Side of Account  | Credit Side of Account |
+|----------------------|------------------------|
+|(a) 25,000            |        (b) 20,000      |
+|(d) 7,500             |        (e) 3,650       |
+|                      |        (f) 950         |
+|                      |        (h) 2,000       |
+ **Balance** **5,900** |                        | 
 
 ---
 
@@ -82,15 +111,15 @@ $$
 $$
 
 $$
-\text{Créditos} = \$25,000 + \$7,500 = \$32,500
+\text{Débitos} = \$25,000 + \$7,500 = \$32,500
 $$
 
 $$
-\text{Less credits} = \$20,000 + \$3,650 + \$950 + \$2,000 = \$26,600
+\text{Credits} = \$20,000 + \$3,650 + \$950 + \$2,000 = \$26,600
 $$
 
 $$
-\text{Menos créditos} = \$20,000 + \$3,650 + \$950 + \$2,000 = \$26,600
+\text{Créditos} = \$20,000 + \$3,650 + \$950 + \$2,000 = \$26,600
 $$
 
 $$
@@ -690,3 +719,20 @@ How did Southern Airways account for and report the hijacking payment in its sub
 
 ---
 
+
+<table>
+<tr>
+    <th colspan="3"  style="text-align:center;">Assets</th>
+    <th>=</th>
+    <th style="text-align:center;">Liabilities</th>
+    <th style="text-align:center;">Stockholders' Equity</th>
+</tr>
+<tr>
+    <th>Cash</th>
+    <th>Supplies</th>
+    <th>Land</th>
+    <th>=</th>
+    <th>Accounts Payable</th>
+    <th>Common Stock</th>
+</tr>
+</table>
