@@ -610,6 +610,32 @@ The debit and credit rules for income statement accounts are based on their rela
 <img src="./img/005.png" width="800"></img>
 
 ---
+<table style="border-collapse: collapse;" >
+<tr>
+    <th colspan="5"  style="text-align:center;">Income Statement Accounts [Cuentas del Estado de Resultados]</th>
+</tr>
+<tr>
+    <th colspan="2"  style="text-align:center;">Revenue Accounts [Cuentas de Ingresos]</th>
+    <th style="border: none;"></th>
+    <th colspan="2"  style="text-align:center;">Expense Accounts [Cuentas de Gastos]</th>
+</tr>
+<tr>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">Debit [Débito]</th>
+    <th style="text-align:center; border-bottom: none;">Credit [Crédito]</th>
+    <th style="border: none;"></th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">Debit [Débito]</th>
+    <th style="text-align:center; border-bottom: none;">Credit [Crédito]</th>
+</tr>
+<tr>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">Decrease [Disminución]</th>
+    <th style="text-align:center; border-bottom: none;">Increase [Aumento]</th>
+    <th style="border: none;"></th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">
+        Increase [Aumento]
+    </th>
+    <th style="text-align:center; border-bottom: none;">Decrease [Disminución]</th>
+</tr>
+</table>
 
 ## Income Statement Accounts [Cuentas del Estado de Resultados]
 
@@ -720,21 +746,5 @@ How did Southern Airways account for and report the hijacking payment in its sub
 ---
 
 
-<table>
-<tr>
-    <th colspan="3"  style="text-align:center;">Assets</th>
-    <th>=</th>
-    <th style="text-align:center;">Liabilities</th>
-    <th style="text-align:center;">Stockholders' Equity</th>
-</tr>
-<tr>
-    <th>Cash</th>
-    <th>Supplies</th>
-    <th>Land</th>
-    <th>=</th>
-    <th>Accounts Payable</th>
-    <th>Common Stock</th>
-</tr>
-</table>
 
-hola
+
