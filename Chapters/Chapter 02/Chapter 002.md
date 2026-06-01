@@ -77,17 +77,109 @@ The amounts shown in the Cash column of Exhibit 1 would be recorded in a cash ac
 > **Note [Nota]:** Amounts entered on the left side of an account are **debits**, and amounts entered on the right side of an account are **credits**.
 > [Los montos ingresados en el lado izquierdo de una cuenta son **débitos**, y los montos ingresados en el lado derecho de una cuenta son **créditos**.]
 
-<img src="./img/003.png" width="800" alt="Cash Account T Account">
+<img src="./img/003.png" width="800" alt="Cash T Account with debit entries (a) 25,000, (d) 7,500, balance 5,900; credit entries (b) 20,000, (e) 3,650, (f) 950, (h) 2,000">
 
-### Cash
+<table style="border-collapse: collapse;" >
+<tr>
+    <th style="border:none;"></th>
+    <th colspan="6"  style="text-align:center; font-size:24px;">Cash[Efectivo]</th>
+</tr>
+<tr>
+    <th rowspan="5"  style="text-align:center; font-size:16px; border-bottom: none;">Debit Side of Account</th>
+    <td rowspan="5"
+        style="
+            font-size:180px;
+            font-weight:100;
+            line-height:0.7;
+            vertical-align:top;
+            text-align:center;
+            padding:0;
+            border:none;
+        ">
+        {
+    </td>
+    <th style="text-align:center; border-right: 2px solid white; border: none;">(a)
+    </th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;"> 25,000</th>
+    <th style="text-align:center; border-bottom: none;">(b)</th>
+    <th style="text-align:center; border-bottom: none;">20,000</th>
+    <td rowspan="5"
+        style="
+            font-size:180px;
+            font-weight:100;
+            line-height:0.7;
+            vertical-align:top;
+            text-align:center;
+            padding:0;
+            border:none;
+        ">
+        }
+    </td>
+    <th rowspan="5"  style="text-align:center; font-size:16px; border-bottom: none;">Credit Side of Account</th>
+</tr>
+<tr>
+    <th style="text-align:center; border-right: 2px solid white; border: none;">(d)   </th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;"> 7,500</th>
+    <th style="text-align:center; border: none;">
+        (e)
+    </th>
+    <th style="text-align:center; border-bottom: none;">
+        3,650
+    </th>
+</tr>
+<tr>
+    <th style="text-align:center; border-right: 2px solid white; border: none;">
+    </th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;">
+    </th>
+    <th style="text-align:center; border: none;">
+        (f)
+    </th>
+    <th style="text-align:center; border-bottom: none;">
+        950
+    </th>
+</tr>
+<tr>
+    <th style="text-align:center; border-bottom: none">
+    </th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: 2px solid white;">
+    </th>
+    <th style="text-align:center; border-bottom: none;">
+             (h)     
+    </th>
+    <th style="text-align:center; border-bottom: 2px solid white;">
+        2,000
+    </th>
+</tr>
+<tr>
+    <th style="text-align:center; border-right: 2px solid white; border: none;">Balance   </th>
+    <th style="text-align:center; border-right: 2px solid white; border-bottom: none;"> 5,900</th>
+    <th style="text-align:center; border: none;">
+    </th>
+    <th style="text-align:center; border-bottom: none;">
+    </th>
+</tr>
+<tr>
+    <th colspan="2"  style="text-align:center; border-right: 2px solid white; border: none; font-size:18px;">
+        Balance of Account
+    </th>
+<th style="border:none; text-align:right;">
+    <svg width="80" height="50" viewBox="0 0 80 50">
+      <path d="M5 40 L60 40 L60 15"
+            stroke="white"
+            stroke-width="2"
+            fill="none"/>
+      <path d="M60 15 L55 20 M60 15 L65 20"
+            stroke="white"
+            stroke-width="2"
+            fill="none"/>
+    </svg>
+    </th>
+</tr>
 
-| Debit Side of Account  | Credit Side of Account |
-|----------------------|------------------------|
-|(a) 25,000            |        (b) 20,000      |
-|(d) 7,500             |        (e) 3,650       |
-|                      |        (f) 950         |
-|                      |        (h) 2,000       |
- **Balance** **5,900** |                        | 
+</table>
+
+
 
 ---
 
