@@ -163,23 +163,23 @@ The amounts shown in the Cash column of Exhibit 1 would be recorded in a cash ac
     <th colspan="2"  style="text-align:center; border-right: 2px solid white; border: none; font-size:18px;">
         Balance of Account
     </th>
-<th style="border:none; text-align:right;">
-    <svg width="80" height="50" viewBox="0 0 80 50">
-      <path d="M5 40 L60 40 L60 15"
-            stroke="white"
-            stroke-width="2"
-            fill="none"/>
-      <path d="M60 15 L55 20 M60 15 L65 20"
-            stroke="white"
-            stroke-width="2"
-            fill="none"/>
-    </svg>
+    <th style="font-size:40px; letter-spacing:10px; border:none;">
+        ⤴
     </th>
 </tr>
 
 </table>
 
+## Cash
 
+
+| Debit Side of Account  | Credit Side of Account |
+|----------------------|------------------------|
+|(a) 25,000            |        (b) 20,000      |
+|(d) 7,500             |        (e) 3,650       |
+|                      |        (f) 950         |
+|                      |        (h) 2,000       |
+ **Balance** **5,900** |                        |  insertame estos datos
 
 ---
 
