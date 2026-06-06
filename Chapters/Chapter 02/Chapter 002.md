@@ -27,24 +27,26 @@ In Chapter 1, the November transactions for NetSolutions were recorded using the
 
 <img src="./img/001.png" width="800" alt="NetSolutions November Transactions">
 
-|      | Cash   | Supp.  | Land   | Accounts Payable | Common Stock | Dividends | Fees Earned | Wages Exp. | Rent Exp. | Supplies Exp. | Utilities Exp. | Misc. Exp. |
-|------|--------|--------|--------|------------------|---------------|------------|-------------|-------------|-------------|----------------|----------------|--------------|
-| a.   | 25,000 |        |        |                  |               |            | +25,000     |             |             |                |                |              |
-| b.   | -20,000| +20,000|        |                  |               |            |             |             |             |                |                |              |
-| c.   | -5,000 |        | +5,000 |                  |               |            |             |             |             |                |                |              |
-| d.   |        | +1,350 |        | +1,350           |               |            |             |             |             |                |                |              |
-|      |        |        |        |                  | 25,000        |            |             |             |             |                |                |              |
-| Bal. | 5,000  | 1,350  | 20,000 | 1,350            | 25,000        |            |             |             |             |                |                |              |
-| e.   | +7,500 |        |        |                  |               |            | +7,500      |             |             |                |                |              |
-| Bal. | 12,500 | 1,350  | 20,000 | 1,350            | 25,000        |            | 7,500       |             |             |                |                |              |
-| f.   | -3,650 |        |        |                  |               |            |             | -2,125      | -800        |                | -450           | -275         |
-| g.   | -8,850 | +1,350 | 20,000 | +1,350           | 25,000        |            | 7,500       | -2,125      | -800        |                | -450           | -275         |
-| h.   | -950   |        |        | -950             |               |            |             |             |             |                |                |              |
-| i.   | +400   | +1,350 | 20,000 | +400             | 25,000        |            | 7,500       | -2,125      | -800        |                | -450           | -275         |
-| j.   | -2,000 |        |        |                  |               | -2,000     |             |             |             |                |                |              |
-| Bal. | 7,900  | 550    | 20,000 | 400              | 25,000        |            | 7,500       | -2,125      | -800        | -800           | -450           | -275         |
-| k.   | -2,000 |        |        |                  |               | -2,000     |             |             |             |                |                |              |
-| Bal. | 5,900  | 550    | 20,000 | 400              | 25,000        | -2,000     | 7,500       | -2,125      | -800        | -800           | -450           | -275         |
+
+
+
+|      	| Cash    	| Supp. 	| Land   	| Accounts Payable 	| Common Stock 	| Dividends 	| Fees Earned 	| Wages Exp. 	| Rent Exp. 	| Supplies Exp. 	| Utilities Exp. 	| Misc. Exp. 	|
+|------	|---------	|-------	|--------	|------------------	|--------------	|-----------	|-------------	|------------	|-----------	|---------------	|----------------	|------------	|
+| a.   	| 25,000  	|       	|        	|                  	| 25,000       	|           	|             	|            	|           	|               	|                	|            	|
+| b.   	| -20,000 	|       	| 20,000 	|                  	|              	|           	|             	|            	|           	|               	|                	|            	|
+| Bal. 	| 5,000   	|       	| 20,000 	|                  	| 25,000       	|           	|             	|            	|           	|               	|                	|            	|
+| c.   	|         	| 1,350 	|        	| +1,350           	|              	|           	|             	|            	|           	|               	|                	|            	|
+| Bal. 	| 5,000   	| 1,350 	| 20,000 	| 1,350            	| 25,000       	|           	|             	|            	|           	|               	|                	|            	|
+| d.   	| 7,500   	|       	|        	|                  	|              	|           	| 7,500       	|            	|           	|               	|                	|            	|
+| Bal. 	| 12,500  	| 1,350 	| 20,000 	| 1,350            	| 25,000       	|           	| 7,500       	|            	|           	|               	|                	|            	|
+| e.   	| -3,650  	|       	|        	|                  	|              	|           	|             	| -2,125     	| -800      	|               	| -450           	| -275       	|
+| Bal. 	| -8,850  	| 1,350 	| 20,000 	| 1,350            	| 25,000       	|           	| 7,500       	| -2,125     	| -800      	|               	| -450           	| -275       	|
+| f.   	| -950    	|       	|        	| -950             	|              	|           	|             	|            	|           	|               	|                	|            	|
+| Bal. 	| 7,900   	| 1,350 	| 20,000 	| 400              	| 25,000       	|           	| 7,500       	| -2,125     	| -800      	|               	| -450           	| -275       	|
+| g.   	|         	| -800  	|        	|                  	|              	|           	|             	|            	|           	| -800          	|                	|            	|
+| Bal. 	| 7,900   	| 550   	| 20,000 	| 400              	| 25,000       	|           	| 7,500       	| -2,125     	| -800      	| -800          	| -450           	| -275       	|
+| h.   	| -2,000  	|       	|        	|                  	|              	| -2,000    	|             	|            	|           	|               	|                	|            	|
+| Bal. 	| 5,900   	| 550   	| 20,000 	| 400              	| 25,000       	| -2,000    	| 7,500       	| -2,125     	| -800      	| -800          	| -450           	| -275       	|
 
 To illustrate, the Cash column of Exhibit 1 records the increases and decreases in cash. Likewise, the other columns in Exhibit 1 record the increases and decreases in the other accounting equation elements. Each of these columns can be organized into a separate account.
 [Para ilustrar, la columna de Efectivo de la Figura 1 registra los aumentos y disminuciones en efectivo. Del mismo modo, las otras columnas de la Figura 1 registran los aumentos y disminuciones en los otros elementos de la ecuación contable. Cada una de estas columnas puede organizarse en una cuenta separada.]
@@ -891,6 +893,159 @@ How did Southern Airways account for and report the hijacking payment in its sub
 
 ---
 
+<h1 id="948821" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-2c Statement of Stockholders' Equity Accounts (Dividends)
+  </a>
+</h1>
 
+
+
+The debit and credit rules for recording dividends are based on the effect of dividends on stockholders' equity (retained earnings). Since dividends decrease stockholders' equity (retained earnings), the dividends account is increased by debits. Likewise, the dividends account is decreased by credits. Thus, the rules of debit and credit for the dividends account are as follows:
+
+[Las reglas de débito y crédito para registrar dividendos se basan en el efecto de los dividendos sobre el patrimonio de los accionistas (ganancias retenidas). Dado que los dividendos disminuyen el patrimonio de los accionistas (ganancias retenidas), la cuenta de dividendos aumenta con débitos. Asimismo, la cuenta de dividendos disminuye con créditos. Por lo tanto, las reglas de débito y crédito para la cuenta de dividendos son las siguientes:]
+
+---
+
+## Dividends Account [Cuenta de Dividendos]
+
+| Debit for increases (+) | Credit for decreases (-) |
+|-------------------------|--------------------------|
+| Débito para aumentos (+) | Crédito para disminuciones (-) |
+
+---
+
+## Summary Table [Tabla Resumen]
+
+| Account Type | Increase | Decrease | Normal Balance |
+|--------------|----------|----------|----------------|
+| Dividends | Debit (+) | Credit (-) | Debit |
+
+---
+
+## Visual Representation (T Account) [Representación Visual (Cuenta T)]
+
+```
+                Dividends Account
+        Debit (Débito)      |    Credit (Crédito)
+        (Normal Balance)    |
+          Increase (+)      |      Decrease (-)
+```
+
+---
+
+## Key Terms [Términos Clave]
+
+| English | Español |
+|---------|---------|
+| Dividends | Dividendos |
+| Stockholders' equity | Patrimonio de los accionistas |
+| Retained earnings | Ganancias retenidas |
+| Debit | Débito |
+| Credit | Crédito |
+
+---
+
+## Key Insight [Perspectiva Clave]
+
+- **Dividends decrease stockholders' equity** → recorded as a **debit** (increase in the dividends account)
+- **Dividends are NOT an expense** → they appear on the **Statement of Stockholders' Equity**, not on the Income Statement
+- The dividends account is closed directly to **Retained Earnings** at the end of the period
+
+[**Los dividendos disminuyen el patrimonio de los accionistas** → se registran como un **débito** (aumento en la cuenta de dividendos)
+**Los dividendos NO son un gasto** → aparecen en el **Estado de Cambios en el Patrimonio**, no en el Estado de Resultados
+La cuenta de dividendos se cierra directamente contra **Ganancias Retenidas** al final del período]
+
+---
+
+<h1 id="424169" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-2d Normal Balances
+  </a>
+</h1>
+
+
+The sum of the increases in an account is usually equal to or greater than the sum of the decreases in the account. Thus, the **normal balance of an account** (The side of an account (debit or credit) in which the balance normally appears based on the type of account and whether it is increased by debits or credits.) is either a debit or credit depending on whether increases in the account are recorded as debits or credits. For example, because asset accounts are increased with debits, asset accounts normally have debit balances. Likewise, liability accounts normally have credit balances.
+
+[La suma de los aumentos en una cuenta suele ser igual o mayor que la suma de las disminuciones en la cuenta. Por lo tanto, el **saldo normal de una cuenta** (El lado de una cuenta (débito o crédito) en el que el saldo aparece normalmente según el tipo de cuenta y si se aumenta con débitos o créditos) es débito o crédito dependiendo de si los aumentos en la cuenta se registran como débitos o créditos. Por ejemplo, debido a que las cuentas de activo aumentan con débitos, las cuentas de activo normalmente tienen saldos deudores. Del mismo modo, las cuentas de pasivo normalmente tienen saldos acreedores.]
+
+The rules of debit and credit and the normal balances of the various types of accounts are summarized in **Exhibit 3**. Debits and credits are sometimes abbreviated as **Dr.** for debit and **Cr.** for credit.
+
+[Las reglas de débito y crédito y los saldos normales de los diversos tipos de cuentas se resumen en la **Figura 3**. Los débitos y créditos a veces se abrevian como **Dr.** para débito y **Cr.** para crédito.]
+
+---
+
+## Exhibit 3 [Figura 3]
+
+### Rules of Debit and Credit, Normal Balances of Accounts
+[Reglas de Débito y Crédito, Saldos Normales de las Cuentas]
+
+<!-- IMAGEN: Aquí debe ir la imagen del Exhibit 3 que muestra la tabla resumen -->
+<!-- La imagen original tiene coordenadas [122, 500, 851, 828] -->
+<!-- Puedes insertarla con: ![Exhibit 3 - Rules of Debit and Credit](./img/exhibit3.png) -->
+
+<img src="./img/006.png" alt="Exhibit 3 - Rules of Debit and Credit, Normal Balances of Accounts" width="700">
+
+<!-- Fin de la imagen -->
+
+When an account normally having a debit balance has a credit balance, or vice versa, an error may have occurred or an unusual situation may exist. For example, a credit balance in the office equipment account could result only from an error. This is because a business cannot have more decreases than increases of office equipment. On the other hand, a debit balance in an accounts payable account could result from an overpayment.
+
+[Cuando una cuenta que normalmente tiene un saldo deudor tiene un saldo acreedor, o viceversa, puede haber ocurrido un error o puede existir una situación inusual. Por ejemplo, un saldo acreedor en la cuenta de equipo de oficina solo podría resultar de un error. Esto se debe a que una empresa no puede tener más disminuciones que aumentos de equipo de oficina. Por otro lado, un saldo deudor en una cuenta de cuentas por pagar podría resultar de un sobrepago.]
+
+---
+
+## Balance Sheet Accounts [Cuentas del Balance General]
+
+**David Simmons, M.D., organized Simmons Urgent Care Inc.** by investing cash in exchange for common stock. In addition, the clinic purchased medical supplies and office equipment on account.
+
+[**David Simmons, M.D., organizó Simmons Urgent Care Inc.** invirtiendo efectivo a cambio de acciones comunes. Además, la clínica compró suministros médicos y equipo de oficina a crédito.]
+
+**Identify the balance sheet accounts that Simmons Urgent Care used to record these transactions. For each account, indicate if it is an asset, liability, or stockholders' equity account and whether its normal balance is a debit or a credit.**
+
+[**Identifique las cuentas del balance general que Simmons Urgent Care utilizó para registrar estas transacciones. Para cada cuenta, indique si es una cuenta de activo, pasivo o patrimonio de los accionistas y si su saldo normal es débito o crédito.**]
+
+---
+
+### Solution [Solución]
+
+<img src="./img/007.png" width="800"></img>
+
+| Transaction [Transacción] | Account [Cuenta] | Type [Tipo] | Normal Balance [Saldo Normal] |
+|---------------------------|-----------------|-------------|-------------------------------|
+| Invested cash for common stock [Invirtió efectivo por acciones comunes] | Cash [Efectivo] | Asset [Activo] | Debit [Débito] |
+| | Common Stock [Acciones Comunes] | Stockholders' Equity [Patrimonio] | Credit [Crédito] |
+| Purchased medical supplies on account [Compró suministros médicos a crédito] | Supplies [Suministros] | Asset [Activo] | Debit [Débito] |
+| | Accounts Payable [Cuentas por Pagar] | Liability [Pasivo] | Credit [Crédito] |
+| Purchased office equipment on account [Compró equipo de oficina a crédito] | Office Equipment [Equipo de Oficina] | Asset [Activo] | Debit [Débito] |
+| | Accounts Payable [Cuentas por Pagar] | Liability [Pasivo] | Credit [Crédito] |
+
+---
+
+## Key Terms [Términos Clave]
+
+| English [Inglés] | Español [Español] |
+|------------------|-------------------|
+| Normal balance | Saldo normal |
+| Debit (Dr.) | Débito |
+| Credit (Cr.) | Crédito |
+| Overpayment | Sobre pago |
+| Account | Cuenta |
+| Increase | Aumento |
+| Decrease | Disminución |
+
+---
+
+## Summary Table [Tabla Resumen]
+
+| Account Type [Tipo de Cuenta] | Normal Balance [Saldo Normal] |
+|-------------------------------|-------------------------------|
+| Assets [Activos] | Debit [Débito] |
+| Liabilities [Pasivos] | Credit [Crédito] |
+| Stockholders' Equity [Patrimonio de los Accionistas] | Credit [Crédito] |
+| Revenue [Ingresos] | Credit [Crédito] |
+| Expenses [Gastos] | Debit [Débito] |
+| Dividends [Dividendos] | Debit [Débito] |
+
+---
 
 
