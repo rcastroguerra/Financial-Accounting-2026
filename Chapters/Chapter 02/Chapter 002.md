@@ -987,6 +987,201 @@ The rules of debit and credit and the normal balances of the various types of ac
 <img src="./img/006.png" alt="Exhibit 3 - Rules of Debit and Credit, Normal Balances of Accounts" width="700">
 
 <!-- Fin de la imagen -->
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="17" style="text-align:center; font-size:24px;">Balance Sheet Accounts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Fila 1: Categorías principales -->
+    <tr>
+      <td colspan="2" style="text-align:center; font-size:24px;">Assets</td>
+      <td colspan="1" style="text-align:center; font-size:24px;">=</td>
+      <td colspan="2" style="text-align:center; font-size:24px;">Liabilities</td>
+      <td colspan="1" style="text-align:center; font-size:24px;">+</td>
+      <td colspan="11" style="text-align:center; font-size:24px;">StockHolders' Equity</td>
+    </tr>
+    <!-- Fila 2: Subcategorías -->
+    <tr>
+      <td colspan="2" style="text-align:center; font-size:14px;">Assets Accounts</td>
+      <td></td>
+      <td colspan="2" style="text-align:center; font-size:14px;">Liabilities Accounts</td>
+      <td></td>
+      <td colspan="2" style="text-align:center; font-size:14px;">Common Stock</td>
+      <td colspan="1" style="text-align:center; font-size:24px;">+</td>
+      <td colspan="8" style="text-align:center; font-size:14px;">Retained Earnings</td>
+    </tr>
+    <!-- Fila 3: Debit / Credit -->
+    <tr>
+      <td style="text-align:center;">Debit</td>
+      <td style="text-align:center;">Credit</td>
+      <td></td>
+      <td style="text-align:center;">Debit</td>
+      <td style="text-align:center;">Credit</td>
+      <td></td>
+      <td style="text-align:center;">Debit</td>
+      <td style="text-align:center;">Credit</td>
+      <td></td>
+      <td colspan="2" style="text-align:center; font-size:14px;">Debit</td>
+      <td colspan="6" style="text-align:center; font-size:14px;">Credit</td>
+    </tr>
+    <!-- Fila 4: increase / decrease -->
+    <tr>
+      <td style="text-align:center;">increase</td>
+      <td style="text-align:center;">decrease</td>
+      <td></td>
+      <td style="text-align:center;">decrease</td>
+      <td style="text-align:center;">increase</td>
+      <td></td>
+      <td style="text-align:center;">decrease</td>
+      <td style="text-align:center;">increase</td>
+      <td></td>
+      <td colspan="2" style="text-align:center; font-size:14px;">decrease</td>
+      <td colspan="7" style="text-align:center; font-size:14px;">increase</td>
+    </tr>
+    <!-- Fila 5: (+) / (-) -->
+    <tr>
+      <td style="text-align:center;">(+)</td>
+      <td style="text-align:center;">(-)</td>
+      <td></td>
+      <td style="text-align:center;">(-)</td>
+      <td style="text-align:center;">(+)</td>
+      <td></td>
+      <td style="text-align:center;">(-)</td>
+      <td style="text-align:center;">(+)</td>
+      <td></td>
+      <td colspan="2" style="text-align:center; font-size:14px;">(-)</td>
+      <td colspan="7" style="text-align:center; font-size:14px;">(+)</td>
+    </tr>
+    <!-- Fila 6: Balance (primera fila de balances) -->
+    <tr>
+      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
+      <td></td>
+      <td colspan="6" style="text-align:right;"><span style="border-bottom:3px double white;">Balance</span></td>
+      <td colspan="2"></td>
+    </tr>
+    <!-- Fila 7: flechas y separación hacia Income Statement -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>↑</td>
+      <td colspan="7" style="text-align:center; font-size:14px;">↑</td>
+    </tr>
+    <!-- Fila 8: Income Statement Accounts -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center; font-size:24px;">-</td>
+      <td colspan="2" style="text-align:center; font-size:14px;">Dividends</td>
+      <td style="text-align:center; font-size:24px;">+</td>
+      <td colspan="2" style="text-align:center; font-size:14px;">Revenue Accounts</td>
+      <td style="text-align:center; font-size:24px;">-</td>
+      <td colspan="3" style="text-align:center; font-size:14px;">Expenses Accounts</td>
+    </tr>
+    <!-- Fila 9: Debit / Credit para Income Statement -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">Debit</td>
+      <td style="text-align:center;">Credit</td>
+      <td></td>
+      <td style="text-align:center;">Debit</td>
+      <td style="text-align:center;">Credit</td>
+      <td></td>
+      <td style="text-align:center;">Debit</td>
+      <td style="text-align:center;">Credit</td>
+    </tr>
+    <!-- Fila 10: increase / decrease -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">increase</td>
+      <td style="text-align:center;">decrease</td>
+      <td></td>
+      <td style="text-align:center;">decrease</td>
+      <td style="text-align:center;">increase</td>
+      <td></td>
+      <td style="text-align:center;">increase</td>
+      <td style="text-align:center;">decrease</td>
+    </tr>
+    <!-- Fila 11: (+) / (-) -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;">(+)</td>
+      <td style="text-align:center;">(-)</td>
+      <td></td>
+      <td style="text-align:center;">(-)</td>
+      <td style="text-align:center;">(+)</td>
+      <td></td>
+      <td style="text-align:center;">(+)</td>
+      <td style="text-align:center;">(-)</td>
+    </tr>
+    <!-- Fila 12: Balance final -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
+      <td></td>
+      <td></td>
+      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 When an account normally having a debit balance has a credit balance, or vice versa, an error may have occurred or an unusual situation may exist. For example, a credit balance in the office equipment account could result only from an error. This is because a business cannot have more decreases than increases of office equipment. On the other hand, a debit balance in an accounts payable account could result from an overpayment.
 
