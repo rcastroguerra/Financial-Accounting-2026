@@ -1082,6 +1082,20 @@ The rules of debit and credit and the normal balances of the various types of ac
       <td colspan="2" style="text-align:center;">↑</td>
       <td colspan="7" style="text-align:center; font-size:14px;">↑</td>
     </tr>
+    <!-- Fila 7: flechas y separación hacia Income Statement -->
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td colspan="2" style="text-align:center;">↑</td>
+      <td colspan="7" style="text-align:center; font-size:14px;">Income Statement Accounts</td>
+    </tr>
     <!-- Fila 8: Income Statement Accounts -->
     <tr>
       <td></td>
