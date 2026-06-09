@@ -1187,8 +1187,8 @@ The rules of debit and credit and the normal balances of the various types of ac
       <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
       <td></td>
       <td></td>
-      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
       <td></td>
+      <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
       <td></td>
       <td style="text-align:center;"><span style="border-bottom:3px double white;">Balance</span></td>
       <td></td>
