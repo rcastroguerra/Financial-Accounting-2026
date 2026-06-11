@@ -24,6 +24,10 @@
 
 ##### [Capitulo 2-4b Errors Not Affecting the Trial Balance](#839312)
 
+##### [Capitulo 2-5a Let’s Review Chapter Summary](#905868)
+
+##### [Capitulo 2-5b Key Terms](#416104)
+
 <h1 id="675031" style="color:#E65100;">
   <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
     2-1 Using Accounts to Record Transactions [Usando Cuentas para Registrar Transacciones]
@@ -2587,3 +2591,241 @@ The trial balance does not provide complete proof of the accuracy of the ledger.
   </a>
 </h1>
 
+
+An error may occur that does not cause the trial balance totals to be unequal. Such an error may be discovered when preparing the trial balance or may be indicated by an unusual account balance. For example, a credit balance in the supplies account indicates an error has occurred. This is because a business cannot have "negative" supplies. When such errors are discovered, they should be corrected. If the error has already been journalized and posted to the ledger, a **correcting journal entry** (An entry that is prepared to correct an error to an entry that has already been journalized and posted.) is normally prepared.
+
+[Puede ocurrir un error que no cause que los totales del balance de comprobación sean desiguales. Tal error puede descubrirse al preparar el balance de comprobación o puede ser indicado por un saldo de cuenta inusual. Por ejemplo, un saldo acreedor en la cuenta de suministros indica que ha ocurrido un error. Esto se debe a que una empresa no puede tener suministros "negativos". Cuando se descubren tales errores, deben corregirse. Si el error ya ha sido registrado en el diario y traspasado al libro mayor, normalmente se prepara un **asiento de diario de corrección** (un asiento que se prepara para corregir un error en un asiento que ya ha sido registrado en el diario y traspasado).]
+
+To illustrate, assume that on May 5 a $12,500 purchase of office equipment for cash was incorrectly journalized and posted as a debit to Supplies and a credit to Cash for $12,500 as follows:
+
+[Para ilustrar, suponga que el 5 de mayo una compra de equipo de oficina por $12,500 en efectivo se registró incorrectamente en el diario y se traspasó como un débito a Suministros y un crédito a Efectivo por $12,500 de la siguiente manera:]
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| May 5 | Supplies | 12,500 | |
+| | Cash | | 12,500 |
+
+The error was discovered on May 31. Before making a correcting journal entry, the journal entry that was made in error is compared to the entry that should have been made. By comparing these two journal entries, the correcting journal entry can be determined, as shown in Exhibit 8.
+
+[El error se descubrió el 31 de mayo. Antes de hacer un asiento de diario de corrección, el asiento de diario que se hizo incorrectamente se compara con el asiento que debería haberse hecho. Al comparar estos dos asientos de diario, se puede determinar el asiento de diario de corrección, como se muestra en la Figura 8.]
+
+---
+
+## Exhibit 8
+
+### Correcting Journal Entry
+
+<!-- 📍 IMAGEN: Exhibit 8 - Correcting Journal Entry -->
+
+![Exhibit 8 - Correcting Journal Entry](./img/041.png)
+
+| Entry That Was Made | Entry That Should Have Been Made | Correcting Journal Entry |
+|---------------------|--------------------------------|--------------------------|
+| Supplies 12,500 | Office Equipment 12,500 | Office Equipment 12,500 |
+| Cash 12,500 | Cash 12,500 | Supplies 12,500 |
+
+*Explanation: To correct error in entry of May 5 (purchased office equipment recorded as supplies).*
+
+Exhibit 8 indicates that the correcting journal entry debits Office Equipment and credits Supplies for $12,500. Because correcting journal entries are unusual, an explanation is often inserted below the correcting journal entry. After the correcting journal entry is posted, the office equipment and supplies accounts will have correct balances.
+
+[La Figura 8 indica que el asiento de diario de corrección debita Equipo de Oficina y acredita Suministros por $12,500. Debido a que los asientos de diario de corrección son inusuales, a menudo se inserta una explicación debajo del asiento de diario de corrección. Después de que se traspasa el asiento de diario de corrección, las cuentas de equipo de oficina y suministros tendrán saldos correctos.]
+
+---
+
+## Check up Corner 2-3
+
+### Trial Balance
+
+The accounts of Simmons Urgent Care Inc. as of December 31, 20Y7, are listed in alphabetical order as follows. All accounts have normal balances.
+
+[Las cuentas de Simmons Urgent Care Inc. al 31 de diciembre de 20Y7 se enumeran en orden alfabético a continuación. Todas las cuentas tienen saldos normales.]
+
+<img src="./img/042.png" width="800"></img>
+
+| Account | Balance |
+|---------|---------|
+| Accounts Payable | $ 7,200 |
+| Accounts Receivable | 22,000 |
+| Cash | 21,000 |
+| Common Stock | 30,000 |
+| Dividends | 15,000 |
+| Fees Earned | 250,000 |
+| Miscellaneous Expense | 2,200 |
+| Office Equipment | 62,500 |
+| Rent Expense | 12,000 |
+| Retained Earnings | 36,300 |
+| Supplies | 7,800 |
+| Supplies Expense | 22,000 |
+| Utilities Expense | 4,000 |
+| Wages Expense | 155,000 |
+
+**Prepare an unadjusted trial balance, listing the accounts in their normal order.**
+
+[**Prepare un balance de comprobación no ajustado, enumerando las cuentas en su orden normal.**]
+
+---
+
+### Solution - Check Up Corner 2-3
+
+<img src="./img/043.png" width="800"></img>
+
+#### Simmons Urgent Care Inc.
+#### Unadjusted Trial Balance
+#### December 31, 20Y7
+
+| Account | Debit | Credit |
+|---------|-------|--------|
+| Cash | 21,000 | |
+| Accounts Receivable | 22,000 | |
+| Supplies | 7,800 | |
+| Office Equipment | 62,500 | |
+| Accounts Payable | | 7,200 |
+| Common Stock | | 30,000 |
+| Retained Earnings | | 36,300 |
+| Dividends | 15,000 | |
+| Fees Earned | | 250,000 |
+| Wages Expense | 155,000 | |
+| Rent Expense | 12,000 | |
+| Supplies Expense | 22,000 | |
+| Utilities Expense | 4,000 | |
+| Miscellaneous Expense | 2,200 | |
+| **Totals** | **323,500** | **323,500** |
+
+---
+
+## Analysis for Decision Making
+
+### Horizontal Analysis
+
+A single item in a financial statement, such as net income, is often useful in interpreting the financial performance of a company. However, a comparison with prior periods often makes the financial information even more useful. For example, comparing net income of the current period with the net income of the prior period will indicate whether the company's operating performance has improved.
+
+[Un solo elemento en un estado financiero, como el ingreso neto, a menudo es útil para interpretar el desempeño financiero de una empresa. Sin embargo, una comparación con períodos anteriores a menudo hace que la información financiera sea aún más útil. Por ejemplo, comparar el ingreso neto del período actual con el ingreso neto del período anterior indicará si el desempeño operativo de la empresa ha mejorado.]
+
+**Objective 5** - Describe and illustrate the use of horizontal analysis in evaluating a company's performance and financial condition.
+
+[**Objetivo 5** - Describir e ilustrar el uso del análisis horizontal en la evaluación del desempeño y la condición financiera de una empresa.]
+
+In **horizontal analysis** (Financial analysis that compares an item in a current statement with the same item in prior statements in terms of the amount and percentage of change.), the amount of each item on a current financial statement is compared with the same item on an earlier statement. The increase or decrease in the amount of the item is computed together with the percent of increase or decrease. When two statements are being compared, the earlier statement is used as the base for computing the amount and the percent of change.
+
+[En el **análisis horizontal** (análisis financiero que compara una partida en un estado actual con la misma partida en estados anteriores en términos del monto y el porcentaje de cambio), el monto de cada partida en un estado financiero actual se compara con la misma partida en un estado anterior. El aumento o disminución en el monto de la partida se calcula junto con el porcentaje de aumento o disminución. Cuando se comparan dos estados, el estado anterior se utiliza como base para calcular el monto y el porcentaje de cambio.]
+
+To illustrate, the horizontal analysis of two income statements for J. Holmes, Attorney-at-Law follows:
+
+[Para ilustrar, a continuación se presenta el análisis horizontal de dos estados de resultados para J. Holmes, Abogado:]
+
+<img src="./img/044.png" width="800"></img>
+
+| | 20Y6 | 20Y5 | Amount of Increase (Decrease) | Percent of Increase (Decrease) |
+|------ |------|------|-------------------------------|-------------------------------|
+| **Fees Earned** | $175,000 | $140,000 | $35,000 | 25.0% |
+| **Operating Expenses:** | | | | |
+| Wages Expense | 80,000 | 60,000 | 20,000 | 33.3% |
+| Rent Expense | 25,000 | 20,000 | 5,000 | 25.0% |
+| Utilities Expense | 12,500 | 9,000 | 3,500 | 38.9% |
+| Supplies Expense | 5,000 | 6,000 | (1,000) | (16.7%) |
+| Miscellaneous Expense | 3,000 | 2,000 | 1,000 | 50.0% |
+| **Total Operating Expenses** | 125,500 | 97,000 | 28,500 | 29.4% |
+| **Net Income** | $49,500 | $43,000 | $6,500 | 15.1% |
+
+*(Nota: Los porcentajes en el ejemplo original del PDF pueden variar ligeramente; esta tabla refleja el cálculo correcto basado en los montos presentados.)*
+
+The horizontal analysis for J. Holmes, Attorney-at-Law, indicates both favorable and unfavorable changes. The increase in fees earned of 25.0% is favorable as is the decrease in supplies expense. Unfavorable changes include the increase in wages expense, rent expense, utilities expense, and miscellaneous expense. These expenses increased the same as or faster than the increase in revenues, with total operating expenses increasing by 29.4%. Overall, net income increased by $6,500 or 15.1%, a favorable change.
+
+[El análisis horizontal para J. Holmes, Abogado, indica cambios tanto favorables como desfavorables. El aumento en los ingresos por servicios del 25.0% es favorable, al igual que la disminución en el gasto de suministros. Los cambios desfavorables incluyen el aumento en el gasto de sueldos, gasto de renta, gasto de servicios públicos y gasto misceláneo. Estos gastos aumentaron igual o más rápido que el aumento en los ingresos, con un aumento total de los gastos operativos del 29.4%. En general, el ingreso neto aumentó en $6,500 o 15.1%, un cambio favorable.]
+
+The significance of the various increases and decreases in the revenue and expense items should be investigated to see if operations could be further improved. For example, the increase in utilities expense of 38.9% was the result of renting additional office space for use by a part-time law student in performing paralegal services. This explains the increase in rent expense of 25.0% and the increase in wages expense of 33.3%. The increase in revenues of 25.0% reflects the fees generated by the new paralegal.
+
+[La importancia de los diversos aumentos y disminuciones en las partidas de ingresos y gastos debe investigarse para ver si las operaciones podrían mejorarse aún más. Por ejemplo, el aumento en el gasto de servicios públicos del 38.9% fue el resultado de alquilar espacio de oficina adicional para que lo usara un estudiante de derecho a tiempo parcial en la realización de servicios de paralegal. Esto explica el aumento en el gasto de renta del 25.0% y el aumento en el gasto de sueldos del 33.3%. El aumento en los ingresos del 25.0% refleja los honorarios generados por el nuevo paralegal.]
+
+The preceding example illustrates how horizontal analysis can be useful in interpreting and analyzing the income statement. Horizontal analyses can also be performed for the balance sheet, the statement of stockholders' equity, and the statement of cash flows.
+
+[El ejemplo anterior ilustra cómo el análisis horizontal puede ser útil para interpretar y analizar el estado de resultados. Los análisis horizontales también se pueden realizar para el balance general, el estado de cambios en el patrimonio neto y el estado de flujos de efectivo.]
+
+---
+
+## Horizontal Analysis
+
+- Analyze Amazon.com (MAD 2-1) (Continuing company analysis)
+- Analyze Chipotle Mexican Grill (MAD 2-2)
+- Analyze Vera Bradley, Inc. (MAD 2-3)
+- Analyze Target (MAD 2-4)
+- Analyze Walmart (MAD 2-5)
+- Compare Target and Walmart (MAD 2-6)
+
+---
+
+<h1 id="905868" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-5a Let’s Review Chapter Summary
+  </a>
+</h1>
+
+[2-5 Capítulo Revisión - 2-5a Revisemos Resumen del Capítulo]
+
+**1.** The simplest form of an account, a T account, has three parts: (1) a title, which is the name of the item recorded in the account; (2) a left side, called the debit side; and (3) a right side, called the credit side. Periodically, the debits in an account are added, the credits in the account are added, and the balance of the account is determined. The system of accounts that make up a ledger is called a chart of accounts.
+
+[**1.** La forma más simple de una cuenta, una cuenta T, tiene tres partes: (1) un título, que es el nombre de la partida registrada en la cuenta; (2) un lado izquierdo, llamado lado débito; y (3) un lado derecho, llamado lado crédito. Periódicamente, se suman los débitos en una cuenta, se suman los créditos en la cuenta y se determina el saldo de la cuenta. El sistema de cuentas que componen un libro mayor se llama catálogo de cuentas.]
+
+**2.** Transactions are initially entered in a record called a journal. The rules of debit and credit for recording increases or decreases in accounts are shown in Exhibit 3. Each transaction is recorded so that the sum of the debits is always equal to the sum of the credits. The normal balance of an account is indicated by the side of the account (debit or credit) that receives the increases.
+
+[**2.** Las transacciones se registran inicialmente en un registro llamado diario. Las reglas de débito y crédito para registrar aumentos o disminuciones en las cuentas se muestran en la Figura 3. Cada transacción se registra de modo que la suma de los débitos sea siempre igual a la suma de los créditos. El saldo normal de una cuenta está indicado por el lado de la cuenta (débito o crédito) que recibe los aumentos.]
+
+**3.** Transactions are journalized and posted to the ledger using the rules of debit and credit. The debits and credits for each journal entry are posted to the accounts in the order in which they occur in the journal.
+
+[**3.** Las transacciones se registran en el diario y se traspasan al libro mayor utilizando las reglas de débito y crédito. Los débitos y créditos de cada asiento de diario se traspasan a las cuentas en el orden en que ocurren en el diario.]
+
+**4.** A trial balance is prepared by listing the accounts from the ledger and their balances. The totals of the Debit column and Credit column of the trial balance must be equal. If the two totals are not equal, an error has occurred. Errors may occur even though the trial balance totals are equal. Such errors may require a correcting journal entry.
+
+[**4.** Se prepara un balance de comprobación enumerando las cuentas del libro mayor y sus saldos. Los totales de la columna Débito y la columna Crédito del balance de comprobación deben ser iguales. Si los dos totales no son iguales, ha ocurrido un error. Pueden ocurrir errores incluso cuando los totales del balance de comprobación son iguales. Dichos errores pueden requerir un asiento de diario de corrección.]
+
+**5.** In horizontal analysis, the amount of each item on a current financial statement is compared with the same item on an earlier statement. The increase or decrease in the amount of the item is computed together with the percent of increase or decrease. When two statements are being compared, the earlier statement is used as the base for computing the amount and the percent of change. Horizontal analysis can be performed on any of the four financial statements.
+
+[**5.** En el análisis horizontal, el monto de cada partida en un estado financiero actual se compara con la misma partida en un estado anterior. El aumento o disminución en el monto de la partida se calcula junto con el porcentaje de aumento o disminución. Cuando se comparan dos estados, el estado anterior se utiliza como base para calcular el monto y el porcentaje de cambio. El análisis horizontal se puede realizar en cualquiera de los cuatro estados financieros.]
+
+---
+
+<h1 id="416104" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-5b Key Terms
+  </a>
+</h1>
+
+## 2-5b Key Terms
+
+| English Term | Español | Definition (English) | Definición (Español) |
+|--------------|---------|---------------------|---------------------|
+| **account** | cuenta | An accounting form used to record the increases and decreases in each financial statement item. | Forma contable utilizada para registrar los aumentos y disminuciones en cada partida del estado financiero. |
+| **account receivable** | cuenta por cobrar | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **assets** | activos | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **balance of the account** | saldo de la cuenta | The amount of the difference between the debits and the credits that have been entered into an account. | El monto de la diferencia entre los débitos y los créditos que se han ingresado en una cuenta. |
+| **chart of accounts** | catálogo de cuentas | A list of the accounts in the ledger. | Una lista de las cuentas en el libro mayor. |
+| **common stock** | acciones comunes | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **correcting journal entry** | asiento de diario de corrección | An entry that is prepared to correct an error to an entry that has already been journalized and posted. | Un asiento que se prepara para corregir un error en un asiento que ya ha sido registrado en el diario y traspasado. |
+| **credit** | crédito | Amount entered on the right side of an account. | Monto ingresado en el lado derecho de una cuenta. |
+| **debit** | débito | Amount entered on the left side of an account. | Monto ingresado en el lado izquierdo de una cuenta. |
+| **dividends** | dividendos | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **double-entry accounting system** | sistema de contabilidad de partida doble | A system of accounting for recording transactions, based on recording increases and decreases in accounts so that debits equal credits. | Un sistema de contabilidad para registrar transacciones, basado en registrar aumentos y disminuciones en las cuentas de modo que los débitos sean iguales a los créditos. |
+| **expenses** | gastos | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **four-column account** | cuenta de cuatro columnas | A form of account that has Debit and Credit columns for recording transactions as well as Balance (Debit and Credit) columns for indicating the account balance after each transaction. | Una forma de cuenta que tiene columnas de Débito y Crédito para registrar transacciones, así como columnas de Saldo (Débito y Crédito) para indicar el saldo de la cuenta después de cada transacción. |
+| **horizontal analysis** | análisis horizontal | Financial analysis that compares an item in a current statement with the same item in prior statements in terms of the amount and percentage of change. | Análisis financiero que compara una partida en un estado actual con la misma partida en estados anteriores en términos del monto y el porcentaje de cambio. |
+| **journal** | diario | The initial record in which the effects of a transaction are recorded. | El registro inicial en el cual se registran los efectos de una transacción. |
+| **journal entry** | asiento de diario | The record of a transaction entered in a journal, made up of at least one debit and one credit. | El registro de una transacción ingresada en un diario, compuesto por al menos un débito y un crédito. |
+| **journalizing** | registro en el diario | The process of recording a transaction in a journal. | El proceso de registrar una transacción en un diario. |
+| **ledger** | libro mayor | A group of accounts for a business. | Un grupo de cuentas para un negocio. |
+| **liabilities** | pasivos | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **normal balance of an account** | saldo normal de una cuenta | The side of an account (debit or credit) in which the balance normally appears based on the type of account and whether it is increased by debits or credits. | El lado de una cuenta (débito o crédito) en el que el saldo aparece normalmente según el tipo de cuenta y si esta aumenta con débitos o créditos. |
+| **posting** | traspaso | The process of transferring the debits and credits from the journal entries to the accounts. | El proceso de transferir los débitos y créditos de los asientos de diario a las cuentas. |
+| **prepaid expenses** | gastos pagados por adelantado | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **retained earnings** | ganancias retenidas | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **revenues** | ingresos | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **rules of debit and credit** | reglas de débito y crédito | In the double-entry accounting system, specific rules for recording debits and credits based on the type of account. | En el sistema de contabilidad de partida doble, reglas específicas para registrar débitos y créditos según el tipo de cuenta. |
+| **slide** | deslizamiento (error de punto decimal) | An error in which the entire number is moved one or more spaces to the right or the left, such as writing $542.00 as $54.20 or $5,420.00. | Un error en el que el número completo se mueve uno o más espacios a la derecha o a la izquierda, como escribir $542.00 como $54.20 o $5,420.00. |
+| **stockholders' equity** | capital contable | (No definition provided in original) | (No se proporcionó definición en el original) |
+| **T account** | cuenta T | The simplest form of an account, which consists of an account title, a debit side, and a credit side. | La forma más simple de una cuenta, que consiste en un título de cuenta, un lado de débito y un lado de crédito. |
+| **transposition** | transposición | An error in which the order of the digits is changed, such as writing $542 as $452 or $524. | Un error en el que se cambia el orden de los dígitos, como escribir $542 como $452 o $524. |
+| **trial balance** | balance de comprobación | A summary listing of the titles and balances of accounts in the ledger, which is used to verify that debits equal credits. | Un listado resumido de los títulos y saldos de las cuentas en el libro mayor, que se utiliza para verificar que los débitos sean iguales a los créditos. |
+| **two-column journal** | diario de dos columnas | A form of journal in which there are only two amount columns, one for debits and one for credits. | Una forma de diario en la que solo hay dos columnas de montos, una para débitos y otra para créditos. |
+| **unadjusted trial balance** | balance de comprobación no ajustado | A trial balance prepared at the end of an accounting period before adjusting entries are made. | Un balance de comprobación preparado al final de un período contable antes de realizar los asientos de ajuste. |
+| **unearned revenue** | ingreso no devengado (ingreso diferido) | The liability created by receiving revenue in advance. | El pasivo creado al recibir ingresos por adelantado. |
+
+---
