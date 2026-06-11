@@ -18,6 +18,12 @@
 
 ##### [Capitulo 2-3 Posting Journal Entries to Accounts](#357632)
 
+##### [Capitulo 2-4 Trial Balance](#777994)
+
+##### [Capitulo 2-4a Errors Affecting the Trial Balance](#988576)
+
+##### [Capitulo 2-4b Errors Not Affecting the Trial Balance](#839312)
+
 <h1 id="675031" style="color:#E65100;">
   <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
     2-1 Using Accounts to Record Transactions [Usando Cuentas para Registrar Transacciones]
@@ -2474,3 +2480,110 @@ The data analytic process of extracting data is in some ways similar to the proc
 [El proceso analítico de datos de extracción de datos es en cierto modo similar al proceso de análisis y registro de transacciones que se describe e ilustra en este capítulo. Por ejemplo, los datos de transacciones cuantitativas (expresados en dólares) se recopilan y resumen en cuentas categóricas (activo, pasivo, capital contable, ingreso y gasto).]
 
 ---
+
+<h1 id="777994" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-4 Trial Balance
+  </a>
+</h1>
+
+
+Errors may occur in posting debits and credits from the journal to the ledger. One way to detect such errors is by preparing a **trial balance** (A summary listing of the titles and balances of accounts in the ledger, which is used to verify that debits equal credits.). Double-entry accounting requires that debits must always equal credits. The trial balance verifies this equality.
+
+[Pueden ocurrir errores al traspasar débitos y créditos del diario al libro mayor. Una forma de detectar tales errores es preparando un **balance de comprobación** (un listado resumido de los títulos y saldos de las cuentas en el libro mayor, que se utiliza para verificar que los débitos sean iguales a los créditos). La contabilidad de partida doble requiere que los débitos siempre sean iguales a los créditos. El balance de comprobación verifica esta igualdad.]
+
+**Objective 4** - Prepare an unadjusted trial balance and explain how it can be used to discover errors.
+
+[**Objetivo 4** - Preparar un balance de comprobación no ajustado y explicar cómo se puede usar para descubrir errores.]
+
+The steps in preparing a trial balance are as follows:
+
+[Los pasos para preparar un balance de comprobación son los siguientes:]
+
+**Step 1.** List the name of the company, the title of the trial balance, and the date the trial balance is prepared.
+
+[**Paso 1.** Enumere el nombre de la empresa, el título del balance de comprobación y la fecha en que se prepara el balance de comprobación.]
+
+**Step 2.** List the accounts from the ledger, and enter their debit or credit balance in the Debit or Credit column of the trial balance.
+
+[**Paso 2.** Enumere las cuentas del libro mayor e ingrese su saldo deudor o acreedor en la columna Débito o Crédito del balance de comprobación.]
+
+**Step 3.** Total the Debit and Credit columns of the trial balance.
+
+[**Paso 3.** Sume las columnas de Débito y Crédito del balance de comprobación.]
+
+**Step 4.** Verify that the total of the Debit column equals the total of the Credit column.
+
+[**Paso 4.** Verifique que el total de la columna Débito sea igual al total de la columna Crédito.]
+
+The trial balance for NetSolutions as of December 31, 20Y3, is shown in Exhibit 7. The account balances in Exhibit 7 are taken from the ledger shown in Exhibit 6. Before a trial balance is prepared, each account balance in the ledger must be determined. When the standard four-column account form is used as in Exhibit 6, the balance of each account appears in the Balance column on the same line as the last posting to the account.
+
+[El balance de comprobación de NetSolutions al 31 de diciembre de 20Y3 se muestra en la Figura 7. Los saldos de las cuentas en la Figura 7 se toman del libro mayor mostrado en la Figura 6. Antes de preparar un balance de comprobación, se debe determinar cada saldo de cuenta en el libro mayor. Cuando se utiliza la forma estándar de cuenta de cuatro columnas como en la Figura 6, el saldo de cada cuenta aparece en la columna de Saldo en la misma línea que el último traspaso a la cuenta.]
+
+---
+
+## Exhibit 7
+
+### Trial Balance
+
+<!-- 📍 IMAGEN: Exhibit 7 - Trial Balance (coordenadas [116, 0, 849, 277]) -->
+
+![Exhibit 7 - Trial Balance](./img/040.png)
+
+The trial balance shown in Exhibit 7 is titled an **unadjusted trial balance** (A trial balance prepared at the end of an accounting period before adjusting entries are made.). This is to distinguish it from other trial balances that will be prepared in later chapters. These other trial balances include an adjusted trial balance and a post-closing trial balance.
+
+[El balance de comprobación mostrado en la Figura 7 se titula **balance de comprobación no ajustado** (un balance de comprobación preparado al final de un período contable antes de realizar los asientos de ajuste). Esto es para distinguirlo de otros balances de comprobación que se prepararán en capítulos posteriores. Estos otros balances de comprobación incluyen un balance de comprobación ajustado y un balance de comprobación posterior al cierre.]
+
+---
+
+<h1 id="988576" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-4a Errors Affecting the Trial Balance
+  </a>
+</h1>
+
+
+If the trial balance totals are not equal, an error has occurred. In this case, the error must be found and corrected. A method useful in discovering errors is as follows:
+
+[Si los totales del balance de comprobación no son iguales, ha ocurrido un error. En este caso, el error debe encontrarse y corregirse. Un método útil para descubrir errores es el siguiente:]
+
+**1.** If the difference between the Debit and Credit column totals is 10, 100, or 1,000, an error in addition may have occurred. In this case, re-add the trial balance column totals. If the error still exists, recompute the account balances.
+
+[**1.** Si la diferencia entre los totales de las columnas Débito y Crédito es 10, 100 o 1,000, puede haber ocurrido un error de suma. En este caso, vuelva a sumar los totales de las columnas del balance de comprobación. Si el error aún existe, vuelva a calcular los saldos de las cuentas.]
+
+**2.** If the difference between the Debit and Credit column totals can be evenly divisible by 2, the error may be due to the entering of a debit balance as a credit balance, or vice versa. In this case, review the trial balance for account balances of one-half the difference that may have been entered in the wrong column. For example, if the Debit column total is $20,640 and the Credit column total is $20,236, the difference of $404 ($20,640 - $20,236) may be due to a credit account balance of $202 that was entered as a debit account balance.
+
+[**2.** Si la diferencia entre los totales de las columnas Débito y Crédito es divisible uniformemente por 2, el error puede deberse a haber ingresado un saldo deudor como saldo acreedor, o viceversa. En este caso, revise el balance de comprobación en busca de saldos de cuentas equivalentes a la mitad de la diferencia que puedan haber sido ingresados en la columna incorrecta. Por ejemplo, si el total de la columna Débito es $20,640 y el total de la columna Crédito es $20,236, la diferencia de $404 ($20,640 - $20,236) puede deberse a un saldo de cuenta acreedor de $202 que se ingresó como saldo deudor.]
+
+**3.** If the difference between the Debit and Credit column totals is evenly divisible by 9, trace the account balances back to the ledger to see if an account balance was incorrectly copied from the ledger. Two common types of copying errors are **transpositions** and **slides**.
+
+[**3.** Si la diferencia entre los totales de las columnas Débito y Crédito es divisible uniformemente por 9, rastree los saldos de las cuentas hasta el libro mayor para ver si algún saldo de cuenta se copió incorrectamente desde el libro mayor. Dos tipos comunes de errores de copiado son las **transposiciones** y los **desplazamientos** (errores de punto decimal).]
+
+A **transposition** (An error in which the order of the digits is changed, such as writing $542 as $452 or $524.) occurs when the order of the digits is copied incorrectly, such as writing $542 as $452 or $524.
+
+[Una **transposición** (un error en el que se cambia el orden de los dígitos, como escribir $542 como $452 o $524) ocurre cuando el orden de los dígitos se copia incorrectamente, como escribir $542 como $452 o $524.]
+
+In a **slide** (An error in which the entire number is moved one or more spaces to the right or the left, such as writing $542.00 as $54.20 or $5,420.00.) the entire number is copied incorrectly one or more spaces to the right or the left, such as writing $542.00 as $54.20 or $5,420.00. In both cases, the resulting error will be evenly divisible by 9.
+
+[En un **desplazamiento** (error de punto decimal) (un error en el que el número completo se mueve uno o más espacios a la derecha o a la izquierda, como escribir $542.00 como $54.20 o $5,420.00), el número completo se copia incorrectamente uno o más espacios a la derecha o a la izquierda, como escribir $542.00 como $54.20 o $5,420.00. En ambos casos, el error resultante será uniformemente divisible por 9.]
+
+**4.** If the difference between the Debit and Credit column totals is not evenly divisible by 2 or 9, review the ledger to see if an account balance in the amount of the error has been omitted from the trial balance. If the error is not discovered, review the journal postings to see if a posting of a debit or credit may have been omitted.
+
+[**4.** Si la diferencia entre los totales de las columnas Débito y Crédito no es divisible uniformemente por 2 o 9, revise el libro mayor para ver si se ha omitido del balance de comprobación algún saldo de cuenta por el monto del error. Si no se descubre el error, revise los traspasos del diario para ver si se ha omitido el traspaso de un débito o un crédito.]
+
+**5.** If an error is not discovered by the preceding steps, the accounting process must be retraced, beginning with the last journal entry.
+
+[**5.** Si no se descubre un error con los pasos anteriores, se debe retroceder en el proceso contable, comenzando con el último asiento de diario.]
+
+The trial balance does not provide complete proof of the accuracy of the ledger. It indicates only that the debits and the credits are equal. This proof is of value, however, because errors often affect the equality of debits and credits.
+
+[El balance de comprobación no proporciona una prueba completa de la exactitud del libro mayor. Solo indica que los débitos y los créditos son iguales. Esta comprobación tiene valor, sin embargo, porque los errores a menudo afectan la igualdad de débitos y créditos.]
+
+---
+
+<h1 id="839312" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-4b Errors Not Affecting the Trial Balance
+  </a>
+</h1>
+
