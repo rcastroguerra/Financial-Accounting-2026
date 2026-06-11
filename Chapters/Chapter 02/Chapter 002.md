@@ -10,6 +10,14 @@
 
 ##### [Capitulo 2-2b Income Statement Accounts [Cuentas del Estado de Resultados]](#628626)
 
+##### [Capitulo 2-2c Statement of Stockholders' Equity Accounts (Dividends)](#948821)
+
+##### [Capitulo 2-2d Normal Balances](#424169)
+
+##### [Capitulo 2-2e Journalizing](#488883)
+
+##### [Capitulo 2-3 Posting Journal Entries to Accounts](#357632)
+
 <h1 id="675031" style="color:#E65100;">
   <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
     2-1 Using Accounts to Record Transactions [Usando Cuentas para Registrar Transacciones]
@@ -1257,3 +1265,1212 @@ When an account normally having a debit balance has a credit balance, or vice ve
 ---
 
 
+<h1 id="488883" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-2e Journalizing
+  </a>
+</h1>
+
+
+Using the rules of debit and credit, transactions are initially entered in a record called a journal (The initial record in which the effects of a transaction are recorded.). The journal serves as a record of when transactions occurred and were recorded. To illustrate, the November 20Y3 transactions of NetSolutions from Chapter 1 are used.
+
+[Usando las reglas del débito y el crédito, las transacciones se registran inicialmente en un registro llamado diario (registro inicial donde se anotan los efectos de una transacción). El diario sirve como registro de cuándo ocurrieron y se registraron las transacciones. Para ilustrar, se utilizan las transacciones de noviembre de 20Y3 de NetSolutions del Capítulo 1.]
+
+## Transaction a
+
+**Nov. 1** Chris Clark deposited $25,000 in a bank account in the name of NetSolutions in exchange for common stock.
+
+### Analysis
+
+This transaction increases an asset account and increases a stockholders' equity account. It is recorded in the journal as an increase (debit) to Cash and an increase (credit) to Common Stock.
+
+[Esta transacción aumenta una cuenta de activo y aumenta una cuenta de capital contable. Se registra en el diario como un aumento (débito) a Efectivo y un aumento (crédito) a Acciones Comunes.]
+
+### Journal Entry
+
+<!-- 📍 IMAGEN: Journal Entry para Transaction a (coordenadas [151, 570, 845, 751]) -->
+
+![Journal Entry - Transaction a](./img/008.png)
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 1 | Cash | 25,000 | |
+| | Common Stock | | 25,000 |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction a -->
+
+![Accounting Equation Impact - Transaction a](./img/009.png)
+
+---
+
+**1**
+
+If you make a deposit at the bank, you are said to credit your account. Likewise, when you make a withdrawal, you are said to debit your account. At first, this may seem opposite to the debit and credit normal balance rules. Additions to cash are debits, not credits. However, while the cash in your account is an asset to you, it is a liability to the bank. Thus, when the bank credits your account for a deposit, it is increasing its liability account to you. Likewise, when the bank debits your account for a withdrawal, it is decreasing its liability account to you. Thus, the debit and credit normal balance rules are being followed from the bank's perspective.
+
+[Si haces un depósito en el banco, se dice que acreditan tu cuenta. Del mismo modo, cuando retiras, se dice que debitan tu cuenta. Al principio, esto puede parecer opuesto a las reglas de saldo normal de débito y crédito. Las adiciones a efectivo son débitos, no créditos. Sin embargo, mientras que el efectivo en tu cuenta es un activo para ti, es un pasivo para el banco. Por lo tanto, cuando el banco acredita tu cuenta por un depósito, está aumentando su cuenta de pasivo contigo. Del mismo modo, cuando el banco debita tu cuenta por un retiro, está disminuyendo su cuenta de pasivo contigo. Por lo tanto, las reglas de saldo normal de débito y crédito se siguen desde la perspectiva del banco.]
+
+The transaction is recorded in the journal using the following steps:
+
+**Step 1.** The date of the transaction is entered in the Date column.
+
+**Step 2.** The title of the account to be debited is recorded in the left-hand margin under the Description column, and the amount to be debited is entered in the Debit column.
+
+**Step 3.** The title of the account to be credited is listed below and to the right of the debited account title, and the amount to be credited is entered in the Credit column.
+
+**Step 4.** A brief description may be entered below the credited account.
+
+**Step 5.** The Post. Ref. (Posting Reference) column is left blank when the journal entry is initially recorded. This column is used later in this chapter when the journal entry amounts are transferred to the accounts in the ledger.
+
+[La transacción se registra en el diario usando los siguientes pasos:
+
+**Paso 1.** La fecha de la transacción se ingresa en la columna Fecha.
+
+**Paso 2.** El título de la cuenta a debitar se registra en el margen izquierdo bajo la columna Descripción, y el monto a debitar se ingresa en la columna Débito.
+
+**Paso 3.** El título de la cuenta a acreditar se enumera debajo y a la derecha del título de la cuenta debitada, y el monto a acreditar se ingresa en la columna Crédito.
+
+**Paso 4.** Se puede ingresar una breve descripción debajo de la cuenta acreditada.
+
+**Paso 5.** La columna Post. Ref. (Referencia de Registro) se deja en blanco cuando se registra inicialmente el asiento de diario. Esta columna se usa más adelante en este capítulo cuando los montos del asiento de diario se transfieren a las cuentas del libro mayor.]
+
+The process of recording a transaction in the journal is called **journalizing** (The process of recording a transaction in a journal.). The entry in the journal is called a **journal entry**.
+
+[El proceso de registrar una transacción en el diario se llama **registro en el diario** (journalizing). El asiento en el diario se llama **asiento de diario** (journal entry).]
+
+---
+
+**1.** The form of the journal illustrated is called the **two-column journal** (A form of journal in which there are only two amount columns, one for debits and one for credits.). Other forms of journals are described and illustrated in online Appendix E, Special Journals and Subsidiary Ledgers.
+
+[**1.** La forma del diario ilustrado se llama **diario de dos columnas** (una forma de diario en la que solo hay dos columnas de montos, una para débitos y otra para créditos). Otras formas de diarios se describen e ilustran en el Apéndice E en línea, Diarios Especiales y Libros Auxiliares.]
+
+A useful method for analyzing and journalizing transactions is as follows:
+
+**(a)** Carefully read the description of the transaction to determine whether an asset, a liability, a stockholders' equity, a revenue, an expense, or a dividends account is affected.
+**(b)** For each account affected by the transaction, determine whether the account increases or decreases.
+**(c)** Determine whether each increase or decrease should be recorded as a debit or a credit, following the rules of debit and credit shown in Exhibit 3.
+**(d)** Record the transaction using a journal entry.
+
+[Un método útil para analizar y registrar transacciones es el siguiente:
+
+**(a)** Lea cuidadosamente la descripción de la transacción para determinar si se afecta una cuenta de activo, pasivo, capital contable, ingreso, gasto o dividendos.
+**(b)** Para cada cuenta afectada por la transacción, determine si la cuenta aumenta o disminuye.
+**(c)** Determine si cada aumento o disminución debe registrarse como débito o crédito, siguiendo las reglas de débito y crédito mostradas en la Figura 3.
+**(d)** Registre la transacción usando un asiento de diario.]
+
+**Exhibit 4** summarizes terminology that is often used in describing a transaction along with the related accounts that would be debited and credited.
+
+[La **Figura 4** resume la terminología que se usa a menudo para describir una transacción junto con las cuentas relacionadas que se debitarían y acreditarían.]
+
+## Exhibit 4
+
+### Transaction Terminology and Related Journal Entry Accounts
+
+<!-- 📍 IMAGEN: Exhibit 4 (tabla de terminología) -->
+
+![Exhibit 4 - Transaction Terminology](./img/010.png)
+
+| Common Transaction Terminology | Debit | Credit |
+|-------------------------------|-------|--------|
+| Received cash for services provided | Cash | Fees Earned |
+| Services provided on account | Accounts Receivable | Fees Earned |
+| Received cash on account | Cash | Accounts Receivable |
+| Purchased on account | Asset account | Accounts Payable |
+| Paid on account | Accounts Payable | Cash |
+| Paid cash | Asset or expense account | Cash |
+| Issued common stock | Cash and/or other assets | Common Stock |
+| Paid dividends | Dividends | Cash |
+
+The remaining transactions of NetSolutions for November are analyzed and journalized.
+
+[Las transacciones restantes de NetSolutions para noviembre se analizan y registran en el diario.]
+
+---
+
+## Transaction b
+
+**Nov. 5** NetSolutions paid $20,000 for the purchase of land as a future building site.
+
+### Analysis
+
+This transaction increases one asset account and decreases another. It is recorded in the journal as a $20,000 increase (debit) to Land and a $20,000 decrease (credit) to Cash.
+
+[Esta transacción aumenta una cuenta de activo y disminuye otra. Se registra en el diario como un aumento (débito) de $20,000 a Terreno y una disminución (crédito) de $20,000 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 5 | Land | 20,000 | |
+| | Cash | | 20,000 |
+| *Purchased land for building site.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction b (coordenadas [152, 686, 826, 802]) -->
+
+![Accounting Equation Impact - Transaction b](./img/011.png)
+
+---
+
+## Transaction c
+
+**Nov. 10** NetSolutions purchased supplies on account for $1,350.
+
+### Analysis
+
+This transaction increases an asset account and increases a liability account. It is recorded in the journal as a $1,350 increase (debit) to Supplies and a $1,350 increase (credit) to Accounts Payable.
+
+[Esta transacción aumenta una cuenta de activo y aumenta una cuenta de pasivo. Se registra en el diario como un aumento (débito) de $1,350 a Suministros y un aumento (crédito) de $1,350 a Cuentas por Pagar.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 10 | Supplies | 1,350 | |
+| | Accounts Payable | | 1,350 |
+| *Purchased supplies on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction c (coordenadas [152, 476, 826, 535]) -->
+
+![Accounting Equation Impact - Transaction c](./img/012.png)
+
+---
+
+## Transaction d
+
+**Nov. 18** NetSolutions received cash of $7,500 from customers for services provided.
+
+### Analysis
+
+This transaction increases an asset account and increases a revenue account. It is recorded in the journal as a $7,500 increase (debit) to Cash and a $7,500 increase (credit) to Fees Earned.
+
+[Esta transacción aumenta una cuenta de activo y aumenta una cuenta de ingreso. Se registra en el diario como un aumento (débito) de $7,500 a Efectivo y un aumento (crédito) de $7,500 a Ingresos por Servicios.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 18 | Cash | 7,500 | |
+| | Fees Earned | | 7,500 |
+| *Received fees from customers.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction d (coordenadas [153, 146, 824, 204]) -->
+
+![Accounting Equation Impact - Transaction d](./img/013.png)
+
+---
+
+## Transaction e
+
+**Nov. 30** NetSolutions incurred the following expenses: wages, $2,125; rent, $800; utilities, $450; and miscellaneous, $275.
+
+### Analysis
+
+This transaction increases various expense accounts and decreases an asset (Cash) account. You should note that regardless of the number of accounts, the sum of the debits is always equal to the sum of the credits in a journal entry. It is recorded in the journal with increases (debits) to the expense accounts (Wages Expense, $2,125; Rent Expense, $800; Utilities Expense, $450; and Miscellaneous Expense, $275) and a decrease (credit) to Cash, $3,650.
+
+[Esta transacción aumenta varias cuentas de gasto y disminuye una cuenta de activo (Efectivo). Debe notar que, independientemente del número de cuentas, la suma de los débitos siempre es igual a la suma de los créditos en un asiento de diario. Se registra en el diario con aumentos (débitos) a las cuentas de gasto (Gastos de Sueldos, $2,125; Gastos de Renta, $800; Gastos de Servicios Públicos, $450; y Gastos Misceláneos, $275) y una disminución (crédito) a Efectivo, $3,650.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 30 | Wages Expense | 2,125 | |
+| | Rent Expense | 800 | |
+| | Utilities Expense | 450 | |
+| | Miscellaneous Expense | 275 | |
+| | Cash | | 3,650 |
+| *Paid expenses.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction e -->
+
+![Accounting Equation Impact - Transaction e](./img/014.png)
+
+---
+
+## Transaction f
+
+**Nov. 30** NetSolutions paid creditors on account, $950.
+
+### Analysis
+
+This transaction decreases a liability account and decreases an asset account. It is recorded in the journal as a $950 decrease (debit) to Accounts Payable and a $950 decrease (credit) to Cash.
+
+[Esta transacción disminuye una cuenta de pasivo y disminuye una cuenta de activo. Se registra en el diario como una disminución (débito) de $950 a Cuentas por Pagar y una disminución (crédito) de $950 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 30 | Accounts Payable | 950 | |
+| | Cash | | 950 |
+| *Paid creditors on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction f (coordenadas [152, 646, 826, 705]) -->
+
+![Accounting Equation Impact - Transaction f](./img/015.png)
+
+---
+
+## Transaction g
+
+**Nov. 30** NetSolutions determined that the cost of supplies on hand at November 30 was $550.
+
+### Analysis
+
+NetSolutions purchased $1,350 of supplies on November 10. Thus, $800 ($1,350 - $550) of supplies must have been used during November. This transaction is recorded in the journal as an $800 increase (debit) to Supplies Expense and an $800 decrease (credit) to Supplies.
+
+[NetSolutions compró $1,350 de suministros el 10 de noviembre. Por lo tanto, se deben haber usado $800 ($1,350 - $550) de suministros durante noviembre. Esta transacción se registra en el diario como un aumento (débito) de $800 a Gastos de Suministros y una disminución (crédito) de $800 a Suministros.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 30 | Supplies Expense | 800 | |
+| | Supplies | | 800 |
+| *Supplies used during November.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction g (coordenadas [152, 334, 822, 394]) -->
+
+![Accounting Equation Impact - Transaction g](./img/016.png)
+
+---
+
+## Transaction h
+
+**Nov. 30** Paid dividends, $2,000.
+
+### Analysis
+
+This transaction decreases assets and stockholders' equity. This transaction is recorded in the journal as a $2,000 increase (debit) to Dividends and a $2,000 decrease (credit) to Cash.
+
+[Esta transacción disminuye los activos y el capital contable. Esta transacción se registra en el diario como un aumento (débito) de $2,000 a Dividendos y una disminución (crédito) de $2,000 a Efectivo.]
+
+### Journal Entry
+
+<img src="./img/017.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Nov. 30 | Dividends | 2,000 | |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Cash | | 2,000 |
+|  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Paid dividends.* | | |
+
+<img src="./img/018.png" width="800"></img>
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Transaction h -->
+
+![Accounting Equation Impact - Transaction h](./img/019.png)
+
+---
+
+## Ethics in Action
+
+### Will Journalizing Prevent Fraud?
+
+While journalizing transactions reduces the possibility of fraud, it by no means eliminates it. For example, embezzlement can be hidden within the double-entry bookkeeping system by creating fictitious suppliers to whom checks are issued.
+
+[¿El registro en el diario previene el fraude? Si bien registrar transacciones en el diario reduce la posibilidad de fraude, de ninguna manera lo elimina. Por ejemplo, el desfalco puede ocultarse dentro del sistema de contabilidad de partida doble creando proveedores ficticios a quienes se emiten cheques.]
+
+---
+
+## Check up Corner 2-2
+
+### Journal Entries
+
+Selected transactions from Simmons Urgent Care Inc.'s first month of operations are as follows:
+
+**Jan. 1** David Simmons deposited $30,000 in a bank account in the name of Simmons Urgent Care Inc. in exchange for common stock.
+
+**Jan. 2** Purchased medical supplies on account, $6,000.
+
+**Jan. 6** Paid cash to creditors on account, $3,200.
+
+**Jan. 7** Purchased office equipment on account, $62,500.
+
+[Transacciones seleccionadas del primer mes de operaciones de Simmons Urgent Care Inc. son las siguientes:
+
+**1 de enero** David Simmons depositó $30,000 en una cuenta bancaria a nombre de Simmons Urgent Care Inc. a cambio de acciones comunes.
+
+**2 de enero** Compró suministros médicos a crédito, $6,000.
+
+**6 de enero** Pagó efectivo a acreedores a cuenta, $3,200.
+
+**7 de enero** Compró equipo de oficina a crédito, $62,500.]
+
+**Journalize these transactions, and illustrate their impact on the accounting equation using T accounts.**
+
+[Registre estas transacciones en el diario e ilustre su impacto en la ecuación contable usando cuentas T.]
+
+---
+
+### Solution - Check Up Corner 2-2
+
+#### Journal Entries
+
+<img src="./img/020.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Jan. 1 | Cash | 30,000 | |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Common Stock | | 30,000 |
+|  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Invested cash in exchange for common stock.* | | |
+| Jan. 2 | Medical Supplies | 6,000 | |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Accounts Payable | | 6,000 |
+|  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Purchased medical supplies on account.* | | |
+| Jan. 6 | Accounts Payable | 3,200 | |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Cash | | 3,200 |
+|  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Paid cash to creditors on account.* | | |
+| Jan. 7 | Office Equipment | 62,500 | |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Accounts Payable | | 62,500 |
+|  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Purchased office equipment on account.* | | |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### T-Accounts
+
+<!-- 📍 IMAGEN: T-Accounts para Check Up Corner 2-2 -->
+
+
+**Cash**
+### Cash (Efectivo)
+
+| Date | Debit | Credit |
+|------|-------|--------|
+| Jan. 1 | 30,000 | |
+| Jan. 6 | | 3,200 |
+| **Balance** | **26,800** | |
+
+---
+
+### Medical Supplies (Suministros Médicos)
+
+| Date | Debit | Credit |
+|------|-------|--------|
+| Jan. 2 | 6,000 | |
+| **Balance** | **6,000** | |
+
+---
+
+### Office Equipment (Equipo de Oficina)
+
+| Date | Debit | Credit |
+|------|-------|--------|
+| Jan. 7 | 62,500 | |
+| **Balance** | **62,500** | |
+
+---
+
+### Accounts Payable (Cuentas por Pagar)
+
+| Date | Debit | Credit |
+|------|-------|--------|
+| Jan. 2 | | 6,000 |
+| Jan. 6 | 3,200 | |
+| Jan. 7 | | 62,500 |
+| **Balance** | | **65,300** |
+
+---
+
+### Common Stock (Acciones Comunes)
+
+| Date | Debit | Credit |
+|------|-------|--------|
+| Jan. 1 | | 30,000 |
+| **Balance** | | **30,000** |
+
+---
+
+<h1 id="357632" style="color:#E65100;">
+  <a href="#Chapter_002" style="color:inherit; text-decoration:none;">
+    2-3 Posting Journal Entries to Accounts
+  </a>
+</h1>
+
+
+As illustrated, a transaction is first recorded in a journal. Periodically, the journal entries are transferred to the accounts in the ledger. The process of transferring the debits and credits from the journal entries to the accounts is called **posting** (The process of transferring the debits and credits from the journal entries to the accounts.)
+
+[Como se ilustró, una transacción se registra primero en un diario. Periódicamente, los asientos de diario se transfieren a las cuentas del libro mayor. El proceso de transferir los débitos y créditos de los asientos de diario a las cuentas se llama **traspaso** (posting).]
+
+**Objective 3** - Describe and illustrate the journalizing and posting of transactions to accounts.
+
+[Objetivo 3 - Describir e ilustrar el registro en el diario y el traspaso de transacciones a las cuentas.]
+
+**posting** (The process of transferring the debits and credits from the journal entries to the accounts.)
+
+[**traspaso** (posting) - El proceso de transferir los débitos y créditos de los asientos de diario a las cuentas.]
+
+The December 20Y3 transactions of NetSolutions are used to illustrate posting from the journal to the ledger. By using the December transactions, an additional review of analyzing and journalizing transactions is provided.
+
+[Las transacciones de diciembre de 20Y3 de NetSolutions se utilizan para ilustrar el traspaso del diario al libro mayor. Al usar las transacciones de diciembre, se proporciona una revisión adicional del análisis y registro en el diario de transacciones.]
+
+---
+
+## Transaction
+
+**Dec. 1** NetSolutions paid a premium of $2,400 for an insurance policy for liability, theft, and fire. The policy covers a one-year period.
+
+### Analysis
+
+Advance payments of expenses, such as for insurance premiums, are assets called prepaid expenses. For NetSolutions, the asset purchased is insurance protection for 12 months. This transaction is recorded as a $2,400 increase (debit) to Prepaid Insurance and a $2,400 decrease (credit) to Cash.
+
+[Los pagos anticipados de gastos, como las primas de seguros, son activos llamados gastos pagados por adelantado. Para NetSolutions, el activo adquirido es protección de seguro por 12 meses. Esta transacción se registra como un aumento (débito) de $2,400 a Seguro Pagado por Adelantado y una disminución (crédito) de $2,400 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 1 | Prepaid Insurance | 2,400 | |
+| | &nbsp;&nbsp;&nbsp;&nbsp;Cash | | 2,400 |
+|  |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Paid premium on one-year policy.* | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact para Dec. 1 (coordenadas [153, 246, 825, 377]) -->
+
+![Accounting Equation Impact - Dec. 1](./img/021.png)
+
+Although T accounts are useful for illustrating the recording and posting of transactions, more formal, multi-column accounts are used in practice. For example, a **four-column account** (A form of account that has Debit and Credit columns for recording transactions as well as Balance (Debit and Credit) columns for indicating the account balance after each transaction.) has Date, Item, and Posting Reference (Post. Ref.) columns as well as Debit and Credit columns for posting transactions. In addition, the four-column account has Balance (Debit and Credit) columns for indicating the current balance of the account, sometimes called a running balance.
+
+[Aunque las cuentas T son útiles para ilustrar el registro y traspaso de transacciones, en la práctica se utilizan cuentas más formales de múltiples columnas. Por ejemplo, una **cuenta de cuatro columnas** (una forma de cuenta que tiene columnas de Débito y Crédito para registrar transacciones, así como columnas de Saldo (Débito y Crédito) para indicar el saldo de la cuenta después de cada transacción) tiene columnas de Fecha, Concepto y Referencia de Traspaso (Post. Ref.), así como columnas de Débito y Crédito para traspasar transacciones. Además, la cuenta de cuatro columnas tiene columnas de Saldo (Débito y Crédito) para indicar el saldo actual de la cuenta, a veces llamado saldo continuo.]
+
+In practice, accounts may take a variety of formats other than the four-column account and may include additional data useful in managing the business. However, to simplify, the four-column account is used in the remainder of this chapter.
+
+[En la práctica, las cuentas pueden tener una variedad de formatos diferentes a la cuenta de cuatro columnas y pueden incluir datos adicionales útiles para administrar el negocio. Sin embargo, para simplificar, la cuenta de cuatro columnas se utiliza en el resto de este capítulo.]
+
+The posting of the preceding December 1 transaction to four-column accounts is shown in Exhibit 5.
+
+[El traspaso de la transacción anterior del 1 de diciembre a cuentas de cuatro columnas se muestra en la Figura 5.]
+
+---
+
+## Exhibit 5
+
+### Diagram of the Recording and Posting of a Debit and a Credit
+
+<!-- 📍 IMAGEN: Exhibit 5 - Diagram of Recording and Posting (página 2-3) -->
+
+![Exhibit 5 - Recording and Posting Diagram](./img/022.png)
+
+The debits and credits for each journal entry are posted to the accounts in the order in which they occur in the journal. To illustrate, the debit portion of the December 1 journal entry is posted to the prepaid account in Exhibit 5 using the following five steps:
+
+[Los débitos y créditos de cada asiento de diario se traspasan a las cuentas en el orden en que ocurren en el diario. Para ilustrar, la parte de débito del asiento de diario del 1 de diciembre se traspasa a la cuenta de seguro pagado por adelantado en la Figura 5 usando los siguientes cinco pasos:]
+
+**Step 1.** The date (Dec. 1) of the journal entry is entered in the Date column of Prepaid Insurance.
+
+[**Paso 1.** La fecha (Dec. 1) del asiento de diario se ingresa en la columna Fecha de Seguro Pagado por Adelantado.]
+
+**Step 2.** The amount (2,400) is entered into the Debit column of Prepaid Insurance.
+
+[**Paso 2.** El monto (2,400) se ingresa en la columna Débito de Seguro Pagado por Adelantado.]
+
+**Step 3.** The journal page number (2) is entered in the Posting Reference (Post. Ref.) column of Prepaid Insurance.
+
+[**Paso 3.** El número de página del diario (2) se ingresa en la columna Referencia de Traspaso (Post. Ref.) de Seguro Pagado por Adelantado.]
+
+**Step 4.** The account number (15) is entered in the Posting Reference (Post. Ref.) column in the journal.
+
+[**Paso 4.** El número de cuenta (15) se ingresa en la columna Referencia de Traspaso (Post. Ref.) en el diario.]
+
+**Step 5.** The account balance (2,400) is entered in the Balance/Debit column of Prepaid Insurance.
+
+[**Paso 5.** El saldo de la cuenta (2,400) se ingresa en la columna Saldo/Débito de Seguro Pagado por Adelantado.]
+
+As shown in Exhibit 5, the credit portion of the December 1 journal entry is posted to the cash account in a similar manner.
+
+[Como se muestra en la Figura 5, la parte de crédito del asiento de diario del 1 de diciembre se traspasa a la cuenta de efectivo de manera similar.]
+
+The remaining December transactions for NetSolutions are analyzed and journalized in the following paragraphs. These transactions are posted to the ledger later in this chapter. To simplify, some of the December transactions are stated in summary form. For example, cash received for services is normally recorded on a daily basis. However, only summary totals are recorded at the middle and end of the month for NetSolutions.
+
+[Las transacciones restantes de diciembre para NetSolutions se analizan y registran en el diario en los siguientes párrafos. Estas transacciones se traspasarán al libro mayor más adelante en este capítulo. Para simplificar, algunas de las transacciones de diciembre se presentan en forma resumida. Por ejemplo, el efectivo recibido por servicios normalmente se registra diariamente. Sin embargo, para NetSolutions, solo se registran totales resumidos a mediados y al final del mes.]
+
+---
+
+## Transaction
+
+**Dec. 1** NetSolutions paid rent for December, $800. The company from which NetSolutions is renting its office space now requires the payment of rent on the first of each month, rather than at the end of the month.
+
+### Analysis
+
+The advance payment of rent is an asset, much like the advance payment of the insurance premium in the preceding transaction. However, unlike the insurance premium, this prepaid rent will expire in one month. When an asset is purchased with the expectation that it will be used up in a short period of time, such as a month, it is normal to debit an expense account initially. This avoids having to transfer the balance from an asset account (Prepaid Rent) to an expense account (Rent Expense) at the end of the month. Thus, this transaction is recorded as an $800 increase (debit) to Rent Expense and an $800 decrease (credit) to Cash.
+
+[El pago anticipado de renta es un activo, similar al pago anticipado de la prima de seguro en la transacción anterior. Sin embargo, a diferencia de la prima de seguro, esta renta pagada por adelantado expirará en un mes. Cuando se adquiere un activo con la expectativa de que se consumirá en un período corto de tiempo, como un mes, es normal debitar una cuenta de gasto inicialmente. Esto evita tener que transferir el saldo de una cuenta de activo (Renta Pagada por Adelantado) a una cuenta de gasto (Gasto de Renta) al final del mes. Por lo tanto, esta transacción se registra como un aumento (débito) de $800 a Gasto de Renta y una disminución (crédito) de $800 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 1 | Rent Expense | 800 | |
+| | Cash | | 800 |
+| *Paid rent for December.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Rent Expense -->
+
+![Accounting Equation Impact - Rent Expense](./img/023.png)
+
+---
+
+## Transaction
+
+**Dec. 1** NetSolutions received an offer from a local retailer to rent the land purchased on November 5. The retailer plans to use the land as a parking lot for its employees and customers. NetSolutions agreed to rent the land to the retailer for three months, with the rent payable in advance. NetSolutions received $360 for three months' rent beginning December 1.
+
+### Analysis
+
+By agreeing to rent the land and accepting the $360, NetSolutions has incurred an obligation (liability) to the retailer. This obligation is to make the land available for use for three months and not to interfere with its use. The liability created by receiving the cash in advance of providing the service is called **unearned revenue** (The liability created by receiving revenue in advance.). As time passes, the unearned rent liability will decrease and will become revenue. Thus, this transaction is recorded as a $360 increase (debit) to Cash and a $360 increase (credit) to Unearned Rent.
+
+[Al acordar alquilar el terreno y aceptar los $360, NetSolutions ha incurrido en una obligación (pasivo) con el minorista. Esta obligación es hacer que el terreno esté disponible para su uso durante tres meses y no interferir con su uso. El pasivo creado al recibir el efectivo antes de proporcionar el servicio se llama **ingreso no devengado** (ingreso diferido) (el pasivo creado al recibir ingresos por adelantado). A medida que pasa el tiempo, el pasivo de renta no devengada disminuirá y se convertirá en ingreso. Por lo tanto, esta transacción se registra como un aumento (débito) de $360 a Efectivo y un aumento (crédito) de $360 a Renta No Devengada.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 1 | Cash | 360 | |
+| | Unearned Rent | | 360 |
+| *Received advance payment for three months' rent on land.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Unearned Rent (coordenadas [153, 602, 825, 655]) -->
+
+![Accounting Equation Impact - Unearned Rent](./img/024.png)
+
+> **Link to Apple:** In a recent balance sheet, Apple reported over $8 billion in unearned revenue, sometimes called deferred revenue.
+>
+> [**Enlace a Apple:** En un balance general reciente, Apple reportó más de $8 mil millones en ingresos no devengados, a veces llamados ingresos diferidos.]
+
+---
+
+## Transaction
+
+**Dec. 4** NetSolutions purchased office equipment on account from Executive Supply Co. for $1,800.
+
+### Analysis
+
+The asset (Office Equipment) and liability accounts (Accounts Payable) increase. This transaction is recorded as an $1,800 increase (debit) to Office Equipment and an $1,800 increase (credit) to Accounts Payable.
+
+[El activo (Equipo de Oficina) y las cuentas de pasivo (Cuentas por Pagar) aumentan. Esta transacción se registra como un aumento (débito) de $1,800 a Equipo de Oficina y un aumento (crédito) de $1,800 a Cuentas por Pagar.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 4 | Office Equipment | 1,800 | |
+| | Accounts Payable | | 1,800 |
+| *Purchased office equipment on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Office Equipment (coordenadas [153, 497, 826, 555]) -->
+
+![Accounting Equation Impact - Office Equipment](./img/025.png)
+
+> **Link to Apple:** In a recent balance sheet, Apple reported equipment, buildings, and land of over $37 billion.
+>
+> [**Enlace a Apple:** En un balance general reciente, Apple reportó equipo, edificios y terreno por más de $37 mil millones.]
+
+---
+
+## Transaction
+
+**Dec. 6** NetSolutions paid $180 for a newspaper advertisement.
+
+### Analysis
+
+An expense increases, and an asset (Cash) decreases. Expense items that are expected to be minor in amount are normally included as part of the miscellaneous expense. This transaction is recorded as a $180 increase (debit) to Miscellaneous Expense and a $180 decrease (credit) to Cash.
+
+[Un gasto aumenta y un activo (Efectivo) disminuye. Las partidas de gasto que se espera que sean de monto menor normalmente se incluyen como parte de los gastos misceláneos. Esta transacción se registra como un aumento (débito) de $180 a Gastos Misceláneos y una disminución (crédito) de $180 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 6 | Miscellaneous Expense | 180 | |
+| | Cash | | 180 |
+| *Paid for newspaper advertisement.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Miscellaneous Expense (coordenadas [153, 335, 825, 390]) -->
+
+![Accounting Equation Impact - Miscellaneous Expense](./img/026.png)
+
+---
+
+## Business Insight
+
+### Computerized Accounting Systems
+
+Computerized accounting systems like QuickBooks, NetSuite, and Sage Intacct are widely used by even the smallest companies. These systems simplify the journalizing process and eliminate the need for manual posting. For example, in a computerized accounting system, when a customer payment is processed, the date, customer name, and payment amount are entered in the "Receive Payment" window. The entered data are automatically journalized and posted to the ledger accounts.
+
+[**Perspectiva de Negocio - Sistemas de Contabilidad Computarizados:** Sistemas de contabilidad computarizados como QuickBooks, NetSuite y Sage Intacct son ampliamente utilizados incluso por las empresas más pequeñas. Estos sistemas simplifican el proceso de registro en el diario y eliminan la necesidad del traspaso manual. Por ejemplo, en un sistema de contabilidad computarizado, cuando se procesa un pago de un cliente, la fecha, el nombre del cliente y el monto del pago se ingresan en la ventana "Recibir Pago". Los datos ingresados se registran automáticamente en el diario y se traspasan a las cuentas del libro mayor.]
+
+---
+
+## Transaction
+
+**Dec. 11** NetSolutions paid creditors $400.
+
+### Analysis
+
+A liability (Accounts Payable) and an asset (Cash) decrease. This transaction is recorded as a $400 decrease (debit) to Accounts Payable and a $400 decrease (credit) to Cash.
+
+[Un pasivo (Cuentas por Pagar) y un activo (Efectivo) disminuyen. Esta transacción se registra como una disminución (débito) de $400 a Cuentas por Pagar y una disminución (crédito) de $400 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 11 | Accounts Payable | 400 | |
+| | Cash | | 400 |
+| *Paid creditors on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Accounts Payable (coordenadas [153, 293, 825, 351]) -->
+
+![Accounting Equation Impact - Accounts Payable Dec 11](./img/027.png)
+
+---
+
+## Transaction
+
+**Dec. 13** NetSolutions paid a receptionist and a part-time assistant $950 for two weeks' wages.
+
+### Analysis
+
+This transaction is similar to the December 6 transaction, where an expense account is increased and Cash is decreased. This transaction is recorded as a $950 increase (debit) to Wages Expense and a $950 decrease (credit) to Cash.
+
+[Esta transacción es similar a la transacción del 6 de diciembre, donde una cuenta de gasto aumenta y Efectivo disminuye. Esta transacción se registra como un aumento (débito) de $950 a Gasto de Sueldos y una disminución (crédito) de $950 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 13 | Wages Expense | 950 | |
+| | Cash | | 950 |
+| *Paid two weeks' wages.* | | | |
+
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Accounts Payable (coordenadas [153, 293, 825, 351]) -->
+
+![Accounting Equation Impact - Accounts Payable Dec 11](./img/028.png)
+
+
+---
+
+## Transaction
+
+**Dec. 16** NetSolutions received $3,100 from fees earned for the first half of December.
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 16 | Cash | 3,100 | |
+| | Fees Earned | | 3,100 |
+| *Received fees from customers.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Accounts Receivable (coordenadas [153, 664, 822, 718]) -->
+
+![Accounting Equation Impact - Accounts Receivable](./img/029.png)
+
+---
+
+
+## Transaction
+
+**Dec. 16** Fees earned on account totaled $1,750 for the first half of December.
+
+### Analysis
+
+When a business agrees that a customer may pay for services provided at a later date, an account receivable is created. An account receivable is a claim against the customer. An account receivable is an asset, and the revenue is earned even though no cash has been received. Thus, this transaction is recorded as a $1,750 increase (debit) to Accounts Receivable and a $1,750 increase (credit) to Fees Earned.
+
+[Cuando una empresa acuerda que un cliente puede pagar por los servicios proporcionados en una fecha posterior, se crea una cuenta por cobrar. Una cuenta por cobrar es un derecho de cobro contra el cliente. Una cuenta por cobrar es un activo, y el ingreso se gana aunque no se haya recibido efectivo. Por lo tanto, esta transacción se registra como un aumento (débito) de $1,750 a Cuentas por Cobrar y un aumento (crédito) de $1,750 a Ingresos por Servicios.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 16 | Accounts Receivable | 1,750 | |
+| | Fees Earned | | 1,750 |
+| *Fees earned on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Accounts Receivable (coordenadas [153, 664, 822, 718]) -->
+
+![Accounting Equation Impact - Fees earned on account](./img/030.png)
+---
+
+## Transaction
+
+**Dec. 20** NetSolutions paid $900 to Executive Supply Co. on the $1,800 debt owed from the December 4 transaction.
+
+### Analysis
+
+This is similar to the transaction of December 11. This transaction is recorded as a $900 decrease (debit) to Accounts Payable and a $900 decrease (credit) to Cash.
+
+[Esto es similar a la transacción del 11 de diciembre. Esta transacción se registra como una disminución (débito) de $900 a Cuentas por Pagar y una disminución (crédito) de $900 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 20 | Accounts Payable | 900 | |
+| | Cash | | 900 |
+| *Paid creditors on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Accounts Payable Dec 20 (coordenadas [153, 314, 825, 372]) -->
+
+![Accounting Equation Impact - Accounts Payable Dec 20](./img/031.png)
+
+> **Link to Apple:** On a recent balance sheet, Apple reported $46 billion in accounts payable.
+>
+> [**Enlace a Apple:** En un balance general reciente, Apple reportó $46 mil millones en cuentas por pagar.]
+
+---
+
+## Transaction
+
+**Dec. 21** NetSolutions received $650 from customers in payment of their accounts.
+
+### Analysis
+
+When customers pay amounts owed for services they have previously received, one asset increases and another asset decreases. This transaction is recorded as a $650 increase (debit) to Cash and a $650 decrease (credit) to Accounts Receivable.
+
+[Cuando los clientes pagan montos adeudados por servicios que han recibido anteriormente, un activo aumenta y otro activo disminuye. Esta transacción se registra como un aumento (débito) de $650 a Efectivo y una disminución (crédito) de $650 a Cuentas por Cobrar.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 21 | Cash | 650 | |
+| | Accounts Receivable | | 650 |
+| *Received cash from customers on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Cash Received on Account (coordenadas [153, 167, 827, 272]) -->
+
+![Accounting Equation Impact - Cash Received](./img/032.png)
+
+---
+
+## Transaction
+
+**Dec. 23** NetSolutions paid $1,450 for supplies.
+
+### Analysis
+
+One asset account (Supplies) increases, and another asset account (Cash) decreases. This transaction is recorded as a $1,450 increase (debit) to Supplies and a $1,450 decrease (credit) to Cash.
+
+[Una cuenta de activo (Suministros) aumenta, y otra cuenta de activo (Efectivo) disminuye. Esta transacción se registra como un aumento (débito) de $1,450 a Suministros y una disminución (crédito) de $1,450 a Efectivo.]
+
+### Journal Entry
+
+<!-- 📍 IMAGEN: Journal Entry para Dec. 23 (coordenadas [169, 641, 756, 726]) -->
+
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 23 | Supplies | 1,450 | |
+| | Cash | | 1,450 |
+| *Paid for supplies.* | | | |
+
+### Accounting Equation Impact
+
+
+![Accounting Equation Impact - Paid for supplies Dec 23](./img/033.png)
+
+---
+
+## Transaction
+
+**Dec. 27** NetSolutions paid $1,200 for two weeks' wages.
+
+### Analysis
+
+This transaction is similar to the transaction of December 13. This transaction is recorded as a $1,200 increase (debit) to Wages Expense and a $1,200 decrease (credit) to Cash.
+
+[Esta transacción es similar a la transacción del 13 de diciembre. Esta transacción se registra como un aumento (débito) de $1,200 a Gasto de Sueldos y una disminución (crédito) de $1,200 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 27 | Wages Expense | 1,200 | |
+| | Cash | | 1,200 |
+| *Paid two weeks' wages.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Wages Expense Dec 27 (coordenadas [152, 539, 822, 594]) -->
+
+![Accounting Equation Impact - Wages Expense Dec 27](./img/034.png)
+
+---
+
+## Transaction
+
+**Dec. 31** NetSolutions paid its $310 telephone bill for the month.
+
+### Analysis
+
+This is similar to the transaction of December 6. This transaction is recorded as a $310 increase (debit) to Utilities Expense and a $310 decrease (credit) to Cash.
+
+[Esto es similar a la transacción del 6 de diciembre. Esta transacción se registra como un aumento (débito) de $310 a Gasto de Servicios Públicos y una disminución (crédito) de $310 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Utilities Expense | 310 | |
+| | Cash | | 310 |
+| *Paid telephone bill.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Telephone Bill -->
+
+![Accounting Equation Impact - Telephone Bill](./img/035.png)
+
+---
+
+## Transaction
+
+**Dec. 31** NetSolutions paid its $225 electric bill for the month.
+
+### Analysis
+
+This is similar to the preceding transaction. This transaction is recorded as a $225 increase (debit) to Utilities Expense and a $225 decrease (credit) to Cash.
+
+[Esto es similar a la transacción anterior. Esta transacción se registra como un aumento (débito) de $225 a Gasto de Servicios Públicos y una disminución (crédito) de $225 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Utilities Expense | 225 | |
+| | Cash | | 225 |
+| *Paid electric bill.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Electric Bill -->
+
+![Accounting Equation Impact - Electric Bill](./img/036.png)
+
+---
+
+## Transaction
+
+**Dec. 31** NetSolutions received $2,870 from fees earned for the second half of December.
+
+### Analysis
+
+This is similar to the transaction of December 16. This transaction is recorded as a $2,870 increase (debit) to Cash and a $2,870 increase (credit) to Fees Earned.
+
+[Esto es similar a la transacción del 16 de diciembre. Esta transacción se registra como un aumento (débito) de $2,870 a Efectivo y un aumento (crédito) de $2,870 a Ingresos por Servicios.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Cash | 2,870 | |
+| | Fees Earned | | 2,870 |
+| *Received fees from customers.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Fees Earned Dec 31 (coordenadas [152, 544, 824, 599]) -->
+
+![Accounting Equation Impact - Fees Earned Dec 31](./img/037.png)
+
+---
+
+## Transaction
+
+**Dec. 31** Fees earned on account totaled $1,120 for the second half of December.
+
+### Analysis
+
+This is similar to the transaction of December 16. This transaction is recorded as a $1,120 increase (debit) to Accounts Receivable and a $1,120 increase (credit) to Fees Earned.
+
+[Esto es similar a la transacción del 16 de diciembre. Esta transacción se registra como un aumento (débito) de $1,120 a Cuentas por Cobrar y un aumento (crédito) de $1,120 a Ingresos por Servicios.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Accounts Receivable | 1,120 | |
+| | Fees Earned | | 1,120 |
+| *Fees earned on account.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Accounts Receivable Dec 31 (coordenadas [152, 225, 824, 280]) -->
+
+![Accounting Equation Impact - Accounts Receivable Dec 31](./img/038.png)
+
+> **Link to Apple:** On a recent balance sheet, Apple reported $23 billion in accounts receivable.
+>
+> [**Enlace a Apple:** En un balance general reciente, Apple reportó $23 mil millones en cuentas por cobrar.]
+
+---
+
+## Transaction
+
+**Dec. 31** Paid dividends, $2,000.
+
+### Analysis
+
+This transaction decreases stockholders' equity and assets. This transaction is recorded as a $2,000 increase (debit) to Dividends and a $2,000 decrease (credit) to Cash.
+
+[Esta transacción disminuye el capital contable y los activos. Esta transacción se registra como un aumento (débito) de $2,000 a Dividendos y una disminución (crédito) de $2,000 a Efectivo.]
+
+### Journal Entry
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Dividends | 2,000 | |
+| | Cash | | 2,000 |
+| *Paid dividends.* | | | |
+
+### Accounting Equation Impact
+
+<!-- 📍 IMAGEN: Accounting Equation Impact - Dividends -->
+
+![Accounting Equation Impact - Dividends](./img/039.png)
+
+> **Link to Apple:** In a recent year, Apple paid $14 billion in dividends.
+>
+> [**Enlace a Apple:** En un año reciente, Apple pagó $14 mil millones en dividendos.]
+
+---
+
+## Exhibit 6
+
+### General Ledger for NetSolutions
+
+<!-- 📍 IMAGEN: Exhibit 6 - General Ledger for NetSolutions (páginas 17-23) -->
+
+![Exhibit 6 - General Ledger](./img/exhibit6_ledger.png)
+
+**Account Cash - Account No. 11**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 1 | | 1 | 25,000 | | 25,000 | |
+| Nov. 5 | | 1 | | 20,000 | 5,000 | |
+| Nov. 18 | | 1 | 7,500 | | 12,500 | |
+| Nov. 30 | | 1 | | 3,650 | 8,850 | |
+| Nov. 30 | | 1 | | 950 | 7,900 | |
+| Nov. 30 | | 1 | | 2,000 | 5,900 | |
+| Dec. 1 | | 2 | | 2,400 | 3,500 | |
+| Dec. 1 | | 2 | | 800 | 2,700 | |
+| Dec. 1 | | 2 | 360 | | 3,060 | |
+| Dec. 6 | | 2 | | 180 | 2,880 | |
+| Dec. 11 | | 2 | | 400 | 2,480 | |
+| Dec. 13 | | 2 | | 950 | 1,530 | |
+| Dec. 16 | | 3 | 3,100 | | 4,630 | |
+| Dec. 20 | | 3 | | 900 | 3,730 | |
+| Dec. 21 | | 3 | 650 | | 4,380 | |
+| Dec. 23 | | 3 | | 1,450 | 2,930 | |
+| Dec. 27 | | 3 | | 1,200 | 1,730 | |
+| Dec. 31 | | 3 | | 310 | 1,420 | |
+| Dec. 31 | | 4 | | 225 | 1,195 | |
+| Dec. 31 | | 4 | 2,870 | | 4,065 | |
+| Dec. 31 | | 4 | | 2,000 | 2,065 | |
+
+**Account Accounts Receivable - Account No. 12**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 16 | | 3 | 1,750 | | 1,750 | |
+| Dec. 21 | | 3 | | 650 | 1,100 | |
+| Dec. 31 | | 4 | 1,120 | | 2,220 | |
+
+**Account Supplies - Account No. 14**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 10 | | 1 | 1,350 | | 1,350 | |
+| Nov. 30 | | 1 | | 800 | 550 | |
+| Dec. 23 | | 3 | 1,450 | | 2,000 | |
+
+**Account Prepaid Insurance - Account No. 15**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 1 | | 2 | 2,400 | | 2,400 | |
+
+**Account Land - Account No. 17**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 5 | | 1 | 20,000 | | 20,000 | |
+
+**Account Office Equipment - Account No. 18**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 4 | | 2 | 1,800 | | 1,800 | |
+
+**Account Accounts Payable - Account No. 21**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 10 | | 1 | | 1,350 | | 1,350 |
+| Nov. 30 | | 1 | 950 | | | 400 |
+| Dec. 4 | | 2 | | 1,800 | | 2,200 |
+| Dec. 11 | | 2 | 400 | | | 1,800 |
+| Dec. 20 | | 3 | 900 | | | 900 |
+
+**Account Unearned Rent - Account No. 23**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 1 | | 2 | | 360 | | 360 |
+
+**Account Common Stock - Account No. 31**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 1 | | 1 | | 25,000 | | 25,000 |
+
+**Account Dividends - Account No. 33**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 2,000 | | 2,000 | |
+| Dec. 31 | | 4 | 2,000 | | 4,000 | |
+
+**Account Fees Earned - Account No. 41**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 18 | | 1 | | 7,500 | | 7,500 |
+| Dec. 16 | | 3 | | 3,100 | | 10,600 |
+| Dec. 16 | | 3 | | 1,750 | | 12,350 |
+| Dec. 31 | | 4 | | 2,870 | | 15,220 |
+| Dec. 31 | | 4 | | 1,120 | | 16,340 |
+
+**Account Wages Expense - Account No. 51**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 2,125 | | 2,125 | |
+| Dec. 13 | | 2 | 950 | | 3,075 | |
+| Dec. 27 | | 3 | 1,200 | | 4,275 | |
+
+**Account Supplies Expense - Account No. 52**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 800 | | 800 | |
+
+**Account Rent Expense - Account No. 53**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 800 | | 800 | |
+| Dec. 1 | | 2 | 800 | | 1,600 | |
+
+**Account Utilities Expense - Account No. 54**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 450 | | 450 | |
+| Dec. 31 | | 3 | 310 | | 760 | |
+| Dec. 31 | | 4 | 225 | | 985 | |
+
+**Account Miscellaneous Expense - Account No. 59**
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 275 | | 275 | |
+| Dec. 6 | | 2 | 180 | | 455 | |
+
+---
+
+## Pathways Challenge
+### This Is Accounting!
+
+#### Economic Activity
+
+Coupons (paper or digital) encourage customers to buy products or shop at stores and online websites. A recent study revealed that over 2.2 billion coupons are redeemed per year. Almost one-third of the shoppers using coupons buy more of a product and purchase it sooner.
+
+Assume that you purchase $100 of groceries from Kroger, give the cashier a $10 **Kroger (KR)** discount coupon, and charge your debit card for $90.
+
+#### Critical Thinking/Judgment
+
+**Should Kroger record the sale as $100 or $90?**
+
+Instead of a Kroger coupon, assume the coupon was issued by **General Mills (GIS)**.
+
+**Should Kroger record the sale as $100 or $90?**
+
+---
+
+#### Answer
+
+##### Information/Consequences
+
+**If the $10 coupon is issued by Kroger (KR):**
+
+The sale is recorded as **$90**. In addition, debit card transactions are considered cash transactions. Thus, the sale with a $10 Kroger discount coupon would be recorded by Kroger as follows:
+
+| Account | Debit | Credit |
+|---------|-------|--------|
+| Cash | 90 | |
+| Sales | | 90 |
+
+**If the $10 coupon is issued by General Mills (GIS):**
+
+Kroger would submit the coupon to General Mills for a $10 reimbursement. Thus, Kroger would have an accounts receivable from General Mills, and Kroger would record the sale as **$100**, as follows:
+
+| Account | Debit | Credit |
+|---------|-------|--------|
+| Cash | 90 | |
+| Accounts Receivable | 10 | |
+| Sales | | 100 |
+---
+
+## Using Data Analytics
+
+### Extracting Data
+
+When a company uses data analytics to solve a problem, it must first extract (gather) relevant data. In many cases, this requires the company to collect data from a variety of sources. For example, a service company analyzing the effectiveness of its marketing efforts might extract data from its customer database as well as publicly available databases, such as those reporting market share and competitor revenue growth.
+
+[**Uso de Analítica de Datos - Extrayendo Datos:** Cuando una empresa utiliza analítica de datos para resolver un problema, primero debe extraer (recopilar) datos relevantes. En muchos casos, esto requiere que la empresa recopile datos de una variedad de fuentes. Por ejemplo, una empresa de servicios que analiza la efectividad de sus esfuerzos de marketing podría extraer datos de su base de datos de clientes, así como de bases de datos disponibles públicamente, como las que informan sobre la participación de mercado y el crecimiento de ingresos de la competencia.]
+
+The nature of the problem to be solved dictates the type of data extracted, which may be quantitative or categorical in nature. Quantitative data can be used to perform mathematical operations, such as computing the average revenue per customer for a service company. Categorical data are often based on occurrences or observations of qualitative data, which is often summarized as a proportion or percentage. For example, a qualitative metric used by airlines is the number of "on-time" arrivals, which is normally reported as a percentage.
+
+[La naturaleza del problema a resolver dicta el tipo de datos extraídos, que pueden ser de naturaleza cuantitativa o categórica. Los datos cuantitativos se pueden usar para realizar operaciones matemáticas, como calcular el ingreso promedio por cliente para una empresa de servicios. Los datos categóricos a menudo se basan en ocurrencias u observaciones de datos cualitativos, que a menudo se resumen como una proporción o porcentaje. Por ejemplo, una métrica cualitativa utilizada por las aerolíneas es el número de llegadas "a tiempo", que normalmente se reporta como un porcentaje.]
+
+The data analytic process of extracting data is in some ways similar to the process of analyzing and recording transactions that is described and illustrated in this chapter. For example, quantitative transaction data (expressed in dollars) are collected and summarized in categorical (asset, liability, stockholders' equity, revenue, and expense) accounts.
+
+[El proceso analítico de datos de extracción de datos es en cierto modo similar al proceso de análisis y registro de transacciones que se describe e ilustra en este capítulo. Por ejemplo, los datos de transacciones cuantitativas (expresados en dólares) se recopilan y resumen en cuentas categóricas (activo, pasivo, capital contable, ingreso y gasto).]
+
+---
