@@ -383,7 +383,7 @@ An expanded chart of accounts for NetSolutions is shown in Exhibit 4. The additi
     <td></td>
     <td>12 Accounts Receivable</td>
     <td></td>
-    <td style="color:#ac8e2b;">42 Rent Revenue</td>
+    <td style="color: #ac8e2b;"><b>42 Rent Revenue</b></td>
   </tr>
   <tr>
     <td></td>
@@ -411,24 +411,24 @@ An expanded chart of accounts for NetSolutions is shown in Exhibit 4. The additi
   </tr>
   <tr>
     <td></td>
-    <td style="color:#ac8e2b;">19 Accumulated Depreciation—Office Equipment</td>
+    <td style="color: #ac8e2b;"><b>19 Accumulated Depreciation—Office Equipment</b></td>
     <td></td>
     <td>54 Utilities Expense</td>
   </tr>
   <tr>
     <td colspan="2">2. Liabilities (Pasivos)</td>
     <td></td>
-    <td style="color:#ac8e2b;">55 Insurance Expense</td>
+    <td style="color: #ac8e2b;"><b>55 Insurance Expense</b></td>
   </tr>
   <tr>
     <td></td>
     <td>21 Accounts Payable</td>
     <td></td>
-    <td style="color:#ac8e2b;">56 Depreciation Expense</td>
+    <td style="color: #ac8e2b;"><B>56 Depreciation Expense</b></td>
   </tr>
   <tr>
     <td></td>
-    <td style="color:#ac8e2b;">22 Wages Payable</td>
+    <td style="color: #ac8e2b;"><b>22 Wages Payable</b></td>
     <td></td>
     <td>59 Miscellaneous Expense</td>
   </tr>
