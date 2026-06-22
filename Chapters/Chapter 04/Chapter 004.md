@@ -10,6 +10,8 @@
 
 ##### [Capitulo 4-2c Balance Sheet](#048098)
 
+##### [Capitulo 4-2d Statement of Cash Flows](#243026)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -610,3 +612,154 @@ The stockholders' right to the assets of the business is presented on the balanc
 
 ---
 
+<h1 id="243026" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-2d Statement of Cash Flows
+  </a>
+</h1>
+
+
+The statement of cash flows that would accompany NetSolutions' financial statements in Exhibit 2 is shown in Appendix 2 of this chapter. While the income statement, statement of stockholders' equity, and balance sheet can be prepared from the Adjusted Trial Balance columns of Exhibit 1, the statement of cash flows is prepared by analyzing the cash account. In doing so, each cash transaction is classified as an operating, investing, or financing activity. In practice, however, the statement of cash flows is normally prepared using a different, more complex method called the indirect method. The indirect method is described and illustrated in Chapter 13, "Statement of Cash Flows." For this reason, any further discussion of the statement of cash flows is delayed until Chapter 13.
+
+[El estado de flujos de efectivo que acompañaría a los estados financieros de NetSolutions en la Figura 2 se muestra en el Apéndice 2 de este capítulo. Mientras que el estado de resultados, el estado de cambios en el capital contable y el balance general se pueden preparar a partir de las columnas del Balance de Comprobación Ajustado de la Figura 1, el estado de flujos de efectivo se prepara analizando la cuenta de efectivo. Al hacerlo, cada transacción de efectivo se clasifica como una actividad de operación, inversión o financiamiento. En la práctica, sin embargo, el estado de flujos de efectivo normalmente se prepara utilizando un método diferente y más complejo llamado método indirecto. El método indirecto se describe e ilustra en el Capítulo 13, "Estado de Flujos de Efectivo". Por esta razón, cualquier discusión adicional sobre el estado de flujos de efectivo se pospone hasta el Capítulo 13.]
+
+---
+
+## Check Up Corner 4-1
+
+### Financial Statements from Adjusted Trial Balance
+
+[**Esquina de Verificación 4-1 - Estados Financieros a partir del Balance de Comprobación Ajustado**]
+
+The following account balances were taken from the adjusted trial balance for Laser Corrective Vision Company, a health care company, for the fiscal year ended December 31, 20Y2:
+
+[Los siguientes saldos de cuentas se tomaron del balance de comprobación ajustado para Laser Corrective Vision Company, una empresa de atención médica, para el año fiscal terminado el 31 de diciembre de 20Y2:]
+
+| Account [Cuenta] | Balance [Saldo] |
+|------------------|-----------------|
+| Common Stock [Acciones Comunes] | $175,000 |
+| Miscellaneous Expense [Gastos Misceláneos] | $8,500 |
+| Depreciation Expense [Gasto de Depreciación] | $25,000 |
+| Rent Expense [Gasto de Renta] | $20,000 |
+| Dividends [Dividendos] | $6,000 |
+| Salaries Expense [Gasto de Sueldos] | $165,000 |
+| Fees Earned [Ingresos por Servicios] | $312,000 |
+| Supplies Expense [Gasto de Suministros] | $15,500 |
+| Insurance Expense [Gasto de Seguro] | $6,000 |
+| Utilities Expense [Gasto de Servicios Públicos] | $12,000 |
+
+On January 1, 20Y2, Retained Earnings had a balance of $100,000. During 20Y2, common stock of $50,000 was issued.
+
+[El 1 de enero de 20Y2, las Ganancias Retenidas tenían un saldo de $100,000. Durante 20Y2, se emitieron acciones comunes por $50,000.]
+
+**Prepare an income statement and statement of stockholders' equity for Laser Corrective Vision.**
+
+[**Prepare un estado de resultados y un estado de cambios en el capital contable para Laser Corrective Vision.**]
+
+---
+
+<table><thead>
+  <tr>
+    <th colspan="5">Laser Corrective Vision Company</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="5">Income Statement</td>
+  </tr>
+  <tr>
+    <td colspan="5">For the Year Ended December 31, 20Y2</td>
+  </tr>
+  <tr>
+    <td colspan="5"></td>
+  </tr>
+  <tr>
+    <td colspan="3">Revenues: [Ingresos:]</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Fees earned [Ingresos por Servicios]</td>
+    <td></td>
+    <td>$312,000</td>
+  </tr>
+  <tr>
+    <td colspan="3">Expenses: [Gastos:]</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Salaries expense [Gasto de Sueldos]</td>
+    <td>$165,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Depreciation expense [Gasto de Depreciación]</td>
+    <td>25,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Rent expense [Gasto de Renta]</td>
+    <td>20,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Supplies expense [Gasto de Suministros]</td>
+    <td>15,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Utilities expense [Gasto de Servicios Públicos]</td>
+    <td>12,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Insurance expense [Gasto de Seguro]</td>
+    <td>6,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Miscellaneous expense [Gastos Misceláneos]</td>
+    <td>8,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Total expenses [Total de gastos]</td>
+    <td></td>
+    <td>($252,000)</td>
+  </tr>
+  <tr>
+    <td colspan="3">Net income [Ingreso neto]</td>
+    <td></td>
+    <td>$60,000</td>
+  </tr>
+</tbody></table>
+
+---
+
+#### Laser Corrective Vision Company
+#### Statement of Stockholders' Equity
+#### For the Year Ended December 31, 20Y2
+
+[**Laser Corrective Vision Company**
+**Estado de Cambios en el Capital Contable**
+**Para el Año Terminado el 31 de Diciembre de 20Y2**]
+
+| | Common Stock [Acciones Comunes] | Retained Earnings [Ganancias Retenidas] | Total [Total] |
+|--|----------------|----------------|---------------|
+| Balances, January 1, 20Y2 [Saldos, 1 de Enero de 20Y2] | $125,000 | $100,000 | $225,000 |
+| Issued common stock [Emisión de acciones comunes] | 50,000 | | 50,000 |
+| Net income [Ingreso neto] | | 60,000 | 60,000 |
+| Dividends [Dividendos] | | (6,000) | (6,000) |
+| **Balances, December 31, 20Y2** [**Saldos, 31 de Diciembre de 20Y2**] | **$175,000** | **$154,000** | **$329,000** |
+
+---
