@@ -24,6 +24,8 @@
 
 ##### [Capitulo 3-5 Summary of Adjusting Process](#273483)
 
+##### [Capitulo 3-6 Adjusted Trial Balance](#557276)
+
 <h1 id="981689" style="color:#E65100;">
   <a href="#Chapter_003" style="color:inherit; text-decoration:none;">
     3-1 Nature of the Adjusting Process
@@ -1590,3 +1592,393 @@ The data analytic process of transforming data is similar to the adjusting proce
 [El proceso analítico de datos de transformación de datos es similar al proceso de ajuste que se describe e ilustra en este capítulo. Por ejemplo, las cuentas no ajustadas deben transformarse (actualizarse) en cuentas ajustadas. Además, las cuentas deben evaluarse (limpiarse) en busca de cuentas erróneas o faltantes. Por ejemplo, un saldo acreedor en suministros indica un error.]
 
 ---
+
+<h1 id="557276" style="color:#E65100;">
+  <a href="#Chapter_003" style="color:inherit; text-decoration:none;">
+    3-6 Adjusted Trial Balance
+  </a>
+</h1>
+
+
+After the adjusting entries are posted, an **adjusted trial balance** (The trial balance prepared after all the adjusting entries have been posted.) is prepared. The adjusted trial balance verifies the equality of the total debit and credit balances before the financial statements are prepared. If the adjusted trial balance does not balance, an error has occurred. However, as discussed in Chapter 2, errors may occur even though the adjusted trial balance totals agree. For example, if an adjusting entry were omitted, the adjusted trial balance totals would still agree.
+
+[Después de que se traspasan los asientos de ajuste, se prepara un **balance de comprobación ajustado** (el balance de comprobación preparado después de que todos los asientos de ajuste han sido traspasados). El balance de comprobación ajustado verifica la igualdad de los totales de los saldos deudores y acreedores antes de que se preparen los estados financieros. Si el balance de comprobación ajustado no cuadra, ha ocurrido un error. Sin embargo, como se discutió en el Capítulo 2, pueden ocurrir errores incluso cuando los totales del balance de comprobación ajustado coinciden. Por ejemplo, si se omitiera un asiento de ajuste, los totales del balance de comprobación ajustado aún coincidirían.]
+
+**Objective 6** - Prepare an adjusted trial balance.
+
+[**Objetivo 6** - Preparar un balance de comprobación ajustado.]
+
+Exhibit 9 shows the adjusted trial balance for NetSolutions as of December 31, 20Y3. Chapter 4 discusses how financial statements, including a classified balance sheet, are prepared from an adjusted trial balance.
+
+[La Figura 9 muestra el balance de comprobación ajustado para NetSolutions al 31 de diciembre de 20Y3. El Capítulo 4 discute cómo se preparan los estados financieros, incluido un balance general clasificado, a partir de un balance de comprobación ajustado.]
+
+---
+
+## Exhibit 9
+
+### Adjusted Trial Balance
+
+[**Figura 9** - Balance de Comprobación Ajustado]
+
+<!-- 📍 IMAGEN: Exhibit 9 - Adjusted Trial Balance (página 1) -->
+
+![Exhibit 9 - Adjusted Trial Balance](./img/019.png)
+
+<table><thead>
+  <tr>
+    <th colspan="4">NetSolutions&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="4">Adjusted Trial Balance&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4">December 31, 20Y3&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Account No.</td>
+    <td></td>
+    <td>Debit Balances</td>
+    <td>Credit Balances</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Cash [Efectivo]</td>
+    <td>2,065</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Accounts Receivable [Cuentas por Cobrar]</td>
+    <td>2,720</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Supplies [Suministros]</td>
+    <td>760</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Prepaid Insurance [Seguro Pagado por Adelantado]</td>
+    <td>2,200</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>Land [Terreno]</td>
+    <td>20,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>Office Equipment [Equipo de Oficina]</td>
+    <td>1,800</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Accumulated Depreciation—Office Equipment [Depreciación Acumulada—Equipo de Oficina]</td>
+    <td></td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>Accounts Payable [Cuentas por Pagar]</td>
+    <td></td>
+    <td>900</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>Wages Payable [Sueldos por Pagar]</td>
+    <td></td>
+    <td>250</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>Unearned Rent [Renta No Devengada]</td>
+    <td></td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>Common Stock [Acciones Comunes]</td>
+    <td></td>
+    <td>25,000</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>Dividends [Dividendos]</td>
+    <td>4,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>Fees Earned [Ingresos por Servicios]</td>
+    <td></td>
+    <td>16,840</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>Rent Revenue [Ingresos por Renta]</td>
+    <td></td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td>Wages Expense [Gasto de Sueldos]</td>
+    <td>4,525</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td>Supplies Expense [Gasto de Suministros]</td>
+    <td>2,040</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td>Rent Expense [Gasto de Renta]</td>
+    <td>1,600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td>Utilities Expense [Gasto de Servicios Públicos]</td>
+    <td>985</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>Insurance Expense [Gasto de Seguro]</td>
+    <td>200</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td>Depreciation Expense [Gasto de Depreciación]</td>
+    <td>50</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td>Miscellaneous Expense [Gastos Misceláneos]</td>
+    <td>455</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Totals[Totales]</td>
+    <td>43,400</td>
+    <td>43,400</td>
+  </tr>
+</tbody></table>
+
+---
+
+## Pathways Challenge
+
+### This Is Accounting!
+
+### Economic Activity
+
+[**Desafío Pathways - ¡Esto es Contabilidad! - Actividad Económica**]
+
+Delta Air Lines (DAL) offers air transportation service to destinations throughout the world and serves more than 180 million passengers each year. In an effort to retain and increase passenger loyalty, Delta encourages its passengers to join its SkyMiles (frequent flyer) program. Passengers earn mileage credits for award travel as well as earn "elite" status that includes early boarding and free checked baggage. SkyMiles credits never expire.
+
+[Delta Air Lines (DAL) ofrece servicio de transporte aéreo a destinos en todo el mundo y sirve a más de 180 millones de pasajeros cada año. En un esfuerzo por retener y aumentar la lealtad de los pasajeros, Delta anima a sus pasajeros a unirse a su programa SkyMiles (viajero frecuente). Los pasajeros ganan créditos de millas para viajes de recompensa, así como también obtienen estado "élite" que incluye abordaje temprano y equipaje facturado gratis. Los créditos de SkyMiles nunca expiran.]
+
+Assume that during December 20Y6 you flew on Delta Air Lines using a ticket you purchased for $1,000 that earned 2,000 mileage credits that you plan to use in 20Y7.
+
+[Suponga que durante diciembre de 20Y6 voló en Delta Air Lines usando un boleto que compró por $1,000 que ganó 2,000 créditos de millas que planea usar en 20Y7.]
+
+### Critical Thinking/Judgment
+
+[**Pensamiento Crítico/Juicio**]
+
+**Should Delta record $1,000 as revenue for 20Y6?**
+
+[**¿Debería Delta registrar $1,000 como ingreso para 20Y6?**]
+
+**How should Delta account for the 2,000 mileage credits?**
+
+[**¿Cómo debería Delta contabilizar los 2,000 créditos de millas?**]
+
+**Can you think of an adjusting entry related to the 2,000 mileage credits for the year ending December 31, 20Y6, that Delta might have to record?**
+
+[**¿Puede pensar en un asiento de ajuste relacionado con los 2,000 créditos de millas para el año que termina el 31 de diciembre de 20Y6 que Delta podría tener que registrar?**]
+
+---
+
+### Solution
+
+[**Solución**]
+
+**Question 1:** Delta should **not** record the full $1,000 as revenue in 20Y6. A portion of the ticket price relates to the future obligation of providing the mileage credits (the SkyMiles) that will be used in 20Y7. Under the revenue recognition principle, revenue is recognized only when the service is provided or the obligation is fulfilled.
+
+[**Pregunta 1:** Delta **no** debería registrar los $1,000 completos como ingreso en 20Y6. Una parte del precio del boleto se relaciona con la obligación futura de proporcionar los créditos de millas (los SkyMiles) que se usarán en 20Y7. Bajo el principio de reconocimiento de ingresos, los ingresos se reconocen solo cuando se proporciona el servicio o se cumple la obligación.]
+
+**Question 2:** Delta should account for the mileage credits as **unearned revenue** (deferred revenue). When the ticket is sold, Delta receives cash but has a future obligation to provide travel services when the credits are redeemed. Therefore, a portion of the ticket price should be recorded as a liability (Unearned Revenue) and recognized as revenue only when the credits are used or expire.
+
+[**Pregunta 2:** Delta debería contabilizar los créditos de millas como **ingresos no devengados** (ingresos diferidos). Cuando se vende el boleto, Delta recibe efectivo pero tiene una obligación futura de proporcionar servicios de viaje cuando los créditos se canjeen. Por lo tanto, una parte del precio del boleto debe registrarse como un pasivo (Ingresos No Devengados) y reconocerse como ingreso solo cuando los créditos se usen o expiren.]
+
+**Question 3:** Yes, Delta would record an adjusting entry to recognize a portion of the unearned revenue as earned, based on the estimated value of the mileage credits that have been used or expired during the period. The adjusting entry would be:
+
+[**Pregunta 3:** Sí, Delta registraría un asiento de ajuste para reconocer una parte de los ingresos no devengados como ganados, basado en el valor estimado de los créditos de millas que se han usado o han expirado durante el período. El asiento de ajuste sería:]
+
+| Account [Cuenta] | Debit [Débito] | Credit [Crédito] |
+|------------------|----------------|------------------|
+| Unearned Revenue [Ingresos No Devengados] | XXX | |
+| Revenue [Ingresos] | | XXX |
+| *To recognize revenue for mileage credits used during the period.* [*Para reconocer ingresos por créditos de millas usados durante el período.*] | | |
+
+---
+
+## Analysis for Decision Making
+
+### Vertical Analysis
+
+[**Análisis para la Toma de Decisiones - Análisis Vertical**]
+
+Comparing each item on a financial statement with a total amount from the same statement is useful in analyzing relationships within the financial statement.
+
+[Comparar cada partida en un estado financiero con un monto total del mismo estado es útil para analizar las relaciones dentro del estado financiero.]
+
+**Objective 7** - Describe and illustrate the use of vertical analysis in evaluating a company's performance and financial condition.
+
+[**Objetivo 7** - Describir e ilustrar el uso del análisis vertical en la evaluación del desempeño y la condición financiera de una empresa.]
+
+**Vertical analysis** (An analysis that compares each item in a current statement with a total or key amount within the same statement.) is the term used to describe such comparisons.
+
+[**Análisis vertical** (un análisis que compara cada partida en un estado actual con un monto total o clave dentro del mismo estado) es el término utilizado para describir tales comparaciones.]
+
+In vertical analysis of a balance sheet, each asset item is stated as a percent of the total assets. Each liability and stockholders' equity item is stated as a percent of total liabilities and stockholders' equity. In vertical analysis of an income statement, each item is stated as a percent of revenues or fees earned.
+
+[En el análisis vertical de un balance general, cada partida de activo se expresa como un porcentaje del total de activos. Cada partida de pasivo y capital contable se expresa como un porcentaje del total de pasivos y capital contable. En el análisis vertical de un estado de resultados, cada partida se expresa como un porcentaje de los ingresos o ingresos por servicios.]
+
+Vertical analysis is also useful for analyzing changes in financial statements over time. To illustrate, a vertical analysis of two years of income statements for J. Holmes, Attorney-at-Law, follows:
+
+[El análisis vertical también es útil para analizar cambios en los estados financieros a lo largo del tiempo. Para ilustrar, a continuación se presenta un análisis vertical de dos años de estados de resultados para J. Holmes, Abogado:]
+
+---
+
+### Vertical Analysis Example
+
+[**Ejemplo de Análisis Vertical**]
+
+<table><thead>
+  <tr>
+    <th colspan="6">J. Holmes, Attorney-at-Law</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="6">Income Statements</td>
+  </tr>
+  <tr>
+    <td colspan="6">For the Years Ended December 31</td>
+  </tr>
+  <tr>
+    <td colspan="2">Item</td>
+    <td>Amount</td>
+    <td>Percent*</td>
+    <td>Amount</td>
+    <td>Percent*</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fees earned [Ingresos por Servicios]</td>
+    <td>$187,500</td>
+    <td>100.0%</td>
+    <td>$150,000</td>
+    <td>100.0%</td>
+  </tr>
+  <tr>
+    <td colspan="2">Expenses [Gastos]</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Wages expense</td>
+    <td>$60,000</td>
+    <td>32.0%</td>
+    <td>$45,000</td>
+    <td>30.0%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Rent expense</td>
+    <td>$15,000</td>
+    <td>8.0%</td>
+    <td>$12,000</td>
+    <td>8.0%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Utilities expense</td>
+    <td>$12,500</td>
+    <td>6.7%</td>
+    <td>$9,000</td>
+    <td>6.0%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Supplies expense</td>
+    <td>$2,700</td>
+    <td>1.4%</td>
+    <td>$3,000</td>
+    <td>2.0%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Miscellaneous expense</td>
+    <td>$2,300</td>
+    <td>1.2%</td>
+    <td>$1,800</td>
+    <td>1.2%</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Total expenses</td>
+    <td>$92,500</td>
+    <td>49.3%</td>
+    <td>$70,800</td>
+    <td>47.2%</td>
+  </tr>
+  <tr>
+    <td colspan="2">Net income</td>
+    <td>$95,000</td>
+    <td>50.7%</td>
+    <td>$79,200</td>
+    <td>52.8%</td>
+  </tr>
+</tbody></table>
+
+*Rounded to one decimal place*
+
+The preceding vertical analysis indicates both favorable and unfavorable changes affecting the income statement of J. Holmes, Attorney-at-Law. The increase in wages expense of 2.0% (32.0% – 30.0%) is an unfavorable change, as is the increase in utilities expense of 0.7% (6.7% – 6.0%). A favorable change is the decrease in supplies expense of 0.6% (2.0% – 1.4%). Rent expense and miscellaneous expense as a percent of fees earned were constant. The net result of these changes is that net income decreased as a percent of fees earned from 52.8% to 50.7%.
+
+[El análisis vertical anterior indica cambios tanto favorables como desfavorables que afectan el estado de resultados de J. Holmes, Abogado. El aumento en el gasto de sueldos del 2.0% (32.0% – 30.0%) es un cambio desfavorable, al igual que el aumento en el gasto de servicios públicos del 0.7% (6.7% – 6.0%). Un cambio favorable es la disminución en el gasto de suministros del 0.6% (2.0% – 1.4%). El gasto de renta y los gastos misceláneos como porcentaje de los ingresos por servicios se mantuvieron constantes. El resultado neto de estos cambios es que el ingreso neto disminuyó como porcentaje de los ingresos por servicios del 52.8% al 50.7%.]
+
+The analysis of the various percentages shown for J. Holmes, Attorney-at-Law, can be enhanced by comparisons with industry averages. Such averages are published by trade associations and financial information services. Any major differences between industry averages should be investigated.
+
+[El análisis de los diversos porcentajes mostrados para J. Holmes, Abogado, puede mejorarse con comparaciones con promedios de la industria. Dichos promedios son publicados por asociaciones comerciales y servicios de información financiera. Cualquier diferencia importante entre los promedios de la industria debe investigarse.]
+
+---
+
+## Make a Decision
+
+### Vertical Analysis
+
+[**Tome una Decisión - Análisis Vertical**]
+
+- Analyze Amazon.com (MAD 3-1) (Continuing company analysis)
+- Analyze Netflix (MAD 3-2)
+- Analyze World Wrestling Entertainment (MAD 3-3)
+- Analyze Chipotle Mexican Grill (MAD 3-4)
+- Analyze Nike (MAD 3-5)
+
+---
+
