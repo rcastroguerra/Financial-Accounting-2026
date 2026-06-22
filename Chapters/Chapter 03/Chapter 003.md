@@ -26,6 +26,10 @@
 
 ##### [Capitulo 3-6 Adjusted Trial Balance](#557276)
 
+##### [Capitulo 3-7a Let’s Review Chapter Summary](#176918)
+
+##### [Capitulo 3-7b Key Terms](#708093)
+
 <h1 id="981689" style="color:#E65100;">
   <a href="#Chapter_003" style="color:inherit; text-decoration:none;">
     3-1 Nature of the Adjusting Process
@@ -1253,7 +1257,6 @@ A summary of the basic types of adjusting entries is shown in Exhibit 6. The adj
 
 <!-- 📍 IMAGEN: Exhibit 6 - Summary of Adjustments (páginas 1-4) -->
 
-![Exhibit 6 - Summary of Adjustments](./img/exhibit6_summary_adjustments.png)
 
 | **ACCRUED REVENUES** [INGRESOS DEVENGADOS] | | | | | |
 |---------------------------------------------|--|--|--|--|--|
@@ -1982,3 +1985,77 @@ The analysis of the various percentages shown for J. Holmes, Attorney-at-Law, ca
 
 ---
 
+<h1 id="176918" style="color:#E65100;">
+  <a href="#Chapter_003" style="color:inherit; text-decoration:none;">
+    3-7a Let’s Review Chapter Summary
+  </a>
+</h1>
+
+
+
+[**3-7 Revisión del Capítulo - 3-7a Revisemos el Resumen del Capítulo**]
+
+**1.** The accrual basis of accounting requires that revenues are reported in the period in which they are earned and expenses are matched with the revenues they generate. The updating of accounts at the end of the accounting period is called the adjusting process. Each adjusting entry affects an income statement and balance sheet account. The two general classifications for accounts requiring adjustment are accruals and deferrals. Accruals include accrued revenues and accrued expenses. Deferrals include unearned revenues and prepaid expenses.
+
+[**1.** El método de acumulación (o devengo) requiere que los ingresos se reporten en el período en el que se ganan y que los gastos se correspondan con los ingresos que generan. La actualización de las cuentas al final del período contable se llama proceso de ajuste. Cada asiento de ajuste afecta una cuenta del estado de resultados y una cuenta del balance general. Las dos clasificaciones generales para las cuentas que requieren ajuste son los devengos y los diferimientos. Los devengos incluyen ingresos devengados y gastos devengados. Los diferimientos incluyen ingresos no devengados y gastos pagados por adelantado.]
+
+**2.** Adjusting entries for accruals include accrued revenues and expenses. The adjusting entry for an accrued revenue debits Accounts Receivable and credits a revenue account such as Fees Earned. The adjusting entry for an accrued expense debits an expense account such as Wages Expense and credits a liability account such as Wages Payable.
+
+[**2.** Los asientos de ajuste para devengos incluyen ingresos y gastos devengados. El asiento de ajuste para un ingreso devengado debita Cuentas por Cobrar y acredita una cuenta de ingreso como Ingresos por Servicios. El asiento de ajuste para un gasto devengado debita una cuenta de gasto como Gasto de Sueldos y acredita una cuenta de pasivo como Sueldos por Pagar.]
+
+**3.** Adjusting entries for deferrals include unearned revenues and prepaid expenses. The adjusting entry for an unearned revenue debits an unearned revenue account such as Unearned Rent and credits a revenue account such as Rent Revenue. The adjusting entry for a prepaid expense debits an expense account such as Supplies Expense and credits an asset account such as Supplies.
+
+[**3.** Los asientos de ajuste para diferimientos incluyen ingresos no devengados y gastos pagados por adelantado. El asiento de ajuste para un ingreso no devengado debita una cuenta de ingreso no devengado como Renta No Devengada y acredita una cuenta de ingreso como Ingresos por Renta. El asiento de ajuste para un gasto pagado por adelantado debita una cuenta de gasto como Gasto de Suministros y acredita una cuenta de activo como Suministros.]
+
+**4.** The adjusting entry for depreciation of a fixed asset debits Depreciation Expense and credits a contra asset account, Accumulated Depreciation. The book value of a fixed asset equals its cost less its accumulated depreciation. Land is a fixed asset that does not depreciate.
+
+[**4.** El asiento de ajuste para la depreciación de un activo fijo debita Gasto de Depreciación y acredita una cuenta de contra activo, Depreciación Acumulada. El valor en libros de un activo fijo es igual a su costo menos su depreciación acumulada. El terreno es un activo fijo que no se deprecia.]
+
+**5.** A summary of adjustments, including the type of adjustment, reason for the adjustment, the adjusting entry, and the effect of omitting an adjustment on the financial statements, is shown in Exhibit 6.
+
+[**5.** Un resumen de los ajustes, que incluye el tipo de ajuste, la razón del ajuste, el asiento de ajuste y el efecto de omitir un ajuste en los estados financieros, se muestra en la Figura 6.]
+
+**6.** After all of the adjusting entries have been posted, the equality of the total debit balances and the total credit balances is verified by an adjusted trial balance.
+
+[**6.** Después de que todos los asientos de ajuste han sido traspasados, la igualdad de los totales de los saldos deudores y los saldos acreedores se verifica mediante un balance de comprobación ajustado.]
+
+**7.** Vertical analysis compares each item on a financial statement with a total amount from the same statement. It is useful in analyzing relationships within the financial statement. In vertical analysis of a balance sheet, each asset item is stated as a percent of the total assets. Each liability and stockholders' equity item is stated as a percent of total liabilities and stockholders' equity. In vertical analysis of an income statement, each item is stated as a percent of revenues or fees earned.
+
+[**7.** El análisis vertical compara cada partida en un estado financiero con un monto total del mismo estado. Es útil para analizar las relaciones dentro del estado financiero. En el análisis vertical de un balance general, cada partida de activo se expresa como un porcentaje del total de activos. Cada partida de pasivo y capital contable se expresa como un porcentaje del total de pasivos y capital contable. En el análisis vertical de un estado de resultados, cada partida se expresa como un porcentaje de los ingresos o ingresos por servicios.]
+
+---
+
+<h1 id="708093" style="color:#E65100;">
+  <a href="#Chapter_003" style="color:inherit; text-decoration:none;">
+    3-7b Key Terms
+  </a>
+</h1>
+
+## 3-7b Key Terms
+
+[**3-7b Términos Clave**]
+
+| English Term | Español | Definition (English) | Definición (Español) |
+|--------------|---------|---------------------|---------------------|
+| **accrual** | devengo | A revenue that has been earned or an expense that has been incurred but has not been recorded. | Un ingreso que se ha ganado o un gasto en el que se ha incurrido pero que no se ha registrado. |
+| **accrual basis of accounting** | método de acumulación (o devengo) | A basis of accounting under which revenues and expenses are reported on the income statement in the period in which they are earned or incurred. | Un método de contabilidad bajo el cual los ingresos y gastos se reportan en el estado de resultados en el período en el que se ganan o incurren. |
+| **Accumulated Depreciation** | Depreciación Acumulada | The contra asset account credited when recording the depreciation of a fixed asset. | La cuenta de contra activo que se acredita al registrar la depreciación de un activo fijo. |
+| **adjusted trial balance** | balance de comprobación ajustado | The trial balance prepared after all the adjusting entries have been posted. | El balance de comprobación preparado después de que todos los asientos de ajuste han sido traspasados. |
+| **adjusting entries** | asientos de ajuste | The journal entries that bring the accounts up to date at the end of the accounting period. | Los asientos de diario que actualizan las cuentas al final del período contable. |
+| **adjusting process** | proceso de ajuste | An analysis and updating of the accounts when financial statements are prepared. | Un análisis y actualización de las cuentas cuando se preparan los estados financieros. |
+| **book value of the asset** | valor en libros del activo | The difference between the cost of a fixed asset and its accumulated depreciation. | La diferencia entre el costo de un activo fijo y su depreciación acumulada. |
+| **cash basis of accounting** | método de efectivo | A basis of accounting under which revenues and expenses are reported on the income statement in the period in which cash is received or paid. | Un método de contabilidad bajo el cual los ingresos y gastos se reportan en el estado de resultados en el período en el que se recibe o paga el efectivo. |
+| **contra accounts** | cuentas de contra | An account offset against another account. | Una cuenta que se compensa con otra cuenta. |
+| **deferral** | diferimiento | A future revenue or expense initially recorded as a liability or asset. | Un ingreso o gasto futuro inicialmente registrado como un pasivo o activo. |
+| **depreciate** | depreciarse | To lose value or usefulness over time. | Perder valor o utilidad con el tiempo. |
+| **depreciation** | depreciación | The systematic periodic transfer of the cost of a fixed asset to an expense account during its expected useful life. | La transferencia periódica sistemática del costo de un activo fijo a una cuenta de gasto durante su vida útil esperada. |
+| **depreciation expense** | gasto de depreciación | The portion of the cost of a fixed asset that is recorded as an expense each year of its useful life. | La porción del costo de un activo fijo que se registra como un gasto cada año de su vida útil. |
+| **expense recognition principle** | principio de reconocimiento de gastos | The principle that requires expenses to be reported in the same period as the revenues they helped generate. | El principio que requiere que los gastos se reporten en el mismo período que los ingresos que ayudaron a generar. |
+| **fixed assets** | activos fijos | Physical resources that are owned and used by a business and are permanent or have a long life; long-term or relatively permanent tangible assets such as equipment, machinery, buildings, and land that are used in normal business operations. | Recursos físicos que son propiedad de un negocio y son utilizados por él, y son permanentes o tienen una larga vida; activos tangibles a largo plazo o relativamente permanentes como equipo, maquinaria, edificios y terreno que se utilizan en las operaciones normales del negocio. |
+| **matching principle** | principio de correspondencia | A concept of accounting in which expenses are matched with the revenue generated during a period by those expenses. | Un concepto contable en el que los gastos se corresponden con los ingresos generados durante un período por esos gastos. |
+| **prepaid expense** | gasto pagado por adelantado | An asset created when a business pays cash for expenses in advance of their use or consumption. | Un activo creado cuando un negocio paga efectivo por gastos antes de su uso o consumo. |
+| **revenue recognition principle** | principio de reconocimiento de ingresos | The principle that requires revenues to be recorded when earned, which is when services have been performed or products have been delivered to customers. | El principio que requiere que los ingresos se registren cuando se ganan, es decir, cuando se han realizado los servicios o se han entregado los productos a los clientes. |
+| **unearned revenue** | ingreso no devengado (ingreso diferido) | The liability created by receiving revenue in advance. | El pasivo creado al recibir ingresos por adelantado. |
+| **vertical analysis** | análisis vertical | An analysis that compares each item in a current statement with a total or key amount within the same statement. | Un análisis que compara cada partida en un estado actual con un monto total o clave dentro del mismo estado. |
+
+---
