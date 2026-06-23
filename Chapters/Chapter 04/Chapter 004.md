@@ -12,6 +12,12 @@
 
 ##### [Capitulo 4-2d Statement of Cash Flows](#243026)
 
+##### [Capitulo 4-3 Closing Entries](#880976)
+
+##### [Capitulo 4-3a Journalizing and Posting Closing Entries](#378102)
+
+##### [Capitulo 4-3b Post-Closing Trial Balance](#800653)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -656,6 +662,8 @@ On January 1, 20Y2, Retained Earnings had a balance of $100,000. During 20Y2, co
 
 [**Prepare un estado de resultados y un estado de cambios en el capital contable para Laser Corrective Vision.**]
 
+<img src="./img/004.png" width="800"></img>
+
 ---
 
 <table><thead>
@@ -763,3 +771,1100 @@ On January 1, 20Y2, Retained Earnings had a balance of $100,000. During 20Y2, co
 | **Balances, December 31, 20Y2** [**Saldos, 31 de Diciembre de 20Y2**] | **$175,000** | **$154,000** | **$329,000** |
 
 ---
+
+<h1 id="880976" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-3 Closing Entries
+  </a>
+</h1>
+
+
+As discussed in Chapter 3, the adjusting entries are recorded in the journal at the end of the accounting period. For NetSolutions, the adjusting entries are shown in Exhibit 7 of Chapter 3. After the adjusting entries are posted to NetSolutions' ledger, shown later in this chapter, the ledger agrees with the data reported on the financial statements shown in Exhibit 2.
+
+[Como se discutió en el Capítulo 3, los asientos de ajuste se registran en el diario al final del período contable. Para NetSolutions, los asientos de ajuste se muestran en la Figura 7 del Capítulo 3. Después de que los asientos de ajuste se traspasan al libro mayor de NetSolutions, que se muestra más adelante en este capítulo, el libro mayor concuerda con los datos reportados en los estados financieros mostrados en la Figura 2.]
+
+The balances of the accounts reported on the balance sheet are carried forward from year to year. Because they are relatively permanent, these accounts are called **permanent accounts** (Term for balance sheet accounts because they are relatively permanent with balances that carry forward from year to year.) or **real accounts** (Term for balance sheet accounts because they are relatively permanent with balances that carry forward from year to year.). For example, Cash, Accounts Receivable, Equipment, Accumulated Depreciation, Accounts Payable, Common Stock, and Retained Earnings are permanent accounts.
+
+[Los saldos de las cuentas reportadas en el balance general se trasladan de un año a otro. Debido a que son relativamente permanentes, estas cuentas se llaman **cuentas permanentes** (término para las cuentas del balance general porque son relativamente permanentes con saldos que se trasladan de un año a otro) o **cuentas reales** (término para las cuentas del balance general porque son relativamente permanentes con saldos que se trasladan de un año a otro). Por ejemplo, Efectivo, Cuentas por Cobrar, Equipo, Depreciación Acumulada, Cuentas por Pagar, Acciones Comunes y Ganancias Retenidas son cuentas permanentes.]
+
+The balances of the accounts reported on the income statement are not carried forward from year to year. Also, the balance of the dividends account, which is reported on the statement of stockholders' equity, is not carried forward. Because these accounts report amounts for only one period, they are called **temporary accounts** (Term for income statement accounts because their balances relate to only one period and are not carried forward to the next period.) or **nominal accounts** (Term for income statement accounts because their balances relate to only one period and are not carried forward to the next period.). Temporary accounts are not carried forward because they relate only to one period. For example, the Fees Earned of $16,840 and Wages Expense of $4,525 for NetSolutions shown in Exhibit 2 are for the two months ending December 31, 20Y3, and should not be carried forward to 20Y4.
+
+[Los saldos de las cuentas reportadas en el estado de resultados no se trasladan de un año a otro. Además, el saldo de la cuenta de dividendos, que se reporta en el estado de cambios en el capital contable, no se traslada. Debido a que estas cuentas reportan montos para un solo período, se llaman **cuentas temporales** (término para las cuentas del estado de resultados porque sus saldos se relacionan con un solo período y no se trasladan al siguiente período) o **cuentas nominales** (término para las cuentas del estado de resultados porque sus saldos se relacionan con un solo período y no se trasladan al siguiente período). Las cuentas temporales no se trasladan porque se relacionan solo con un período. Por ejemplo, los Ingresos por Servicios de $16,840 y el Gasto de Sueldos de $4,525 para NetSolutions que se muestran en la Figura 2 son para los dos meses que terminan el 31 de diciembre de 20Y3 y no deben trasladarse a 20Y4.]
+
+At the beginning of the next period, temporary accounts should have zero balances. To achieve this, temporary account balances are transferred to permanent accounts at the end of the accounting period. The journal entries that transfer these balances are called **closing entries** (The journal entries that transfer the balances of temporary accounts to permanent accounts at the end of the accounting period.). The transfer process is called the **closing process** (The process of transferring the balances of temporary accounts to permanent accounts at the end of the accounting period.) and is sometimes referred to as **closing the books** (The process of transferring the balances of temporary accounts to permanent accounts at the end of the accounting period.).
+
+[Al comienzo del siguiente período, las cuentas temporales deben tener saldos cero. Para lograr esto, los saldos de las cuentas temporales se transfieren a cuentas permanentes al final del período contable. Los asientos de diario que transfieren estos saldos se llaman **asientos de cierre** (los asientos de diario que transfieren los saldos de las cuentas temporales a cuentas permanentes al final del período contable). El proceso de transferencia se llama **proceso de cierre** (el proceso de transferir los saldos de las cuentas temporales a cuentas permanentes al final del período contable) y a veces se conoce como **cerrar los libros** (el proceso de transferir los saldos de las cuentas temporales a cuentas permanentes al final del período contable).]
+
+## Notes
+
+The closing process involves the following two steps:
+
+[El proceso de cierre implica los siguientes dos pasos:]
+
+**Step 1:** Revenue and expense account balances are transferred to the retained earnings account.
+
+[**Paso 1:** Los saldos de las cuentas de ingresos y gastos se transfieren a la cuenta de ganancias retenidas.]
+
+**Step 2:** The balance of the dividends account is transferred to the retained earnings account.
+
+[**Paso 2:** El saldo de la cuenta de dividendos se transfiere a la cuenta de ganancias retenidas.]
+
+---
+
+## International Connection
+
+### IFRS International Differences
+
+[**Conexión Internacional - Diferencias Internacionales de IFRS**]
+
+Financial statements prepared under accounting practices in other countries often differ from those prepared under generally accepted accounting principles in the United States. This is to be expected because cultures and market structures differ from country to country.
+
+[Los estados financieros preparados bajo prácticas contables en otros países a menudo difieren de aquellos preparados bajo los principios de contabilidad generalmente aceptados en los Estados Unidos. Esto es de esperar porque las culturas y las estructuras de mercado difieren de un país a otro.]
+
+To illustrate, BMW Group prepares its financial statements under International Financial Reporting Standards as adopted by the European Union. In doing so, BMW's balance sheet reports fixed assets first, followed by current assets. It also reports stockholders' equity before the liabilities. In contrast, balance sheets prepared under U.S. accounting principles report current assets followed by fixed assets and current liabilities followed by long-term liabilities and stockholders' equity. The U.S. form of balance sheet is organized to emphasize creditor interpretation and analysis. For example, current assets and current liabilities are presented first to facilitate their interpretation and analysis by creditors. Likewise, to emphasize their importance, liabilities are reported before stockholders' equity.
+
+[Para ilustrar, BMW Group prepara sus estados financieros bajo las Normas Internacionales de Información Financiera (IFRS) adoptadas por la Unión Europea. Al hacerlo, el balance general de BMW reporta los activos fijos primero, seguidos de los activos corrientes. También reporta el capital contable antes que los pasivos. En contraste, los balances generales preparados bajo los principios contables de EE. UU. reportan los activos corrientes seguidos de los activos fijos y los pasivos corrientes seguidos de los pasivos a largo plazo y el capital contable. La forma de balance general de EE. UU. está organizada para enfatizar la interpretación y el análisis de los acreedores. Por ejemplo, los activos corrientes y los pasivos corrientes se presentan primero para facilitar su interpretación y análisis por parte de los acreedores. Del mismo modo, para enfatizar su importancia, los pasivos se reportan antes que el capital contable.]
+
+Regardless of these differences, the basic principles underlying the accounting equation and the double-entry accounting system are the same in Germany and the United States. Even though differences in recording and reporting exist, the accounting equation holds true: The total assets still equal the total liabilities and stockholders' equity.
+
+[Independientemente de estas diferencias, los principios básicos que subyacen a la ecuación contable y al sistema de contabilidad de partida doble son los mismos en Alemania y los Estados Unidos. Aunque existen diferencias en el registro y la presentación de informes, la ecuación contable se cumple: los activos totales siguen siendo iguales a los pasivos totales y al capital contable.]
+
+The two closing journal entries required by the closing process are as follows:
+
+[Los dos asientos de diario de cierre requeridos por el proceso de cierre son los siguientes:]
+
+**Closing Entry (1):** Debit each revenue account for its balance, credit each expense account for its balance, and credit (net income) or debit (net loss) the retained earnings account.
+
+[**Asiento de Cierre (1):** Debitar cada cuenta de ingreso por su saldo, acreditar cada cuenta de gasto por su saldo, y acreditar (ingreso neto) o debitar (pérdida neta) la cuenta de ganancias retenidas.]
+
+**Closing Entry (2):** Debit the retained earnings account for the balance of the dividends account and credit the dividends account for its balance.
+
+[**Asiento de Cierre (2):** Debitar la cuenta de ganancias retenidas por el saldo de la cuenta de dividendos y acreditar la cuenta de dividendos por su saldo.]
+
+Exhibit 3 diagrams the closing process.
+
+[La Figura 3 diagrama el proceso de cierre.]
+
+---
+
+## Exhibit 3
+
+### The Closing Process
+
+[**Figura 3** - El Proceso de Cierre]
+
+<!-- 📍 IMAGEN: Exhibit 3 - The Closing Process (coordenadas [206, 0, 770, 354]) -->
+
+![Exhibit 3 - The Closing Process](./img/005.png)
+
+Closing entries are recorded in the journal and are dated as of the last day of the accounting period. In the journal, closing entries are recorded immediately following the adjusting entries. The caption, **Closing Entries**, is often inserted above the closing entries to separate them from the adjusting entries.
+
+[Los asientos de cierre se registran en el diario y se fechan como el último día del período contable. En el diario, los asientos de cierre se registran inmediatamente después de los asientos de ajuste. La leyenda **Asientos de Cierre** a menudo se inserta encima de los asientos de cierre para separarlos de los asientos de ajuste.]
+
+---
+
+
+## Ejercicio de ejemplo
+
+
+
+---
+
+## 1. Balance del período anterior (Beginning Balance)
+
+Este es el balance al final del período pasado.
+
+| **Balance Sheet (Previous Period)** | Amount     |
+| ----------------------------------- | ---------- |
+| **Assets**                          |            |
+| Cash                                | 12,000     |
+| Accounts Receivable                 | 3,000      |
+| Equipment                           | 5,000      |
+| **Total Assets**                    | **20,000** |
+| **Liabilities**                     |            |
+| Accounts Payable                    | 6,000      |
+| **Stockholders’ Equity**            |            |
+| Common Stock                        | 10,000     |
+| Retained Earnings                   | 4,000      |
+| **Total Liabilities + Equity**      | **20,000** |
+
+Ecuación:
+
+```text
+20,000 = 6,000 + 14,000
+```
+
+---
+
+## 2. Transacciones del período actual
+
+Durante el año ocurren estas operaciones:
+
+### A) Se prestan servicios y entra efectivo
+
+```text
+Dr Cash                 9,000
+    Cr Service Revenue     9,000
+```
+
+Balance parcial:
+
+Cash = 21,000
+
+---
+
+### B) Se paga renta
+
+```text
+Dr Rent Expense        2,500
+    Cr Cash               2,500
+```
+
+Balance parcial:
+
+Cash = 18,500
+
+---
+
+### C) Se pagan salarios
+
+```text
+Dr Salary Expense      3,500
+    Cr Cash               3,500
+```
+
+Balance parcial:
+
+Cash = 15,000
+
+---
+
+### D) Se pagan dividendos
+
+```text
+Dr Dividends          1,000
+    Cr Cash              1,000
+```
+
+Balance parcial:
+
+Cash = 14,000
+
+---
+
+## 3. Trial Balance antes del cierre
+
+Aquí todavía existen cuentas temporales.
+
+| Account             | Debit  | Credit |
+| ------------------- | ------ | ------ |
+| Cash                | 14,000 |        |
+| Accounts Receivable | 3,000  |        |
+| Equipment           | 5,000  |        |
+| Accounts Payable    |        | 6,000  |
+| Common Stock        |        | 10,000 |
+| Retained Earnings   |        | 4,000  |
+| Service Revenue     |        | 9,000  |
+| Rent Expense        | 2,500  |        |
+| Salary Expense      | 3,500  |        |
+| Dividends           | 1,000  |        |
+
+Totales:
+
+```text
+Debits = 29,000
+Credits = 29,000
+```
+
+---
+
+## 4. Income Statement
+
+Calculamos el resultado del período.
+
+```text
+Service Revenue                9,000
+
+Expenses:
+ Rent Expense               (2,500)
+ Salary Expense            (3,500)
+
+-----------------------------------
+Net Income                  3,000
+```
+
+---
+
+## 5. Closing Entries
+
+Se usan para cerrar cuentas temporales.
+
+---
+
+### Paso 1 — Cerrar Revenue hacia Income Summary
+
+```text
+Dr Service Revenue          9,000
+    Cr Income Summary          9,000
+```
+
+Income Summary:
+
+| Debit | Credit |
+| ----- | ------ |
+|       | 9,000  |
+
+---
+
+### Paso 2 — Cerrar Expenses hacia Income Summary
+
+```text
+Dr Income Summary          6,000
+    Cr Rent Expense            2,500
+    Cr Salary Expense         3,500
+```
+
+Income Summary queda:
+
+| Debit | Credit |
+| ----- | ------ |
+| 6,000 | 9,000  |
+
+Saldo crédito = 3,000 profit
+
+---
+
+### Paso 3 — Transferir utilidad a Retained Earnings
+
+```text
+Dr Income Summary         3,000
+    Cr Retained Earnings     3,000
+```
+
+Income Summary queda en 0.
+
+---
+
+### Paso 4 — Cerrar Dividends
+
+```text
+Dr Retained Earnings      1,000
+    Cr Dividends             1,000
+```
+
+---
+
+## 6. Actualización de Retained Earnings
+
+Saldo anterior:
+
+```text
+Retained Earnings = 4,000
+```
+
+Agregar utilidad:
+
+```text
++ Net Income = 3,000
+```
+
+Restar dividendos:
+
+```text
+- Dividends = 1,000
+```
+
+Resultado final:
+
+```text
+Retained Earnings = 6,000
+```
+
+---
+
+## 7. Balance Sheet después del cierre (Correcto)
+
+Las cuentas temporales desaparecen:
+
+* Revenue = 0
+* Expenses = 0
+* Dividends = 0
+* Income Summary = 0
+
+Quedan solo cuentas permanentes.
+
+| **Balance Sheet (After Closing)** | Amount     |
+| --------------------------------- | ---------- |
+| **Assets**                        |            |
+| Cash                              | 14,000     |
+| Accounts Receivable               | 3,000      |
+| Equipment                         | 5,000      |
+| **Total Assets**                  | **22,000** |
+| **Liabilities**                   |            |
+| Accounts Payable                  | 6,000      |
+| **Stockholders’ Equity**          |            |
+| Common Stock                      | 10,000     |
+| Retained Earnings                 | 6,000      |
+| **Total Liabilities + Equity**    | **22,000** |
+
+Verificación:
+
+```text
+Assets = 22,000
+
+Liabilities = 6,000
+Common Stock = 10,000
+Retained Earnings = 6,000
+
+Total = 22,000
+```
+
+Correcto.
+
+---
+
+## 8. Flujo completo de información
+
+```text
+Previous Balance Sheet
+        ↓
+Transactions
+        ↓
+Journal Entries
+        ↓
+Trial Balance
+        ↓
+Income Statement
+        ↓
+Closing Entries
+        ↓
+Income Summary
+        ↓
+Retained Earnings Updated
+        ↓
+After Closing Balance Sheet
+```
+
+---
+
+### Qué debes recordar para examen
+
+**Cuentas temporales**
+
+* Service Revenue
+* Expenses
+* Dividends
+* Income Summary
+
+**Cuentas permanentes**
+
+* Cash
+* Accounts Receivable
+* Equipment
+* Accounts Payable
+* Common Stock
+* Retained Earnings
+
+**Closing Entries solo mueven información dentro de Equity; no generan dinero nuevo.**
+
+---
+
+<h1 id="378102" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-3a Journalizing and Posting Closing Entries
+  </a>
+</h1>
+
+
+
+A flowchart of the two closing entries for NetSolutions is shown in Exhibit 4. The balances in the accounts are those shown in the Adjusted Trial Balance columns of the end-of-period spreadsheet shown in Exhibit 1.
+
+[Un diagrama de flujo de los dos asientos de cierre para NetSolutions se muestra en la Figura 4. Los saldos en las cuentas son los que se muestran en las columnas del Balance de Comprobación Ajustado de la hoja de cálculo de fin de período que se muestra en la Figura 1.]
+
+## Exhibit 4
+
+### Flowchart of Closing Entries for NetSolutions
+
+[**Figura 4** - Diagrama de Flujo de los Asientos de Cierre para NetSolutions]
+
+<!-- 📍 IMAGEN: Exhibit 4 - Flowchart of Closing Entries (coordenadas [206, 0, 770, 354]) -->
+
+![Exhibit 4 - Flowchart of Closing Entries](./img/006.png)
+
+
+The closing entries for NetSolutions are shown in Exhibit 5. The account titles and balances for these entries may be obtained from the end-of-period spreadsheet, the adjusted trial balance, the income statement, the statement of stockholders' equity, or the ledger.
+
+[Los asientos de cierre para NetSolutions se muestran en la Figura 5. Los títulos de las cuentas y los saldos para estos asientos pueden obtenerse de la hoja de cálculo de fin de período, el balance de comprobación ajustado, el estado de resultados, el estado de cambios en el capital contable o el libro mayor.]
+
+## Exhibit 5
+
+### Closing Entries, NetSolutions
+
+[**Figura 5** - Asientos de Cierre, NetSolutions]
+
+<!-- 📍 IMAGEN: Exhibit 5 - Closing Entries (página 2) -->
+
+
+| Date | Account | Post. Ref. | Debit | Credit |
+|------|---------|------------|-------|--------|
+| Dec. 31 | Fees Earned | 41 | 16,840 | |
+| | Rent Revenue | 42 | 120 | |
+| | Wages Expense | 51 | | 4,525 |
+| | Supplies Expense | 52 | | 2,040 |
+| | Rent Expense | 53 | | 1,600 |
+| | Utilities Expense | 54 | | 985 |
+| | Insurance Expense | 55 | | 200 |
+| | Depreciation Expense | 56 | | 50 |
+| | Miscellaneous Expense | 59 | | 455 |
+| | Retained Earnings | 32 | | 7,105 |
+| | *Closing entry (1)* | | | |
+| Dec. 31 | Retained Earnings | 32 | 4,000 | |
+| | Dividends | 33 | | 4,000 |
+| | *Closing entry (2)* | | | |
+
+
+- The revenue, expense, and dividends accounts will have zero balances.
+
+[- Las cuentas de ingresos, gastos y dividendos tendrán saldos cero.]
+
+---
+
+## Exhibit 6
+
+### Ledger with Closing Entries—NetSolutions
+
+[**Figura 6** - Libro Mayor con Asientos de Cierre—NetSolutions]
+
+<!-- 📍 IMAGEN: Exhibit 6 - Ledger with Closing Entries (páginas 3-9) -->
+
+
+
+#### Account Cash - Account No. 11
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 1 | | 1 | 25,000 | | 25,000 | |
+| Nov. 5 | | 1 | | 20,000 | 5,000 | |
+| Nov. 18 | | 1 | 7,500 | | 12,500 | |
+| Nov. 30 | | 1 | | 3,650 | 8,850 | |
+| Nov. 30 | | 1 | | 950 | 7,900 | |
+| Nov. 30 | | 1 | | 2,000 | 5,900 | |
+| Dec. 1 | | 2 | | 2,400 | 3,500 | |
+| Dec. 1 | | 2 | | 800 | 2,700 | |
+| Dec. 1 | | 2 | 360 | | 3,060 | |
+| Dec. 6 | | 2 | | 180 | 2,880 | |
+| Dec. 11 | | 2 | | 400 | 2,480 | |
+| Dec. 13 | | 2 | | 950 | 1,530 | |
+| Dec. 16 | | 3 | 3,100 | | 4,630 | |
+| Dec. 20 | | 3 | | 900 | 3,730 | |
+| Dec. 21 | | 3 | 650 | | 4,380 | |
+| Dec. 23 | | 3 | | 1,450 | 2,930 | |
+| Dec. 27 | | 3 | | 1,200 | 1,730 | |
+| Dec. 31 | | 3 | | 310 | 1,420 | |
+| Dec. 31 | | 4 | | 225 | 1,195 | |
+| Dec. 31 | | 4 | 2,870 | | 4,065 | |
+| Dec. 31 | | 4 | | 2,000 | 2,065 | |
+
+#### Account Accounts Receivable - Account No. 12
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 16 | | 3 | 1,750 | | 1,750 | |
+| Dec. 21 | | 3 | | 650 | 1,100 | |
+| Dec. 31 | | 4 | 1,120 | | 2,220 | |
+| Dec. 31 | Adjusting | 5 | 500 | | 2,720 | |
+
+#### Account Supplies - Account No. 14
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 10 | | 1 | 1,350 | | 1,350 | |
+| Nov. 30 | | 1 | | 800 | 550 | |
+| Dec. 23 | | 3 | 1,450 | | 2,000 | |
+| Dec. 31 | Adjusting | 5 | | 1,240 | 760 | |
+
+#### Account Prepaid Insurance - Account No. 15
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 1 | | 2 | 2,400 | | 2,400 | |
+| Dec. 31 | Adjusting | 5 | | 200 | 2,200 | |
+
+#### Account Land - Account No. 17
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 5 | | 1 | 20,000 | | 20,000 | |
+
+#### Account Office Equipment - Account No. 18
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 4 | | 2 | 1,800 | | 1,800 | |
+
+#### Account Accumulated Depreciation—Office Equipment - Account No. 19
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 31 | Adjusting | 5 | | 50 | | 50 |
+
+#### Account Accounts Payable - Account No. 21
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 10 | | 1 | | 1,350 | | 1,350 |
+| Nov. 30 | | 1 | 950 | | | 400 |
+| Dec. 4 | | 2 | | 1,800 | | 2,200 |
+| Dec. 11 | | 2 | 400 | | | 1,800 |
+| Dec. 20 | | 3 | 900 | | | 900 |
+
+#### Account Wages Payable - Account No. 22
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 31 | Adjusting | 5 | | 250 | | 250 |
+
+#### Account Unearned Rent - Account No. 23
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 1 | | 2 | | 360 | | 360 |
+| Dec. 31 | Adjusting | 5 | 120 | | | 240 |
+
+#### Account Common Stock - Account No. 31
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 1 | | 1 | | 25,000 | | 25,000 |
+
+<img src="./img/009.png" width="800"></img>
+
+#### Account Retained Earnings - Account No. 32
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 1 | | | | | | 0 |
+| Dec. 31 | Closing | 6 | | 7,105 | | 7,105 |
+| Dec. 31 | Closing | 6 | 4,000 | | | 3,105 |
+
+#### Account Dividends - Account No. 33
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 2,000 | | 2,000 | |
+| Dec. 31 | | 4 | 2,000 | | 4,000 | |
+| Dec. 31 | Closing | 6 | | 4,000 | | — |
+
+#### Account Fees Earned - Account No. 41
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 18 | | 1 | | 7,500 | | 7,500 |
+| Dec. 16 | | 3 | | 3,100 | | 10,600 |
+| Dec. 16 | | 3 | | 1,750 | | 12,350 |
+| Dec. 31 | | 4 | | 2,870 | | 15,220 |
+| Dec. 31 | | 4 | | 1,120 | | 16,340 |
+| Dec. 31 | Adjusting | 5 | | 500 | | 16,840 |
+| Dec. 31 | Closing | 6 | 16,840 | | | — |
+
+#### Account Rent Revenue - Account No. 42
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 31 | Adjusting | 5 | | 120 | | 120 |
+| Dec. 31 | Closing | 6 | 120 | | | — |
+
+#### Account Wages Expense - Account No. 51
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 2,125 | | 2,125 | |
+| Dec. 13 | | 3 | 950 | | 3,075 | |
+| Dec. 27 | | 3 | 1,200 | | 4,275 | |
+| Dec. 31 | Adjusting | 5 | 250 | | 4,525 | |
+| Dec. 31 | Closing | 6 | | 4,525 | — | |
+
+#### Account Supplies Expense - Account No. 52
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 800 | | 800 | |
+| Dec. 31 | Adjusting | 5 | 1,240 | | 2,040 | |
+| Dec. 31 | Closing | 6 | | 2,040 | — | |
+
+#### Account Rent Expense - Account No. 53
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 800 | | 800 | |
+| Dec. 1 | | 2 | 800 | | 1,600 | |
+| Dec. 31 | Closing | 6 | | 1,600 | — | |
+
+#### Account Utilities Expense - Account No. 54
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 450 | | 450 | |
+| Dec. 31 | | 3 | 310 | | 760 | |
+| Dec. 31 | | 4 | 225 | | 985 | |
+| Dec. 31 | Closing | 6 | | 985 | — | |
+
+#### Account Insurance Expense - Account No. 55
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 31 | Adjusting | 5 | 200 | | 200 | |
+| Dec. 31 | Closing | 6 | | 200 | — | |
+
+#### Account Depreciation Expense - Account No. 56
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Dec. 31 | Adjusting | 5 | 50 | | 50 | |
+| Dec. 31 | Closing | 6 | | 50 | — | |
+
+#### Account Miscellaneous Expense - Account No. 59
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y3 Nov. 30 | | 1 | 275 | | 275 | |
+| Dec. 6 | | 2 | 180 | | 455 | |
+| Dec. 31 | Closing | 6 | | 455 | — | |
+
+
+As shown in Exhibit 6, the closing entries are normally identified in the ledger as "Closing." In addition, a line is often inserted in both balance columns after a closing entry is posted. This separates next period's revenue, expense, and dividend transactions from those of the current period. Next period's transactions will be posted directly below the closing entry.
+
+[Como se muestra en la Figura 6, los asientos de cierre normalmente se identifican en el libro mayor como "Cierre". Además, a menudo se inserta una línea en ambas columnas de saldo después de que se traspasa un asiento de cierre. Esto separa las transacciones de ingresos, gastos y dividendos del próximo período de las del período actual. Las transacciones del próximo período se traspasarán directamente debajo del asiento de cierre.]
+
+---
+
+## Business Insight
+
+### Temporary Accounts on Your Pay Stub
+
+[**Perspectiva de Negocio - Cuentas Temporales en su Talón de Pago**]
+
+At the end of every pay period, employees receive a paycheck (or direct deposit) and a pay stub. The pay stub might look something like this:
+
+[Al final de cada período de pago, los empleados reciben un cheque (o depósito directo) y un talón de pago. El talón de pago podría verse algo como esto:]
+
+<img src="./img/010.png" width="800"></img>
+
+<table style="undefined;table-layout: fixed; width: 1078px"><colgroup>
+<col style="width: 162px">
+<col style="width: 119px">
+<col style="width: 117px">
+<col style="width: 106px">
+<col style="width: 139px">
+<col style="width: 127px">
+<col style="width: 171px">
+<col style="width: 137px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="6">Sample Company Name, Sample Company Address, 95220</th>
+    <th colspan="2">EARNINGS STATEMENT</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">EMPLOYEE NAME</td>
+    <td colspan="2">SOCIAL SEC. ID</td>
+    <td>EMPLOYEE ID</td>
+    <td>CHECK No.</td>
+    <td>PAY PERIOD</td>
+    <td>PAY DATE</td>
+  </tr>
+  <tr>
+    <td colspan="2">James Robert</td>
+    <td colspan="2">XXX-XX-6666</td>
+    <td>151515</td>
+    <td>259248</td>
+    <td>01/23/18-01/29/18</td>
+    <td>01/31/18</td>
+  </tr>
+  <tr>
+    <td>INCOME</td>
+    <td>RATE</td>
+    <td>HOURS</td>
+    <td>CURRENT TOTAL</td>
+    <td>DEDUCTIONS</td>
+    <td colspan="2">CURRENT TOTAL</td>
+    <td>YEAR-TO-DATE</td>
+  </tr>
+  <tr>
+    <td>GROSS WAGES</td>
+    <td></td>
+    <td></td>
+    <td>1,000.00</td>
+    <td>FICA MED TAX</td>
+    <td colspan="2">14.50</td>
+    <td>72.50</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FICA SS TAX</td>
+    <td colspan="2">62.00</td>
+    <td>310.00</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>FED TAX</td>
+    <td colspan="2">159.50</td>
+    <td>797.50</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>YTD GROSS</td>
+    <td colspan="2">YTD DEDUCTIONS</td>
+    <td>YTD NET PAY</td>
+    <td>TOTAL</td>
+    <td colspan="2">DEDUCTIONS</td>
+    <td>NET PAY</td>
+  </tr>
+  <tr>
+    <td>5,000.00</td>
+    <td colspan="2">1,180.00</td>
+    <td>3,820.00</td>
+    <td>1,000.00</td>
+    <td colspan="2">236.00</td>
+    <td>764.00</td>
+  </tr>
+</tbody></table>
+
+Each of the year-to-date accounts shown on the pay stub are temporary accounts. Each account describes the increases and decreases in the net cash received for the employee's work over the year. Increases are the gross pay, while decreases are deductions, such as Medicare taxes, social security taxes, and federal withholding taxes (FICA MED TAX, FICA SS TAX, and FED TAX in the illustration). These amounts are accumulated so that year-to-date summaries are provided as the year progresses. This is similar to income statement accounts that accumulate revenues and expenses over the period. At the end of the year, all of the year-to-date accounts are reset to zero to prepare for the next year's accumulation. This is similar to closing income statement accounts, which are also set to zero at the beginning of the new period.
+
+[Cada una de las cuentas de año a la fecha que se muestran en el talón de pago son cuentas temporales. Cada cuenta describe los aumentos y disminuciones en el efectivo neto recibido por el trabajo del empleado durante el año. Los aumentos son el salario bruto, mientras que las disminuciones son deducciones, como impuestos de Medicare, impuestos de seguridad social e impuestos federales retenidos (FICA MED TAX, FICA SS TAX y FED TAX en la ilustración). Estos montos se acumulan para que se proporcionen resúmenes de año a la fecha a medida que avanza el año. Esto es similar a las cuentas del estado de resultados que acumulan ingresos y gastos durante el período. Al final del año, todas las cuentas de año a la fecha se restablecen a cero para prepararse para la acumulación del próximo año. Esto es similar al cierre de las cuentas del estado de resultados, que también se establecen en cero al comienzo del nuevo período.]
+
+---
+
+## Check Up Corner 4-2
+
+### Closing Entries
+
+[**Esquina de Verificación 4-2 - Asientos de Cierre**]
+
+After the accounts have been adjusted at December 31, the end of the year, the following balances are taken from the ledger of Wyatt Services Co.:
+
+[Después de que las cuentas han sido ajustadas al 31 de diciembre, al final del año, los siguientes saldos se toman del libro mayor de Wyatt Services Co.:]
+
+| Account | Balance |
+|---------|---------|
+| Retained Earnings | $615,850 |
+| Dividends | 25,000 |
+| Fees Earned | 380,450 |
+| Wages Expense | 250,000 |
+| Rent Expense | 65,000 |
+| Supplies Expense | 18,250 |
+| Miscellaneous Expense | 6,200 |
+
+**Journalize the closing entries.**
+
+[**Registre en el diario los asientos de cierre.**]
+
+---
+
+### Solution - Check Up Corner 4-2
+
+<img src="./img/011.png" width="800"></img>
+
+[**Solución - Esquina de Verificación 4-2**]
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Fees Earned | 380,450 | |
+| | Wages Expense | | 250,000 |
+| | Rent Expense | | 65,000 |
+| | Supplies Expense | | 18,250 |
+| | Miscellaneous Expense | | 6,200 |
+| | Retained Earnings | | 41,000 |
+| | *Closing entry (1)* | | |
+| Dec. 31 | Retained Earnings | 25,000 | |
+| | Dividends | | 25,000 |
+| | *Closing entry (2)* | | |
+
+
+---
+
+## Ejemplo
+
+Aquí tienes el **ejemplo completo con Balance Inicial + Journalizing + Posting Closing Entries + Balance Final**, todo conectado como en examen.
+
+---
+
+## 📊 1. BALANCE SHEET INICIAL (Beginning Balance)
+
+| **Balance Sheet (Before Closing)** | Amount     |
+| ---------------------------------- | ---------- |
+| **Assets**                         |            |
+| Cash                               | 12,000     |
+| Accounts Receivable                | 3,000      |
+| Equipment                          | 5,000      |
+| **Total Assets**                   | **20,000** |
+| **Liabilities**                    |            |
+| Accounts Payable                   | 6,000      |
+| **Stockholders’ Equity**           |            |
+| Common Stock                       | 10,000     |
+| Retained Earnings                  | 4,000      |
+| **Total L + E**                    | **20,000** |
+
+---
+
+## 📌 2. TRANSACCIONES DEL PERÍODO
+
+```text id="t1"
+Service Revenue = 10,000
+Rent Expense = 3,000
+Salary Expense = 4,000
+Dividends = 1,000
+```
+
+---
+
+## 📈 3. INCOME STATEMENT
+
+```text id="t2"
+Service Revenue              10,000
+
+Expenses:
+ Rent Expense              (3,000)
+ Salary Expense            (4,000)
+
+-----------------------------------
+Net Income                 3,000
+```
+
+---
+
+## 🧾 4. JOURNALIZING CLOSING ENTRIES
+
+---
+
+### ✔️ 1. Cerrar ingresos
+
+```text id="j1"
+Dr Service Revenue        10,000
+    Cr Income Summary        10,000
+```
+
+---
+
+### ✔️ 2. Cerrar gastos
+
+```text id="j2"
+Dr Income Summary         7,000
+    Cr Rent Expense          3,000
+    Cr Salary Expense        4,000
+```
+
+---
+
+### ✔️ 3. Cerrar Income Summary (Net Income)
+
+```text id="j3"
+Dr Income Summary         3,000
+    Cr Retained Earnings     3,000
+```
+
+---
+
+### ✔️ 4. Cerrar Dividends
+
+```text id="j4"
+Dr Retained Earnings      1,000
+    Cr Dividends             1,000
+```
+
+---
+
+## 📚 5. POSTING (Libro Mayor)
+
+---
+
+### 📌 Income Summary Ledger
+
+```text id="p1"
+Income Summary
+-------------------------
+Debit | Credit
+7,000 | 10,000
+Balance = 3,000 Credit
+```
+
+---
+
+### 📌 Service Revenue Ledger
+
+```text id="p2"
+Service Revenue
+-------------------------
+Debit | Credit
+10,000 | 10,000
+Balance = 0
+```
+
+---
+
+### 📌 Rent Expense Ledger
+
+```text id="p3"
+Rent Expense
+-------------------------
+Debit | Credit
+3,000 | 3,000
+Balance = 0
+```
+
+---
+
+### 📌 Salary Expense Ledger
+
+```text id="p4"
+Salary Expense
+-------------------------
+Debit | Credit
+4,000 | 4,000
+Balance = 0
+```
+
+---
+
+### 📌 Retained Earnings Ledger
+
+```text id="p5"
+Retained Earnings
+-------------------------
+Debit | Credit
+1,000 | 3,000
+New Balance = 6,000
+```
+
+---
+
+### 📌 Dividends Ledger
+
+```text id="p6"
+Dividends
+-------------------------
+Debit | Credit
+1,000 | 1,000
+Balance = 0
+```
+
+---
+
+## 🔁 6. EFECTO EN RETAINED EARNINGS
+
+```text id="r1"
+Beginning RE = 4,000
++ Net Income = 3,000
+- Dividends  = 1,000
+---------------------
+Ending RE = 6,000
+```
+
+---
+
+## 📊 7. BALANCE SHEET FINAL (After Closing)
+
+| **Balance Sheet (After Closing)** | Amount     |
+| --------------------------------- | ---------- |
+| **Assets**                        |            |
+| Cash                              | 14,000     |
+| Accounts Receivable               | 3,000      |
+| Equipment                         | 5,000      |
+| **Total Assets**                  | **22,000** |
+| **Liabilities**                   |            |
+| Accounts Payable                  | 6,000      |
+| **Stockholders’ Equity**          |            |
+| Common Stock                      | 10,000     |
+| Retained Earnings                 | 6,000      |
+| **Total L + E**                   | **22,000** |
+
+---
+
+## 🧠 RESUMEN CLAVE
+
+```text id="k1"
+1. Balance inicial
+2. Transacciones
+3. Income Statement
+4. Journalizing closing entries
+5. Posting to ledger
+6. Retained Earnings update
+7. New Balance Sheet
+```
+
+---
+
+## 💡 IDEA IMPORTANTE
+
+* Closing entries NO crean dinero nuevo
+* Solo transfieren información a Retained Earnings
+* Todo termina con cuentas temporales en 0
+
+---
+
+<h1 id="800653" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-3b Post-Closing Trial Balance
+  </a>
+</h1>
+
+A post-closing trial balance is prepared after the closing entries have been posted. The purpose of the post-closing (after closing) trial balance is to verify that the ledger is in balance at the beginning of the next period. The accounts and amounts should agree exactly with the accounts and amounts listed on the balance sheet at the end of the period. The post-closing trial balance for NetSolutions is shown in Exhibit 7.
+
+[Un balance de comprobación posterior al cierre se prepara después de que los asientos de cierre han sido traspasados. El propósito del balance de comprobación posterior al cierre (después del cierre) es verificar que el libro mayor esté en equilibrio al comienzo del próximo período. Las cuentas y los montos deben concordar exactamente con las cuentas y los montos enumerados en el balance general al final del período. El balance de comprobación posterior al cierre para NetSolutions se muestra en la Figura 7.]
+
+---
+
+## Exhibit 7
+
+### Post-Closing Trial Balance, NetSolutions
+
+[**Figura 7** - Balance de Comprobación Posterior al Cierre, NetSolutions]
+
+<!-- 📍 IMAGEN: Exhibit 7 - Post-Closing Trial Balance (página 1) -->
+
+![Exhibit 7 - Post-Closing Trial Balance](./img/012.png)
+
+## NetSolutions
+**Post-Closing Trial Balance**
+
+**December 31, 20Y3**
+| Account No. | | Debit Balances | Credit Balances |
+|-------------|---------------------|---------------|-----------------|
+| 11 | Cash | 2,065 | |
+| 12 | Accounts Receivable | 2,720 | |
+| 14 | Supplies | 760 | |
+| 15 | Prepaid Insurance | 2,200 | |
+| 17 | Land | 20,000 | |
+| 18 | Office Equipment | 1,800 | |
+| 19 | Accumulated Depreciation—Office Equipment | | 50 |
+| 21 | Accounts Payable | | 900 |
+| 22 | Wages Payable | | 250 |
+| 23 | Unearned Rent | | 240 |
+| 31 | Common Stock | | 25,000 |
+| 32 | Retained Earnings | | 3,105 |
+| | **Totals** | **29,545** | **29,545** |
+
+
+---
+
+<h1 id="816565" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    Titulo
+  </a>
+</h1>

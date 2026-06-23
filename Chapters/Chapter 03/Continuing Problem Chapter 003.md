@@ -21,27 +21,27 @@ The unadjusted trial balance for PS Music as of July 31, 20Y5 is as follows:
 #### **Unadjusted Trial Balance**
 #### **July 31, 20Y5** 
 
-| Account No. | | Debit Balances | Credit Balances |
-|-------------|---------------------|---------------|-----------------|
-| 11 | Cash | 9,945 | |
-| 12 | Accounts Receivable | 2,750 | |
-| 14 | Supplies | 1,020 | |
-| 15 | Prepaid Insurance | 2,700 | |
-| 17 | Office Equipment | 7,500 | |
-| 21 | Accounts Payable | | 8,350 |
-| 23 | Unearned Revenue | | 7,200 |
-| 31 | Common Stock | | 9,000 |
-| 33 | Dividends | 1,750 | |
-| 41 | Fees Earned | | 16,200 |
-| 50 | Wages Expense | 2,800 | |
-| 51 | Office Rent Expense | 2,550 | |
-| 52 | Equipment Rent Expense | 1,375 | |
-| 53 | Utilities Expense | 1,215 | |
-| 54 | Music Expense | 3,610 | |
-| 55 | Advertising Expense | 1,500 | |
-| 56 | Supplies Expense | 180 | |
-| 59 | Miscellaneous Expense | 1,855 | |
-| | **Totals** | **40,750** | **40,750** |
+| Account No. | Account | Debit Balances | Credit Balances | Type (Tipo) | Classification (Clasificación) |
+|-------------|---------|---------------|-----------------|-------------|--------------------------------|
+| 11 | Cash | 9,945 | | Asset (Activo) | Current Asset (Activo Corriente) |
+| 12 | Accounts Receivable | 2,750 | | Asset (Activo) | Current Asset (Activo Corriente) |
+| 14 | Supplies | 1,020 | | Asset (Activo) | Current Asset (Activo Corriente) |
+| 15 | Prepaid Insurance | 2,700 | | Asset (Activo) | Current Asset (Activo Corriente) |
+| 17 | Office Equipment | 7,500 | | Asset (Activo) | Fixed Asset (Activo Fijo) |
+| 21 | Accounts Payable | | 8,350 | Liability (Pasivo) | Current Liability (Pasivo Corriente) |
+| 23 | Unearned Revenue | | 7,200 | Liability (Pasivo) | Current Liability (Pasivo Corriente) |
+| 31 | Common Stock | | 9,000 | Stockholders' Equity (Capital Contable) | Stockholders' Equity (Capital Contable) |
+| 33 | Dividends | 1,750 | | Stockholders' Equity (Capital Contable) | Contra Stockholders' Equity (Contra Capital Contable) |
+| 41 | Fees Earned | | 16,200 | Revenue (Ingreso) | Revenue (Ingreso) |
+| 50 | Wages Expense | 2,800 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| 51 | Office Rent Expense | 2,550 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| 52 | Equipment Rent Expense | 1,375 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| 53 | Utilities Expense | 1,215 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| 54 | Music Expense | 3,610 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| 55 | Advertising Expense | 1,500 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| 56 | Supplies Expense | 180 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| 59 | Miscellaneous Expense | 1,855 | | Expense (Gasto) | Operating Expense (Gasto Operativo) |
+| | **Totals** | **40,750** | **40,750** | | |
 
 
 Based on those balances and the additional data below, prepare adjusting journal entries. Include Posting References, using the account numbers in your spreadsheet. You will need the following additional accounts:
