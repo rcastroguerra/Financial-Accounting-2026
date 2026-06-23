@@ -18,6 +18,28 @@
 
 ##### [Capitulo 4-3b Post-Closing Trial Balance](#800653)
 
+##### [Capitulo 4-4 Accounting Cycle](#816565)
+
+##### [Capitulo 4-5 Illustration of the Accounting Cycle](#440234)
+
+##### [Capitulo 4-5a Step 1. Analyzing and Recording Transactions in the Journal](#480126)
+
+##### [Capitulo 4-5b Step 2. Posting Transactions to the Ledger](#916852)
+
+##### [Capitulo 4-5c Step 3. Preparing an Unadjusted Trial Balance](#068737)
+
+##### [Capitulo 4-5d Step 4. Assembling and Analyzing Adjustment Data](#659468)
+
+##### [Capitulo 4-5e Step 5. Preparing an Optional End-of-Period Spreadsheet](#005342)
+
+##### [Capitulo 4-5f Step 6. Journalizing and Posting Adjusting Entries](#449074)
+
+##### [Capitulo 4-5g Step 7. Preparing an Adjusted Trial Balance](#483886)
+
+##### [Capitulo 4-5h Step 8. Preparing the Financial Statements](#802542)
+
+##### [Capitulo 4-5i Step 9. Journalizing and Posting Closing Entries](#291343)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -1865,6 +1887,1305 @@ A post-closing trial balance is prepared after the closing entries have been pos
 
 <h1 id="816565" style="color:#E65100;">
   <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
-    Titulo
+    4-4 Accounting Cycle
+  </a>
+</h1>
+
+
+The accounting process that begins with analyzing and journalizing transactions and ends with the post-closing trial balance is called the **accounting cycle** (The accounting process that begins with analyzing and journalizing transactions and ends with the post-closing trial balance.). The steps in the accounting cycle are as follows:
+
+[El proceso contable que comienza con el análisis y registro de transacciones en el diario y termina con el balance de comprobación posterior al cierre se llama **ciclo contable** (el proceso contable que comienza con el análisis y registro de transacciones en el diario y termina con el balance de comprobación posterior al cierre). Los pasos en el ciclo contable son los siguientes:]
+
+**Step 1.** Transactions are analyzed and recorded in the journal.
+
+[**Paso 1.** Las transacciones se analizan y registran en el diario.]
+
+**Step 2.** Transactions are posted to the ledger.
+
+[**Paso 2.** Las transacciones se traspasan al libro mayor.]
+
+**Step 3.** An unadjusted trial balance is prepared.
+
+[**Paso 3.** Se prepara un balance de comprobación no ajustado.]
+
+**Step 4.** Adjustment data are assembled and analyzed.
+
+[**Paso 4.** Se reúnen y analizan los datos de ajuste.]
+
+**Step 5.** An optional end-of-period spreadsheet is prepared.
+
+[**Paso 5.** Se prepara una hoja de cálculo de fin de período opcional.]
+
+**Step 6.** Adjusting entries are journalized and posted to the ledger.
+
+[**Paso 6.** Los asientos de ajuste se registran en el diario y se traspasan al libro mayor.]
+
+**Step 7.** An adjusted trial balance is prepared.
+
+[**Paso 7.** Se prepara un balance de comprobación ajustado.]
+
+**Step 8.** Financial statements are prepared.
+
+[**Paso 8.** Se preparan los estados financieros.]
+
+**Step 9.** Closing entries are journalized and posted to the ledger.
+
+[**Paso 9.** Los asientos de cierre se registran en el diario y se traspasan al libro mayor.]
+
+**Step 10.** A post-closing trial balance is prepared.
+
+[**Paso 10.** Se prepara un balance de comprobación posterior al cierre.]
+
+Exhibit 8 illustrates the accounting cycle in graphic form. It also illustrates how the accounting cycle begins with transactions that flow through the accounting system into the financial statements.
+
+[La Figura 8 ilustra el ciclo contable en forma gráfica. También ilustra cómo el ciclo contable comienza con transacciones que fluyen a través del sistema contable hacia los estados financieros.]
+
+---
+
+## Exhibit 8
+
+### Accounting Cycle
+
+[**Figura 8** - Ciclo Contable]
+
+<!-- 📍 IMAGEN: Exhibit 8 - Accounting Cycle (páginas 2-3) -->
+
+![Exhibit 8 - Accounting Cycle](./img/013.png)
+
+
+## Pathways Challenge
+
+### This Is Accounting!
+
+### Economic Activity
+
+[**Desafío Pathways - ¡Esto es Contabilidad! - Actividad Económica**]
+
+Financial statements report the results of operations for a period of time and the financial condition as of a specific date. However, a company usually does not report (issue) its financial statements for several weeks or months after the end of its fiscal year. This is because time is needed to adjust the accounts, prepare the financial statements, and have the financial statements examined (audited) by an independent certified public accounting (CPA) firm. During this time, significant business transactions or events may occur. For example, on February 13, 2019, the board of directors of The Cheesecake Factory Incorporated (CAKE) declared a dividend. The dividend was declared after its fiscal year ended on January 1, 2019, but before the financial statements were reported.
+
+[Los estados financieros reportan los resultados de las operaciones durante un período de tiempo y la condición financiera a una fecha específica. Sin embargo, una empresa generalmente no reporta (emite) sus estados financieros durante varias semanas o meses después del final de su año fiscal. Esto se debe a que se necesita tiempo para ajustar las cuentas, preparar los estados financieros y hacer que los estados financieros sean examinados (auditados) por una firma independiente de contadores públicos certificados (CPA). Durante este tiempo, pueden ocurrir transacciones o eventos comerciales significativos. Por ejemplo, el 13 de febrero de 2019, la junta directiva de The Cheesecake Factory Incorporated (CAKE) declaró un dividendo. El dividendo se declaró después de que su año fiscal terminara el 1 de enero de 2019, pero antes de que se reportaran los estados financieros.]
+
+
+---
+
+<h1 id="440234" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5 Illustration of the Accounting Cycle
+  </a>
+</h1>
+
+
+In this section, the complete accounting cycle for one period is illustrated. Assume that for several years Kelly Pitney has operated a part-time consulting business from her home. As of April 1, 20Y8, Kelly decided to move to rented quarters and to operate the business on a full-time basis. The business will be known as Kelly Consulting. During April, Kelly Consulting entered into the following transactions:
+
+[En esta sección, se ilustra el ciclo contable completo para un período. Suponga que durante varios años Kelly Pitney ha operado un negocio de consultoría a tiempo parcial desde su casa. A partir del 1 de abril de 20Y8, Kelly decidió mudarse a un local alquilado y operar el negocio a tiempo completo. El negocio se llamará Kelly Consulting. Durante abril, Kelly Consulting realizó las siguientes transacciones:]
+
+**Objective 5** - Illustrate the accounting cycle for one period.
+
+[**Objetivo 5** - Ilustrar el ciclo contable para un período.]
+
+---
+
+**Apr. 1.** The following assets were received from Kelly Pitney in exchange for common stock: cash, $13,100; accounts receivable, $3,000; supplies, $1,400; and office equipment, $12,500. There were no liabilities received.
+
+[**1 de abril.** Los siguientes activos fueron recibidos de Kelly Pitney a cambio de acciones comunes: efectivo, $13,100; cuentas por cobrar, $3,000; suministros, $1,400; y equipo de oficina, $12,500. No se recibieron pasivos.]
+
+**Apr. 1.** Paid three months' rent on a lease rental contract, $4,800.
+
+[**1 de abril.** Pagó tres meses de renta por adelantado en un contrato de arrendamiento, $4,800.]
+
+**Apr. 2.** Paid the premiums on property and casualty insurance policies, $1,800.
+
+[**2 de abril.** Pagó las primas de las pólizas de seguro de propiedad y de accidentes, $1,800.]
+
+**Apr. 4.** Received cash from clients as an advance payment for services to be provided and recorded it as unearned fees, $5,000.
+
+[**4 de abril.** Recibió efectivo de clientes como pago anticipado por servicios a proporcionar y lo registró como honorarios no devengados, $5,000.]
+
+**Apr. 5.** Purchased additional office equipment on account from Office Station Co., $2,000.
+
+[**5 de abril.** Compró equipo de oficina adicional a crédito de Office Station Co., $2,000.]
+
+**Apr. 6.** Received cash from clients on account, $1,800.
+
+[**6 de abril.** Recibió efectivo de clientes a cuenta, $1,800.]
+
+**Apr. 10.** Paid cash for a newspaper advertisement, $120.
+
+[**10 de abril.** Pagó efectivo por un anuncio en el periódico, $120.]
+
+**Apr. 12.** Paid Office Station Co. for part of the debt incurred on April 5, $1,200.
+
+[**12 de abril.** Pagó a Office Station Co. por parte de la deuda incurrida el 5 de abril, $1,200.]
+
+**Apr. 12.** Recorded services provided on account for the period April 1-12, $4,200.
+
+[**12 de abril.** Registró servicios prestados a crédito por el período del 1 al 12 de abril, $4,200.]
+
+**Apr. 14.** Paid part-time receptionist for two weeks' salary, $750.
+
+[**14 de abril.** Pagó a la recepcionista de medio tiempo por dos semanas de salario, $750.]
+
+**Apr. 17.** Recorded cash from cash clients for fees earned during the period April 1-16, $6,250.
+
+[**17 de abril.** Registró efectivo de clientes en efectivo por honorarios ganados durante el período del 1 al 16 de abril, $6,250.]
+
+**Apr. 18.** Paid cash for supplies, $800.
+
+[**18 de abril.** Pagó efectivo por suministros, $800.]
+
+**Apr. 20.** Recorded services provided on account for the period April 13-20, $2,100.
+
+[**20 de abril.** Registró servicios prestados a crédito por el período del 13 al 20 de abril, $2,100.]
+
+**Apr. 24.** Recorded cash from cash clients for fees earned for the period April 17-24, $3,850.
+
+[**24 de abril.** Registró efectivo de clientes en efectivo por honorarios ganados durante el período del 17 al 24 de abril, $3,850.]
+
+**Apr. 26.** Received cash from clients on account, $5,600.
+
+[**26 de abril.** Recibió efectivo de clientes a cuenta, $5,600.]
+
+**Apr. 27.** Paid part-time receptionist for two weeks' salary, $750.
+
+[**27 de abril.** Pagó a la recepcionista de medio tiempo por dos semanas de salario, $750.]
+
+**Apr. 29.** Paid telephone bill for April, $130.
+
+[**29 de abril.** Pagó la factura de teléfono de abril, $130.]
+
+**Apr. 30.** Paid electricity bill for April, $200.
+
+[**30 de abril.** Pagó la factura de electricidad de abril, $200.]
+
+**Apr. 30.** Recorded cash from cash clients for fees earned for the period April 25-30, $3,050.
+
+[**30 de abril.** Registró efectivo de clientes en efectivo por honorarios ganados durante el período del 25 al 30 de abril, $3,050.]
+
+**Apr. 30.** Recorded services provided on account for the remainder of April, $1,500.
+
+[**30 de abril.** Registró servicios prestados a crédito por el resto de abril, $1,500.]
+
+**Apr. 30.** Paid dividends, $6,000.
+
+[**30 de abril.** Pagó dividendos, $6,000.]
+
+---
+
+<h1 id="480126" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5a Step 1. Analyzing and Recording Transactions in the Journal
+  </a>
+</h1>
+
+
+The first step in the accounting cycle is to analyze and record transactions in the journal using the double-entry accounting system. As illustrated in Chapter 2, transactions are analyzed and journalized as follows:
+
+[El primer paso en el ciclo contable es analizar y registrar las transacciones en el diario utilizando el sistema de contabilidad de partida doble. Como se ilustró en el Capítulo 2, las transacciones se analizan y registran en el diario de la siguiente manera:]
+
+**Step 1.** Carefully read the description of the transaction to determine whether an asset, liability, common stock, retained earnings, dividends, revenue, or expense account is affected.
+
+[**Paso 1.** Lea cuidadosamente la descripción de la transacción para determinar si se afecta una cuenta de activo, pasivo, acciones comunes, ganancias retenidas, dividendos, ingreso o gasto.]
+
+**Step 2.** For each account affected by the transaction, determine whether the account increases or decreases.
+
+[**Paso 2.** Para cada cuenta afectada por la transacción, determine si la cuenta aumenta o disminuye.]
+
+**Step 3.** Determine whether each increase or decrease should be recorded as a debit or a credit, following the rules of debit and credit shown in Exhibit 3 of Chapter 2.
+
+[**Paso 3.** Determine si cada aumento o disminución debe registrarse como un débito o un crédito, siguiendo las reglas de débito y crédito mostradas en la Figura 3 del Capítulo 2.]
+
+**Step 4.** Record the transaction using a journal entry.
+
+[**Paso 4.** Registre la transacción usando un asiento de diario.]
+
+The company's chart of accounts is useful in determining which accounts are affected by the transaction. The chart of accounts for Kelly Consulting is shown in Exhibit 9.
+
+[El catálogo de cuentas de la empresa es útil para determinar qué cuentas se ven afectadas por la transacción. El catálogo de cuentas para Kelly Consulting se muestra en la Figura 9.]
+
+---
+
+## Exhibit 9
+
+### Chart of Accounts for Kelly Consulting
+
+[**Figura 9** - Catálogo de Cuentas para Kelly Consulting]
+
+| Account No. | Account Name | | Account No. | Account Name |
+|-------------|--------------|--|-------------|--------------|
+| 11 | Cash | | 31 | Common Stock |
+| 12 | Accounts Receivable | | 32 | Retained Earnings |
+| 14 | Supplies | | 33 | Dividends |
+| 15 | Prepaid Rent | | 41 | Fees Earned |
+| 16 | Prepaid Insurance | | 51 | Salary Expense |
+| 18 | Office Equipment | | 52 | Rent Expense |
+| 19 | Accumulated Depreciation | | 53 | Supplies Expense |
+| 21 | Accounts Payable | | 54 | Depreciation Expense |
+| 22 | Salaries Payable | | 55 | Insurance Expense |
+| 23 | Unearned Fees | | 59 | Miscellaneous Expense |
+
+After analyzing each of Kelly Consulting's transactions for April, the journal entries are recorded as shown in Exhibit 10.
+
+[Después de analizar cada una de las transacciones de Kelly Consulting para abril, los asientos de diario se registran como se muestra en la Figura 10.]
+
+---
+
+## Exhibit 10
+
+### Journal Entries for April, Kelly Consulting
+
+[**Figura 10** - Asientos de Diario para Abril, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 10 - Journal Entries for April (páginas 2-5) -->
+
+
+**Journal Page 1**
+
+| Date | Description | Post. Ref. | Debit | Credit |
+|------|-------------|------------|-------|--------|
+| 20Y8 Apr. 1 | Cash | 11 | 13,100 | |
+| | Accounts Receivable | 12 | 3,000 | |
+| | Supplies | 14 | 1,400 | |
+| | Office Equipment | 18 | 12,500 | |
+| | Common Stock | 31 | | 30,000 |
+| | *Investment in exchange for common stock.* | | | |
+| Apr. 1 | Prepaid Rent | 15 | 4,800 | |
+| | Cash | 11 | | 4,800 |
+| | *Paid three months' rent.* | | | |
+| Apr. 2 | Prepaid Insurance | 16 | 1,800 | |
+| | Cash | 11 | | 1,800 |
+| | *Paid insurance premiums.* | | | |
+| Apr. 4 | Cash | 11 | 5,000 | |
+| | Unearned Fees | 23 | | 5,000 |
+| | *Received advance payment for services.* | | | |
+| Apr. 5 | Office Equipment | 18 | 2,000 | |
+| | Accounts Payable | 21 | | 2,000 |
+| | *Purchased office equipment on account.* | | | |
+| Apr. 6 | Cash | 11 | 1,800 | |
+| | Accounts Receivable | 12 | | 1,800 |
+| | *Received cash from clients on account.* | | | |
+| Apr. 10 | Miscellaneous Expense | 59 | 120 | |
+| | Cash | 11 | | 120 |
+| | *Paid for newspaper advertisement.* | | | |
+| Apr. 12 | Accounts Payable | 21 | 1,200 | |
+| | Cash | 11 | | 1,200 |
+| | *Paid part of debt to Office Station Co.* | | | |
+| Apr. 12 | Accounts Receivable | 12 | 4,200 | |
+| | Fees Earned | 41 | | 4,200 |
+| | *Recorded services provided on account.* | | | |
+| Apr. 14 | Salary Expense | 51 | 750 | |
+| | Cash | 11 | | 750 |
+| | *Paid receptionist's salary.* | | | |
+
+---
+
+**Journal Page 2**
+
+| Date | Description | Post. Ref. | Debit | Credit |
+|------|-------------|------------|-------|--------|
+| 20Y8 Apr. 17 | Cash | 11 | 6,250 | |
+| | Fees Earned | 41 | | 6,250 |
+| | *Recorded fees earned from cash clients.* | | | |
+| Apr. 18 | Supplies | 14 | 800 | |
+| | Cash | 11 | | 800 |
+| | *Purchased supplies for cash.* | | | |
+| Apr. 20 | Accounts Receivable | 12 | 2,100 | |
+| | Fees Earned | 41 | | 2,100 |
+| | *Recorded services provided on account.* | | | |
+| Apr. 24 | Cash | 11 | 3,850 | |
+| | Fees Earned | 41 | | 3,850 |
+| | *Recorded fees earned from cash clients.* | | | |
+| Apr. 26 | Cash | 11 | 5,600 | |
+| | Accounts Receivable | 12 | | 5,600 |
+| | *Received cash from clients on account.* | | | |
+| Apr. 27 | Salary Expense | 51 | 750 | |
+| | Cash | 11 | | 750 |
+| | *Paid receptionist's salary.* | | | |
+| Apr. 29 | Miscellaneous Expense | 59 | 130 | |
+| | Cash | 11 | | 130 |
+| | *Paid telephone bill.* | | | |
+| Apr. 30 | Miscellaneous Expense | 59 | 200 | |
+| | Cash | 11 | | 200 |
+| | *Paid electricity bill.* | | | |
+| Apr. 30 | Cash | 11 | 3,050 | |
+| | Fees Earned | 41 | | 3,050 |
+| | *Recorded fees earned from cash clients.* | | | |
+| Apr. 30 | Accounts Receivable | 12 | 1,500 | |
+| | Fees Earned | 41 | | 1,500 |
+| | *Recorded services provided on account.* | | | |
+| Apr. 30 | Dividends | 33 | 6,000 | |
+| | Cash | 11 | | 6,000 |
+| | *Paid dividends.* | | | |
+
+
+---
+
+<h1 id="916852" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5b Step 2. Posting Transactions to the Ledger
+  </a>
+</h1>
+
+# 4-5b Step 2. Posting Transactions to the Ledger
+
+Periodically, the transactions recorded in the journal are posted to the accounts in the ledger. The debits and credits for each journal entry are posted to the accounts in the order in which they occur in the journal. As illustrated in Chapters 2 and 3, journal entries are posted to the accounts using the following four steps:
+
+[Periódicamente, las transacciones registradas en el diario se traspasan a las cuentas del libro mayor. Los débitos y créditos de cada asiento de diario se traspasan a las cuentas en el orden en que ocurren en el diario. Como se ilustró en los Capítulos 2 y 3, los asientos de diario se traspasan a las cuentas utilizando los siguientes cuatro pasos:]
+
+**Step 1.** The date is entered in the Date column of the account.
+
+[**Paso 1.** La fecha se ingresa en la columna Fecha de la cuenta.]
+
+**Step 2.** The amount is entered into the Debit or Credit column of the account.
+
+[**Paso 2.** El monto se ingresa en la columna Débito o Crédito de la cuenta.]
+
+**Step 3.** The journal page number is entered in the Posting Reference column.
+
+[**Paso 3.** El número de página del diario se ingresa en la columna Referencia de Traspaso (Post. Ref.).]
+
+**Step 4.** The account number is entered in the Posting Reference (Post. Ref.) column in the journal.
+
+[**Paso 4.** El número de cuenta se ingresa en la columna Referencia de Traspaso (Post. Ref.) en el diario.]
+
+The journal entries for Kelly Consulting have been posted to the ledger shown in Exhibit 18.
+
+[Los asientos de diario para Kelly Consulting han sido traspasados al libro mayor que se muestra en la Figura 18.]
+
+<!-- 📍 IMAGEN: Exhibit 18 - Ledger (páginas 2 en adelante) -->
+
+## Exhibit 18
+
+### Ledger, Kelly Consulting
+
+[**Figura 18** - Libro Mayor, Kelly Consulting]
+
+
+#### Account Cash - Account No. 11
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 13,100 | | 13,100 | |
+| Apr. 1 | | 1 | | 4,800 | 8,300 | |
+| Apr. 2 | | 1 | | 1,800 | 6,500 | |
+| Apr. 4 | | 1 | 5,000 | | 11,500 | |
+| Apr. 6 | | 1 | 1,800 | | 13,300 | |
+| Apr. 10 | | 1 | | 120 | 13,180 | |
+| Apr. 12 | | 1 | | 1,200 | 11,980 | |
+| Apr. 14 | | 1 | | 750 | 11,230 | |
+| Apr. 17 | | 2 | 6,250 | | 17,480 | |
+| Apr. 18 | | 2 | | 800 | 16,680 | |
+| Apr. 24 | | 2 | 3,850 | | 20,530 | |
+| Apr. 26 | | 2 | 5,600 | | 26,130 | |
+| Apr. 27 | | 2 | | 750 | 25,380 | |
+| Apr. 29 | | 2 | | 130 | 25,250 | |
+| Apr. 30 | | 2 | | 200 | 25,050 | |
+| Apr. 30 | | 2 | 3,050 | | 28,100 | |
+| Apr. 30 | | 2 | | 6,000 | 22,100 | |
+
+
+#### Account Accounts Receivable - Account No. 12
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 3,000 | | 3,000 | |
+| Apr. 6 | | 1 | | 1,800 | 1,200 | |
+| Apr. 12 | | 1 | 4,200 | | 5,400 | |
+| Apr. 20 | | 2 | 2,100 | | 7,500 | |
+| Apr. 26 | | 2 | | 5,600 | 1,900 | |
+| Apr. 30 | | 2 | 1,500 | | 3,400 | |
+
+
+#### Account Supplies - Account No. 14
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 1,400 | | 1,400 | |
+| Apr. 18 | | 2 | 800 | | 2,200 | |
+| Apr. 30 | Adjusting | 3 | | 850 | 1,350 | |
+
+
+#### Account Prepaid Rent - Account No. 15
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 4,800 | | 4,800 | |
+| Apr. 30 | Adjusting | 3 | | 1,600 | 3,200 | |
+
+
+#### Account Prepaid Insurance - Account No. 16
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 2 | | 1 | 1,800 | | 1,800 | |
+| Apr. 30 | Adjusting | 3 | | 300 | 1,500 | |
+
+
+#### Account Office Equipment - Account No. 18
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 12,500 | | 12,500 | |
+| Apr. 5 | | 1 | 2,000 | | 14,500 | |
+
+
+#### Account Accumulated Depreciation - Account No. 19
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | | 330 | | 330 |
+
+
+#### Account Accounts Payable - Account No. 21
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 5 | | 1 | | 2,000 | | 2,000 |
+| Apr. 12 | | 1 | 1,200 | | | 800 |
+
+
+#### Account Salaries Payable - Account No. 22
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | | 120 | | 120 |
+
+
+#### Account Unearned Fees - Account No. 23
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 4 | | 1 | | 5,000 | | 5,000 |
+| Apr. 30 | Adjusting | 3 | 2,500 | | | 2,500 |
+
+
+#### Account Common Stock - Account No. 31
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | | 30,000 | | 30,000 |
+
+
+#### Account Retained Earnings - Account No. 32
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | | | | | 0 |
+| Apr. 30 | Closing | 4 | | 18,300 | | 18,300 |
+| Apr. 30 | Closing | 4 | 6,000 | | | 12,300 |
+
+
+#### Account Dividends - Account No. 33
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | | 2 | 6,000 | | 6,000 | |
+| Apr. 30 | Closing | 4 | | 6,000 | — | — |
+
+
+#### Account Fees Earned - Account No. 41
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 12 | | 1 | | 4,200 | | 4,200 |
+| Apr. 17 | | 2 | | 6,250 | | 10,450 |
+| Apr. 20 | | 2 | | 2,100 | | 12,550 |
+| Apr. 24 | | 2 | | 3,850 | | 16,400 |
+| Apr. 30 | | 2 | | 3,050 | | 19,450 |
+| Apr. 30 | | 2 | | 1,500 | | 20,950 |
+| Apr. 30 | Adjusting | 3 | | 2,500 | | 23,450 |
+| Apr. 30 | Closing | 4 | 23,450 | | — | — |
+
+
+#### Account Salary Expense - Account No. 51
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 14 | | 1 | 750 | | 750 | |
+| Apr. 27 | | 2 | 750 | | 1,500 | |
+| Apr. 30 | Adjusting | 3 | 120 | | 1,620 | |
+| Apr. 30 | Closing | 4 | | 1,620 | — | — |
+
+
+#### Account Rent Expense - Account No. 52
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 1,600 | | 1,600 | |
+| Apr. 30 | Closing | 4 | | 1,600 | — | — |
+
+
+#### Account Supplies Expense - Account No. 53
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 850 | | 850 | |
+| Apr. 30 | Closing | 4 | | 850 | — | — |
+
+
+#### Account Depreciation Expense - Account No. 54
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 330 | | 330 | |
+| Apr. 30 | Closing | 4 | | 330 | — | — |
+
+
+#### Account Insurance Expense - Account No. 55
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 300 | | 300 | |
+| Apr. 30 | Closing | 4 | | 300 | — | — |
+
+
+#### Account Miscellaneous Expense - Account No. 59
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 10 | | 1 | 120 | | 120 | |
+| Apr. 29 | | 2 | 130 | | 250 | |
+| Apr. 30 | | 2 | 200 | | 450 | |
+| Apr. 30 | Closing | 4 | | 450 | — | — |
+
+---
+
+<h1 id="068737" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5c Step 3. Preparing an Unadjusted Trial Balance
+  </a>
+</h1>
+
+
+An unadjusted trial balance is prepared to determine whether any errors have been made in posting the debits and credits to the ledger. The unadjusted trial balance shown in Exhibit 11 does not provide complete proof of the accuracy of the ledger. It indicates only that the debits and the credits are equal. This proof is of value, however, because errors often affect the equality of debits and credits. If the two totals of a trial balance are not equal, an error has occurred that must be discovered and corrected.
+
+[Se prepara un balance de comprobación no ajustado para determinar si se han cometido errores al traspasar los débitos y créditos al libro mayor. El balance de comprobación no ajustado que se muestra en la Figura 11 no proporciona una prueba completa de la exactitud del libro mayor. Solo indica que los débitos y los créditos son iguales. Esta comprobación tiene valor, sin embargo, porque los errores a menudo afectan la igualdad de débitos y créditos. Si los dos totales de un balance de comprobación no son iguales, ha ocurrido un error que debe ser descubierto y corregido.]
+
+---
+
+## Exhibit 11
+
+### Unadjusted Trial Balance, Kelly Consulting
+
+[**Figura 11** - Balance de Comprobación No Ajustado, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 11 - Unadjusted Trial Balance (página 1) -->
+
+![Exhibit 11 - Unadjusted Trial Balance](./img/014.png)
+
+## Kelly Consulting
+
+**Unadjusted Trial Balance**
+
+**April 30, 20Y8**
+| Account No. | | Debit Balances | Credit Balances |
+|-------------|---------------------|---------------|-----------------|
+| 11 | Cash | 22,100 | |
+| 12 | Accounts Receivable | 3,400 | |
+| 14 | Supplies | 2,200 | |
+| 15 | Prepaid Rent | 4,800 | |
+| 16 | Prepaid Insurance | 1,800 | |
+| 18 | Office Equipment | 14,500 | |
+| 19 | Accumulated Depreciation | | 0 |
+| 21 | Accounts Payable | | 800 |
+| 22 | Salaries Payable | | 0 |
+| 23 | Unearned Fees | | 5,000 |
+| 31 | Common Stock | | 30,000 |
+| 33 | Dividends | 6,000 | |
+| 41 | Fees Earned | | 20,950 |
+| 51 | Salary Expense | 1,500 | |
+| 52 | Rent Expense | 0 | |
+| 53 | Supplies Expense | 0 | |
+| 54 | Depreciation Expense | 0 | |
+| 55 | Insurance Expense | 0 | |
+| 59 | Miscellaneous Expense | 450 | |
+| | **Totals** | **56,750** | **56,750** |
+
+The unadjusted account balances shown in Exhibit 11 were taken from Kelly Consulting's ledger, before any adjusting entries were recorded.
+
+[Los saldos de cuentas no ajustados que se muestran en la Figura 11 fueron tomados del libro mayor de Kelly Consulting, antes de que se registrara cualquier asiento de ajuste.]
+
+---
+
+<h1 id="659468" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5d Step 4. Assembling and Analyzing Adjustment Data
+  </a>
+</h1>
+
+
+Before the financial statements can be prepared, the accounts must be updated. The four types of accounts that normally require adjustment include accrued revenues, accrued expenses, unearned revenues, and prepaid expenses. In addition, depreciation expense must be recorded for fixed assets other than land. The following data have been assembled on April 30, 20Y8, for analysis of possible adjustments for Kelly Consulting:
+
+[Antes de que se puedan preparar los estados financieros, las cuentas deben ser actualizadas. Los cuatro tipos de cuentas que normalmente requieren ajuste incluyen ingresos devengados, gastos devengados, ingresos no devengados y gastos pagados por adelantado. Además, el gasto de depreciación debe registrarse para activos fijos distintos del terreno. Los siguientes datos se han reunido el 30 de abril de 20Y8 para el análisis de posibles ajustes para Kelly Consulting:]
+
+**a.** Insurance expired during April is $300.
+
+[**a.** El seguro vencido durante abril es de $300.]
+
+**b.** Supplies on hand on April 30 are $1,350.
+
+[**b.** Los suministros disponibles el 30 de abril son de $1,350.]
+
+**c.** Depreciation of office equipment for April is $330.
+
+[**c.** La depreciación del equipo de oficina para abril es de $330.]
+
+**d.** Accrued receptionist salary on April 30 is $120.
+
+[**d.** El salario devengado de la recepcionista al 30 de abril es de $120.]
+
+**e.** Rent expired during April is $1,600.
+
+[**e.** La renta vencida durante abril es de $1,600.]
+
+**f.** Unearned fees on April 30 are $2,500.
+
+[**f.** Los honorarios no devengados al 30 de abril son de $2,500.]
+
+---
+
+<h1 id="005342" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5e Step 5. Preparing an Optional End-of-Period Spreadsheet
+  </a>
+</h1>
+
+
+Although an end-of-period spreadsheet is not required, it is useful in showing the flow of accounting information from the unadjusted trial balance to the adjusted trial balance. In addition, an end-of-period spreadsheet is useful in analyzing the impact of proposed adjustments on the financial statements. The end-of-period spreadsheet for Kelly Consulting is shown in Exhibit 12.
+
+[Aunque una hoja de cálculo de fin de período no es obligatoria, es útil para mostrar el flujo de la información contable desde el balance de comprobación no ajustado hasta el balance de comprobación ajustado. Además, una hoja de cálculo de fin de período es útil para analizar el impacto de los ajustes propuestos en los estados financieros. La hoja de cálculo de fin de período para Kelly Consulting se muestra en la Figura 12.]
+
+---
+
+## Exhibit 12
+
+### End-of-Period Spreadsheet, Kelly Consulting
+
+[**Figura 12** - Hoja de Cálculo de Fin de Período, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 12 - End-of-Period Spreadsheet (páginas 1-2) -->
+
+![Exhibit 12 - End-of-Period Spreadsheet](./img/015.png)
+
+<table><thead>
+  <tr>
+    <th colspan="7" style="text-align:center;">Kelly Consulting</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="7" style="text-align:center;">End-of-Period Spreadsheet</td>
+  </tr>
+  <tr>
+    <td colspan="7" style="text-align:center;">For the Month Ended April 30, 20Y8</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align:center;">Unadjusted Trial Balance</td>
+    <td colspan="2" style="text-align:center;"></td>
+    <td colspan="2" style="text-align:center;">Adjusted</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2" style="text-align:center;">Trial Balance</td>
+    <td colspan="2" style="text-align:center;">Adjustments</td>
+    <td colspan="2" style="text-align:center;">Trial Balance</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Account Title</td>
+    <td style="text-align:center;">Dr.</td>
+    <td style="text-align:center;">Cr.</td>
+    <td style="text-align:center;">Dr.</td>
+    <td style="text-align:center;">Cr.</td>
+    <td style="text-align:center;">Dr.</td>
+    <td style="text-align:center;">Cr.</td>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td>22,100</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>22,100</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accounts Receivable</td>
+    <td>3,400</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>3,400</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Supplies</td>
+    <td>2,200</td>
+    <td></td>
+    <td>(b) 850</td>
+    <td></td>
+    <td>1,350</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Prepaid Rent</td>
+    <td>4,800</td>
+    <td></td>
+    <td>(e) 1,600</td>
+    <td></td>
+    <td>3,200</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Prepaid Insurance</td>
+    <td>1,800</td>
+    <td></td>
+    <td>(a) 300</td>
+    <td></td>
+    <td>1,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Office Equipment</td>
+    <td>14,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>14,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accumulated Depreciation</td>
+    <td></td>
+    <td></td>
+    <td>(c) 330</td>
+    <td></td>
+    <td></td>
+    <td>330</td>
+  </tr>
+  <tr>
+    <td>Accounts Payable</td>
+    <td></td>
+    <td>800</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>800</td>
+  </tr>
+  <tr>
+    <td>Salaries Payable</td>
+    <td></td>
+    <td></td>
+    <td>(d) 120</td>
+    <td></td>
+    <td></td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td>Unearned Fees</td>
+    <td></td>
+    <td>5,000</td>
+    <td>(f) 2,500</td>
+    <td></td>
+    <td></td>
+    <td>2,500</td>
+  </tr>
+  <tr>
+    <td>Common Stock</td>
+    <td></td>
+    <td>30,000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>30,000</td>
+  </tr>
+  <tr>
+    <td>Dividends</td>
+    <td>6,000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>6,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fees Earned</td>
+    <td></td>
+    <td>20,950</td>
+    <td></td>
+    <td>(f) 2,500</td>
+    <td></td>
+    <td>23,450</td>
+  </tr>
+  <tr>
+    <td>Salary Expense</td>
+    <td>1,500</td>
+    <td></td>
+    <td>(d) 120</td>
+    <td></td>
+    <td>1,620</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Rent Expense</td>
+    <td></td>
+    <td></td>
+    <td>(e) 1,600</td>
+    <td></td>
+    <td>1,600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Supplies Expense</td>
+    <td></td>
+    <td></td>
+    <td>(b) 850</td>
+    <td></td>
+    <td>850</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Depreciation Expense</td>
+    <td></td>
+    <td></td>
+    <td>(c) 330</td>
+    <td></td>
+    <td>330</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Insurance Expense</td>
+    <td></td>
+    <td></td>
+    <td>(a) 300</td>
+    <td></td>
+    <td>300</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Miscellaneous Expense</td>
+    <td>450</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>450</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>56,750</td>
+    <td>56,750</td>
+    <td>5,700</td>
+    <td>5,700</td>
+    <td>57,200</td>
+    <td>57,200</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+
+---
+
+<h1 id="449074" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5f Step 6. Journalizing and Posting Adjusting Entries
+  </a>
+</h1>
+
+
+Based on the adjustment data shown in Step 4, adjusting entries for Kelly Consulting are prepared as shown in Exhibit 13. Each adjusting entry affects at least one income statement account and one balance sheet account. Explanations for each adjustment including any computations are normally included with each adjusting entry.
+
+[Con base en los datos de ajuste mostrados en el Paso 4, se preparan los asientos de ajuste para Kelly Consulting como se muestra en la Figura 13. Cada asiento de ajuste afecta al menos una cuenta del estado de resultados y una cuenta del balance general. Normalmente se incluyen explicaciones para cada ajuste, incluidos los cálculos, con cada asiento de ajuste.]
+
+---
+
+## Exhibit 13
+
+### Adjusting Entries, Kelly Consulting
+
+[**Figura 13** - Asientos de Ajuste, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 13 - Adjusting Entries (páginas 1-2) -->
+
+
+| Date | Description | Post. Ref. | Debit | Credit |
+|------|-------------|------------|-------|--------|
+| 20Y8 Apr. 30 | **Adjusting Entries** | | | |
+| | Insurance Expense | 55 | 300 | |
+| | Prepaid Insurance | 16 | | 300 |
+| | *Expired insurance.* | | | |
+| Apr. 30 | Supplies Expense | 53 | 850 | |
+| | Supplies | 14 | | 850 |
+| | *Supplies used ($2,200 – $1,350).* | | | |
+| Apr. 30 | Depreciation Expense | 54 | 330 | |
+| | Accumulated Depreciation | 19 | | 330 |
+| | *Depreciation of office equipment.* | | | |
+| Apr. 30 | Salary Expense | 51 | 120 | |
+| | Salaries Payable | 22 | | 120 |
+| | *Accrued receptionist salary.* | | | |
+| Apr. 30 | Rent Expense | 52 | 1,600 | |
+| | Prepaid Rent | 15 | | 1,600 |
+| | *Rent expired during April.* | | | |
+| Apr. 30 | Unearned Fees | 23 | 2,500 | |
+| | Fees Earned | 41 | | 2,500 |
+| | *Fees earned ($5,000 – $2,500).* | | | |
+
+Each of the adjusting entries shown in Exhibit 13 is posted to Kelly Consulting's ledger shown in Exhibit 18. The adjusting entries are identified in the ledger as "Adjusting."
+
+[Cada uno de los asientos de ajuste mostrados en la Figura 13 se traspasa al libro mayor de Kelly Consulting que se muestra en la Figura 18. Los asientos de ajuste se identifican en el libro mayor como "Ajuste".]
+
+---
+
+<h1 id="483886" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5g Step 7. Preparing an Adjusted Trial Balance
+  </a>
+</h1>
+
+# 4-5g Step 7. Preparing an Adjusted Trial Balance
+
+After the adjustments have been journalized and posted, an adjusted trial balance is prepared to verify the equality of the total of the debit and credit balances. This is the last step before preparing the financial statements. If the adjusted trial balance does not balance, an error has occurred and must be found and corrected. The adjusted trial balance for Kelly Consulting as of April 30, 20Y8, is shown in Exhibit 14.
+
+[Después de que los ajustes han sido registrados en el diario y traspasados, se prepara un balance de comprobación ajustado para verificar la igualdad del total de los saldos deudores y acreedores. Este es el último paso antes de preparar los estados financieros. Si el balance de comprobación ajustado no cuadra, ha ocurrido un error y debe ser encontrado y corregido. El balance de comprobación ajustado para Kelly Consulting al 30 de abril de 20Y8 se muestra en la Figura 14.]
+
+---
+
+## Exhibit 14
+
+### Adjusted Trial Balance, Kelly Consulting
+
+[**Figura 14** - Balance de Comprobación Ajustado, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 14 - Adjusted Trial Balance (página 1) -->
+
+![Exhibit 14 - Adjusted Trial Balance](./img/016.png)
+
+| | Kelly Consulting | | |
+| | Adjusted Trial Balance | | |
+| | April 30, 20Y8 | | |
+| Account No. | | Debit Balances | Credit Balances |
+|-------------|---------------------|---------------|-----------------|
+| 11 | Cash | 22,100 | |
+| 12 | Accounts Receivable | 3,400 | |
+| 14 | Supplies | 1,350 | |
+| 15 | Prepaid Rent | 3,200 | |
+| 16 | Prepaid Insurance | 1,500 | |
+| 18 | Office Equipment | 14,500 | |
+| 19 | Accumulated Depreciation | | 330 |
+| 21 | Accounts Payable | | 800 |
+| 22 | Salaries Payable | | 120 |
+| 23 | Unearned Fees | | 2,500 |
+| 31 | Common Stock | | 30,000 |
+| 33 | Dividends | 6,000 | |
+| 41 | Fees Earned | | 23,450 |
+| 51 | Salary Expense | 1,620 | |
+| 52 | Rent Expense | 1,600 | |
+| 53 | Supplies Expense | 850 | |
+| 54 | Depreciation Expense | 330 | |
+| 55 | Insurance Expense | 300 | |
+| 59 | Miscellaneous Expense | 450 | |
+| | **Totals** | **57,200** | **57,200** |
+
+
+---
+
+<h1 id="802542" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5h Step 8. Preparing the Financial Statements
+  </a>
+</h1>
+
+
+The most important outcome of the accounting cycle is the financial statements. The income statement is prepared first, followed by the statement of stockholders' equity and then the balance sheet. The statements can be prepared directly from the adjusted trial balance, the end-of-period spreadsheet, or the ledger. The net income or net loss shown on the income statement is reported on the statement of stockholders' equity along with any dividends. The ending retained earnings is reported on the balance sheet with common stock as part of stockholders' equity. Stockholders' equity is then added with total liabilities to equal total assets.
+
+[El resultado más importante del ciclo contable son los estados financieros. El estado de resultados se prepara primero, seguido del estado de cambios en el capital contable y luego el balance general. Los estados pueden prepararse directamente a partir del balance de comprobación ajustado, la hoja de cálculo de fin de período o el libro mayor. El ingreso neto o la pérdida neta que se muestra en el estado de resultados se reporta en el estado de cambios en el capital contable junto con los dividendos. Las ganancias retenidas finales se reportan en el balance general con las acciones comunes como parte del capital contable. El capital contable se suma luego con los pasivos totales para igualar los activos totales.]
+
+The financial statements for Kelly Consulting are shown in Exhibit 15. Kelly Consulting earned net income of $18,300 for April. As of April 30, 20Y8, Kelly Consulting has total assets of $45,720, total liabilities of $3,420, and total stockholders' equity of $42,300.
+
+[Los estados financieros para Kelly Consulting se muestran en la Figura 15. Kelly Consulting obtuvo un ingreso neto de $18,300 para abril. Al 30 de abril de 20Y8, Kelly Consulting tiene activos totales de $45,720, pasivos totales de $3,420 y capital contable total de $42,300.]
+
+---
+
+## Exhibit 15
+
+### Financial Statements, Kelly Consulting
+
+[**Figura 15** - Estados Financieros, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 15 - Financial Statements (páginas 1-2) -->
+
+![Exhibit 15 - Financial Statements](./img/017.png)
+
+---
+
+#### Kelly Consulting
+#### Income Statement
+#### For the Month Ended April 30, 20Y8
+
+<table><thead>
+  <tr>
+    <th colspan="4">Revenues: [Ingresos:]</th>
+    <th></th>
+    <th>Total</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td colspan="3">Fees earned [Ingresos por Servicios]</td>
+    <td></td>
+    <td>$23,450</td>
+  </tr>
+  <tr>
+    <td colspan="4">Expenses: [Gastos:]</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Salary expense [Gasto de Sueldos]</td>
+    <td>$1,620</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Rent expense [Gasto de Renta]</td>
+    <td>1,600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Supplies expense [Gasto de Suministros]</td>
+    <td>850</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Depreciation expense [Gasto de Depreciación]</td>
+    <td>330</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Insurance expense [Gasto de Seguro]</td>
+    <td>300</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Miscellaneous expense [Gastos Misceláneos]</td>
+    <td>450</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Total expenses [Total de gastos]</td>
+    <td></td>
+    <td>$5,150</td>
+  </tr>
+  <tr>
+    <td colspan="4">Net income [Ingreso neto]</td>
+    <td></td>
+    <td>$18,300</td>
+  </tr>
+</tbody></table>
+
+---
+
+#### Kelly Consulting
+#### Statement of Stockholders' Equity
+#### For the Month Ended April 30, 20Y8
+
+| | Common Stock [Acciones Comunes] | Retained Earnings [Ganancias Retenidas] | Total [Total] |
+|--|----------------|----------------|---------------|
+| Balances, April 1, 20Y8 [Saldos, 1 de Abril de 20Y8] | $0 | $0 | $0 |
+| Issued common stock [Emisión de acciones comunes] | 30,000 | | 30,000 |
+| Net income [Ingreso neto] | | 18,300 | 18,300 |
+| Dividends [Dividendos] | | (6,000) | (6,000) |
+| **Balances, April 30, 20Y8** [**Saldos, 30 de Abril de 20Y8**] | **$30,000** | **$12,300** | **$42,300** |
+
+---
+
+#### Kelly Consulting
+#### Balance Sheet
+#### April 30, 20Y8
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets [Activos]</th>
+    <th>Amount</th>
+    <th>Total</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td colspan="3">Current assets: [Activos corrientes:]</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Cash [Efectivo]</td>
+    <td>22,100</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Accounts receivable [Cuentas por Cobrar]</td>
+    <td>3,400</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Supplies [Suministros]</td>
+    <td>1,350</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Prepaid rent [Renta Pagada por Adelantado]</td>
+    <td>3,200</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Prepaid insurance [Seguro Pagado por Adelantado]</td>
+    <td>1,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Total current assets [Total de activos corrientes]</td>
+    <td></td>
+    <td>31,550</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Property, plant, and equipment: [Propiedades, planta y equipo:]</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Office equipment [Equipo de Oficina]</td>
+    <td>14,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Less: Accumulated depreciation [Menos: Depreciación Acumulada]</td>
+    <td>(330)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Total property, plant, and equipment [Total de propiedades, planta y equipo]</td>
+    <td></td>
+    <td>14,170</td>
+  </tr>
+  <tr>
+    <td colspan="4">Total assets [Total de activos]</td>
+    <td></td>
+    <td>45,720</td>
+  </tr>
+  <tr>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="4">Liabilities [Pasivos]</td>
+    <td>Amount</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Current liabilities: [Pasivos corrientes:]</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Accounts payable [Cuentas por Pagar]</td>
+    <td>800</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Salaries payable [Sueldos por Pagar]</td>
+    <td>120</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Unearned fees [Honorarios No Devengados]</td>
+    <td>2,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4">Total current liabilities [Total de pasivos corrientes]</td>
+    <td></td>
+    <td>3,420</td>
+  </tr>
+  <tr>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="4">Stockholders' Equity [Capital Contable]</td>
+    <td>Amount</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Common stock [Acciones Comunes]</td>
+    <td>30,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Retained earnings [Ganancias Retenidas]</td>
+    <td>12,300</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Total stockholders' equity [Total de capital contable]</td>
+    <td></td>
+    <td>42,300</td>
+  </tr>
+  <tr>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Total Liabilities and Stockholders' Equity [Total de pasivos y capital contable]</td>
+    <td></td>
+    <td>45,720</td>
+  </tr>
+</tbody></table>
+
+---
+
+<h1 id="291343" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5i Step 9. Journalizing and Posting Closing Entries
   </a>
 </h1>
