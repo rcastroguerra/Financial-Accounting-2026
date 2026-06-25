@@ -54,7 +54,7 @@
 
 ##### [Capitulo 4-7d Step 4. Enter the Adjusted Trial Balance](#491924)
 
-##### [Capitulo Spreadsheet with Amounts Extended to Income Statement and Balance Sheet Columns](#213744)
+##### [Capitulo 4-7e Step 5. Extend the Accounts to the Income Statement and Balance Sheet Columns](#213744)
 
 ##### [Capitulo 4-7f Step 6. Total the Income Statement and Balance Sheet Columns, Compute the Net Income or Net Loss, and Complete the Spreadsheet](#290759)
 
