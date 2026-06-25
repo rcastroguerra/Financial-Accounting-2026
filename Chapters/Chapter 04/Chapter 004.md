@@ -62,6 +62,10 @@
 
 ##### [Capitulo 4-8 Appendix 2 Statement of Cash Flows for NetSolutions](#403313)
 
+##### [Capitulo 4-9a Let’s Review Chapter Summary](#368739)
+
+##### [Capitulo 4-9b Key Terms](#799445)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -5292,7 +5296,7 @@ The statement of cash flows that would accompany the NetSolutions' income statem
 
 <!-- 📍 IMAGEN: Exhibit 26 - Statement of Cash Flows (página 1) -->
 
-![Exhibit 26 - Statement of Cash Flows](./img/026.png)
+![Exhibit 26 - Statement of Cash Flows](./img/036.png)
 
 #### NetSolutions
 #### Statement of Cash Flows
@@ -5302,25 +5306,159 @@ The statement of cash flows that would accompany the NetSolutions' income statem
 **Estado de Flujos de Efectivo**
 **Para los Dos Meses Terminados el 31 de Diciembre de 20Y3**]
 
-| | |
-|--|--|
-| **Cash flows from operating activities:** [**Flujos de efectivo de actividades de operación:**] | |
-| Cash received from customers | $10,570 |
-| Cash payments for expenses and creditors | (5,900) |
-| **Net cash flows from operating activities** [**Flujos de efectivo netos de actividades de operación**] | **$4,670** |
-| | |
-| **Cash flows from investing activities:** [**Flujos de efectivo de actividades de inversión:**] | |
-| Purchase of land | (20,000) |
-| **Net cash flows from investing activities** [**Flujos de efectivo netos de actividades de inversión**] | **(20,000)** |
-| | |
-| **Cash flows from financing activities:** [**Flujos de efectivo de actividades de financiamiento:**] | |
-| Cash received from issuing common stock | 25,000 |
-| Payment of dividends | (2,000) |
-| **Net cash flows from financing activities** [**Flujos de efectivo netos de actividades de financiamiento**] | **23,000** |
-| | |
-| **Net increase in cash** [**Aumento neto en efectivo**] | **$7,670** |
-| Cash balance, November 1, 20Y3 | 0 |
-| **Cash balance, December 31, 20Y3** [**Saldo de efectivo, 31 de Diciembre de 20Y3**] | **$7,670** |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3z1b{border-color:#000000;text-align:right;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-gg63{border-color:#000000;text-align:right;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-73oq" colspan="5">Description</th>
+    <th class="tg-73oq"></th>
+    <th class="tg-73oq"></th>
+    <th class="tg-73oq"></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="4">Cash flows from (used in) operating activities:</td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="3">Cash received from customers</td>
+    <td class="tg-3z1b">14,120</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="3">Cash received from renting land</td>
+    <td class="tg-gg63">360</td>
+    <td class="tg-3z1b">14,120</td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="3">Cash paid for expenses and to creditors</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-gg63">(12,515)</td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="2">Net cash flows used in operating activities</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b">1,965</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq" colspan="8"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="4">Cash flows from (used in) investing activities:</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="3">Cash paid for purchase of land</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b">20,000</td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="3">Cash paid for purchase of office equipment</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-gg63">900</td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="2">Net cash flows used in investing activities</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b">(20,900)</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq" colspan="8"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="4">Cash flows from (used in) financing activities:</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="3">Cash received from issuing common stock</td>
+    <td class="tg-3z1b">25,000</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="3">Cash dividends paid</td>
+    <td class="tg-gg63">(4,000)</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="2">Net cash flows from financing activities</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-gg63">21,000</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq" colspan="8"></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="4">Net increase in cash</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b">2,065</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="4">Cash balance, November 1, 20Y3</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b">0</td>
+  </tr>
+  <tr>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq" colspan="4">Cash balance, December 31, 20Y3</td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-3z1b"></td>
+    <td class="tg-gg63">2,065</td>
+  </tr>
+</tbody></table>
 
 The cash balance on December 31, 20Y3, of $7,670 is also reported on the December 31, 20Y3, balance sheet shown in Exhibit 2.
 
@@ -5338,41 +5476,285 @@ The statement of cash flows shown in Exhibit 26 was prepared by classifying the 
 
 <!-- 📍 IMAGEN: Exhibit 26 - Statement of Cash Flows (página 2) -->
 
-![Exhibit 26 - Statement of Cash Flows (continued)](./img/027.png)
+![Exhibit 26 - Statement of Cash Flows (continued)](./img/037.png)
 
-#### Cash Flows from Operating Activities
+# Classifying Cash Transactions
 
-[**Flujos de Efectivo de Actividades de Operación**]
+[**Clasificación de Transacciones de Efectivo**]
 
-| Transaction | Cash Received | Cash Paid |
-|-------------|---------------|-----------|
-| Cash received from customers | $10,570 | |
-| Cash payment for expenses | | (5,900) |
-| **Net cash flows from operating activities** | | **$4,670** |
-
-#### Cash Flows from Investing Activities
-
-[**Flujos de Efectivo de Actividades de Inversión**]
-
-| Transaction | Cash Received | Cash Paid |
-|-------------|---------------|-----------|
-| Purchase of land | | (20,000) |
-| **Net cash flows from investing activities** | | **(20,000)** |
-
-#### Cash Flows from Financing Activities
-
-[**Flujos de Efectivo de Actividades de Financiamiento**]
-
-| Transaction | Cash Received | Cash Paid |
-|-------------|---------------|-----------|
-| Cash received from issuing common stock | $25,000 | |
-| Payment of dividends | | (2,000) |
-| **Net cash flows from financing activities** | | **$23,000** |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gcth{background-color:#32cb00;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
+.tg .tg-bd2r{background-color:#32cb00;border-color:inherit;color:#333333;text-align:left;vertical-align:top}
+.tg .tg-pc06{background-color:#ffcb2f;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
+.tg .tg-gia6{background-color:#fe996b;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
+.tg .tg-ghib{background-color:#ffc702;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
+.tg .tg-fnaw{background-color:#ffcb2f;border-color:inherit;color:#333333;text-align:left;vertical-align:top}
+.tg .tg-wzpn{background-color:#fe996b;border-color:inherit;color:#333333;text-align:right;vertical-align:top}
+.tg .tg-b9g5{background-color:#ffc702;border-color:inherit;color:#333333;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-gcth">Type of Activity</th>
+    <th class="tg-pc06">Transaction</th>
+    <th class="tg-gia6" colspan="4">Cash</th>
+    <th class="tg-ghib">Transaction</th>
+    <th class="tg-gcth">Type of Activity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-bd2r">Financing</td>
+    <td class="tg-fnaw">Issued common stock</td>
+    <td class="tg-wzpn">Nov. 1</td>
+    <td class="tg-wzpn"> 25,000</td>
+    <td class="tg-wzpn">Nov. 5</td>
+    <td class="tg-wzpn">20,000</td>
+    <td class="tg-b9g5">Purchased land</td>
+    <td class="tg-bd2r">Investing</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r">Operating</td>
+    <td class="tg-fnaw">Received cash from customers</td>
+    <td class="tg-wzpn">18</td>
+    <td class="tg-wzpn">7,500</td>
+    <td class="tg-wzpn">30</td>
+    <td class="tg-wzpn">3,650</td>
+    <td class="tg-b9g5">Paid expenses</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">30</td>
+    <td class="tg-wzpn">950</td>
+    <td class="tg-b9g5">Paid accounts payable</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">30</td>
+    <td class="tg-wzpn">2,000</td>
+    <td class="tg-b9g5">Paid dividends</td>
+    <td class="tg-bd2r">Financing</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r">Operating</td>
+    <td class="tg-fnaw">Received rent from land</td>
+    <td class="tg-wzpn">Nov. 30 Bal. </td>
+    <td class="tg-wzpn">5,900</td>
+    <td class="tg-wzpn">Dec. 1</td>
+    <td class="tg-wzpn">2,400</td>
+    <td class="tg-b9g5">Paid insurance premiums (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn">Dec.</td>
+    <td class="tg-wzpn">1 360</td>
+    <td class="tg-wzpn">1</td>
+    <td class="tg-wzpn">800</td>
+    <td class="tg-b9g5">Paid office rent (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">6</td>
+    <td class="tg-wzpn">180</td>
+    <td class="tg-b9g5">Paid miscellaneous expenses</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">11</td>
+    <td class="tg-wzpn">400</td>
+    <td class="tg-b9g5">Paid accounts payable (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">13</td>
+    <td class="tg-wzpn">950</td>
+    <td class="tg-b9g5">Paid wages (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r">Operating</td>
+    <td class="tg-fnaw">Received cash from customers</td>
+    <td class="tg-wzpn">16</td>
+    <td class="tg-wzpn">3,100</td>
+    <td class="tg-wzpn">20</td>
+    <td class="tg-wzpn">900</td>
+    <td class="tg-b9g5">Paid account payable (office equip.)</td>
+    <td class="tg-bd2r">Investing</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r">Operating</td>
+    <td class="tg-fnaw">Received cash from customers</td>
+    <td class="tg-wzpn">21</td>
+    <td class="tg-wzpn">650</td>
+    <td class="tg-wzpn">23</td>
+    <td class="tg-wzpn">1,450</td>
+    <td class="tg-b9g5">Purchased supplies (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">27</td>
+    <td class="tg-wzpn">1,200</td>
+    <td class="tg-b9g5">Paid wages (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r">Operating</td>
+    <td class="tg-fnaw">Received cash from customers</td>
+    <td class="tg-wzpn">31</td>
+    <td class="tg-wzpn">2,870</td>
+    <td class="tg-wzpn">31</td>
+    <td class="tg-wzpn">310</td>
+    <td class="tg-b9g5">Paid utilities (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">31</td>
+    <td class="tg-wzpn">225</td>
+    <td class="tg-b9g5">Paid utilities (expense)</td>
+    <td class="tg-bd2r">Operating</td>
+  </tr>
+  <tr>
+    <td class="tg-bd2r"></td>
+    <td class="tg-fnaw"></td>
+    <td class="tg-wzpn">Dec. 31 Bal.</td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn"></td>
+    <td class="tg-wzpn">2,065</td>
+    <td class="tg-b9g5">31 2,000</td>
+    <td class="tg-bd2r">Paid dividends</td>
+  </tr>
+</tbody></table>
 
 ---
 
-**Chapter 4: Completing the Accounting Cycle: 4-8 Appendix 2 Statement of Cash Flows for NetSolutions**
+<h1 id="368739" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-9a Let’s Review Chapter Summary
+  </a>
+</h1>
 
-*Book Title: Financial and Managerial Accounting*
-*Printed By: Raydel Castro Guerra (raydel.castro001@mymdc.net)*
-*© 2023 Cengage Learning, Cengage Learning*
+**1.** Exhibit 1 illustrates the end-of-period process by which accounts are adjusted and how the adjusted accounts flow into the financial statements.
+
+[**1.** La Figura 1 ilustra el proceso de fin de período mediante el cual se ajustan las cuentas y cómo las cuentas ajustadas fluyen hacia los estados financieros.]
+
+**2.** Using the end-of-period spreadsheet shown in Exhibit 1, the income statement, statement of stockholders' equity, and balance sheet can be prepared. A classified balance sheet has sections for current assets; property, plant, and equipment; current liabilities; long-term liabilities; and stockholders' equity.
+
+[**2.** Utilizando la hoja de cálculo de fin de período que se muestra en la Figura 1, se pueden preparar el estado de resultados, el estado de cambios en el capital contable y el balance general. Un balance general clasificado tiene secciones para activos corrientes; propiedades, planta y equipo; pasivos corrientes; pasivos a largo plazo; y capital contable.]
+
+**3.** Two entries are required in closing the temporary accounts. The first entry closes the revenue and expense accounts to the retained earnings account. The second entry closes the dividends account to the retained earnings account. After the closing entries have been posted to the ledger, the balance in the account agrees with the amount reported on the statement of stockholders' equity and balance sheet. In addition, the revenue, expense, and dividends accounts will have zero balances.
+
+[**3.** Se requieren dos asientos para cerrar las cuentas temporales. El primer asiento cierra las cuentas de ingresos y gastos a la cuenta de ganancias retenidas. El segundo asiento cierra la cuenta de dividendos a la cuenta de ganancias retenidas. Después de que los asientos de cierre se han traspasado al libro mayor, el saldo en la cuenta concuerda con el monto reportado en el estado de cambios en el capital contable y el balance general. Además, las cuentas de ingresos, gastos y dividendos tendrán saldos cero.]
+
+**4.** The 10 basic steps of the accounting cycle are as follows:
+
+[**4.** Los 10 pasos básicos del ciclo contable son los siguientes:]
+
+1. Transactions are analyzed and recorded in the journal.  
+   Las transacciones se analizan y registran en el diario.
+
+2. Transactions are posted to the ledger.  
+   Las transacciones se traspasan al libro mayor.
+
+3. An unadjusted trial balance is prepared.  
+   Se prepara un balance de comprobación no ajustado.
+
+4. Adjustment data are assembled and analyzed.  
+   Se reúnen y analizan los datos de ajuste.
+
+5. An optional end-of-period spreadsheet is prepared.  
+   Se prepara una hoja de cálculo de fin de período opcional.
+
+6. Adjusting entries are journalized and posted to the ledger.  
+   Los asientos de ajuste se registran en el diario y se traspasan al libro mayor.
+
+7. An adjusted trial balance is prepared.  
+   Se prepara un balance de comprobación ajustado.
+
+8. Financial statements are prepared.  
+   Se preparan los estados financieros.
+
+9. Closing entries are journalized and posted to the ledger.  
+   Los asientos de cierre se registran en el diario y se traspasan al libro mayor.
+
+10. A post-closing trial balance is prepared.  
+    Se prepara un balance de comprobación posterior al cierre.
+
+**5.** The complete accounting cycle for Kelly Consulting for the month of April is described and illustrated in this chapter.
+
+[**5.** El ciclo contable completo para Kelly Consulting para el mes de abril se describe e ilustra en este capítulo.]
+
+**6.** The accrual basis of accounting is required by generally accepted accounting principles (GAAP) because it better reports the operating performance of a company. It does this by matching revenues and expenses on the income statement.
+
+[**6.** El método de acumulación es requerido por los principios de contabilidad generalmente aceptados (GAAP) porque reporta mejor el rendimiento operativo de una empresa. Lo hace mediante la correspondencia de ingresos y gastos en el estado de resultados.]
+
+**7.** The ability to convert assets into cash is called liquidity, while the ability of a business to pay its debts is called solvency. Two financial measures for evaluating a business's liquidity and solvency are working capital and the current ratio. Working capital is computed by subtracting current liabilities from current assets. An excess of current assets over current liabilities implies that the business is able to pay its current liabilities. The current ratio is computed by dividing current assets by current liabilities. The current ratio is more useful than working capital in making comparisons across companies or with industry averages.
+
+[**7.** La capacidad de convertir activos en efectivo se llama liquidez, mientras que la capacidad de un negocio para pagar sus deudas se llama solvencia. Dos medidas financieras para evaluar la liquidez y solvencia de un negocio son el capital de trabajo y la razón corriente. El capital de trabajo se calcula restando los pasivos corrientes de los activos corrientes. Un exceso de activos corrientes sobre pasivos corrientes implica que el negocio puede pagar sus pasivos corrientes. La razón corriente se calcula dividiendo los activos corrientes entre los pasivos corrientes. La razón corriente es más útil que el capital de trabajo para hacer comparaciones entre empresas o con promedios de la industria.]
+
+## Exhibit 1
+
+<img src="./img/038.png" width="800"></img>
+---
+
+<h1 id="799445" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-9b Key Terms
+  </a>
+</h1>
+
+
+| English Term | Español | Definition (English) | Definición (Español) |
+|--------------|---------|---------------------|---------------------|
+| **accounting cycle** | ciclo contable | The accounting process that begins with analyzing and journalizing transactions and ends with the post-closing trial balance. | El proceso contable que comienza con el análisis y registro de transacciones en el diario y termina con el balance de comprobación posterior al cierre. |
+| **accrual basis of accounting** | método de acumulación (o devengo) | A basis of accounting under which revenues and expenses are reported on the income statement in the period in which they are earned or incurred. | Un método de contabilidad bajo el cual los ingresos y gastos se reportan en el estado de resultados en el período en el que se ganan o incurren. |
+| **cash basis of accounting** | método de efectivo | A basis of accounting under which revenues and expenses are reported on the income statement in the period in which cash is received or paid. | Un método de contabilidad bajo el cual los ingresos y gastos se reportan en el estado de resultados en el período en el que se recibe o paga el efectivo. |
+| **closing entries** | asientos de cierre | The journal entries that transfer the balances of temporary accounts to permanent accounts at the end of the accounting period. | Los asientos de diario que transfieren los saldos de las cuentas temporales a cuentas permanentes al final del período contable. |
+| **closing process** | proceso de cierre | The process of transferring the balances of temporary accounts to permanent accounts at the end of the accounting period. | El proceso de transferir los saldos de las cuentas temporales a cuentas permanentes al final del período contable. |
+| **closing the books** | cerrar los libros | The process of transferring the balances of temporary accounts to permanent accounts at the end of the accounting period. | El proceso de transferir los saldos de las cuentas temporales a cuentas permanentes al final del período contable. |
+| **current assets** | activos corrientes | Cash and other assets that are expected to be converted to cash or sold or used up, usually within one year or less, through the normal operations of the business. | Efectivo y otros activos que se espera que se conviertan en efectivo o se vendan o consuman, generalmente dentro de un año o menos, a través de las operaciones normales del negocio. |
+| **current liabilities** | pasivos corrientes | Liabilities that will be due within a short time (usually one year or less) and that are to be paid out of current assets. | Pasivos que vencerán en un corto plazo (generalmente un año o menos) y que se pagarán con activos corrientes. |
+| **current ratio** | razón corriente | A financial ratio that expresses the relationship between current assets and current liabilities, computed by dividing current assets by current liabilities. | Un ratio financiero que expresa la relación entre los activos corrientes y los pasivos corrientes, calculado dividiendo los activos corrientes entre los pasivos corrientes. |
+| **fixed assets** | activos fijos | Physical resources that are owned and used by a business and are permanent or have a long life; long-term or relatively permanent tangible assets such as equipment, machinery, buildings, and land that are used in normal business operations. | Recursos físicos que son propiedad de un negocio y son utilizados por él, y son permanentes o tienen una larga vida; activos tangibles a largo plazo o relativamente permanentes como equipo, maquinaria, edificios y terreno que se utilizan en las operaciones normales del negocio. |
+| **liquidity** | liquidez | A company's ability to convert assets into cash. | La capacidad de una empresa para convertir activos en efectivo. |
+| **long-term liabilities** | pasivos a largo plazo | Liabilities that will not be due for a long time (usually more than one year). | Pasivos que no vencerán en un largo plazo (generalmente más de un año). |
+| **notes receivable** | notas por cobrar | A customer's written promise to pay an amount and possibly interest at an agreed-upon rate; amounts that customers owe for which a formal, written instrument of credit has been issued. | Una promesa escrita de un cliente para pagar un monto y posiblemente intereses a una tasa acordada; montos que los clientes deben para los cuales se ha emitido un instrumento formal de crédito por escrito. |
+| **permanent accounts** | cuentas permanentes | Term for balance sheet accounts because they are relatively permanent with balances that carry forward from year to year. | Término para las cuentas del balance general porque son relativamente permanentes con saldos que se trasladan de un año a otro. |
+| **property, plant, and equipment** | propiedades, planta y equipo | Long-term or relatively permanent tangible assets such as equipment, machinery, and buildings that are used in normal business operations. | Activos tangibles a largo plazo o relativamente permanentes como equipo, maquinaria y edificios que se utilizan en las operaciones normales del negocio. |
+| **solvency** | solvencia | The ability of a firm to pay its debts as they come due. | La capacidad de una empresa para pagar sus deudas a medida que vencen. |
+| **temporary accounts** | cuentas temporales | Term for income statement accounts because their balances relate to only one period and are not carried forward to the next period. | Término para las cuentas del estado de resultados porque sus saldos se relacionan con un solo período y no se trasladan al siguiente período. |
+| **working capital** | capital de trabajo | The excess of the current assets of a business over its current liabilities. | El exceso de los activos corrientes de un negocio sobre sus pasivos corrientes. |
+
+---
