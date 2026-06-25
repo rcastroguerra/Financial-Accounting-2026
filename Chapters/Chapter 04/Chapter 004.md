@@ -4754,7 +4754,6 @@ The asset, liability, common stock, and dividends amounts are extended to (enter
   </a>
 </h1>
 
-# 4-7f Step 6. Total the Income Statement and Balance Sheet Columns, Compute the Net Income or Net Loss, and Complete the Spreadsheet
 
 After the account balances are extended to the Income Statement and Balance Sheet columns, each of the columns is totaled. The difference between the two Income Statement column totals is the amount of the net income or the net loss for the period. This difference (net income or net loss) will also be the difference between the two Balance Sheet column totals.
 
