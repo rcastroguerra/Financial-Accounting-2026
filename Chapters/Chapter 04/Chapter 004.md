@@ -56,6 +56,10 @@
 
 ##### [Capitulo Spreadsheet with Amounts Extended to Income Statement and Balance Sheet Columns](#213744)
 
+##### [Capitulo 4-7f Step 6. Total the Income Statement and Balance Sheet Columns, Compute the Net Income or Net Loss, and Complete the Spreadsheet](#290759)
+
+##### [Capitulo 4-7g Preparing the Financial Statements from the Spreadsheet](#303764)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -4737,4 +4741,528 @@ The asset, liability, common stock, and dividends amounts are extended to (enter
 [Los montos de activos, pasivos, acciones comunes y dividendos se extienden a (se ingresan en) las columnas del Balance General.]
 
 ---
+
+<h1 id="290759" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-7f Step 6. Total the Income Statement and Balance Sheet Columns, Compute the Net Income or Net Loss, and Complete the Spreadsheet
+  </a>
+</h1>
+
+# 4-7f Step 6. Total the Income Statement and Balance Sheet Columns, Compute the Net Income or Net Loss, and Complete the Spreadsheet
+
+After the account balances are extended to the Income Statement and Balance Sheet columns, each of the columns is totaled. The difference between the two Income Statement column totals is the amount of the net income or the net loss for the period. This difference (net income or net loss) will also be the difference between the two Balance Sheet column totals.
+
+[Después de que los saldos de las cuentas se extienden a las columnas del Estado de Resultados y del Balance General, cada una de las columnas se totaliza. La diferencia entre los dos totales de las columnas del Estado de Resultados es el monto del ingreso neto o la pérdida neta del período. Esta diferencia (ingreso neto o pérdida neta) también será la diferencia entre los dos totales de las columnas del Balance General.]
+
+If the Income Statement Credit column total (total revenue) is greater than the Income Statement Debit column total (total expenses), the difference is the net income. If the Income Statement Debit column total is greater than the Income Statement Credit column total, the difference is a net loss.
+
+[Si el total de la columna Crédito del Estado de Resultados (ingresos totales) es mayor que el total de la columna Débito del Estado de Resultados (gastos totales), la diferencia es el ingreso neto. Si el total de la columna Débito del Estado de Resultados es mayor que el total de la columna Crédito del Estado de Resultados, la diferencia es una pérdida neta.]
+
+As shown in Exhibit 25, the total of the Income Statement Credit column is $16,960, and the total of the Income Statement Debit column is $9,855. Thus, the net income for NetSolutions is $7,105, computed as follows:
+
+[Como se muestra en la Figura 25, el total de la columna Crédito del Estado de Resultados es $16,960, y el total de la columna Débito del Estado de Resultados es $9,855. Por lo tanto, el ingreso neto para NetSolutions es $7,105, calculado de la siguiente manera:]
+
+| | Amount |
+|--|--|
+| Total of Income Statement Credit column (revenues) | $16,960 |
+| Total of Income Statement Debit column (expenses) | (9,855) |
+| **Net income (excess of revenues over expenses)** | **$7,105** |
+
+---
+
+## Exhibit 25
+
+### Completed Spreadsheet with Net Income Shown
+
+[**Figura 25** - Hoja de Cálculo Completada con Ingreso Neto Mostrado]
+
+<!-- 📍 IMAGEN: Exhibit 25 - Completed Spreadsheet with Net Income Shown (páginas 1-2) -->
+
+![Exhibit 25 - Completed Spreadsheet](./img/034.png)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-stau{color:#f8a102;text-align:right;vertical-align:top}
+.tg .tg-8ls8{color:#ffc702;text-align:right;vertical-align:top}
+.tg .tg-pyz1{color:#ffc702;text-align:left;vertical-align:top}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-4dxd{color:#f8a102;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-baqh">A</th>
+    <th class="tg-baqh">B</th>
+    <th class="tg-baqh">C</th>
+    <th class="tg-baqh">D</th>
+    <th class="tg-baqh">E</th>
+    <th class="tg-baqh">F</th>
+    <th class="tg-baqh">G</th>
+    <th class="tg-baqh">H</th>
+    <th class="tg-baqh">I</th>
+    <th class="tg-baqh">J</th>
+    <th class="tg-baqh">K</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm" colspan="4">NetSolutions</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm" colspan="4">End-of-Period Spreadsheet</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm" colspan="4">For the Two Months Ended December 31, 20Y3</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm" colspan="2">Unadjusted</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm" colspan="2">Adjusted</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-amwm"></td>
+    <td class="tg-amwm" colspan="2">Trial Balance</td>
+    <td class="tg-amwm" colspan="2">Adjustments</td>
+    <td class="tg-amwm" colspan="2">Trial Balance</td>
+    <td class="tg-amwm" colspan="2">Income Statement</td>
+    <td class="tg-amwm" colspan="2">Balance Sheet</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6</td>
+    <td class="tg-amwm">Account Title</td>
+    <td class="tg-amwm">Dr.</td>
+    <td class="tg-amwm">Cr.</td>
+    <td class="tg-amwm">Dr.</td>
+    <td class="tg-amwm">Cr.</td>
+    <td class="tg-amwm">Dr.</td>
+    <td class="tg-amwm">Cr.</td>
+    <td class="tg-amwm">Dr</td>
+    <td class="tg-amwm">Cr.</td>
+    <td class="tg-amwm">Dr.</td>
+    <td class="tg-amwm">Cr.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">Cash</td>
+    <td class="tg-lqy6">2,065</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">2,065</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">2,065</td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">Accounts Receivable</td>
+    <td class="tg-lqy6">2,220</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(d) 500</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">2,720</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">2,720</td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">9</td>
+    <td class="tg-0lax">Supplies</td>
+    <td class="tg-lqy6">2,000</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(a) 1,240</td>
+    <td class="tg-lqy6">760</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">760</td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10</td>
+    <td class="tg-0lax">Prepaid Insurance</td>
+    <td class="tg-lqy6">2,400</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(b) 200</td>
+    <td class="tg-lqy6">2,200</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">2,200</td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11</td>
+    <td class="tg-0lax">Land</td>
+    <td class="tg-lqy6">20,000</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">20,000</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">20,000</td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12</td>
+    <td class="tg-0lax">Office Equipment</td>
+    <td class="tg-lqy6">1,800</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">1,800</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">1,800</td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13</td>
+    <td class="tg-0lax">Accum. Depr.—Office Equip.</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(f) 50</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">50</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14</td>
+    <td class="tg-0lax">Accounts Payable</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">900</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">900</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">900</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15</td>
+    <td class="tg-0lax">Wages Payable</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(e) 250</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">250</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">250</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16</td>
+    <td class="tg-0lax">Unearned Rent</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">360</td>
+    <td class="tg-lqy6">(c) 120</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">240</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">240</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17</td>
+    <td class="tg-0lax">Common Stock</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">25,000</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">25,000</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">25,000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">18</td>
+    <td class="tg-0lax">Dividends</td>
+    <td class="tg-lqy6">4,000</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">4,000</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">4,000</td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">19</td>
+    <td class="tg-0lax">Fees Earned</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">16,340</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(d) 500</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">16,840</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">16,840</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">20</td>
+    <td class="tg-0lax">Rent Revenue</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(c) 120</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">120</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">120</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">21</td>
+    <td class="tg-0lax">Wages Expense</td>
+    <td class="tg-lqy6">4,275</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(e) 250</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">4,525</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">4,525</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">22</td>
+    <td class="tg-0lax">Supplies Expense</td>
+    <td class="tg-lqy6">800</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(a) 1,240</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">2,040</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">2,040</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">23</td>
+    <td class="tg-0lax">Rent Expense</td>
+    <td class="tg-lqy6">1,600</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">1,600</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">1,600</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">24</td>
+    <td class="tg-0lax">Utilities Expense</td>
+    <td class="tg-lqy6">985</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">985</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">985</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">25</td>
+    <td class="tg-0lax">Insurance Expense</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(b) 200</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">200</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">200</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">26</td>
+    <td class="tg-0lax">Depreciation Expense</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">(f) 50</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">50</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">50</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">27</td>
+    <td class="tg-0lax">Miscellaneous Expense</td>
+    <td class="tg-lqy6">455</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">455</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6">455</td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+    <td class="tg-lqy6"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">28</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-lqy6">42,600</td>
+    <td class="tg-lqy6">42,600</td>
+    <td class="tg-lqy6">2,360</td>
+    <td class="tg-lqy6">2,360</td>
+    <td class="tg-lqy6">43,400</td>
+    <td class="tg-lqy6">43,400</td>
+    <td class="tg-stau">9,855</td>
+    <td class="tg-stau">16,960</td>
+    <td class="tg-stau">33,545</td>
+    <td class="tg-stau">33,545</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">29</td>
+    <td class="tg-4dxd">Net Income</td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-stau">7,105</td>
+    <td class="tg-stau"></td>
+    <td class="tg-stau"></td>
+    <td class="tg-stau">7,105</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">30</td>
+    <td class="tg-pyz1"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-8ls8"></td>
+    <td class="tg-stau">16,960</td>
+    <td class="tg-stau">16,960</td>
+    <td class="tg-stau">33,545</td>
+    <td class="tg-stau">33,545</td>
+  </tr>
+</tbody></table>
+
+---
+
+### Completing the Spreadsheet
+
+[**Completando la Hoja de Cálculo**]
+
+The amount of the net income, $7,105, is entered in the Income Statement Debit column and the Balance Sheet Credit column. Net income is also entered in the Account Title column. Entering the net income of $7,105 in the Balance Sheet Credit column has the effect of transferring the net balance of the revenue and expense accounts to the retained earnings account.
+
+[El monto del ingreso neto, $7,105, se ingresa en la columna Débito del Estado de Resultados y en la columna Crédito del Balance General. El ingreso neto también se ingresa en la columna Título de la Cuenta. Ingresar el ingreso neto de $7,105 en la columna Crédito del Balance General tiene el efecto de transferir el saldo neto de las cuentas de ingresos y gastos a la cuenta de ganancias retenidas.]
+
+If there was a net loss instead of net income, the amount of the net loss would be entered in the Income Statement Credit column and the Balance Sheet Debit column. Net loss would also be entered in the Account Title column.
+
+[Si hubiera una pérdida neta en lugar de ingreso neto, el monto de la pérdida neta se ingresaría en la columna Crédito del Estado de Resultados y en la columna Débito del Balance General. La pérdida neta también se ingresaría en la columna Título de la Cuenta.]
+
+After the net income or net loss is entered on the spreadsheet, the Income Statement and Balance Sheet columns are totaled. The totals of the two Income Statement columns must now be equal. The totals of the two Balance Sheet columns must also be equal.
+
+[Después de que el ingreso neto o la pérdida neta se ingresan en la hoja de cálculo, las columnas del Estado de Resultados y del Balance General se totalizan. Los totales de las dos columnas del Estado de Resultados ahora deben ser iguales. Los totales de las dos columnas del Balance General también deben ser iguales.]
+
+---
+
+<h1 id="303764" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-7g Preparing the Financial Statements from the Spreadsheet
+  </a>
+</h1>
+
+
+The spreadsheet can be used to prepare the income statement, the statement of stockholders' equity, and the balance sheet shown in Exhibit 2. The income statement is normally prepared directly from the spreadsheet. The expenses are listed in the income statement in Exhibit 2 in order of size, beginning with the larger items. Miscellaneous expense is the last item, regardless of its amount.
+
+[La hoja de cálculo se puede utilizar para preparar el estado de resultados, el estado de cambios en el capital contable y el balance general que se muestran en la Figura 2. El estado de resultados normalmente se prepara directamente a partir de la hoja de cálculo. Los gastos se enumeran en el estado de resultados en la Figura 2 en orden de tamaño, comenzando con las partidas de mayor monto. Los gastos misceláneos son el último elemento, independientemente de su monto.]
+
+The statement of stockholders' equity is prepared by first listing the beginning-of-the-period balances of common stock and retained earnings. These beginning-of-the-period balances are taken from the ledger. Any additional common stock issued during the period and the net income for the period are then added to the beginning balances. A net loss would be subtracted from the beginning balance of retained earnings. Also, dividends are subtracted from the beginning balance of retained earnings. Finally, the columns are totaled to arrive at the end of the period balances for common stock and retained earnings.
+
+[El estado de cambios en el capital contable se prepara enumerando primero los saldos al inicio del período de acciones comunes y ganancias retenidas. Estos saldos al inicio del período se toman del libro mayor. Cualquier acción común adicional emitida durante el período y el ingreso neto del período se suman a los saldos iniciales. Una pérdida neta se restaría del saldo inicial de ganancias retenidas. Además, los dividendos se restan del saldo inicial de ganancias retenidas. Finalmente, las columnas se totalizan para llegar a los saldos al final del período de acciones comunes y ganancias retenidas.]
+
+The balance sheet can be prepared directly from the spreadsheet columns except for the ending balance of retained earnings. The ending balance of retained earnings is taken from the statement of stockholders' equity.
+
+[El balance general se puede preparar directamente a partir de las columnas de la hoja de cálculo, excepto por el saldo final de ganancias retenidas. El saldo final de ganancias retenidas se toma del estado de cambios en el capital contable.]
+
+When a spreadsheet is used, the adjusting and closing entries are normally not journalized or posted until after the spreadsheet and financial statements have been prepared. The data for the adjusting entries are taken from the Adjustments columns of the spreadsheet. The data for the first closing entry are taken from the Income Statement columns of the spreadsheet. The amount for the second closing entry is the dividends account balance that appears in the Balance Sheet Debit column of the spreadsheet.
+
+[Cuando se utiliza una hoja de cálculo, los asientos de ajuste y de cierre normalmente no se registran en el diario ni se traspasan hasta después de que se hayan preparado la hoja de cálculo y los estados financieros. Los datos para los asientos de ajuste se toman de las columnas de Ajustes de la hoja de cálculo. Los datos para el primer asiento de cierre se toman de las columnas del Estado de Resultados de la hoja de cálculo. El monto para el segundo asiento de cierre es el saldo de la cuenta de dividendos que aparece en la columna Débito del Balance General de la hoja de cálculo.]
+
+## Exhibit 2
+
+<img src="./img/035.png" width="800"></img>
+---
+
 
