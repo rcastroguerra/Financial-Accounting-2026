@@ -4792,434 +4792,427 @@ As shown in Exhibit 25, the total of the Income Statement Credit column is $16,9
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-stau{color:#f8a102;text-align:right;vertical-align:top}
-.tg .tg-8ls8{color:#ffc702;text-align:right;vertical-align:top}
-.tg .tg-pyz1{color:#ffc702;text-align:left;vertical-align:top}
-.tg .tg-lqy6{text-align:right;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-4dxd{color:#f8a102;text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-0lax"></th>
-    <th class="tg-baqh">A</th>
-    <th class="tg-baqh">B</th>
-    <th class="tg-baqh">C</th>
-    <th class="tg-baqh">D</th>
-    <th class="tg-baqh">E</th>
-    <th class="tg-baqh">F</th>
-    <th class="tg-baqh">G</th>
-    <th class="tg-baqh">H</th>
-    <th class="tg-baqh">I</th>
-    <th class="tg-baqh">J</th>
-    <th class="tg-baqh">K</th>
+    <th class="tg-0lax">A</th>
+    <th class="tg-0lax">B</th>
+    <th class="tg-0lax">C</th>
+    <th class="tg-0lax">D</th>
+    <th class="tg-0lax">E</th>
+    <th class="tg-0lax">F</th>
+    <th class="tg-0lax">G</th>
+    <th class="tg-0lax">H</th>
+    <th class="tg-0lax">I</th>
+    <th class="tg-0lax">J</th>
+    <th class="tg-0lax">K</th>
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-0lax">1</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm" colspan="4">NetSolutions</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">NetSolutions</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm" colspan="4">End-of-Period Spreadsheet</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">End-of-Period Spreadsheet</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm" colspan="4">For the Two Months Ended December 31, 20Y3</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">For the Two Months Ended December 31, 20Y3</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">4</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm" colspan="2">Unadjusted</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm" colspan="2">Adjusted</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2">Unadjusted</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2">Adjusted</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">5</td>
-    <td class="tg-amwm"></td>
-    <td class="tg-amwm" colspan="2">Trial Balance</td>
-    <td class="tg-amwm" colspan="2">Adjustments</td>
-    <td class="tg-amwm" colspan="2">Trial Balance</td>
-    <td class="tg-amwm" colspan="2">Income Statement</td>
-    <td class="tg-amwm" colspan="2">Balance Sheet</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2">Trial Balance</td>
+    <td class="tg-0lax" colspan="2">Adjustments</td>
+    <td class="tg-0lax" colspan="2">Trial Balance</td>
+    <td class="tg-0lax" colspan="2">Income Statement</td>
+    <td class="tg-0lax" colspan="2">Balance Sheet</td>
   </tr>
   <tr>
     <td class="tg-0lax">6</td>
-    <td class="tg-amwm">Account Title</td>
-    <td class="tg-amwm">Dr.</td>
-    <td class="tg-amwm">Cr.</td>
-    <td class="tg-amwm">Dr.</td>
-    <td class="tg-amwm">Cr.</td>
-    <td class="tg-amwm">Dr.</td>
-    <td class="tg-amwm">Cr.</td>
-    <td class="tg-amwm">Dr</td>
-    <td class="tg-amwm">Cr.</td>
-    <td class="tg-amwm">Dr.</td>
-    <td class="tg-amwm">Cr.</td>
+    <td class="tg-0lax">Account Title</td>
+    <td class="tg-0lax">Dr.</td>
+    <td class="tg-0lax">Cr.</td>
+    <td class="tg-0lax">Dr.</td>
+    <td class="tg-0lax">Cr.</td>
+    <td class="tg-0lax">Dr.</td>
+    <td class="tg-0lax">Cr.</td>
+    <td class="tg-0lax">Dr</td>
+    <td class="tg-0lax">Cr.</td>
+    <td class="tg-0lax">Dr.</td>
+    <td class="tg-0lax">Cr.</td>
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
     <td class="tg-0lax">Cash</td>
-    <td class="tg-lqy6">2,065</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">2,065</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">2,065</td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">2,065</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,065</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,065</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">8</td>
     <td class="tg-0lax">Accounts Receivable</td>
-    <td class="tg-lqy6">2,220</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(d) 500</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">2,720</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">2,720</td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">2,220</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(d) 500</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,720</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,720</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">9</td>
     <td class="tg-0lax">Supplies</td>
-    <td class="tg-lqy6">2,000</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(a) 1,240</td>
-    <td class="tg-lqy6">760</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">760</td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">2,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(a) 1,240</td>
+    <td class="tg-0lax">760</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">760</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">10</td>
     <td class="tg-0lax">Prepaid Insurance</td>
-    <td class="tg-lqy6">2,400</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(b) 200</td>
-    <td class="tg-lqy6">2,200</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">2,200</td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">2,400</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(b) 200</td>
+    <td class="tg-0lax">2,200</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,200</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">11</td>
     <td class="tg-0lax">Land</td>
-    <td class="tg-lqy6">20,000</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">20,000</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">20,000</td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">20,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">20,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">20,000</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">12</td>
     <td class="tg-0lax">Office Equipment</td>
-    <td class="tg-lqy6">1,800</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">1,800</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">1,800</td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">1,800</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">1,800</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">1,800</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">13</td>
     <td class="tg-0lax">Accum. Depr.—Office Equip.</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(f) 50</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">50</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">50</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(f) 50</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">50</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">50</td>
   </tr>
   <tr>
     <td class="tg-0lax">14</td>
     <td class="tg-0lax">Accounts Payable</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">900</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">900</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">900</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">900</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">900</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">900</td>
   </tr>
   <tr>
     <td class="tg-0lax">15</td>
     <td class="tg-0lax">Wages Payable</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(e) 250</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">250</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">250</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(e) 250</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">250</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">250</td>
   </tr>
   <tr>
     <td class="tg-0lax">16</td>
     <td class="tg-0lax">Unearned Rent</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">360</td>
-    <td class="tg-lqy6">(c) 120</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">240</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">240</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">360</td>
+    <td class="tg-0lax">(c) 120</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">240</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">240</td>
   </tr>
   <tr>
     <td class="tg-0lax">17</td>
     <td class="tg-0lax">Common Stock</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">25,000</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">25,000</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">25,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">25,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">25,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">25,000</td>
   </tr>
   <tr>
     <td class="tg-0lax">18</td>
     <td class="tg-0lax">Dividends</td>
-    <td class="tg-lqy6">4,000</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">4,000</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">4,000</td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">4,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">4,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">4,000</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">19</td>
     <td class="tg-0lax">Fees Earned</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">16,340</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(d) 500</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">16,840</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">16,840</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">16,340</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(d) 500</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">16,840</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">16,840</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">20</td>
     <td class="tg-0lax">Rent Revenue</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(c) 120</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">120</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">120</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(c) 120</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">120</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">120</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">21</td>
     <td class="tg-0lax">Wages Expense</td>
-    <td class="tg-lqy6">4,275</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(e) 250</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">4,525</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">4,525</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">4,275</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(e) 250</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">4,525</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">4,525</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">22</td>
     <td class="tg-0lax">Supplies Expense</td>
-    <td class="tg-lqy6">800</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(a) 1,240</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">2,040</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">2,040</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">800</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(a) 1,240</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,040</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,040</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">23</td>
     <td class="tg-0lax">Rent Expense</td>
-    <td class="tg-lqy6">1,600</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">1,600</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">1,600</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">1,600</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">1,600</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">1,600</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">24</td>
     <td class="tg-0lax">Utilities Expense</td>
-    <td class="tg-lqy6">985</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">985</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">985</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">985</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">985</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">985</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">25</td>
     <td class="tg-0lax">Insurance Expense</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(b) 200</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">200</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">200</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(b) 200</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">200</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">200</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">26</td>
     <td class="tg-0lax">Depreciation Expense</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">(f) 50</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">50</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">50</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(f) 50</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">50</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">50</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">27</td>
     <td class="tg-0lax">Miscellaneous Expense</td>
-    <td class="tg-lqy6">455</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">455</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6">455</td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
-    <td class="tg-lqy6"></td>
+    <td class="tg-0lax">455</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">455</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">455</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">28</td>
     <td class="tg-0lax"></td>
-    <td class="tg-lqy6">42,600</td>
-    <td class="tg-lqy6">42,600</td>
-    <td class="tg-lqy6">2,360</td>
-    <td class="tg-lqy6">2,360</td>
-    <td class="tg-lqy6">43,400</td>
-    <td class="tg-lqy6">43,400</td>
-    <td class="tg-stau">9,855</td>
-    <td class="tg-stau">16,960</td>
-    <td class="tg-stau">33,545</td>
-    <td class="tg-stau">33,545</td>
+    <td class="tg-0lax">42,600</td>
+    <td class="tg-0lax">42,600</td>
+    <td class="tg-0lax">2,360</td>
+    <td class="tg-0lax">2,360</td>
+    <td class="tg-0lax">43,400</td>
+    <td class="tg-0lax">43,400</td>
+    <td class="tg-0lax">9,855</td>
+    <td class="tg-0lax">16,960</td>
+    <td class="tg-0lax">33,545</td>
+    <td class="tg-0lax">33,545</td>
   </tr>
   <tr>
     <td class="tg-0lax">29</td>
-    <td class="tg-4dxd">Net Income</td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-stau">7,105</td>
-    <td class="tg-stau"></td>
-    <td class="tg-stau"></td>
-    <td class="tg-stau">7,105</td>
+    <td class="tg-0lax">Net Income</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">7,105</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">7,105</td>
   </tr>
   <tr>
     <td class="tg-0lax">30</td>
-    <td class="tg-pyz1"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-8ls8"></td>
-    <td class="tg-stau">16,960</td>
-    <td class="tg-stau">16,960</td>
-    <td class="tg-stau">33,545</td>
-    <td class="tg-stau">33,545</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">16,960</td>
+    <td class="tg-0lax">16,960</td>
+    <td class="tg-0lax">33,545</td>
+    <td class="tg-0lax">33,545</td>
   </tr>
 </tbody></table>
 
