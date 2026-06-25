@@ -42,6 +42,18 @@
 
 ##### [Capitulo 4-5j Step 10. Preparing a Post-Closing Trial Balance](#839184)
 
+##### [Capitulo 4-6 Why Is the Accrual Basis of Accounting Required by GAAP?](#992322)
+
+##### [Capitulo 4-7 Appendix 1 End-of-Period Spreadsheet](#509305)
+
+##### [Capitulo 4-7a Step 1. Enter the Title](#873627)
+
+##### [Capitulo 4-7b Step 2. Enter the Unadjusted Trial Balance](#177279)
+
+##### [Capitulo 4-7c Step 3. Enter the Adjustments](#926532)
+
+##### [Capitulo 4-7d Step 4. Enter the Adjusted Trial Balance](#491924)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -3506,6 +3518,760 @@ When a company uses data analytics to solve a problem, it must not only extract 
 The data analytic process of loading data is in some ways similar to the preparation of the adjusted trial balance, which was illustrated in Chapter 3 and in Exhibit 14. Once the adjusted trial balance is prepared (loaded), it becomes the basis for preparing financial statements as illustrated in Exhibit 15.
 
 [El proceso analítico de datos de carga de datos es en cierto modo similar a la preparación del balance de comprobación ajustado, que se ilustró en el Capítulo 3 y en la Figura 14. Una vez que se prepara (carga) el balance de comprobación ajustado, se convierte en la base para preparar los estados financieros como se ilustra en la Figura 15.]
+
+---
+
+## Ejemplo
+
+**“Preparing a Post-Closing Trial Balance”** en contabilidad significa:
+
+> **Preparar una balanza de comprobación después de hacer los asientos de cierre**, para verificar que **solo quedaron abiertas las cuentas permanentes** y que **débitos = créditos**.
+
+En el ciclo contable, ocurre **después de cerrar** ingresos, gastos y dividendos.
+
+---
+
+## ¿Qué se hace antes?
+
+Primero haces **closing entries** (asientos de cierre).
+
+Se cierran cuentas temporales:
+
+* Revenues (Ingresos)
+* Expenses (Gastos)
+* Dividends (Dividendos)
+
+Estas quedan en **0**.
+
+Se transfieren a:
+
+* Retained Earnings (Ganancias retenidas)
+
+---
+
+## ¿Qué queda después del cierre?
+
+Solo quedan **Permanent Accounts**:
+
+| Tipo                 | Cuenta              |
+| -------------------- | ------------------- |
+| Asset                | Cash                |
+| Asset                | Accounts Receivable |
+| Asset                | Equipment           |
+| Liability            | Accounts Payable    |
+| Stockholders’ Equity | Common Stock        |
+| Stockholders’ Equity | Retained Earnings   |
+
+---
+
+## Ejemplo completo
+
+### Antes del cierre
+
+| Account             | Debit  | Credit | Type                |
+| ------------------- | ------ | ------ | ------------------- |
+| Cash                | 10,000 |        | Asset               |
+| Accounts Receivable | 2,000  |        | Asset               |
+| Equipment           | 5,000  |        | Asset               |
+| Accounts Payable    |        | 1,500  | Liability           |
+| Common Stock        |        | 10,000 | Stockholders Equity |
+| Service Revenue     |        | 4,000  | Revenue (Temporary) |
+| Salary Expense      | 1,200  |        | Expense (Temporary) |
+| Dividends           | 500    |        | Temporary           |
+
+---
+
+## Closing Entries
+
+### 1. Cerrar Revenue
+
+```text id="mjlwm5"
+Service Revenue        4,000
+     Income Summary            4,000
+```
+
+---
+
+### 2. Cerrar Expense
+
+```text id="5v4jcu"
+Income Summary        1,200
+     Salary Expense            1,200
+```
+
+---
+
+### 3. Pasar utilidad a Retained Earnings
+
+Ganancia:
+
+```text id="7kw8h9"
+4,000 - 1,200 = 2,800
+```
+
+Asiento:
+
+```text id="eznxk7"
+Income Summary        2,800
+     Retained Earnings         2,800
+```
+
+---
+
+### 4. Cerrar Dividends
+
+```text id="rdv8v6"
+Retained Earnings       500
+      Dividends                 500
+```
+
+---
+
+## Ahora haces Post-Closing Trial Balance
+
+Solo cuentas permanentes:
+
+| Account             | Debit      | Credit     | Type                |
+| ------------------- | ---------- | ---------- | ------------------- |
+| Cash                | 10,000     |            | Asset               |
+| Accounts Receivable | 2,000      |            | Asset               |
+| Equipment           | 5,000      |            | Asset               |
+| Accounts Payable    |            | 1,500      | Liability           |
+| Common Stock        |            | 10,000     | Stockholders Equity |
+| Retained Earnings   |            | 2,300      | Stockholders Equity |
+| **Total**           | **17,000** | **17,000** |                     |
+
+---
+
+## Regla importante
+
+**Nunca aparecen aquí:**
+
+❌ Revenue
+❌ Expenses
+❌ Dividends
+❌ Income Summary
+
+Porque ya fueron cerradas.
+
+---
+
+### Resumen del ciclo
+
+```text id="xnsy4s"
+Journal Entries
+↓
+Adjusting Entries
+↓
+Adjusted Trial Balance
+↓
+Financial Statements
+↓
+Closing Entries
+↓
+Post-Closing Trial Balance
+```
+
+---
+
+<h1 id="992322" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-6 Why Is the Accrual Basis of Accounting Required by GAAP?
+  </a>
+</h1>
+
+
+The accrual basis of accounting was used in this chapter and in Chapters 1, 2, and 3 to record the transactions and prepare the financial statements for NetSolutions and Kelly Consulting. Understanding why the accrual basis of accounting is required by generally accepted accounting principles (GAAP) is essential for your ability to analyze and evaluate financial statements.
+
+[El método de acumulación (o devengo) se utilizó en este capítulo y en los Capítulos 1, 2 y 3 para registrar las transacciones y preparar los estados financieros de NetSolutions y Kelly Consulting. Comprender por qué el método de acumulación es requerido por los principios de contabilidad generalmente aceptados (GAAP) es esencial para su capacidad de analizar y evaluar los estados financieros.]
+
+To understand why the accrual basis of accounting is required, it is first necessary to consider the alternative. The primary alternative to GAAP is the cash basis of accounting, which records transactions only when cash is received or paid. For example, revenue is recorded when cash is received from a customer regardless of when the services or goods have been provided or delivered. Likewise, expenses are recorded when the cash is paid regardless of when the related revenues are recorded. In other words, revenues and expenses are reported on the income statement in the period in which cash is received or paid.
+
+[Para entender por qué se requiere el método de acumulación, primero es necesario considerar la alternativa. La principal alternativa a los GAAP es el método de efectivo, que registra las transacciones solo cuando se recibe o paga efectivo. Por ejemplo, los ingresos se registran cuando se recibe efectivo de un cliente, independientemente de cuándo se hayan proporcionado o entregado los servicios o bienes. Del mismo modo, los gastos se registran cuando se paga el efectivo, independientemente de cuándo se registren los ingresos relacionados. En otras palabras, los ingresos y gastos se reportan en el estado de resultados en el período en que se recibe o paga el efectivo.]
+
+In contrast, the accrual basis of accounting uses the revenue and expense recognition principles to record revenues and expenses. Under the revenue recognition principle, revenues are recorded when earned, which is when the services have been performed or products have been delivered to customers. Under the expense recognition principle, the expenses incurred in generating revenue are recorded in the same period as the related revenue. To ensure that revenues and expenses are properly matched, adjusting entries are recorded at the end of the accounting period.
+
+[En contraste, el método de acumulación utiliza los principios de reconocimiento de ingresos y gastos para registrar los ingresos y gastos. Bajo el principio de reconocimiento de ingresos, los ingresos se registran cuando se ganan, es decir, cuando se han realizado los servicios o se han entregado los productos a los clientes. Bajo el principio de reconocimiento de gastos, los gastos incurridos para generar ingresos se registran en el mismo período que los ingresos relacionados. Para asegurar que los ingresos y gastos se correspondan adecuadamente, los asientos de ajuste se registran al final del período contable.]
+
+To illustrate, the November and December income statements for NetSolutions under the accrual and the cash bases are shown in Exhibit 19.
+
+[Para ilustrar, los estados de resultados de noviembre y diciembre de NetSolutions bajo los métodos de acumulación y de efectivo se muestran en la Figura 19.]
+
+---
+
+## Exhibit 19
+
+### Accrual- and Cash-Basis Income Statements for NetSolutions
+
+[**Figura 19** - Estados de Resultados bajo los Métodos de Acumulación y de Efectivo para NetSolutions]
+
+<!-- 📍 IMAGEN: Exhibit 19 - Accrual- and Cash-Basis Income Statements (páginas 1-3) -->
+
+![Exhibit 19 - Accrual- and Cash-Basis Income Statements](./img/021.png)
+
+# Accrual Basis
+
+## NetSolutions  
+### Income Statement  
+#### For the Month Ended November 30, 20Y3  
+
+| | Amount | Total |
+|---|---|---|
+| **Revenues:** | | |
+| Fees earned | $7,500 | |
+| **Total revenues** | | **$7,500** |
+| **Expenses:** | | |
+| Wages expense | $2,125 | |
+| Rent expense | 800 | |
+| Supplies expense | 800 | |
+| Utilities expense | 450 | |
+| Miscellaneous expense | 275 | |
+| **Total expenses** | | **$4,450** |
+| **Net income** | | **$3,050** |
+
+---
+
+# Cash Basis
+
+## NetSolutions  
+### Income Statement  
+#### For the Month Ended November 30, 20Y3  
+
+| | Amount | Total |
+|---|---|---|
+| **Revenues:** | | |
+| Fees earned | $7,500 | |
+| **Total revenues** | | **$7,500** |
+| **Expenses:** | | |
+| Wages expense | $2,125 | |
+| Supplies expense | 950 | |
+| Rent expense | 800 | |
+| Utilities expense | 450 | |
+| Miscellaneous expense | 275 | |
+| **Total expenses** | | **$4,600** |
+| **Net income** | | **$2,900** |
+
+---
+
+# Accrual Basis
+
+## NetSolutions  
+### Income Statement  
+#### For the Month Ended December 31, 20Y3  
+
+| | Amount | Total |
+|---|---|---|
+| **Revenues:** | | |
+| Fees earned | $9,340 | |
+| Rent revenue | 120 | |
+| **Total revenues** | | **$9,460** |
+| **Expenses:** | | |
+| Wages expense | $2,400 | |
+| Supplies expense | 1,240 | |
+| Rent expense | 800 | |
+| Utilities expense | 535 | |
+| Insurance expense | 200 | |
+| Depreciation expense | 50 | |
+| Miscellaneous expense | 180 | |
+| **Total expenses** | | **$5,405** |
+| **Net income** | | **$4,055** |
+
+---
+
+# Cash Basis
+
+## NetSolutions  
+### Income Statement  
+#### For the Month Ended December 31, 20Y3  
+
+| | Amount | Total |
+|---|---|---|
+| **Revenues:** | | |
+| Fees earned | $6,620 | |
+| Rent revenue | 360 | |
+| **Total revenues** | | **$6,980** |
+| **Expenses:** | | |
+| Wages expense | $2,400 | |
+| Insurance expense | 2,150 | |
+| Supplies expense | 1,850 | |
+| Rent expense | 800 | |
+| Utilities expense | 535 | |
+| Miscellaneous expense | 180 | |
+| **Total expenses** | | **$7,915** |
+| **Net loss** | | **($7,935)** |
+
+*Note: The cash-basis income statement includes only those revenues and expenses that involve actual cash receipts and payments during the period.*
+
+[*Nota: El estado de resultados bajo el método de efectivo incluye solo aquellos ingresos y gastos que implican recibos y pagos de efectivo reales durante el período.*]
+
+The November income statements are similar with net income of $3,050 and $2,900 for the accrual and cash bases, respectively. This similarity exists because NetSolutions had only one accrual accounting transaction in November, which was the November 10 purchase of supplies on account.
+
+[Los estados de resultados de noviembre son similares con un ingreso neto de $3,050 y $2,900 para los métodos de acumulación y de efectivo, respectivamente. Esta similitud existe porque NetSolutions tuvo solo una transacción de contabilidad de acumulación en noviembre, que fue la compra de suministros a crédito del 10 de noviembre.]
+
+In December, NetSolutions had a variety of accrual transactions. As a result, the December accrual net income is $4,055 compared to a net loss of $(935) under the cash basis. Which of the two December income statements better reflects the operating performance of NetSolutions? To answer this question, the November and December operating results for NetSolutions are summarized in Exhibit 20.
+
+[En diciembre, NetSolutions tuvo una variedad de transacciones de acumulación. Como resultado, el ingreso neto de diciembre bajo el método de acumulación es de $4,055 en comparación con una pérdida neta de $(935) bajo el método de efectivo. ¿Cuál de los dos estados de resultados de diciembre refleja mejor el rendimiento operativo de NetSolutions? Para responder a esta pregunta, los resultados operativos de noviembre y diciembre de NetSolutions se resumen en la Figura 20.]
+
+---
+
+## Exhibit 20
+
+### Accrual versus Cash Basis of Accounting for NetSolutions
+
+[**Figura 20** - Método de Acumulación versus Método de Efectivo para NetSolutions]
+
+<!-- 📍 IMAGEN: Exhibit 20 - Accrual versus Cash Basis (página 4) -->
+
+![Exhibit 20 - Accrual versus Cash Basis](./img/022.png)
+
+## Exhibit 20
+
+### Accrual versus Cash Basis of Accounting for NetSolutions
+
+[**Figura 20** - Método de Acumulación versus Método de Efectivo para NetSolutions]
+
+---
+
+#### Accrual Basis of Accounting
+
+| | December | November | Increase (Decrease) | Percent |
+|---|---|---|---|---|
+| | | | Amount | |
+| Revenues | $9,460 | $7,500 | $1,960 | 26.1% |
+| Expenses | (5,405) | (4,450) | 955 | 21.5% |
+| **Net income** | **$4,055** | **$3,050** | **$1,005** | **33.0%** |
+
+---
+
+#### Cash Basis of Accounting
+
+| | December | November | Increase (Decrease) | Percent |
+|---|---|---|---|---|
+| | | | Amount | |
+| Revenues | $6,980 | $7,500 | $(520) | (6.9%) |
+| Expenses | (7,915) | (4,600) | 3,315 | 72.1% |
+| **Net income (loss)** | **$(935)** | **$2,900** | **$(3,835)** | **(132.2%)** |
+
+---
+
+#### Interpretation
+
+[**Interpretación**]
+
+**Accrual Basis:** NetSolutions is profitable and rapidly expanding.
+
+[**Método de Acumulación:** NetSolutions es rentable y se está expandiendo rápidamente.]
+
+**Cash Basis:** NetSolutions is in trouble with declining revenues and increasing expenses, which generated a net loss. This suggests that NetSolutions may not be able to continue as a viable company without significant operational changes.
+
+[**Método de Efectivo:** NetSolutions está en problemas con ingresos decrecientes y gastos crecientes, lo que generó una pérdida neta. Esto sugiere que NetSolutions puede no ser capaz de continuar como una empresa viable sin cambios operativos significativos.]
+
+---
+
+### Analysis
+
+[**Análisis**]
+
+Under the accrual basis of accounting, revenues increased by 26.1% in December, while expenses increased by only 21.5%. As a result, net income increased by 33.0%. These results suggest that NetSolutions is a profitable, rapidly expanding company.
+
+[Bajo el método de acumulación, los ingresos aumentaron un 26.1% en diciembre, mientras que los gastos aumentaron solo un 21.5%. Como resultado, el ingreso neto aumentó un 33.0%. Estos resultados sugieren que NetSolutions es una empresa rentable y en rápida expansión.]
+
+Under the cash basis of accounting, revenues decreased by (6.9)%, while expenses increased by 72.1%. As a result, NetSolutions reported a net loss of $(935) or a decrease of (132.2)% from November's net income of $2,900. These results suggest that NetSolutions is in trouble and may not be able to continue as a viable company.
+
+[Bajo el método de efectivo, los ingresos disminuyeron un (6.9)%, mientras que los gastos aumentaron un 72.1%. Como resultado, NetSolutions reportó una pérdida neta de $(935) o una disminución del (132.2)% con respecto al ingreso neto de noviembre de $2,900. Estos resultados sugieren que NetSolutions está en problemas y puede no ser capaz de continuar como una empresa viable.]
+
+As shown in Exhibit 20, accrual accounting better reports the underlying operating performance of NetSolutions. It does this by better matching revenues and expenses. This is why accrual accounting is required by generally accepted accounting principles (GAAP).
+
+[Como se muestra en la Figura 20, el método de acumulación reporta mejor el rendimiento operativo subyacente de NetSolutions. Lo hace mediante una mejor correspondencia de ingresos y gastos. Esta es la razón por la cual el método de acumulación es requerido por los principios de contabilidad generalmente aceptados (GAAP).]
+
+
+
+---
+
+### Working Capital and Current Ratio
+
+[**Capital de Trabajo y Razón Corriente**]
+
+**Working capital** (The excess of the current assets of a business over its current liabilities.) is defined as:
+
+[**Capital de trabajo** (El exceso de los activos corrientes de un negocio sobre sus pasivos corrientes.) se define como:]
+
+$$
+\text{Working Capital} = \text{Current Assets} - \text{Current Liabilities}
+$$
+
+$$
+\text{Capital de Trabajo} = \text{Activos Corrientes} - \text{Pasivos Corrientes}
+$$
+
+Current assets are more liquid than long-term assets, because they can be more readily turned into cash to meet short-term obligations. Thus, an increase in a company's current assets increases or improves its liquidity because these assets are available for uses other than paying current liabilities.
+
+[Los activos corrientes son más líquidos que los activos a largo plazo, porque pueden convertirse más fácilmente en efectivo para cumplir con las obligaciones a corto plazo. Por lo tanto, un aumento en los activos corrientes de una empresa aumenta o mejora su liquidez porque estos activos están disponibles para usos distintos al pago de pasivos corrientes.]
+
+A positive working capital implies that the business is able to pay its current liabilities and is solvent. Thus, an increase in working capital increases or improves a company's short-term solvency.
+
+[Un capital de trabajo positivo implica que el negocio puede pagar sus pasivos corrientes y es solvente. Por lo tanto, un aumento en el capital de trabajo aumenta o mejora la solvencia a corto plazo de una empresa.]
+
+To illustrate, NetSolutions' working capital at the end of 20Y3 is $6,355, computed as follows from Exhibit 1:
+
+[Para ilustrar, el capital de trabajo de NetSolutions al final de 20Y3 es de $6,355, calculado de la siguiente manera a partir de la Figura 1:]
+
+$$
+\text{Working Capital} = \text{Current Assets} - \text{Current Liabilities}
+$$
+
+$$
+\text{Capital de Trabajo} = \text{Activos Corrientes} - \text{Pasivos Corrientes}
+$$
+
+$$
+= \$7,745 - \$1,390
+$$
+
+$$
+= \$6,355
+$$
+
+This amount of working capital implies that NetSolutions is able to pay its current liabilities.
+
+[Este monto de capital de trabajo implica que NetSolutions puede pagar sus pasivos corrientes.]
+
+The **current ratio** (A financial ratio that expresses the relationship between current assets and current liabilities, computed by dividing current assets by current liabilities.) is another means of expressing the relationship between current assets and current liabilities. The current ratio is computed by dividing current assets by current liabilities:
+
+[La **razón corriente** (un ratio financiero que expresa la relación entre los activos corrientes y los pasivos corrientes, calculado dividiendo los activos corrientes entre los pasivos corrientes) es otro medio de expresar la relación entre los activos corrientes y los pasivos corrientes. La razón corriente se calcula dividiendo los activos corrientes entre los pasivos corrientes:]
+
+$$
+\text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
+$$
+
+$$
+\text{Razón Corriente} = \frac{\text{Activos Corrientes}}{\text{Pasivos Corrientes}}
+$$
+
+To illustrate, the current ratio for NetSolutions on December 31, 20Y3 is 5.6, computed as follows:
+
+[Para ilustrar, la razón corriente para NetSolutions al 31 de diciembre de 20Y3 es de 5.6, calculada de la siguiente manera:]
+
+$$
+\text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
+$$
+
+$$
+\text{Razón Corriente} = \frac{\$7,745}{\$1,390}
+$$
+
+$$
+= 5.57
+$$
+
+The current ratio is more useful than working capital in making comparisons across companies or with industry averages.
+
+[La razón corriente es más útil que el capital de trabajo para hacer comparaciones entre empresas o con promedios de la industria.]
+
+---
+
+## Make a Decision
+
+### Working Capital and Current Ratio
+
+[**Tome una Decisión - Capital de Trabajo y Razón Corriente**]
+
+- Analyze and compare Amazon.com to Best Buy (MAD 4-1) (Continuing company analysis)
+- Analyze and compare Zynga, Electronic Arts, and Take-Two (MAD 4-2)
+- Analyze and compare Foot Locker and Dick's Sporting Goods (MAD 4-3)
+- Analyze Under Armour (MAD 4-4)
+- Analyze Caterpillar Inc. (MAD 4-5)
+- Analyze and compare Alphabet (Google) and Microsoft (MAD 4-6)
+
+---
+
+<h1 id="509305" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-7 Appendix 1 End-of-Period Spreadsheet
+  </a>
+</h1>
+
+# 4-7 Appendix 1 End-of-Period Spreadsheet
+
+Accountants often use spreadsheets for analyzing and summarizing data. Such spreadsheets are not a formal part of the accounting records. This is in contrast to the chart of accounts, the journal, and the ledger, which are essential parts of an accounting system. Spreadsheets are usually prepared by using a computer program such as Microsoft's Excel.
+
+[Los contadores suelen utilizar hojas de cálculo para analizar y resumir datos. Estas hojas de cálculo no son una parte formal de los registros contables. Esto contrasta con el catálogo de cuentas, el diario y el libro mayor, que son partes esenciales de un sistema contable. Las hojas de cálculo generalmente se preparan utilizando un programa de computadora como Microsoft Excel.]
+
+**Objective 8** - Describe and illustrate the end-of-period spreadsheet.
+
+[**Objetivo 8** - Describir e ilustrar la hoja de cálculo de fin de período.]
+
+As illustrated earlier in this chapter, an end-of-period spreadsheet is used to summarize adjusting entries and their effects on the accounts. As illustrated in the chapter, the financial statements for NetSolutions can be prepared directly from the spreadsheet's Adjusted Trial Balance columns shown in Exhibit 1.
+
+[Como se ilustró anteriormente en este capítulo, una hoja de cálculo de fin de período se utiliza para resumir los asientos de ajuste y sus efectos en las cuentas. Como se ilustró en el capítulo, los estados financieros para NetSolutions se pueden preparar directamente a partir de las columnas del Balance de Comprobación Ajustado de la hoja de cálculo que se muestran en la Figura 1.]
+
+## Exhibit 1
+<img src="./img/023.png" width="800"></img>
+
+Some accountants prefer to expand the end-of-period spreadsheet shown in Exhibit 1 to include financial statement columns. Exhibits 21, 22, 23, 24, and 25 illustrate the step-by-step process of how to prepare this spreadsheet. As a basis for illustration, NetSolutions is used.
+
+[Algunos contadores prefieren expandir la hoja de cálculo de fin de período que se muestra en la Figura 1 para incluir columnas de estados financieros. Las Figuras 21, 22, 23, 24 y 25 ilustran el proceso paso a paso de cómo preparar esta hoja de cálculo. Como base para la ilustración, se utiliza NetSolutions.]
+
+## Exhibit 21
+
+<img src="./img/024.png" width="800"></img>
+
+## Exhibit 22
+
+<img src="./img/025.png" width="800"></img>
+
+## Exhibit 23
+
+<img src="./img/026.png" width="800"></img>
+
+## Exhibit 24
+
+<img src="./img/027.png" width="800"></img>
+
+## Exhibit 25
+
+<img src="./img/028.png" width="800"></img>
+
+---
+
+<h1 id="873627" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-7a Step 1. Enter the Title
+  </a>
+</h1>
+
+The spreadsheet is started by entering the following data:
+
+[La hoja de cálculo se inicia ingresando los siguientes datos:]
+
+1. Name of the business: NetSolutions  
+   Nombre del negocio: NetSolutions  
+
+2. Type of spreadsheet: End-of-Period Spreadsheet  
+   Tipo de hoja de cálculo: Hoja de Cálculo de Fin de Período  
+
+3. The period of time: For the Two Months Ended December 31, 20Y3  
+   Período de tiempo: Para los Dos Meses Terminados el 31 de Diciembre de 20Y3  
+
+Exhibit 21 shows the preceding data entered for NetSolutions.
+
+[La Figura 21 muestra los datos anteriores ingresados para NetSolutions.]
+
+---
+
+## Exhibit 21
+
+### Spreadsheet with Unadjusted Trial Balance Entered
+
+[**Figura 21** - Hoja de Cálculo con Balance de Comprobación No Ajustado Ingresado]
+
+<!-- 📍 IMAGEN: Exhibit 21 - Spreadsheet with Unadjusted Trial Balance (página 1) -->
+
+![Exhibit 21 - Spreadsheet with Unadjusted Trial Balance](./img/029.png)
+
+| | | | NetSolutions | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| | | | End-of-Period Spreadsheet | | | | | |
+| | | | For the Two Months Ended December 31, 20Y3 | | | | | |
+| | | | Unadjusted | | | | | |
+| | | | Trial Balance | | | | | |
+| | Account Title | | Dr. | Cr. | | | | |
+| | Cash | | 2,065 | | | | | |
+| | Accounts Receivable | | 2,220 | | | | | |
+| | Supplies | | 2,000 | | | | | |
+| | Prepaid Insurance | | 2,400 | | | | | |
+| | Land | | 20,000 | | | | | |
+| | Office Equipment | | 1,800 | | | | | |
+| | Accum. Depr.—Office Equip. | | | | | | | |
+| | Accounts Payable | | | 900 | | | | |
+| | Wages Payable | | | | | | | |
+| | Unearned Rent | | | 360 | | | | |
+| | Common Stock | | | 25,000 | | | | |
+| | Dividends | | 4,000 | | | | | |
+| | Fees Earned | | | 16,340 | | | | |
+| | Rent Revenue | | | | | | | |
+| | Wages Expense | | 4,275 | | | | | |
+| | Supplies Expense | | 800 | | | | | |
+| | Rent Expense | | 1,600 | | | | | |
+| | Utilities Expense | | 985 | | | | | |
+| | Insurance Expense | | | | | | | |
+| | Depreciation Expense | | | | | | | |
+| | Miscellaneous Expense | | 455 | | | | | |
+| | | | **42,600** | **42,600** | | | | |
+
+---
+
+<h1 id="177279" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-7b Step 2. Enter the Unadjusted Trial Balance
+  </a>
+</h1>
+
+
+Enter the unadjusted trial balance on the spreadsheet. The spreadsheet in Exhibit 21 shows the unadjusted trial balance for NetSolutions at December 31, 20Y3.
+
+[Ingrese el balance de comprobación no ajustado en la hoja de cálculo. La hoja de cálculo en la Figura 21 muestra el balance de comprobación no ajustado para NetSolutions al 31 de diciembre de 20Y3.]
+
+
+## Exhibit 21
+<img src="./img/030.png" width="800"></img>
+---
+
+<h1 id="926532" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-7c Step 3. Enter the Adjustments
+  </a>
+</h1>
+
+# 4-7c Step 3. Enter the Adjustments
+
+The adjustments for NetSolutions from Chapter 3 are entered in the Adjustments columns, as shown in Exhibit 22. Cross-referencing (by letters) the debit and credit of each adjustment is useful in reviewing the spreadsheet. It is also helpful for identifying the adjusting entries that need to be recorded in the journal. This cross-referencing process is sometimes referred to as keying the adjustments.
+
+[Los ajustes para NetSolutions del Capítulo 3 se ingresan en las columnas de Ajustes, como se muestra en la Figura 22. La referencia cruzada (mediante letras) del débito y crédito de cada ajuste es útil para revisar la hoja de cálculo. También es útil para identificar los asientos de ajuste que deben registrarse en el diario. Este proceso de referencia cruzada a veces se denomina codificación de los ajustes.]
+
+---
+
+## Exhibit 22
+
+### Spreadsheet with Unadjusted Trial Balance and Adjustments
+
+[**Figura 22** - Hoja de Cálculo con Balance de Comprobación No Ajustado y Ajustes]
+
+<!-- 📍 IMAGEN: Exhibit 22 - Spreadsheet with Unadjusted Trial Balance and Adjustments (páginas 1-2) -->
+
+![Exhibit 22 - Spreadsheet with Unadjusted Trial Balance and Adjustments](./img/031.png)
+
+| | | | NetSolutions | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| | | | End-of-Period Spreadsheet | | | | | |
+| | | | For the Two Months Ended December 31, 20Y3 | | | | | |
+| | | | Unadjusted | | Adjustments | | | |
+| | | | Trial Balance | | | | | |
+| | Account Title | | Dr. | Cr. | Dr. | Cr. | | |
+| | Cash | | 2,065 | | | | | |
+| | Accounts Receivable | | 2,220 | | (d) 500 | | | |
+| | Supplies | | 2,000 | | | (a) 1,240 | | |
+| | Prepaid Insurance | | 2,400 | | | (b) 200 | | |
+| | Land | | 20,000 | | | | | |
+| | Office Equipment | | 1,800 | | | | | |
+| | Accum. Depr.—Office Equip. | | | | | (f) 50 | | |
+| | Accounts Payable | | | 900 | | | | |
+| | Wages Payable | | | | | (e) 250 | | |
+| | Unearned Rent | | | 360 | (c) 120 | | | |
+| | Common Stock | | | 25,000 | | | | |
+| | Dividends | | 4,000 | | | | | |
+| | Fees Earned | | | 16,340 | | (d) 500 | | |
+| | Rent Revenue | | | | | (c) 120 | | |
+| | Wages Expense | | 4,275 | | (e) 250 | | | |
+| | Supplies Expense | | 800 | | (a) 1,240 | | | |
+| | Rent Expense | | 1,600 | | | | | |
+| | Utilities Expense | | 985 | | | | | |
+| | Insurance Expense | | | | (b) 200 | | | |
+| | Depreciation Expense | | | | (f) 50 | | | |
+| | Miscellaneous Expense | | 455 | | | | | |
+| | | | **42,600** | **42,600** | **2,360** | **2,360** | | |
+
+---
+
+### Explanation of Adjustments
+
+[**Explicación de los Ajustes**]
+
+**(a) Supplies.** The supplies account has a debit balance of $2,000. The cost of the supplies on hand at the end of the period is $760. The supplies expense for December is the difference between the two amounts, or $1,240 ($2,000 - $760). The adjustment is entered as (1) $1,240 in the Adjustments Debit column on the same line as Supplies Expense and (2) $1,240 in the Adjustments Credit column on the same line as Supplies.
+
+[**(a) Suministros.** La cuenta de suministros tiene un saldo deudor de $2,000. El costo de los suministros disponibles al final del período es de $760. El gasto de suministros para diciembre es la diferencia entre los dos montos, o $1,240 ($2,000 - $760). El ajuste se ingresa como (1) $1,240 en la columna Débito de Ajustes en la misma línea que Gasto de Suministros y (2) $1,240 en la columna Crédito de Ajustes en la misma línea que Suministros.]
+
+**(b) Prepaid Insurance.** The prepaid insurance account has a debit balance of $2,400. This balance represents the prepayment of insurance for 12 months beginning December 1. Thus, the insurance expense for December is $200 ($2,400 ÷ 12). The adjustment is entered as (1) $200 in the Adjustments Debit column on the same line as Insurance Expense and (2) $200 in the Adjustments Credit column on the same line as Prepaid Insurance.
+
+[**(b) Seguro Pagado por Adelantado.** La cuenta de seguro pagado por adelantado tiene un saldo deudor de $2,400. Este saldo representa el pago anticipado de seguro por 12 meses a partir del 1 de diciembre. Por lo tanto, el gasto de seguro para diciembre es de $200 ($2,400 ÷ 12). El ajuste se ingresa como (1) $200 en la columna Débito de Ajustes en la misma línea que Gasto de Seguro y (2) $200 en la columna Crédito de Ajustes en la misma línea que Seguro Pagado por Adelantado.]
+
+**(c) Unearned Rent.** The unearned rent account has a credit balance of $360. This balance represents the receipt of three months' rent, beginning with December. Thus, the rent revenue for December is $120 ($360 ÷ 3). The adjustment is entered as (1) $120 in the Adjustments Debit column on the same line as Unearned Rent and (2) $120 in the Adjustments Credit column on the same line as Rent Revenue.
+
+[**(c) Renta No Devengada.** La cuenta de renta no devengada tiene un saldo acreedor de $360. Este saldo representa la recepción de tres meses de renta, comenzando con diciembre. Por lo tanto, el ingreso por renta para diciembre es de $120 ($360 ÷ 3). El ajuste se ingresa como (1) $120 en la columna Débito de Ajustes en la misma línea que Renta No Devengada y (2) $120 en la columna Crédito de Ajustes en la misma línea que Ingresos por Renta.]
+
+**(d) Accrued Fees.** Fees accrued at the end of December but not recorded total $500. This amount is an increase in an asset and an increase in revenue. The adjustment is entered as (1) $500 in the Adjustments Debit column on the same line as Accounts Receivable and (2) $500 in the Adjustments Credit column on the same line as Fees Earned.
+
+[**(d) Honorarios Devengados.** Los honorarios devengados al final de diciembre pero no registrados totalizan $500. Este monto es un aumento en un activo y un aumento en los ingresos. El ajuste se ingresa como (1) $500 en la columna Débito de Ajustes en la misma línea que Cuentas por Cobrar y (2) $500 en la columna Crédito de Ajustes en la misma línea que Ingresos por Servicios.]
+
+**(e) Wages.** Wages accrued but not paid at the end of December total $250. This amount is an increase in expenses and an increase in liabilities. The adjustment is entered as (1) $250 in the Adjustments Debit column on the same line as Wages Expense and (2) $250 in the Adjustments Credit column on the same line as Wages Payable.
+
+[**(e) Sueldos.** Los sueldos devengados pero no pagados al final de diciembre totalizan $250. Este monto es un aumento en los gastos y un aumento en los pasivos. El ajuste se ingresa como (1) $250 en la columna Débito de Ajustes en la misma línea que Gasto de Sueldos y (2) $250 en la columna Crédito de Ajustes en la misma línea que Sueldos por Pagar.]
+
+**(f) Depreciation.** Depreciation of the office equipment is $50 for December. The adjustment is entered as (1) $50 in the Adjustments Debit column on the same line as Depreciation Expense and (2) $50 in the Adjustments Credit column on the same line as Accumulated Depreciation—Office Equipment.
+
+[**(f) Depreciación.** La depreciación del equipo de oficina es de $50 para diciembre. El ajuste se ingresa como (1) $50 en la columna Débito de Ajustes en la misma línea que Gasto de Depreciación y (2) $50 en la columna Crédito de Ajustes en la misma línea que Depreciación Acumulada—Equipo de Oficina.]
+
+After the adjustments have been entered, the Adjustments columns are totaled to verify the equality of the debits and credits. The total of the Debit column must equal the total of the Credit column.
+
+[Después de que se han ingresado los ajustes, las columnas de Ajustes se totalizan para verificar la igualdad de los débitos y créditos. El total de la columna Débito debe ser igual al total de la columna Crédito.]
+
+---
+
+<h1 id="491924" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-7d Step 4. Enter the Adjusted Trial Balance
+  </a>
+</h1>
+
+The adjusted trial balance is entered by combining the adjustments with the unadjusted balances for each account. The adjusted amounts are then extended to the Adjusted Trial Balance columns, as shown in Exhibit 23.
+
+[El balance de comprobación ajustado se ingresa combinando los ajustes con los saldos no ajustados para cada cuenta. Los montos ajustados luego se extienden a las columnas del Balance de Comprobación Ajustado, como se muestra en la Figura 23.]
+
+---
+
+## Exhibit 23
+
+### Spreadsheet with Unadjusted Trial Balance, Adjustments, and Adjusted Trial Balance Entered
+
+[**Figura 23** - Hoja de Cálculo con Balance de Comprobación No Ajustado, Ajustes y Balance de Comprobación Ajustado Ingresados]
+
+<!-- 📍 IMAGEN: Exhibit 23 - Spreadsheet with Unadjusted Trial Balance, Adjustments, and Adjusted Trial Balance (páginas 1-2) -->
+
+![Exhibit 23 - Spreadsheet with Unadjusted Trial Balance, Adjustments, and Adjusted Trial Balance](./img/032.png)
+
+| | | | NetSolutions | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | | | End-of-Period Spreadsheet | | | | | | |
+| | | | For the Two Months Ended December 31, 20Y3 | | | | | | |
+| | | | Unadjusted | | Adjustments | | Adjusted | | |
+| | | | Trial Balance | | | | Trial Balance | | |
+| | Account Title | | Dr. | Cr. | Dr. | Cr. | Dr. | Cr. | |
+| | Cash | | 2,065 | | | | 2,065 | | |
+| | Accounts Receivable | | 2,220 | | (d) 500 | | 2,720 | | |
+| | Supplies | | 2,000 | | | (a) 1,240 | 760 | | |
+| | Prepaid Insurance | | 2,400 | | | (b) 200 | 2,200 | | |
+| | Land | | 20,000 | | | | 20,000 | | |
+| | Office Equipment | | 1,800 | | | | 1,800 | | |
+| | Accum. Depr.—Office Equip. | | | | | (f) 50 | | 50 | |
+| | Accounts Payable | | | 900 | | | | 900 | |
+| | Wages Payable | | | | | (e) 250 | | 250 | |
+| | Unearned Rent | | | 360 | (c) 120 | | | 240 | |
+| | Common Stock | | | 25,000 | | | | 25,000 | |
+| | Dividends | | 4,000 | | | | 4,000 | | |
+| | Fees Earned | | | 16,340 | | (d) 500 | | 16,840 | |
+| | Rent Revenue | | | | | (c) 120 | | 120 | |
+| | Wages Expense | | 4,275 | | (e) 250 | | 4,525 | | |
+| | Supplies Expense | | 800 | | (a) 1,240 | | 2,040 | | |
+| | Rent Expense | | 1,600 | | | | 1,600 | | |
+| | Utilities Expense | | 985 | | | | 985 | | |
+| | Insurance Expense | | | | (b) 200 | | 200 | | |
+| | Depreciation Expense | | | | (f) 50 | | 50 | | |
+| | Miscellaneous Expense | | 455 | | | | 455 | | |
+| | | | **42,600** | **42,600** | **2,360** | **2,360** | **43,400** | **43,400** | |
+
+---
+
+### Explanation of Extended Amounts
+
+[**Explicación de los Montos Extendidos**]
+
+To illustrate, the cash amount of $2,065 is extended to the Adjusted Trial Balance Debit column since no adjustments affected Cash. Accounts Receivable has an initial balance of $2,220 and a debit adjustment of $500. Thus, $2,720 ($2,220 + $500) is entered in the Adjusted Trial Balance Debit column for Accounts Receivable. The same process continues until all account balances are extended to the Adjusted Trial Balance columns.
+
+[Para ilustrar, el monto de efectivo de $2,065 se extiende a la columna Débito del Balance de Comprobación Ajustado ya que ningún ajuste afectó al Efectivo. Cuentas por Cobrar tiene un saldo inicial de $2,220 y un ajuste deudor de $500. Por lo tanto, se ingresa $2,720 ($2,220 + $500) en la columna Débito del Balance de Comprobación Ajustado para Cuentas por Cobrar. El mismo proceso continúa hasta que todos los saldos de las cuentas se extienden a las columnas del Balance de Comprobación Ajustado.]
+
+After the accounts and adjustments have been extended, the Adjusted Trial Balance columns are totaled to verify the equality of debits and credits. The total of the Debit column must equal the total of the Credit column.
+
+[Después de que las cuentas y los ajustes se han extendido, las columnas del Balance de Comprobación Ajustado se totalizan para verificar la igualdad de débitos y créditos. El total de la columna Débito debe ser igual al total de la columna Crédito.]
 
 ---
 
