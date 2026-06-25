@@ -60,6 +60,8 @@
 
 ##### [Capitulo 4-7g Preparing the Financial Statements from the Spreadsheet](#303764)
 
+##### [Capitulo 4-8 Appendix 2 Statement of Cash Flows for NetSolutions](#403313)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -5265,4 +5267,112 @@ When a spreadsheet is used, the adjusting and closing entries are normally not j
 <img src="./img/035.png" width="800"></img>
 ---
 
+<h1 id="403313" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-8 Appendix 2 Statement of Cash Flows for NetSolutions
+  </a>
+</h1>
 
+
+The statement of cash flows that would accompany the NetSolutions' income statement, statement of stockholders' equity, and balance sheet is shown in Exhibit 26.
+
+[El estado de flujos de efectivo que acompañaría al estado de resultados, al estado de cambios en el capital contable y al balance general de NetSolutions se muestra en la Figura 26.]
+
+**Objective 9** - Prepare a statement of cash flows from a cash account.
+
+[**Objetivo 9** - Preparar un estado de flujos de efectivo a partir de una cuenta de efectivo.]
+
+---
+
+## Exhibit 26
+
+### Statement of Cash Flows for NetSolutions
+
+[**Figura 26** - Estado de Flujos de Efectivo para NetSolutions]
+
+<!-- 📍 IMAGEN: Exhibit 26 - Statement of Cash Flows (página 1) -->
+
+![Exhibit 26 - Statement of Cash Flows](./img/026.png)
+
+#### NetSolutions
+#### Statement of Cash Flows
+#### For the Two Months Ended December 31, 20Y3
+
+[**NetSolutions**
+**Estado de Flujos de Efectivo**
+**Para los Dos Meses Terminados el 31 de Diciembre de 20Y3**]
+
+| | |
+|--|--|
+| **Cash flows from operating activities:** [**Flujos de efectivo de actividades de operación:**] | |
+| Cash received from customers | $10,570 |
+| Cash payments for expenses and creditors | (5,900) |
+| **Net cash flows from operating activities** [**Flujos de efectivo netos de actividades de operación**] | **$4,670** |
+| | |
+| **Cash flows from investing activities:** [**Flujos de efectivo de actividades de inversión:**] | |
+| Purchase of land | (20,000) |
+| **Net cash flows from investing activities** [**Flujos de efectivo netos de actividades de inversión**] | **(20,000)** |
+| | |
+| **Cash flows from financing activities:** [**Flujos de efectivo de actividades de financiamiento:**] | |
+| Cash received from issuing common stock | 25,000 |
+| Payment of dividends | (2,000) |
+| **Net cash flows from financing activities** [**Flujos de efectivo netos de actividades de financiamiento**] | **23,000** |
+| | |
+| **Net increase in cash** [**Aumento neto en efectivo**] | **$7,670** |
+| Cash balance, November 1, 20Y3 | 0 |
+| **Cash balance, December 31, 20Y3** [**Saldo de efectivo, 31 de Diciembre de 20Y3**] | **$7,670** |
+
+The cash balance on December 31, 20Y3, of $7,670 is also reported on the December 31, 20Y3, balance sheet shown in Exhibit 2.
+
+[El saldo de efectivo al 31 de diciembre de 20Y3 de $7,670 también se reporta en el balance general del 31 de diciembre de 20Y3 que se muestra en la Figura 2.]
+
+---
+
+### Classification of Cash Flows
+
+[**Clasificación de los Flujos de Efectivo**]
+
+The statement of cash flows shown in Exhibit 26 was prepared by classifying the November and December cash transactions of NetSolutions into operating, investing, or financing activities as follows:
+
+[El estado de flujos de efectivo que se muestra en la Figura 26 se preparó clasificando las transacciones de efectivo de noviembre y diciembre de NetSolutions en actividades de operación, inversión o financiamiento de la siguiente manera:]
+
+<!-- 📍 IMAGEN: Exhibit 26 - Statement of Cash Flows (página 2) -->
+
+![Exhibit 26 - Statement of Cash Flows (continued)](./img/027.png)
+
+#### Cash Flows from Operating Activities
+
+[**Flujos de Efectivo de Actividades de Operación**]
+
+| Transaction | Cash Received | Cash Paid |
+|-------------|---------------|-----------|
+| Cash received from customers | $10,570 | |
+| Cash payment for expenses | | (5,900) |
+| **Net cash flows from operating activities** | | **$4,670** |
+
+#### Cash Flows from Investing Activities
+
+[**Flujos de Efectivo de Actividades de Inversión**]
+
+| Transaction | Cash Received | Cash Paid |
+|-------------|---------------|-----------|
+| Purchase of land | | (20,000) |
+| **Net cash flows from investing activities** | | **(20,000)** |
+
+#### Cash Flows from Financing Activities
+
+[**Flujos de Efectivo de Actividades de Financiamiento**]
+
+| Transaction | Cash Received | Cash Paid |
+|-------------|---------------|-----------|
+| Cash received from issuing common stock | $25,000 | |
+| Payment of dividends | | (2,000) |
+| **Net cash flows from financing activities** | | **$23,000** |
+
+---
+
+**Chapter 4: Completing the Accounting Cycle: 4-8 Appendix 2 Statement of Cash Flows for NetSolutions**
+
+*Book Title: Financial and Managerial Accounting*
+*Printed By: Raydel Castro Guerra (raydel.castro001@mymdc.net)*
+*© 2023 Cengage Learning, Cengage Learning*
