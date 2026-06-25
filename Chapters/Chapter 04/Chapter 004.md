@@ -5482,179 +5482,164 @@ The statement of cash flows shown in Exhibit 26 was prepared by classifying the 
 
 [**Clasificación de Transacciones de Efectivo**]
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gcth{background-color:#32cb00;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
-.tg .tg-bd2r{background-color:#32cb00;border-color:inherit;color:#333333;text-align:left;vertical-align:top}
-.tg .tg-pc06{background-color:#ffcb2f;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
-.tg .tg-gia6{background-color:#fe996b;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
-.tg .tg-ghib{background-color:#ffc702;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
-.tg .tg-fnaw{background-color:#ffcb2f;border-color:inherit;color:#333333;text-align:left;vertical-align:top}
-.tg .tg-wzpn{background-color:#fe996b;border-color:inherit;color:#333333;text-align:right;vertical-align:top}
-.tg .tg-b9g5{background-color:#ffc702;border-color:inherit;color:#333333;text-align:left;vertical-align:top}
-</style>
-<table class="tg"><thead>
+<table><thead>
   <tr>
-    <th class="tg-gcth">Type of Activity</th>
-    <th class="tg-pc06">Transaction</th>
-    <th class="tg-gia6" colspan="4">Cash</th>
-    <th class="tg-ghib">Transaction</th>
-    <th class="tg-gcth">Type of Activity</th>
+    <th>Type of Activity</th>
+    <th>Transaction</th>
+    <th colspan="4">Cash</th>
+    <th>Transaction</th>
+    <th>Type of Activity</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-bd2r">Financing</td>
-    <td class="tg-fnaw">Issued common stock</td>
-    <td class="tg-wzpn">Nov. 1</td>
-    <td class="tg-wzpn"> 25,000</td>
-    <td class="tg-wzpn">Nov. 5</td>
-    <td class="tg-wzpn">20,000</td>
-    <td class="tg-b9g5">Purchased land</td>
-    <td class="tg-bd2r">Investing</td>
+    <td>Financing</td>
+    <td>Issued common stock</td>
+    <td>Nov. 1</td>
+    <td> 25,000</td>
+    <td>Nov. 5</td>
+    <td>20,000</td>
+    <td>Purchased land</td>
+    <td>Investing</td>
   </tr>
   <tr>
-    <td class="tg-bd2r">Operating</td>
-    <td class="tg-fnaw">Received cash from customers</td>
-    <td class="tg-wzpn">18</td>
-    <td class="tg-wzpn">7,500</td>
-    <td class="tg-wzpn">30</td>
-    <td class="tg-wzpn">3,650</td>
-    <td class="tg-b9g5">Paid expenses</td>
-    <td class="tg-bd2r">Operating</td>
+    <td>Operating</td>
+    <td>Received cash from customers</td>
+    <td>18</td>
+    <td>7,500</td>
+    <td>30</td>
+    <td>3,650</td>
+    <td>Paid expenses</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">30</td>
-    <td class="tg-wzpn">950</td>
-    <td class="tg-b9g5">Paid accounts payable</td>
-    <td class="tg-bd2r">Operating</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>30</td>
+    <td>950</td>
+    <td>Paid accounts payable</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">30</td>
-    <td class="tg-wzpn">2,000</td>
-    <td class="tg-b9g5">Paid dividends</td>
-    <td class="tg-bd2r">Financing</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>30</td>
+    <td>2,000</td>
+    <td>Paid dividends</td>
+    <td>Financing</td>
   </tr>
   <tr>
-    <td class="tg-bd2r">Operating</td>
-    <td class="tg-fnaw">Received rent from land</td>
-    <td class="tg-wzpn">Nov. 30 Bal. </td>
-    <td class="tg-wzpn">5,900</td>
-    <td class="tg-wzpn">Dec. 1</td>
-    <td class="tg-wzpn">2,400</td>
-    <td class="tg-b9g5">Paid insurance premiums (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td>Operating</td>
+    <td>Received rent from land</td>
+    <td>Nov. 30 Bal. </td>
+    <td>5,900</td>
+    <td>Dec. 1</td>
+    <td>2,400</td>
+    <td>Paid insurance premiums (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn">Dec.</td>
-    <td class="tg-wzpn">1 360</td>
-    <td class="tg-wzpn">1</td>
-    <td class="tg-wzpn">800</td>
-    <td class="tg-b9g5">Paid office rent (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td></td>
+    <td></td>
+    <td>Dec.</td>
+    <td>1 360</td>
+    <td>1</td>
+    <td>800</td>
+    <td>Paid office rent (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">6</td>
-    <td class="tg-wzpn">180</td>
-    <td class="tg-b9g5">Paid miscellaneous expenses</td>
-    <td class="tg-bd2r">Operating</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>6</td>
+    <td>180</td>
+    <td>Paid miscellaneous expenses</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">11</td>
-    <td class="tg-wzpn">400</td>
-    <td class="tg-b9g5">Paid accounts payable (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>11</td>
+    <td>400</td>
+    <td>Paid accounts payable (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">13</td>
-    <td class="tg-wzpn">950</td>
-    <td class="tg-b9g5">Paid wages (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>13</td>
+    <td>950</td>
+    <td>Paid wages (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r">Operating</td>
-    <td class="tg-fnaw">Received cash from customers</td>
-    <td class="tg-wzpn">16</td>
-    <td class="tg-wzpn">3,100</td>
-    <td class="tg-wzpn">20</td>
-    <td class="tg-wzpn">900</td>
-    <td class="tg-b9g5">Paid account payable (office equip.)</td>
-    <td class="tg-bd2r">Investing</td>
+    <td>Operating</td>
+    <td>Received cash from customers</td>
+    <td>16</td>
+    <td>3,100</td>
+    <td>20</td>
+    <td>900</td>
+    <td>Paid account payable (office equip.)</td>
+    <td>Investing</td>
   </tr>
   <tr>
-    <td class="tg-bd2r">Operating</td>
-    <td class="tg-fnaw">Received cash from customers</td>
-    <td class="tg-wzpn">21</td>
-    <td class="tg-wzpn">650</td>
-    <td class="tg-wzpn">23</td>
-    <td class="tg-wzpn">1,450</td>
-    <td class="tg-b9g5">Purchased supplies (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td>Operating</td>
+    <td>Received cash from customers</td>
+    <td>21</td>
+    <td>650</td>
+    <td>23</td>
+    <td>1,450</td>
+    <td>Purchased supplies (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">27</td>
-    <td class="tg-wzpn">1,200</td>
-    <td class="tg-b9g5">Paid wages (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>27</td>
+    <td>1,200</td>
+    <td>Paid wages (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r">Operating</td>
-    <td class="tg-fnaw">Received cash from customers</td>
-    <td class="tg-wzpn">31</td>
-    <td class="tg-wzpn">2,870</td>
-    <td class="tg-wzpn">31</td>
-    <td class="tg-wzpn">310</td>
-    <td class="tg-b9g5">Paid utilities (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td>Operating</td>
+    <td>Received cash from customers</td>
+    <td>31</td>
+    <td>2,870</td>
+    <td>31</td>
+    <td>310</td>
+    <td>Paid utilities (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">31</td>
-    <td class="tg-wzpn">225</td>
-    <td class="tg-b9g5">Paid utilities (expense)</td>
-    <td class="tg-bd2r">Operating</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>31</td>
+    <td>225</td>
+    <td>Paid utilities (expense)</td>
+    <td>Operating</td>
   </tr>
   <tr>
-    <td class="tg-bd2r"></td>
-    <td class="tg-fnaw"></td>
-    <td class="tg-wzpn">Dec. 31 Bal.</td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn"></td>
-    <td class="tg-wzpn">2,065</td>
-    <td class="tg-b9g5">31 2,000</td>
-    <td class="tg-bd2r">Paid dividends</td>
+    <td></td>
+    <td></td>
+    <td>Dec. 31 Bal.</td>
+    <td></td>
+    <td></td>
+    <td>2,065</td>
+    <td>31 2,000</td>
+    <td>Paid dividends</td>
   </tr>
 </tbody></table>
 
