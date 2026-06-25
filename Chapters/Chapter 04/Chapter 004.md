@@ -40,6 +40,8 @@
 
 ##### [Capitulo 4-5i Step 9. Journalizing and Posting Closing Entries](#291343)
 
+##### [Capitulo 4-5j Step 10. Preparing a Post-Closing Trial Balance](#839184)
+
 ---
 
 <h1 id="197654" style="color:#E65100;">
@@ -3189,3 +3191,321 @@ The financial statements for Kelly Consulting are shown in Exhibit 15. Kelly Con
     4-5i Step 9. Journalizing and Posting Closing Entries
   </a>
 </h1>
+
+
+As described earlier in this chapter, two closing entries are required at the end of an accounting period. These two closing entries are as follows:
+
+[Como se describió anteriormente en este capítulo, se requieren dos asientos de cierre al final de un período contable. Estos dos asientos de cierre son los siguientes:]
+
+**Closing Entry (1):** Debit each revenue account for its balance, credit each expense account for its balance, and credit (net income) or debit (net loss) the retained earnings account.
+
+[**Asiento de Cierre (1):** Debitar cada cuenta de ingreso por su saldo, acreditar cada cuenta de gasto por su saldo, y acreditar (ingreso neto) o debitar (pérdida neta) la cuenta de ganancias retenidas.]
+
+**Closing Entry (2):** Debit the retained earnings account for the balance of the dividends account, and credit the dividends account for its balance.
+
+[**Asiento de Cierre (2):** Debitar la cuenta de ganancias retenidas por el saldo de la cuenta de dividendos, y acreditar la cuenta de dividendos por su saldo.]
+
+The two closing entries for Kelly Consulting are shown in Exhibit 16. The closing entries are posted to Kelly Consulting's ledger as shown in Exhibit 18. After the closing entries are posted, Kelly Consulting's ledger has the following characteristics:
+
+[Los dos asientos de cierre para Kelly Consulting se muestran en la Figura 16. Los asientos de cierre se traspasan al libro mayor de Kelly Consulting como se muestra en la Figura 18. Después de que se traspasan los asientos de cierre, el libro mayor de Kelly Consulting tiene las siguientes características:]
+
+- The balance of Retained Earnings of $12,300 agrees with the amount reported on the statement of stockholders' equity and the balance sheet.
+- The revenue, expense, and dividends accounts will have zero balances.
+
+[- El saldo de Ganancias Retenidas de $12,300 coincide con el monto reportado en el estado de cambios en el capital contable y el balance general.
+- Las cuentas de ingresos, gastos y dividendos tendrán saldos cero.]
+
+---
+
+## Exhibit 16
+
+### Closing Entries, Kelly Consulting
+
+[**Figura 16** - Asientos de Cierre, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 16 - Closing Entries (páginas 1-2) -->
+
+![Exhibit 16 - Closing Entries](./img/018.png)
+
+| Date | Description | Post. Ref. | Debit | Credit |
+|------|-------------|------------|-------|--------|
+| 20Y8 Apr. 30 | **Closing Entries** | | | |
+| | Fees Earned | 41 | 23,450 | |
+| | Salary Expense | 51 | | 1,620 |
+| | Rent Expense | 52 | | 1,600 |
+| | Supplies Expense | 53 | | 850 |
+| | Depreciation Expense | 54 | | 330 |
+| | Insurance Expense | 55 | | 300 |
+| | Miscellaneous Expense | 59 | | 450 |
+| | Retained Earnings | 32 | | 18,300 |
+| | *Closing entry (1)* | | | |
+| Apr. 30 | Retained Earnings | 32 | 6,000 | |
+| | Dividends | 33 | | 6,000 |
+| | *Closing entry (2)* | | | |
+
+The closing entries are normally identified in the ledger as "Closing." In addition, a line is often inserted in both balance columns after a closing entry is posted. This separates next period's revenue, expense, and dividend transactions from those of the current period.
+
+[Los asientos de cierre normalmente se identifican en el libro mayor como "Cierre". Además, a menudo se inserta una línea en ambas columnas de saldo después de que se traspasa un asiento de cierre. Esto separa las transacciones de ingresos, gastos y dividendos del próximo período de las del período actual.]
+
+---
+
+<h1 id="839184" style="color:#E65100;">
+  <a href="#Chapter_004" style="color:inherit; text-decoration:none;">
+    4-5j Step 10. Preparing a Post-Closing Trial Balance
+  </a>
+</h1>
+
+A post-closing trial balance is prepared after the closing entries have been posted. The purpose of the post-closing trial balance is to verify that the ledger is in balance at the beginning of the next period. The accounts and amounts in the post-closing trial balance should agree exactly with the accounts and amounts listed on the balance sheet at the end of the period.
+
+[Se prepara un balance de comprobación posterior al cierre después de que los asientos de cierre han sido traspasados. El propósito del balance de comprobación posterior al cierre es verificar que el libro mayor esté en equilibrio al comienzo del próximo período. Las cuentas y los montos en el balance de comprobación posterior al cierre deben concordar exactamente con las cuentas y los montos enumerados en el balance general al final del período.]
+
+The post-closing trial balance for Kelly Consulting is shown in Exhibit 17. The balances shown in the post-closing trial balance are taken from the ending balances in the ledger shown in Exhibit 18. These balances agree with the amounts shown on Kelly Consulting's balance sheet in Exhibit 15.
+
+[El balance de comprobación posterior al cierre para Kelly Consulting se muestra en la Figura 17. Los saldos mostrados en el balance de comprobación posterior al cierre se toman de los saldos finales en el libro mayor que se muestra en la Figura 18. Estos saldos concuerdan con los montos mostrados en el balance general de Kelly Consulting en la Figura 15.]
+
+---
+
+## Exhibit 17
+
+### Post-Closing Trial Balance, Kelly Consulting
+
+[**Figura 17** - Balance de Comprobación Posterior al Cierre, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 17 - Post-Closing Trial Balance (página 1) -->
+
+![Exhibit 17 - Post-Closing Trial Balance](./img/020.png)
+
+| | Kelly Consulting | | |
+| | Post-Closing Trial Balance | | |
+| | April 30, 20Y8 | | |
+| Account No. | | Debit Balances | Credit Balances |
+|-------------|---------------------|---------------|-----------------|
+| 11 | Cash | 22,100 | |
+| 12 | Accounts Receivable | 3,400 | |
+| 14 | Supplies | 1,350 | |
+| 15 | Prepaid Rent | 3,200 | |
+| 16 | Prepaid Insurance | 1,500 | |
+| 18 | Office Equipment | 14,500 | |
+| 19 | Accumulated Depreciation | | 330 |
+| 21 | Accounts Payable | | 800 |
+| 22 | Salaries Payable | | 120 |
+| 23 | Unearned Fees | | 2,500 |
+| 31 | Common Stock | | 30,000 |
+| 32 | Retained Earnings | | 12,300 |
+| | **Totals** | **46,050** | **46,050** |
+
+---
+
+## Exhibit 18
+
+### Ledger, Kelly Consulting
+
+[**Figura 18** - Libro Mayor, Kelly Consulting]
+
+<!-- 📍 IMAGEN: Exhibit 18 - Ledger (páginas 2-12) -->
+
+
+#### Account Cash - Account No. 11
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 13,100 | | 13,100 | |
+| Apr. 1 | | 1 | | 4,800 | 8,300 | |
+| Apr. 2 | | 1 | | 1,800 | 6,500 | |
+| Apr. 4 | | 1 | 5,000 | | 11,500 | |
+| Apr. 6 | | 1 | 1,800 | | 13,300 | |
+| Apr. 10 | | 1 | | 120 | 13,180 | |
+| Apr. 12 | | 1 | | 1,200 | 11,980 | |
+| Apr. 14 | | 1 | | 750 | 11,230 | |
+| Apr. 17 | | 2 | 6,250 | | 17,480 | |
+| Apr. 18 | | 2 | | 800 | 16,680 | |
+| Apr. 24 | | 2 | 3,850 | | 20,530 | |
+| Apr. 26 | | 2 | 5,600 | | 26,130 | |
+| Apr. 27 | | 2 | | 750 | 25,380 | |
+| Apr. 29 | | 2 | | 130 | 25,250 | |
+| Apr. 30 | | 2 | | 200 | 25,050 | |
+| Apr. 30 | | 2 | 3,050 | | 28,100 | |
+| Apr. 30 | | 2 | | 6,000 | 22,100 | |
+
+
+#### Account Accounts Receivable - Account No. 12
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 3,000 | | 3,000 | |
+| Apr. 6 | | 1 | | 1,800 | 1,200 | |
+| Apr. 12 | | 1 | 4,200 | | 5,400 | |
+| Apr. 20 | | 2 | 2,100 | | 7,500 | |
+| Apr. 26 | | 2 | | 5,600 | 1,900 | |
+| Apr. 30 | | 2 | 1,500 | | 3,400 | |
+
+
+#### Account Supplies - Account No. 14
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 1,400 | | 1,400 | |
+| Apr. 18 | | 2 | 800 | | 2,200 | |
+| Apr. 30 | Adjusting | 3 | | 850 | 1,350 | |
+
+
+#### Account Prepaid Rent - Account No. 15
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 4,800 | | 4,800 | |
+| Apr. 30 | Adjusting | 3 | | 1,600 | 3,200 | |
+
+
+#### Account Prepaid Insurance - Account No. 16
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 2 | | 1 | 1,800 | | 1,800 | |
+| Apr. 30 | Adjusting | 3 | | 300 | 1,500 | |
+
+
+#### Account Office Equipment - Account No. 18
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | 12,500 | | 12,500 | |
+| Apr. 5 | | 1 | 2,000 | | 14,500 | |
+
+
+#### Account Accumulated Depreciation - Account No. 19
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | | 330 | | 330 |
+
+
+#### Account Accounts Payable - Account No. 21
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 5 | | 1 | | 2,000 | | 2,000 |
+| Apr. 12 | | 1 | 1,200 | | | 800 |
+
+
+#### Account Salaries Payable - Account No. 22
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | | 120 | | 120 |
+
+
+#### Account Unearned Fees - Account No. 23
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 4 | | 1 | | 5,000 | | 5,000 |
+| Apr. 30 | Adjusting | 3 | 2,500 | | | 2,500 |
+
+
+#### Account Common Stock - Account No. 31
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | 1 | | 30,000 | | 30,000 |
+
+
+#### Account Retained Earnings - Account No. 32
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 1 | | | | | | 0 |
+| Apr. 30 | Closing | 4 | | 18,300 | | 18,300 |
+| Apr. 30 | Closing | 4 | 6,000 | | | 12,300 |
+
+
+#### Account Dividends - Account No. 33
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | | 2 | 6,000 | | 6,000 | |
+| Apr. 30 | Closing | 4 | | 6,000 | — | — |
+
+
+#### Account Fees Earned - Account No. 41
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 12 | | 1 | | 4,200 | | 4,200 |
+| Apr. 17 | | 2 | | 6,250 | | 10,450 |
+| Apr. 20 | | 2 | | 2,100 | | 12,550 |
+| Apr. 24 | | 2 | | 3,850 | | 16,400 |
+| Apr. 30 | | 2 | | 3,050 | | 19,450 |
+| Apr. 30 | | 2 | | 1,500 | | 20,950 |
+| Apr. 30 | Adjusting | 3 | | 2,500 | | 23,450 |
+| Apr. 30 | Closing | 4 | 23,450 | | — | — |
+
+
+#### Account Salary Expense - Account No. 51
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 14 | | 1 | 750 | | 750 | |
+| Apr. 27 | | 2 | 750 | | 1,500 | |
+| Apr. 30 | Adjusting | 3 | 120 | | 1,620 | |
+| Apr. 30 | Closing | 4 | | 1,620 | — | — |
+
+
+#### Account Rent Expense - Account No. 52
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 1,600 | | 1,600 | |
+| Apr. 30 | Closing | 4 | | 1,600 | — | — |
+
+
+#### Account Supplies Expense - Account No. 53
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 850 | | 850 | |
+| Apr. 30 | Closing | 4 | | 850 | — | — |
+
+
+#### Account Depreciation Expense - Account No. 54
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 330 | | 330 | |
+| Apr. 30 | Closing | 4 | | 330 | — | — |
+
+
+#### Account Insurance Expense - Account No. 55
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 30 | Adjusting | 3 | 300 | | 300 | |
+| Apr. 30 | Closing | 4 | | 300 | — | — |
+
+
+#### Account Miscellaneous Expense - Account No. 59
+
+| Date | Item | Post. Ref. | Debit | Credit | Balance Debit | Balance Credit |
+|------|------|------------|-------|--------|---------------|----------------|
+| 20Y8 Apr. 10 | | 1 | 120 | | 120 | |
+| Apr. 29 | | 2 | 130 | | 250 | |
+| Apr. 30 | | 2 | 200 | | 450 | |
+| Apr. 30 | Closing | 4 | | 450 | — | — |
+
+
+## Using Data Analytics
+
+### Loading Data
+
+[**Uso de Analítica de Datos - Cargando Datos**]
+
+When a company uses data analytics to solve a problem, it must not only extract and transform data but also load the data into the software program that will be used for analysis. There are a variety of software programs that can be used for data analytics. For example, Excel™, Tableau™, and Alteryx™ can all be used to perform data analytics. Starting in the Take It Further section of Chapter 5, we include data analytic cases using Excel throughout this text.
+
+[Cuando una empresa utiliza analítica de datos para resolver un problema, no solo debe extraer y transformar datos, sino también cargar los datos en el programa de software que se utilizará para el análisis. Hay una variedad de programas de software que se pueden usar para la analítica de datos. Por ejemplo, Excel™, Tableau™ y Alteryx™ se pueden usar para realizar analítica de datos. A partir de la sección Take It Further del Capítulo 5, incluimos casos de analítica de datos usando Excel a lo largo de este texto.]
+
+The data analytic process of loading data is in some ways similar to the preparation of the adjusted trial balance, which was illustrated in Chapter 3 and in Exhibit 14. Once the adjusted trial balance is prepared (loaded), it becomes the basis for preparing financial statements as illustrated in Exhibit 15.
+
+[El proceso analítico de datos de carga de datos es en cierto modo similar a la preparación del balance de comprobación ajustado, que se ilustró en el Capítulo 3 y en la Figura 14. Una vez que se prepara (carga) el balance de comprobación ajustado, se convierte en la base para preparar los estados financieros como se ilustra en la Figura 15.]
+
+---
+
