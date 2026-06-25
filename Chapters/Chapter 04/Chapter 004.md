@@ -5312,151 +5312,149 @@ The statement of cash flows that would accompany the NetSolutions' income statem
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3z1b{border-color:#000000;text-align:right;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-gg63{border-color:#000000;text-align:right;text-decoration:underline;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-73oq" colspan="5">Description</th>
-    <th class="tg-73oq"></th>
-    <th class="tg-73oq"></th>
-    <th class="tg-73oq"></th>
+    <th class="tg-0lax" colspan="5">Description</th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="4">Cash flows from (used in) operating activities:</td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">Cash flows from (used in) operating activities:</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="3">Cash received from customers</td>
-    <td class="tg-3z1b">14,120</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="3">Cash received from customers</td>
+    <td class="tg-0lax">14,120</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="3">Cash received from renting land</td>
-    <td class="tg-gg63">360</td>
-    <td class="tg-3z1b">14,120</td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="3">Cash received from renting land</td>
+    <td class="tg-0lax">360</td>
+    <td class="tg-0lax">14,120</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="3">Cash paid for expenses and to creditors</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-gg63">(12,515)</td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="3">Cash paid for expenses and to creditors</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(12,515)</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="2">Net cash flows used in operating activities</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b">1,965</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2">Net cash flows used in operating activities</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">1,965</td>
   </tr>
   <tr>
-    <td class="tg-73oq" colspan="8"></td>
+    <td class="tg-0lax" colspan="8"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="4">Cash flows from (used in) investing activities:</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">Cash flows from (used in) investing activities:</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="3">Cash paid for purchase of land</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b">20,000</td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="3">Cash paid for purchase of land</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">20,000</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="3">Cash paid for purchase of office equipment</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-gg63">900</td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="3">Cash paid for purchase of office equipment</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">900</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="2">Net cash flows used in investing activities</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b">(20,900)</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2">Net cash flows used in investing activities</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">(20,900)</td>
   </tr>
   <tr>
-    <td class="tg-73oq" colspan="8"></td>
+    <td class="tg-0lax" colspan="8"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="4">Cash flows from (used in) financing activities:</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">Cash flows from (used in) financing activities:</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="3">Cash received from issuing common stock</td>
-    <td class="tg-3z1b">25,000</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="3">Cash received from issuing common stock</td>
+    <td class="tg-0lax">25,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="3">Cash dividends paid</td>
-    <td class="tg-gg63">(4,000)</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="3">Cash dividends paid</td>
+    <td class="tg-0lax">(4,000)</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="2">Net cash flows from financing activities</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-gg63">21,000</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="2">Net cash flows from financing activities</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">21,000</td>
   </tr>
   <tr>
-    <td class="tg-73oq" colspan="8"></td>
+    <td class="tg-0lax" colspan="8"></td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="4">Net increase in cash</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b">2,065</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">Net increase in cash</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,065</td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="4">Cash balance, November 1, 20Y3</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b">0</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">Cash balance, November 1, 20Y3</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">0</td>
   </tr>
   <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq" colspan="4">Cash balance, December 31, 20Y3</td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-3z1b"></td>
-    <td class="tg-gg63">2,065</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax" colspan="4">Cash balance, December 31, 20Y3</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2,065</td>
   </tr>
 </tbody></table>
 
