@@ -28,6 +28,16 @@
 
 ##### [Capitulo 5-3a Inventory Shrinkage](#061064)
 
+##### [Capitulo 5-3b Customer Returns, Refunds, and Allowances](#314844)
+
+##### [Capitulo 5-3c Adjusted Trial Balance](#778143)
+
+##### [Capitulo 5-4 Financial Statements and Closing Entries for a Retail Business](#028031)
+
+##### [Capitulo 5-4a Multiple-Step Income Statement](#248831)
+
+##### [Capitulo 5-4b Single-Step Income Statement](#471603)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -3609,5 +3619,800 @@ The chart of accounts (Exhibit 2) and the recording of transactions for a retail
 <h1 id="061064" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-3a Inventory Shrinkage
+  </a>
+</h1>
+
+
+Under the perpetual inventory system, the inventory account is continually updated for purchase and sales transactions. As a result, the balance of the inventory account is the amount of merchandise available for sale at that point in time. However, retailers normally experience some loss of inventory due to shoplifting, employee theft, or errors. Thus, the physical inventory on hand at the end of the accounting period is usually less than the balance of Inventory. This difference is called **inventory shrinkage** (The amount by which the merchandise for sale, as indicated by the balance of the inventory account, is larger than the total amount of merchandise counted during the physical inventory.) or **inventory shortage** (The amount by which the merchandise for sale, as indicated by the balance of the inventory account, is larger than the total amount of merchandise counted during the physical inventory.).
+
+[Bajo el sistema de inventario perpetuo, la cuenta de inventario se actualiza continuamente por las transacciones de compra y venta. Como resultado, el saldo de la cuenta de inventario es la cantidad de mercancía disponible para la venta en ese momento. Sin embargo, los minoristas normalmente experimentan alguna pérdida de inventario debido a robos en tiendas, robos por parte de empleados o errores. Por lo tanto, el inventario físico disponible al final del período contable suele ser menor que el saldo de Inventario. Esta diferencia se llama **merma de inventario** (el monto por el cual la mercancía para la venta, según lo indica el saldo de la cuenta de inventario, es mayor que el monto total de la mercancía contada durante el inventario físico) o **escasez de inventario** (el monto por el cual la mercancía para la venta, según lo indica el saldo de la cuenta de inventario, es mayor que el monto total de la mercancía contada durante el inventario físico).]
+
+To illustrate, NetSolutions' inventory on December 31, 20Y8, is as follows:
+
+[Para ilustrar, el inventario de NetSolutions al 31 de diciembre de 20Y8 es el siguiente:]
+
+<img src="./img/041.png" width="800"></img>
+
+| | Amount |
+|---|---|
+| Account balance of Inventory [Saldo de la cuenta de Inventario] | $63,950 |
+| Physical inventory on hand [Inventario físico disponible] | 62,150 |
+| **Inventory shrinkage** [**Merma de inventario**] | **$1,800** |
+
+At the end of the accounting period, inventory shrinkage is recorded by the following adjusting entry:
+
+[Al final del período contable, la merma de inventario se registra mediante el siguiente asiento de ajuste:]
+
+<!-- 📍 IMAGEN: Adjusting entry for inventory shrinkage (coordenadas [128, 573, 844, 716]) -->
+
+![Adjusting entry for inventory shrinkage](./img/042.png)
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Cost of Goods Sold | 1,800 | |
+| | Inventory | | 1,800 |
+| | *Record inventory shrinkage.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1,800</td>
+    <td></td>
+    <td></td>
+    <td>1,800</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+## Business Insight
+
+### E-Commerce Shopping Carts
+
+[**Perspectiva de Negocio - Carritos de Compras de Comercio Electrónico**]
+
+When you shop on an e-commerce site, you will often select items that fill out a shopping cart form that identifies the items to be purchased and their prices. This illustration is from Apple's (AAPL) shopping cart. The shopping cart has a set of Apple EarPods at a price of $29. When checking out, the e-commerce site will automatically record the sales transaction for this purchase at a sales price of $29, plus appropriate sales tax and shipping. In addition, completing the checkout will record the reduction of EarPod inventory by one unit and record the appropriate cost of goods sold. Thus, all the merchandising transactions are generated from the shopping cart checkout process.
+
+[Cuando compra en un sitio de comercio electrónico, a menudo seleccionará artículos que llenan un formulario de carrito de compras que identifica los artículos que se comprarán y sus precios. Esta ilustración es del carrito de compras de Apple (AAPL). El carrito de compras tiene un conjunto de Apple EarPods a un precio de $29. Al finalizar la compra, el sitio de comercio electrónico registrará automáticamente la transacción de venta por esta compra a un precio de venta de $29, más el impuesto a las ventas y el envío correspondientes. Además, completar la compra registrará la reducción del inventario de EarPod en una unidad y registrará el costo de bienes vendidos correspondiente. Por lo tanto, todas las transacciones de mercancía se generan a partir del proceso de pago del carrito de compras.]
+
+*Source: Apple.*
+
+<img src="./img/043.png" width="800"></img>
+
+After the preceding entry is recorded, the balance of Inventory agrees with the physical inventory on hand at the end of the period. Since inventory shrinkage cannot be totally eliminated, it is considered a normal cost of operations. If, however, the amount of the shrinkage is unusually large, it may be disclosed separately on the income statement. In such cases, the shrinkage may be recorded in a separate account, such as Loss from Inventory Shrinkage.
+
+[Después de que se registra el asiento anterior, el saldo de Inventario coincide con el inventario físico disponible al final del período. Dado que la merma de inventario no puede eliminarse por completo, se considera un costo normal de las operaciones. Sin embargo, si el monto de la merma es inusualmente grande, puede revelarse por separado en el estado de resultados. En tales casos, la merma puede registrarse en una cuenta separada, como Pérdida por Merma de Inventario.]
+
+---
+
+<h1 id="314844" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-3b Customer Returns, Refunds, and Allowances
+  </a>
+</h1>
+
+
+As was described and illustrated earlier, sellers are required to estimate customer returns, refunds, and allowances at the end of the accounting period. Based upon these estimates, two adjusting journal entries are recorded. The first adjusting entry debits Sales and credits Customer Refunds Payable for estimated customer refunds and allowances. The second adjusting entry debits Estimated Returns Inventory and credits Cost of Goods Sold for merchandise that is expected to be returned.
+
+[Como se describió e ilustró anteriormente, los vendedores están obligados a estimar las devoluciones, reembolsos y bonificaciones de los clientes al final del período contable. Con base en estas estimaciones, se registran dos asientos de diario de ajuste. El primer asiento de ajuste debita Ventas y acredita Reembolsos a Clientes por Pagar por los reembolsos y bonificaciones estimados de los clientes. El segundo asiento de ajuste debita Inventario de Devoluciones Estimadas y acredita Costo de Bienes Vendidos por la mercancía que se espera sea devuelta.]
+
+To illustrate, assume the following unadjusted balances for NetSolutions as of December 31, 20Y8:
+
+[Para ilustrar, suponga los siguientes saldos no ajustados para NetSolutions al 31 de diciembre de 20Y8:]
+
+<img src="./img/044.png" width="800"></img>
+
+<table><tbody>
+  <tr>
+    <td></td>
+    <td colspan="2">Unadjusted Balances December 31, 20Y8</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td></td>
+    <td>$715,409</td>
+  </tr>
+  <tr>
+    <td>Cost of Goods Sold</td>
+    <td>$523,505</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Estimated Returns Inventory</td>
+    <td>300</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Customer Refunds Payable</td>
+    <td></td>
+    <td>800</td>
+  </tr>
+  <tr>
+    <td>Estimated cost of merchandise returned for 20Y8 sales</td>
+    <td>$5,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Estimated percent of refunds of 20Y8 sales</td>
+    <td>1%</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+On December 31, 20Y8, NetSolutions would record the following two adjusting entries:
+
+[El 31 de diciembre de 20Y8, NetSolutions registraría los siguientes dos asientos de ajuste:]
+
+<img src="./img/045.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Sales | 7,154 | |
+| | Customer Refunds Payable | | 7,154 |
+| | *Record estimated customer refunds.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Customer Refunds Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>7,154</td>
+    <td>7,154</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Estimated Returns Inventory | 5,000 | |
+| | Cost of Goods Sold | | 5,000 |
+| | *Record estimated customer returns.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Estimated Returns Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>5,000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>5,000</td>
+  </tr>
+</tbody>
+</table>
+
+The first adjusting entry reduces 20Y8 sales by the estimated refunds that may occur in 20Y9. Since 1% of sales are expected to be refunded, Sales is debited for $7,154 (1% × $715,409). In addition, a liability is recorded for $7,154 by crediting Customer Refunds Payable for the estimated customer refunds in 20Y9.
+
+[El primer asiento de ajuste reduce las ventas de 20Y8 por los reembolsos estimados que pueden ocurrir en 20Y9. Dado que se espera que se reembolse el 1% de las ventas, Ventas se debita por $7,154 (1% × $715,409). Además, se registra un pasivo por $7,154 acreditando Reembolsos a Clientes por Pagar por los reembolsos estimados a clientes en 20Y9.]
+
+The second adjusting entry debits the asset Estimated Returns Inventory and reduces Cost of Goods Sold for the cost of merchandise that is expected to be returned in 20Y9 of $5,000. Estimated Returns Inventory is debited rather than Inventory because the type of merchandise returned will not be known until the returns actually occur.
+
+[El segundo asiento de ajuste debita el activo Inventario de Devoluciones Estimadas y reduce el Costo de Bienes Vendidos por el costo de la mercancía que se espera sea devuelta en 20Y9 de $5,000. El Inventario de Devoluciones Estimadas se debita en lugar de Inventario porque el tipo de mercancía devuelta no se conocerá hasta que las devoluciones realmente ocurran.]
+
+After the adjusting entries are posted to the ledger, Estimated Returns Inventory will have an adjusted balance of $5,300 ($300 + $5,000). Estimated returns inventory of $5,300 is reported on the balance sheet as a current asset following Inventory. Customer Refunds Payable will have a balance of $7,954 ($800 + $7,154). Customer refunds payable of $7,954 is reported as a current liability.
+
+[Después de que los asientos de ajuste se traspasan al libro mayor, el Inventario de Devoluciones Estimadas tendrá un saldo ajustado de $5,300 ($300 + $5,000). El inventario de devoluciones estimadas de $5,300 se reporta en el balance general como un activo corriente después del Inventario. Los Reembolsos a Clientes por Pagar tendrán un saldo de $7,954 ($800 + $7,154). Los reembolsos a clientes por pagar de $7,954 se reportan como un pasivo corriente.]
+
+---
+
+<h1 id="778143" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-3c Adjusted Trial Balance
+  </a>
+</h1>
+
+
+After the adjusting entries are posted to the ledger, an adjusted trial balance is prepared. The adjusted trial balance for NetSolutions as of December 31, 20Y8, is shown in Exhibit 11.
+
+[Después de que los asientos de ajuste se traspasan al libro mayor, se prepara un balance de comprobación ajustado. El balance de comprobación ajustado para NetSolutions al 31 de diciembre de 20Y8 se muestra en la Figura 11.]
+
+---
+
+## Exhibit 11
+
+### Adjusted Trial Balance
+
+[**Figura 11** - Balance de Comprobación Ajustado]
+
+<!-- 📍 IMAGEN: Exhibit 11 - Adjusted Trial Balance (página 1) -->
+
+![Exhibit 11 - Adjusted Trial Balance](./img/046.png)
+
+## NetSolutions
+**Adjusted Trial Balance**
+
+**December 31, 20Y8**
+
+| Account No. | | Debit Balances | Credit Balances |
+|-------------|---------------------|---------------|-----------------|
+| 110 | Cash | 52,650 | |
+| 112 | Accounts Receivable | 91,080 | |
+| 115 | Inventory | 62,150 | |
+| 116 | Estimated Returns Inventory | 5,300 | |
+| 117 | Office Supplies | 480 | |
+| 118 | Prepaid Insurance | 2,650 | |
+| 120 | Land | 20,000 | |
+| 123 | Store Equipment | 27,100 | |
+| 124 | Accumulated Depreciation—Store Equipment | | 5,700 |
+| 125 | Office Equipment | 15,570 | |
+| 126 | Accumulated Depreciation—Office Equipment | | 4,720 |
+| 210 | Accounts Payable | | 12,466 |
+| 211 | Salaries Payable | | 1,140 |
+| 212 | Unearned Rent | | 1,800 |
+| 213 | Customer Refunds Payable | | 7,954 |
+| 214 | Estimated Coupons Payable | | 2,000 |
+| 215 | Notes Payable | | 25,000 |
+| 310 | Common Stock | | 30,000 |
+| 311 | Retained Earnings | | 123,800 |
+| 312 | Dividends | 18,000 | |
+| 410 | Sales | | 708,255 |
+| 510 | Cost of Goods Sold | 520,305 | |
+| 520 | Sales Salaries Expense | 53,430 | |
+| 521 | Advertising Expense | 10,860 | |
+| 522 | Depreciation Expense—Store Equipment | 3,100 | |
+| 523 | Delivery Expense | 2,800 | |
+| 529 | Miscellaneous Selling Expense | 630 | |
+| 530 | Office Salaries Expense | 21,020 | |
+| 531 | Rent Expense | 8,100 | |
+| 532 | Depreciation Expense—Office Equipment | 2,490 | |
+| 533 | Insurance Expense | 1,910 | |
+| 534 | Office Supplies Expense | 610 | |
+| 539 | Miscellaneous Administrative Expense | 760 | |
+| 610 | Rent Revenue | | 600 |
+| 710 | Interest Expense | 2,440 | |
+| | **Totals** | **923,435** | **923,435** |
+
+---
+
+<h1 id="028031" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-4 Financial Statements and Closing Entries for a Retail Business
+  </a>
+</h1>
+
+
+Although merchandising transactions affect the balance sheet in reporting inventory, they primarily affect the income statement. An income statement for a retail business is normally prepared using either a multiple-step or single-step format.
+
+[Aunque las transacciones de mercancía afectan el balance general en el reporte del inventario, afectan principalmente el estado de resultados. Un estado de resultados para un negocio minorista normalmente se prepara utilizando un formato de múltiples pasos o de un solo paso.]
+
+**Objective 4** - Describe and illustrate the financial statements and closing entries for a retail business.
+
+[**Objetivo 4** - Describir e ilustrar los estados financieros y los asientos de cierre para un negocio minorista.]
+
+The financial statements for NetSolutions are illustrated in Exhibits 12, 13, and 14. These financial statements were prepared from the adjusted trial balance shown in Exhibit 11.
+
+[Los estados financieros para NetSolutions se ilustran en las Figuras 12, 13 y 14. Estos estados financieros se prepararon a partir del balance de comprobación ajustado que se muestra en la Figura 11.]
+
+---
+
+## Exhibit 12
+
+### Multiple-Step Income Statement
+
+[**Figura 12** - Estado de Resultados de Múltiples Pasos]
+
+<!-- 📍 IMAGEN: Exhibit 12 - Multiple-Step Income Statement (página 1) -->
+
+![Exhibit 12 - Multiple-Step Income Statement](./img/047.png)
+
+---
+## NetSolutions
+### Income Statement
+#### For the Year Ended December 31, 20Y8
+
+
+
+| Description | SubTotal | Total | Total Amount |
+|---|---|---|---|
+| **Sales** |  |  | $708,255 |
+| **Cost of goods sold** |  |  | (520,305) |
+| **Gross profit** |  |  | $187,950 |
+| **Operating expenses:** |  |  |  |
+| **Selling expenses:** |  |  |  |
+| Sales salaries expense | 53,430 |  |  |
+| Advertising expense | 10,860 |  |  |
+| Depreciation expense—store equipment | 3,100 |  |  |
+| Delivery expense | 2,800 |  |  |
+| Miscellaneous selling expense | 630 |  |  |
+| **Total selling expenses** |  | $70,820 |  |
+| **Administrative expenses:** |  |  |  |
+| Office salaries expense | 21,020 |  |  |
+| Rent expense | 8,100 |  |  |
+| Depreciation expense—office equipment | 2,490 |  |  |
+| Insurance expense | 1,910 |  |  |
+| Office supplies expense | 610 |  |  |
+| Miscellaneous administrative expense | 760 |  |  |
+| **Total administrative expenses** |  | $34,890 |  |
+| **Total operating expenses** |  |  | (105,710) |
+| **Operating income** |  |  | $82,240 |
+| **Other revenue and expense:** |  |  |  |
+| Rent revenue |  | 600 |  |
+| Interest expense |  | (2,440) | (1,840) |
+| **Net income** |  |  | $80,400 |
+---
+
+## Exhibit 13
+
+### Single-Step Income Statement
+
+[**Figura 13** - Estado de Resultados de un Solo Paso]
+
+<!-- 📍 IMAGEN: Exhibit 13 - Single-Step Income Statement (página 2) -->
+
+![Exhibit 13 - Single-Step Income Statement](./img/048.png)
+
+---
+
+### NetSolutions
+### Income Statement
+### For the Year Ended December 31, 20Y8
+
+| Description | Subtotal | Total |
+|---|---|---|
+| **Revenues:** |  |  |
+| Sales |  | $708,255 |
+| Rent revenue |  | 600 |
+| **Total revenues** |  | **$708,855** |
+| **Expenses:** |  |  |
+| Cost of goods sold | 520,305 |  |
+| Selling expenses | 70,820 |  |
+| Administrative expenses | 34,890 |  |
+| Interest expense | 2,440 |  |
+| **Total expenses** |  | **(628,455)** |
+| **Net income** |  | **$80,400** |
+
+---
+
+## Exhibit 14
+
+### Statement of Stockholders' Equity
+
+[**Figura 14** - Estado de Cambios en el Capital Contable]
+
+<!-- 📍 IMAGEN: Exhibit 14 - Statement of Stockholders' Equity (página 2) -->
+
+![Exhibit 14 - Statement of Stockholders' Equity](./img/049.png)
+
+---
+
+### NetSolutions
+### Statement of Stockholders' Equity
+### For the Year Ended December 31, 20Y8
+
+| | Common Stock | Retained Earnings | Total |
+|---|---|---|---|
+| Balances, January 1, 20Y8 | $25,000 | $123,800 | $148,800 |
+| Issued common stock | 5,000 | | 5,000 |
+| Net income | | 80,400 | 80,400 |
+| Dividends | | (18,000) | (18,000) |
+| **Balances, December 31, 20Y8** | **$30,000** | **$186,200** | **$216,200** |
+
+
+---
+
+
+<h1 id="248831" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-4a Multiple-Step Income Statement
+  </a>
+</h1>
+
+
+The 20Y8 income statement for NetSolutions is shown in Exhibit 12. This form of income statement, called a **multiple-step income statement** (A form of income statement that contains several sections, subsections, and subtotals.), contains several sections, subsections, and subtotals.
+
+[El estado de resultados de 20Y8 para NetSolutions se muestra en la Figura 12. Esta forma de estado de resultados, llamada **estado de resultados de múltiples pasos** (una forma de estado de resultados que contiene varias secciones, subsecciones y subtotales), contiene varias secciones, subsecciones y subtotales.]
+
+---
+
+## Sales
+
+The total amount of sales to customers for cash and on account is reported in this section. NetSolutions reported sales of $708,255 for the year ended December 31, 20Y8.
+
+[El monto total de ventas a clientes al contado y a crédito se reporta en esta sección. NetSolutions reportó ventas de $708,255 para el año terminado el 31 de diciembre de 20Y8.]
+
+---
+
+## Cost of Goods Sold
+
+As shown in Exhibit 12, NetSolutions reported cost of goods sold of $520,305 during 20Y8. This amount is the cost of goods sold to customers. Cost of goods sold may also be reported as cost of merchandise sold or cost of sales.
+
+[Como se muestra en la Figura 12, NetSolutions reportó un costo de bienes vendidos de $520,305 durante 20Y8. Este monto es el costo de los bienes vendidos a los clientes. El costo de bienes vendidos también puede reportarse como costo de mercancía vendida o costo de ventas.]
+
+---
+
+## Gross Profit
+
+The excess of sales over cost of goods sold is gross profit. As shown in Exhibit 12, NetSolutions reported gross profit of $187,950 in 20Y8.
+
+[El exceso de ventas sobre el costo de bienes vendidos es la utilidad bruta. Como se muestra en la Figura 12, NetSolutions reportó una utilidad bruta de $187,950 en 20Y8.]
+
+---
+
+## Operating Income
+
+**Operating income** (The difference between gross profit and operating expenses.), sometimes called **income from operations** (The difference between gross profit and operating expenses.), is determined by subtracting operating expenses from gross profit. Operating expenses are normally classified as either selling expenses or administrative expenses.
+
+[El **ingreso operativo** (la diferencia entre la utilidad bruta y los gastos operativos), a veces llamado **ingreso de operaciones** (la diferencia entre la utilidad bruta y los gastos operativos), se determina restando los gastos operativos de la utilidad bruta. Los gastos operativos normalmente se clasifican como gastos de venta o gastos administrativos.]
+
+**Selling expenses** (Expenses that are incurred directly in the selling of merchandise.) are incurred directly in the selling of merchandise. Examples of selling expenses include sales salaries, store supplies used, depreciation of store equipment, delivery expense, and advertising.
+
+[Los **gastos de venta** (gastos que se incurren directamente en la venta de mercancía) se incurren directamente en la venta de mercancía. Ejemplos de gastos de venta incluyen sueldos de ventas, suministros de tienda usados, depreciación de equipo de tienda, gastos de entrega y publicidad.]
+
+**Administrative expenses** (Expenses incurred in the administration or general operations of the business.), sometimes called **general expenses** (Expenses incurred in the administration or general operations of the business.), are incurred in the administration or general operations of the business. Examples of administrative expenses include office salaries, depreciation of office equipment, and office supplies used.
+
+[Los **gastos administrativos** (gastos incurridos en la administración u operaciones generales del negocio), a veces llamados **gastos generales** (gastos incurridos en la administración u operaciones generales del negocio), se incurren en la administración u operaciones generales del negocio. Ejemplos de gastos administrativos incluyen sueldos de oficina, depreciación de equipo de oficina y suministros de oficina usados.]
+
+Each selling and administrative expense may be reported separately as shown in Exhibit 12. However, many companies report selling, administrative, and operating expenses as single line items, as follows for NetSolutions:
+
+[Cada gasto de venta y administrativo puede reportarse por separado como se muestra en la Figura 12. Sin embargo, muchas empresas reportan los gastos de venta, administrativos y operativos como partidas individuales, como sigue para NetSolutions:]
+
+<img src="./img/050.png" width="800"></img>
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Gross profit</td>
+    <td></td>
+    <td>$187,950</td>
+  </tr>
+  <tr>
+    <td colspan="4">Operating expenses:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Selling expenses</td>
+    <td>$70,820</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Administrative expenses</td>
+    <td>34,890</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Total operating expenses</td>
+    <td></td>
+    <td>(105,710)</td>
+  </tr>
+  <tr>
+    <td colspan="4">Operating income</td>
+    <td></td>
+    <td>$82,240</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+## Other Revenue and Expense
+
+Other revenue and expense items are not related to the primary operations of the business. **Other revenue** (Revenue from sources other than the primary operating activity of a business.) is revenue from sources other than the primary operating activity of a business. Examples of other revenue include income from interest, rent, and gains resulting from the sale of fixed assets. **Other expense** (Expenses that cannot be traced directly to operations.) is an expense that cannot be traced directly to the normal operations of the business. Examples of other expenses include interest expense and losses from disposing of fixed assets.
+
+[Las partidas de otros ingresos y gastos no están relacionadas con las operaciones principales del negocio. **Otros ingresos** (ingresos de fuentes distintas a la actividad operativa principal de un negocio) son ingresos de fuentes distintas a la actividad operativa principal de un negocio. Ejemplos de otros ingresos incluyen ingresos por intereses, rentas y ganancias resultantes de la venta de activos fijos. **Otros gastos** (gastos que no pueden rastrearse directamente a las operaciones) son gastos que no pueden rastrearse directamente a las operaciones normales del negocio. Ejemplos de otros gastos incluyen gastos por intereses y pérdidas por la disposición de activos fijos.]
+
+Other revenue and other expense are offset against each other on the income statement. If the total of other revenue exceeds the total of other expense, the difference is added to operating income to determine net income. If the reverse is true, the difference is subtracted from operating income. The other revenue and expense items of NetSolutions are reported as follows and in Exhibit 12:
+
+[Otros ingresos y otros gastos se compensan entre sí en el estado de resultados. Si el total de otros ingresos excede el total de otros gastos, la diferencia se suma al ingreso operativo para determinar el ingreso neto. Si ocurre lo contrario, la diferencia se resta del ingreso operativo. Las partidas de otros ingresos y gastos de NetSolutions se reportan de la siguiente manera y en la Figura 12:]
+
+<img src="./img/051.png" width="800"></img>
+
+<table><tbody>
+  <tr>
+    <td colspan="3">Operating income</td>
+    <td></td>
+    <td>$82,240</td>
+  </tr>
+  <tr>
+    <td colspan="3">Other revenue and expense:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Rent revenue</td>
+    <td>$600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Interest expense</td>
+    <td>(2,440)</td>
+    <td>(1,840)</td>
+  </tr>
+  <tr>
+    <td colspan="3">Net income</td>
+    <td></td>
+    <td>$80,400</td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+**Link to Dollar Tree:** Dollar Tree reports its income using the multiple-step income statement format.
+
+[**Enlace a Dollar Tree:** Dollar Tree reporta sus ingresos utilizando el formato de estado de resultados de múltiples pasos.]
+
+---
+
+## Check Up Corner 5-3
+
+<img src="./img/052.png" width="800"></img>
+
+### Multiple-Step Income Statement
+
+[**Esquina de Verificación 5-3 - Estado de Resultados de Múltiples Pasos**]
+
+The following account balances were taken from the adjusted trial balance for Laser-Tek Company for the fiscal year ended December 31, 20Y2:
+
+[Los siguientes saldos de cuentas se tomaron del balance de comprobación ajustado para Laser-Tek Company para el año fiscal terminado el 31 de diciembre de 20Y2:]
+
+| Account | Balance |
+|---|---|
+| Advertising Expense | $32,500 |
+| Miscellaneous Selling Expense | $4,320 |
+| Cost of Goods Sold | 512,400 |
+| Office Salaries Expense | 82,400 |
+| Depreciation Expense—Office Equipment | 20,000 |
+| Office Supplies Expense | 1,650 |
+| Interest Revenue | 1,425 |
+| Sales | 912,500 |
+| Miscellaneous Administrative Expense | 1,200 |
+| Sales Salaries Expense | 160,000 |
+
+Prepare a multiple-step income statement for Laser-Tek Company.
+
+[Prepare un estado de resultados de múltiples pasos para Laser-Tek Company.]
+
+---
+
+### Solution - Check Up Corner 5-3
+
+[**Solución - Esquina de Verificación 5-3**]
+
+<table><tbody>
+  <tr>
+    <td colspan="3" rowspan="3"></td>
+    <td colspan="4">Laser-Tek Company</td>
+    <td rowspan="3"></td>
+  </tr>
+  <tr>
+    <td colspan="4">Income Statement</td>
+  </tr>
+  <tr>
+    <td colspan="4">For the Year Ended December 31, 20Y2</td>
+  </tr>
+  <tr>
+    <td colspan="5">Sales</td>
+    <td></td>
+    <td></td>
+    <td>$912,500</td>
+  </tr>
+  <tr>
+    <td colspan="5">Cost of goods sold</td>
+    <td></td>
+    <td></td>
+    <td>(512,400)</td>
+  </tr>
+  <tr>
+    <td colspan="5">Gross profit</td>
+    <td></td>
+    <td></td>
+    <td>$400,100</td>
+  </tr>
+  <tr>
+    <td colspan="5">Operating expenses:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="4">Selling expenses:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="3">Sales salaries expense</td>
+    <td>$160,000</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="3">Advertising expense</td>
+    <td>32,500</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="3">Miscellaneous selling expense</td>
+    <td>4,320</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Total selling expenses</td>
+    <td></td>
+    <td>$196,820</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="4">Administrative expenses:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="3">Office salaries expense</td>
+    <td>$82,400</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="3">Depreciation expense—office equipment</td>
+    <td>20,000</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="3">Office supplies expense</td>
+    <td>1,650</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="3">Miscellaneous administrative expense</td>
+    <td>1,200</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Total administrative expenses</td>
+    <td></td>
+    <td>$105,250</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="4">Total operating expenses</td>
+    <td></td>
+    <td></td>
+    <td>(302,070)</td>
+  </tr>
+  <tr>
+    <td colspan="5">Operating income</td>
+    <td></td>
+    <td></td>
+    <td>$98,030</td>
+  </tr>
+  <tr>
+    <td colspan="5">Other revenue and expense:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="4">Interest revenue</td>
+    <td></td>
+    <td></td>
+    <td>1,425</td>
+  </tr>
+  <tr>
+    <td colspan="5">Net income</td>
+    <td></td>
+    <td></td>
+    <td>$99,455</td>
+  </tr>
+</tbody></table>
+
+---
+
+<h1 id="471603" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-4b Single-Step Income Statement
   </a>
 </h1>
