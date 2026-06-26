@@ -60,6 +60,14 @@
 
 ##### [Capitulo 5-6c Adjusting Process under the Periodic Inventory System](#222755)
 
+##### [Capitulo 5-6d Financial Statements under the Periodic Inventory System](#629116)
+
+##### [Capitulo 5-6e Closing Entries under the Periodic Inventory System](#441875)
+
+##### [Capitulo 5-7a Let’s Review Chapter Summary](#912447)
+
+##### [Capitulo 5-7b Key Terms](#144764)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -5779,7 +5787,6 @@ Under the periodic inventory system, purchases are normally recorded at their in
   </a>
 </h1>
 
-# 5-6a Chart of Accounts under the Periodic Inventory System
 
 The chart of accounts for NetSolutions under a periodic inventory system is shown in Exhibit 18. The accounts used to record transactions under the periodic inventory system are highlighted in blue in Exhibit 18.
 
@@ -6185,3 +6192,541 @@ Exhibit 19 illustrates the recording of merchandise transactions using the perio
   </a>
 </h1>
 
+The adjusting process is the same under the periodic and perpetual inventory systems except for the inventory shrinkage adjustment and customer refunds and allowances. The ending inventory is determined by a physical count under both systems.
+
+[El proceso de ajuste es el mismo bajo los sistemas de inventario periódico y perpetuo, excepto por el ajuste de merma de inventario y las devoluciones y bonificaciones de clientes. El inventario final se determina mediante un conteo físico bajo ambos sistemas.]
+
+Under the perpetual inventory system, the ending inventory physical count is compared to the balance of Inventory. The difference is the amount of inventory shrinkage. The inventory shrinkage is then recorded as a debit to Cost of Goods Sold and a credit to Inventory.
+
+[Bajo el sistema de inventario perpetuo, el conteo físico del inventario final se compara con el saldo de Inventario. La diferencia es el monto de la merma de inventario. La merma de inventario se registra entonces como un débito a Costo de Bienes Vendidos y un crédito a Inventario.]
+
+Under the periodic inventory system, the inventory account is not kept up to date for purchases and sales. As a result, the inventory shrinkage cannot be directly determined. Instead, any inventory shrinkage is included indirectly in the computation of the cost of goods sold as shown in Exhibit 20. This is a major disadvantage of the periodic inventory system. That is, inventory shrinkage is not separately determined.
+
+[Bajo el sistema de inventario periódico, la cuenta de inventario no se mantiene actualizada para compras y ventas. Como resultado, la merma de inventario no se puede determinar directamente. En su lugar, cualquier merma de inventario se incluye indirectamente en el cálculo del costo de bienes vendidos como se muestra en la Figura 20. Esta es una desventaja importante del sistema de inventario periódico. Es decir, la merma de inventario no se determina por separado.]
+
+---
+
+## Exhibit 20
+
+### Determining Cost of Goods Sold Using the Periodic System
+
+[**Figura 20** - Determinación del Costo de Bienes Vendidos Utilizando el Sistema Periódico]
+
+<!-- 📍 IMAGEN: Exhibit 20 - Determining Cost of Goods Sold Using the Periodic System (página 1) -->
+
+![Exhibit 20 - Determining Cost of Goods Sold Using the Periodic System](./img/069.png)
+
+<table><tbody>
+  <tr>
+    <td colspan="4"></td>
+    <td>Amount</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td colspan="4">Inventory, January 1, 20Y8</td>
+    <td></td>
+    <td>$59,700</td>
+  </tr>
+  <tr>
+    <td colspan="4">Cost of merchandise purchased:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Purchases</td>
+    <td>$521,980</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Purchases returns and allowances</td>
+    <td>(9,100)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Purchases discounts</td>
+    <td>(2,525)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Net purchases</td>
+    <td>$510,355</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="3">Freight in</td>
+    <td>17,400</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Total cost of merchandise purchased</td>
+    <td></td>
+    <td>527,755</td>
+  </tr>
+  <tr>
+    <td colspan="4">Inventory available for sale</td>
+    <td></td>
+    <td>$587,455</td>
+  </tr>
+  <tr>
+    <td colspan="4">Inventory, December 31, 20Y8</td>
+    <td></td>
+    <td>(62,150)</td>
+  </tr>
+  <tr>
+    <td colspan="4">Cost of goods sold before estimated returns</td>
+    <td></td>
+    <td>$525,305</td>
+  </tr>
+  <tr>
+    <td colspan="4">Increase in estimated returns inventory</td>
+    <td></td>
+    <td>(5,000)</td>
+  </tr>
+  <tr>
+    <td colspan="4">Cost of goods sold</td>
+    <td></td>
+    <td>$520,305</td>
+  </tr>
+</tbody></table>
+
+Like the perpetual inventory system, the periodic system records the same adjusting entry debiting Sales and crediting Customer Refunds Payable for estimated customer refunds and allowances of $7,154. No entry, however, is made for estimated returns inventory. Instead, cost of goods sold is reduced by the cost of the estimated returns inventory for the current year. The estimated cost of the returns for NetSolutions' 20Y9 sales is $5,000. This amount is subtracted from the cost of goods sold before estimated returns of $525,305 to yield cost of goods sold of $520,305, as shown in Exhibit 20.
+
+[Al igual que el sistema de inventario perpetuo, el sistema periódico registra el mismo asiento de ajuste debitando Ventas y acreditando Reembolsos a Clientes por Pagar por los reembolsos y bonificaciones estimados a clientes de $7,154. Sin embargo, no se realiza ningún asiento para el inventario de devoluciones estimadas. En su lugar, el costo de bienes vendidos se reduce por el costo del inventario de devoluciones estimadas para el año en curso. El costo estimado de las devoluciones para las ventas de NetSolutions de 20Y9 es de $5,000. Este monto se resta del costo de bienes vendidos antes de las devoluciones estimadas de $525,305 para obtener un costo de bienes vendidos de $520,305, como se muestra en la Figura 20.]
+
+---
+
+<h1 id="629116" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-6d Financial Statements under the Periodic Inventory System
+  </a>
+</h1>
+
+
+The financial statements are similar under the perpetual and periodic inventory systems. When the multiple-step format of income statement is used, the cost of goods sold may be reported as shown in Exhibit 20.
+
+[Los estados financieros son similares bajo los sistemas de inventario perpetuo y periódico. Cuando se utiliza el formato de estado de resultados de múltiples pasos, el costo de bienes vendidos puede reportarse como se muestra en la Figura 20.]
+
+
+## Exhibit 20
+
+
+[**Figura 20** - Determinación del Costo de Bienes Vendidos Utilizando el Sistema Periódico]
+
+<!-- 📍 IMAGEN: Exhibit 20 - Determining Cost of Goods Sold Using the Periodic System (página 1) -->
+
+![Exhibit 20 - Determining Cost of Goods Sold Using the Periodic System](./img/069.png)
+---
+
+<h1 id="441875" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-6e Closing Entries under the Periodic Inventory System
+  </a>
+</h1>
+
+The closing entries differ in the periodic inventory system in that there is no cost of goods sold account to close. Instead, the purchases, purchases discounts, purchases returns and allowances, and freight in accounts are closed. In addition, the inventory account is adjusted to the end-of-period physical inventory count during the closing process. The estimated returns inventory account is also adjusted for the estimated returns from the current period's sales.
+
+[Los asientos de cierre difieren en el sistema de inventario periódico en que no hay una cuenta de costo de bienes vendidos para cerrar. En su lugar, se cierran las cuentas de compras, descuentos por compras, devoluciones y bonificaciones por compras, y flete en. Además, la cuenta de inventario se ajusta al conteo físico del inventario al final del período durante el proceso de cierre. La cuenta de inventario de devoluciones estimadas también se ajusta por las devoluciones estimadas de las ventas del período actual.]
+
+The two closing entries under the periodic inventory system are as follows:
+
+[Los dos asientos de cierre bajo el sistema de inventario periódico son los siguientes:]
+
+1. a. Debit Inventory for its end-of-period balance based on the physical inventory.
+   b. Debit Estimated Returns Inventory for the cost of the future estimated returns of the current period's sales.
+   c. Debit each revenue account and the following temporary periodic inventory accounts for their balances:
+      - Purchases Discounts
+      - Purchases Returns and Allowances
+   d. Credit Inventory for its balance as of the beginning of the period.
+   e. Credit each expense account and the following temporary periodic inventory accounts for their balances:
+      - Purchases
+      - Freight In
+   f. Credit the retained earnings account for the net income, or debit the retained earnings account for a net loss.
+
+2. Debit the retained earnings account and credit the dividends account for its balance.
+
+[1. a. Debitar Inventario por su saldo al final del período basado en el inventario físico.
+   b. Debitar Inventario de Devoluciones Estimadas por el costo de las devoluciones futuras estimadas de las ventas del período actual.
+   c. Debitar cada cuenta de ingreso y las siguientes cuentas temporales de inventario periódico por sus saldos:
+      - Descuentos por Compras
+      - Devoluciones y Bonificaciones por Compras
+   d. Acreditar Inventario por su saldo al inicio del período.
+   e. Acreditar cada cuenta de gasto y las siguientes cuentas temporales de inventario periódico por sus saldos:
+      - Compras
+      - Flete en
+   f. Acreditar la cuenta de ganancias retenidas por el ingreso neto, o debitar la cuenta de ganancias retenidas por una pérdida neta.
+
+2. Debitar la cuenta de ganancias retenidas y acreditar la cuenta de dividendos por su saldo.]
+
+The two closing entries for NetSolutions under the periodic inventory system are shown in Exhibit 21.
+
+[Los dos asientos de cierre para NetSolutions bajo el sistema de inventario periódico se muestran en la Figura 21.]
+
+---
+
+## Exhibit 21
+
+### Closing Entries for Periodic Inventory System
+
+[**Figura 21** - Asientos de Cierre para el Sistema de Inventario Periódico]
+
+<!-- 📍 IMAGEN: Exhibit 21 - Closing Entries for Periodic Inventory System (páginas 1-2) -->
+
+![Exhibit 21 - Closing Entries for Periodic Inventory System](./img/070.png)
+
+## Exhibit 21
+
+### Closing Entries for Periodic Inventory System
+
+[**Figura 21** - Asientos de Cierre para el Sistema de Inventario Periódico]
+
+<table><tbody>
+  <tr>
+    <td>Date</td>
+    <td colspan="2">Item</td>
+    <td>Post. Ref.</td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td>20Y8</td>
+    <td colspan="2">Closing Entries</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dec. 31</td>
+    <td colspan="2">Inventory</td>
+    <td>115</td>
+    <td>62,150</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Estimated Returns Inventory</td>
+    <td>116</td>
+    <td>5,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Sales</td>
+    <td>410</td>
+    <td>708,255</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Purchases Returns and Allowances</td>
+    <td>511</td>
+    <td>9,100</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Purchases Discounts</td>
+    <td>512</td>
+    <td>2,525</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Rent Revenue</td>
+    <td>610</td>
+    <td>600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Inventory</td>
+    <td>115</td>
+    <td></td>
+    <td>59,700</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Purchases</td>
+    <td>510</td>
+    <td></td>
+    <td>521,980</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Freight In</td>
+    <td>513</td>
+    <td></td>
+    <td>17,400</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Sales Salaries Expense</td>
+    <td>520</td>
+    <td></td>
+    <td>53,430</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Advertising Expense</td>
+    <td>521</td>
+    <td></td>
+    <td>10,860</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Depreciation Expense—Store Equipment</td>
+    <td>522</td>
+    <td></td>
+    <td>3,100</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Delivery Expense</td>
+    <td>523</td>
+    <td></td>
+    <td>2,800</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Miscellaneous Selling Expense</td>
+    <td>529</td>
+    <td></td>
+    <td>630</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Office Salaries Expense</td>
+    <td>530</td>
+    <td></td>
+    <td>21,020</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Rent Expense</td>
+    <td>531</td>
+    <td></td>
+    <td>8,100</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Depreciation Expense—Office Equipment</td>
+    <td>532</td>
+    <td></td>
+    <td>2,490</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Insurance Expense</td>
+    <td>533</td>
+    <td></td>
+    <td>1,910</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Office Supplies Expense</td>
+    <td>534</td>
+    <td></td>
+    <td>610</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Miscellaneous Administrative Expense</td>
+    <td>539</td>
+    <td></td>
+    <td>760</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Interest Expense</td>
+    <td>710</td>
+    <td></td>
+    <td>2,440</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Retained Earnings</td>
+    <td>311</td>
+    <td></td>
+    <td>80,400</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dec. 31</td>
+    <td colspan="2">Retained Earnings</td>
+    <td>311</td>
+    <td>18,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Dividends</td>
+    <td>312</td>
+    <td></td>
+    <td>18,000</td>
+  </tr>
+</tbody></table>
+
+In the first closing entry, Inventory is debited for $62,150. This is the ending physical inventory count on December 31, 20Y8. In addition, the cost of the estimated merchandise returns from 20Y8 sales is debited to Estimated Returns Inventory for $5,000. Inventory is credited for its January 1, 20Y8, balance of $59,700. In this way, the closing entries reflect the effects of the beginning and ending inventory in determining the cost of goods sold, as shown in Exhibit 20. After the closing entries are posted, Inventory will have a balance of $62,150 and Estimated Returns Inventory will have a balance of $5,300, which are the amounts reported on the December 31, 20Y8, balance sheet.
+
+[En el primer asiento de cierre, Inventario se debita por $62,150. Este es el conteo físico del inventario final al 31 de diciembre de 20Y8. Además, el costo de las devoluciones de mercancía estimadas de las ventas de 20Y8 se debita a Inventario de Devoluciones Estimadas por $5,000. Inventario se acredita por su saldo del 1 de enero de 20Y8 de $59,700. De esta manera, los asientos de cierre reflejan los efectos del inventario inicial y final en la determinación del costo de bienes vendidos, como se muestra en la Figura 20. Después de que se traspasan los asientos de cierre, Inventario tendrá un saldo de $62,150 e Inventario de Devoluciones Estimadas tendrá un saldo de $5,300, que son los montos reportados en el balance general del 31 de diciembre de 20Y8.]
+
+In Exhibit 21, the periodic inventory accounts are highlighted. Under the perpetual inventory system, the highlighted periodic inventory accounts are replaced by the cost of goods sold account.
+
+[En la Figura 21, las cuentas de inventario periódico están resaltadas. Bajo el sistema de inventario perpetuo, las cuentas de inventario periódico resaltadas son reemplazadas por la cuenta de costo de bienes vendidos.]
+
+---
+
+<h1 id="912447" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-7a Let’s Review Chapter Summary
+  </a>
+</h1>
+
+
+[**5-7 Revisión del Capítulo - 5-7a Revisemos el Resumen del Capítulo**]
+
+**1.** Retail businesses purchase merchandise for selling to customers. On a retail business's income statement, revenue from selling merchandise is reported as sales. The cost of the goods sold is subtracted from sales to arrive at gross profit. The operating expenses are subtracted from gross profit to arrive at operating income. Inventory, which is merchandise not sold, is reported as a current asset on the balance sheet. The chart of accounts for a retail business (NetSolutions) is shown in Exhibit 2.
+
+[**1.** Los negocios minoristas compran mercancía para vender a los clientes. En el estado de resultados de un negocio minorista, los ingresos por la venta de mercancía se reportan como ventas. El costo de los bienes vendidos se resta de las ventas para llegar a la utilidad bruta. Los gastos operativos se restan de la utilidad bruta para llegar al ingreso operativo. El inventario, que es la mercancía no vendida, se reporta como un activo corriente en el balance general. El catálogo de cuentas para un negocio minorista (NetSolutions) se muestra en la Figura 2.]
+
+**2.** Purchases of merchandise for cash or on account are recorded as inventory. Discounts for early payment of purchases on account are called purchases discounts. If paid within the discount period, a purchase discount decreases the cost of the inventory. Price adjustments or returned merchandise are recorded as a decrease in inventory.
+
+[**2.** Las compras de mercancía al contado o a crédito se registran como inventario. Los descuentos por pago anticipado de compras a crédito se llaman descuentos por compras. Si se paga dentro del período de descuento, un descuento por compras disminuye el costo del inventario. Los ajustes de precio o la mercancía devuelta se registran como una disminución en el inventario.]
+
+Sales of merchandise for cash or on account are recorded as sales. The cost of goods sold and the reduction in inventory are also recorded at the time of sale.
+
+[Las ventas de mercancía al contado o a crédito se registran como ventas. El costo de los bienes vendidos y la reducción en el inventario también se registran en el momento de la venta.]
+
+A seller may offer customers a variety of sales incentives, promotions, and discounts in the form of coupons and rebates. A point-of-sale coupon is recorded as a decrease in sales (revenue) at the time of the customer's purchase. If a coupon or rebate is issued at the time of the customer's purchase, the seller incurs a future liability. In this case, the seller estimates the dollar value of the coupons that will be redeemed, debits Sales (revenue) by that amount, and credits Estimated Coupons Payable. When customers redeem the coupons, Estimated Coupons Payable is debited. When the coupon period has expired, any remaining balance of Estimated Coupons Payable is transferred to Sales (revenue) as an increase (credit balance) or decrease (debit balance). Rebates are accounted for in a similar manner as coupons.
+
+[Un vendedor puede ofrecer a los clientes una variedad de incentivos de ventas, promociones y descuentos en forma de cupones y reembolsos. Un cupón de punto de venta se registra como una disminución en las ventas (ingresos) en el momento de la compra del cliente. Si se emite un cupón o reembolso en el momento de la compra del cliente, el vendedor incurre en un pasivo futuro. En este caso, el vendedor estima el valor en dólares de los cupones que se canjearán, debita Ventas (ingresos) por ese monto y acredita Cupones Estimados por Pagar. Cuando los clientes canjean los cupones, se debitan los Cupones Estimados por Pagar. Cuando el período de cupones ha expirado, cualquier saldo restante de Cupones Estimados por Pagar se transfiere a Ventas (ingresos) como un aumento (saldo acreedor) o disminución (saldo deudor). Los reembolsos se contabilizan de manera similar a los cupones.]
+
+A seller may pay a customer a refund or grant a price allowance for defective, returned, or damaged merchandise. At the end of the accounting period, a seller must estimate future returns, refunds, and allowances. Based upon this estimate, sellers record two adjusting entries. The first adjusting entry debits Sales and credits Customer Refunds Payable. The second adjusting entry debits Estimated Returns Inventory and credits Cost of Goods Sold.
+
+[Un vendedor puede pagar a un cliente un reembolso o conceder una bonificación de precio por mercancía defectuosa, devuelta o dañada. Al final del período contable, un vendedor debe estimar las devoluciones, reembolsos y bonificaciones futuras. Con base en esta estimación, los vendedores registran dos asientos de ajuste. El primer asiento de ajuste debita Ventas y acredita Reembolsos a Clientes por Pagar. El segundo asiento de ajuste debita Inventario de Devoluciones Estimadas y acredita Costo de Bienes Vendidos.]
+
+When a customer is issued a refund or allowance, Customer Refunds Payable is debited and either Cash, if the customer has already paid for the merchandise, or Accounts Receivable is credited. If merchandise is returned, Inventory is debited for the cost of the returned merchandise and Estimated Returns Inventory is credited. On the balance sheet, Estimated Returns Inventory is reported as a current asset and Customer Refunds Payable is reported as a current liability.
+
+[Cuando se emite un reembolso o bonificación a un cliente, se debitan los Reembolsos a Clientes por Pagar y se acredita Efectivo, si el cliente ya ha pagado por la mercancía, o Cuentas por Cobrar. Si se devuelve la mercancía, se debita Inventario por el costo de la mercancía devuelta y se acredita Inventario de Devoluciones Estimadas. En el balance general, el Inventario de Devoluciones Estimadas se reporta como un activo corriente y los Reembolsos a Clientes por Pagar se reportan como un pasivo corriente.]
+
+When merchandise is shipped FOB shipping point, the buyer pays the freight and debits Inventory. When merchandise is shipped FOB destination, the seller pays the freight and debits Delivery Expense or Freight Out. Inventory transactions can be summarized in T account form as shown in Exhibit 9. Each merchandising transaction affects a buyer and a seller. The liability for sales tax is incurred when the sale is made and is recorded by the seller as a credit to the sales tax payable account. Trade discounts are discounts off the list price of merchandise.
+
+[Cuando la mercancía se envía FOB punto de embarque, el comprador paga el flete y debita Inventario. Cuando la mercancía se envía FOB destino, el vendedor paga el flete y debita Gastos de Entrega o Flete de Salida. Las transacciones de inventario se pueden resumir en forma de cuenta T como se muestra en la Figura 9. Cada transacción de mercancía afecta a un comprador y a un vendedor. El pasivo por el impuesto a las ventas se incurre cuando se realiza la venta y es registrado por el vendedor como un crédito a la cuenta de impuesto a las ventas por pagar. Los descuentos comerciales son descuentos sobre el precio de lista de la mercancía.]
+
+**3.** At the end of the accounting period, a retail business must record several adjusting entries that differ from those of a service business. An adjusting entry to reconcile the physical inventory and the balance of the perpetual inventory account is made. The normal adjusting entry for when the inventory account is greater than the physical inventory, called inventory shrinkage, is to debit Cost of Goods Sold and credit Inventory. A seller must also record two adjusting entries for expected returns and allowances. The first adjusting entry debits Sales and credits Customer Refunds Payable. The second entry debits Estimated Returns Inventory and credits Cost of Goods Sold.
+
+[**3.** Al final del período contable, un negocio minorista debe registrar varios asientos de ajuste que difieren de los de un negocio de servicios. Se realiza un asiento de ajuste para conciliar el inventario físico y el saldo de la cuenta de inventario perpetuo. El asiento de ajuste normal cuando la cuenta de inventario es mayor que el inventario físico, llamado merma de inventario, es debitar Costo de Bienes Vendidos y acreditar Inventario. Un vendedor también debe registrar dos asientos de ajuste para devoluciones y bonificaciones esperadas. El primer asiento de ajuste debita Ventas y acredita Reembolsos a Clientes por Pagar. El segundo asiento debita Inventario de Devoluciones Estimadas y acredita Costo de Bienes Vendidos.]
+
+**4.** The multiple-step income statement of a retailer reports sales. The cost of the goods sold is subtracted from sales to determine the gross profit. Operating income is determined by subtracting selling and administrative expenses from gross profit. Net income is determined by adding or subtracting the net of other revenue and expense. The income statement may also be reported in a single-step form. The statement of stockholders' equity is similar to that for a service business. The balance sheet reports inventory and estimated returns inventory as current assets. Customer refunds payable is reported as a current liability. The closing entries for a retail business are similar to those for a service business except that Cost of Goods Sold is also closed.
+
+[**4.** El estado de resultados de múltiples pasos de un minorista reporta las ventas. El costo de los bienes vendidos se resta de las ventas para determinar la utilidad bruta. El ingreso operativo se determina restando los gastos de venta y administrativos de la utilidad bruta. El ingreso neto se determina sumando o restando el neto de otros ingresos y gastos. El estado de resultados también puede reportarse en forma de un solo paso. El estado de cambios en el capital contable es similar al de un negocio de servicios. El balance general reporta el inventario y el inventario de devoluciones estimadas como activos corrientes. Los reembolsos a clientes por pagar se reportan como un pasivo corriente. Los asientos de cierre para un negocio minorista son similares a los de un negocio de servicios, excepto que el Costo de Bienes Vendidos también se cierra.]
+
+**5.** The asset turnover ratio measures how effectively a business is using its assets to generate sales. A high ratio indicates an effective use of assets. The asset turnover ratio is computed by dividing sales by average total assets.
+
+[**5.** La razón de rotación de activos mide la efectividad con la que un negocio está utilizando sus activos para generar ventas. Una razón alta indica un uso efectivo de los activos. La razón de rotación de activos se calcula dividiendo las ventas entre el promedio de los activos totales.]
+
+## Exhibit 2
+
+<img src="./img/006.png" width="800"></img>
+
+## Exhibit 9
+
+![Exhibit 9 - Recording Inventory Transactions](./img/039.png)
+
+---
+
+<h1 id="144764" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-7b Key Terms
+  </a>
+</h1>
+
+[**5-7b Términos Clave**]
+
+| English Term | Español | Definition (English) | Definición (Español) |
+|--------------|---------|---------------------|---------------------|
+| accounts payable subsidiary ledger | libro mayor auxiliar de cuentas por pagar | The subsidiary ledger containing the individual accounts with suppliers (creditors); also called the creditors ledger. | El libro mayor auxiliar que contiene las cuentas individuales con los proveedores (acreedores); también llamado libro mayor de acreedores. |
+| accounts receivable subsidiary ledger | libro mayor auxiliar de cuentas por cobrar | The subsidiary ledger containing the individual accounts with customers; also called the customers ledger. | El libro mayor auxiliar que contiene las cuentas individuales con los clientes; también llamado libro mayor de clientes. |
+| administrative expenses | gastos administrativos | Expenses incurred in the administration or general operations of the business. | Gastos incurridos en la administración u operaciones generales del negocio. |
+| asset turnover ratio | razón de rotación de activos | A profitability ratio that measures how effectively a business is using its assets to generate sales, computed as sales divided by average total assets. | Una razón de rentabilidad que mide la efectividad con la que un negocio está utilizando sus activos para generar ventas, calculada como ventas divididas entre activos totales promedio. |
+| business-to-business (B2B) | empresa-empresa | Transactions between suppliers and retailers. | Transacciones entre proveedores y minoristas. |
+| business-to-consumer (B2C) | empresa-consumidor | Transactions between retailers and consumers. | Transacciones entre minoristas y consumidores. |
+| cash refund | reembolso en efectivo | An amount paid by the seller to the buyer for merchandise that is defective, is damaged during shipment, or does not meet the buyer's expectations. | Un monto pagado por el vendedor al comprador por mercancía que está defectuosa, dañada durante el envío o que no cumple con las expectativas del comprador. |
+| controlling account | cuenta de control | The account in the general ledger that summarizes the balances of the accounts in a subsidiary ledger. | La cuenta en el libro mayor general que resume los saldos de las cuentas en un libro mayor auxiliar. |
+| cost of goods sold | costo de bienes vendidos | The cost of merchandise sold recognized as an expense; the cost of finished goods available for sale minus the ending finished goods inventory. | El costo de la mercancía vendida reconocido como un gasto; el costo de los bienes terminados disponibles para la venta menos el inventario final de bienes terminados. |
+| coupon | cupón | A sales incentive or promotion that provides the customer a discount when purchasing a product. | Un incentivo o promoción de ventas que proporciona al cliente un descuento al comprar un producto. |
+| credit memorandum | memorándum de crédito | A form used by a seller to inform the buyer of the amount the seller proposes to credit to the account receivable due from the buyer. | Un formulario utilizado por un vendedor para informar al comprador del monto que el vendedor propone acreditar a la cuenta por cobrar del comprador. |
+| credit period | período de crédito | The amount of time the buyer is allowed in which to pay the seller. | El período de tiempo que se le permite al comprador para pagar al vendedor. |
+| credit terms | términos de crédito | Terms for payment on account by the buyer to the seller. | Términos de pago a cuenta por parte del comprador al vendedor. |
+| customer refunds payable | reembolsos a clientes por pagar | A liability account for estimated refunds and allowances that will be paid or granted to customers in the future. | Una cuenta de pasivo para reembolsos y bonificaciones estimados que se pagarán o concederán a los clientes en el futuro. |
+| debit cards | tarjetas de débito | Cards used for electronic payment by which the money required by the purchase is deducted instantly from the customer's bank account. | Tarjetas utilizadas para pagos electrónicos mediante los cuales el dinero requerido por la compra se deduce instantáneamente de la cuenta bancaria del cliente. |
+| debit memorandum | memorándum de débito | A form used by a buyer to inform the seller of the amount the buyer proposes to debit to the account payable due the seller. | Un formulario utilizado por el comprador para informar al vendedor del monto que el comprador propone debitar a la cuenta por pagar al vendedor. |
+| estimated coupons payable | cupones estimados por pagar | A current liability account for the estimated amount of coupons printed out with sales receipts that will be redeemed by customers. | Una cuenta de pasivo corriente por el monto estimado de cupones impresos con los recibos de ventas que serán canjeados por los clientes. |
+| estimated returns inventory | inventario de devoluciones estimadas | A current asset account for the estimated amount of merchandise that will be returned by customers. | Una cuenta de activo corriente por el monto estimado de mercancía que será devuelta por los clientes. |
+| FOB (free on board) destination | FOB destino | Freight terms in which the seller pays the transportation costs from the shipping point to the final destination. | Términos de flete en los que el vendedor paga los costos de transporte desde el punto de embarque hasta el destino final. |
+| FOB (free on board) shipping point | FOB punto de embarque | Freight terms in which the buyer pays the transportation costs from the shipping point to the final destination. | Términos de flete en los que el comprador paga los costos de transporte desde el punto de embarque hasta el destino final. |
+| general ledger | libro mayor general | The primary ledger, when used in conjunction with subsidiary ledgers, that contains all of the balance sheet and income statement accounts. | El libro mayor principal, cuando se usa en conjunto con libros mayores auxiliares, que contiene todas las cuentas del balance general y del estado de resultados. |
+| gross method of recording sales discounts | método bruto de registro de descuentos por ventas | A method of recording a sales invoice at the gross amount rather than the amount net of any discounts offered for early payment. | Un método de registrar una factura de venta por el monto bruto en lugar del monto neto de cualquier descuento ofrecido por pago anticipado. |
+| gross profit | utilidad bruta | Sales minus the cost of goods sold. | Ventas menos el costo de bienes vendidos. |
+| instant rebates | reembolsos instantáneos | Rebates that may be redeemed at the time of purchase. | Reembolsos que pueden canjearse en el momento de la compra. |
+| inventory | inventario | Merchandise on hand (not sold) at the end of an accounting period. | Mercancía disponible (no vendida) al final de un período contable. |
+| inventory shrinkage | merma de inventario | The amount by which the merchandise for sale, as indicated by the balance of the inventory account, is larger than the total amount of merchandise counted during the physical inventory. | El monto por el cual la mercancía para la venta, según lo indica el saldo de la cuenta de inventario, es mayor que el monto total de la mercancía contada durante el inventario físico. |
+| inventory subsidiary ledger | libro mayor auxiliar de inventario | A supporting ledger to the inventory account, containing an individual account for each inventory item. | Un libro mayor de respaldo a la cuenta de inventario, que contiene una cuenta individual para cada artículo de inventario. |
+| invoice | factura | The bill that the seller sends to the buyer for sales made or services rendered on account. | La cuenta que el vendedor envía al comprador por las ventas realizadas o los servicios prestados a crédito. |
+| multiple-step income statement | estado de resultados de múltiples pasos | A form of income statement that contains several sections, subsections, and subtotals. | Una forma de estado de resultados que contiene varias secciones, subsecciones y subtotales. |
+| net method of recording sales discounts | método neto de registro de descuentos por ventas | A method of recording a sales invoice at the amount net of any discounts for early payment. | Un método de registrar una factura de venta por el monto neto de cualquier descuento por pago anticipado. |
+| operating cycle | ciclo operativo | The process by which a company spends cash, generates revenues, and receives cash from customers. | El proceso mediante el cual una empresa gasta efectivo, genera ingresos y recibe efectivo de los clientes. |
+| operating income | ingreso operativo | The difference between gross profit and operating expenses. | La diferencia entre la utilidad bruta y los gastos operativos. |
+| other expense | otros gastos | Expenses that cannot be traced directly to operations. | Gastos que no pueden rastrearse directamente a las operaciones. |
+| other revenue | otros ingresos | Revenue from sources other than the primary operating activity of a business. | Ingresos de fuentes distintas a la actividad operativa principal de un negocio. |
+| periodic inventory system | sistema de inventario periódico | An inventory system in which the inventory records are updated only after a physical count has been taken at periodic intervals, usually at the end of an accounting period. | Un sistema de inventario en el que los registros de inventario se actualizan solo después de que se ha realizado un conteo físico a intervalos periódicos, generalmente al final de un período contable. |
+| perpetual inventory system | sistema de inventario perpetuo | The inventory system in which each purchase and sale of merchandise is recorded in the inventory account and related subsidiary ledger; therefore, the inventory records are updated continuously. | El sistema de inventario en el que cada compra y venta de mercancía se registra en la cuenta de inventario y en el libro mayor auxiliar relacionado; por lo tanto, los registros de inventario se actualizan continuamente. |
+| physical inventory | inventario físico | A detailed listing of merchandise on hand. | Una lista detallada de la mercancía disponible. |
+| point-of-sale coupons | cupones de punto de venta | Coupons that have no value and the retailer has no obligation until a customer purchases merchandise and presents the coupon. | Cupones que no tienen valor y el minorista no tiene obligación hasta que un cliente compra mercancía y presenta el cupón. |
+| purchases discounts | descuentos por compras | Discounts taken by the buyer for early payment of an invoice. | Descuentos tomados por el comprador por el pago anticipado de una factura. |
+| purchases returns and allowances | devoluciones y bonificaciones por compras | From the buyer's perspective, returned merchandise or an adjustment for defective merchandise. | Desde la perspectiva del comprador, mercancía devuelta o un ajuste por mercancía defectuosa. |
+| rebate | reembolso | A sales incentive or promotion that provides the customer a refund after the product is purchased. | Un incentivo o promoción de ventas que proporciona al cliente un reembolso después de que se compra el producto. |
+| retail business | negocio minorista | A business that sells merchandise that it has purchased from other companies to consumers. | Un negocio que vende mercancía que ha comprado a otras empresas a los consumidores. |
+| sales | ventas | Revenue from the sale of merchandise to customers. | Ingresos por la venta de mercancía a los clientes. |
+| sales allowance | bonificación por venta | A reduction in a customer's account receivable granted due to damaged or defective merchandise. | Una reducción en la cuenta por cobrar del cliente concedida debido a mercancía dañada o defectuosa. |
+| sales discount | descuento por ventas | From the seller's perspective, a discount that a seller may offer the buyer for early payment. | Desde la perspectiva del vendedor, un descuento que un vendedor puede ofrecer al comprador por pago anticipado. |
+| selling expenses | gastos de venta | Expenses that are incurred directly in the selling of merchandise. | Gastos que se incurren directamente en la venta de mercancía. |
+| single-step income statement | estado de resultados de un solo paso | A form of income statement in which the total of all expenses is deducted from the total of all revenues. | Una forma de estado de resultados en la que el total de todos los gastos se deduce del total de todos los ingresos. |
+| special journals | diarios especiales | Journals designed to be used for recording a single type of transaction that occurs frequently. | Diarios diseñados para ser utilizados para registrar un solo tipo de transacción que ocurre con frecuencia. |
+| subsidiary ledger | libro mayor auxiliar | Individual accounts with a common characteristic grouped together in a separate or secondary ledger, which is used to support a controlling account in the general ledger. | Cuentas individuales con una característica común agrupadas en un libro mayor separado o secundario, que se utiliza para respaldar una cuenta de control en el libro mayor general. |
+| suppliers | proveedores | A company that sells merchandise to retailers. | Una empresa que vende mercancía a minoristas. |
+| trade discounts | descuentos comerciales | Discounts from the list prices in published catalogs or special discounts offered to certain classes of buyers. | Descuentos sobre los precios de lista en catálogos publicados o descuentos especiales ofrecidos a ciertas clases de compradores. |
+| vendors | vendedores | A company that sells merchandise to retailers. | Una empresa que vende mercancía a minoristas. |
+| wholesale businesses | empresas mayoristas | A company that sells merchandise to other businesses rather than to the public. | Una empresa que vende mercancía a otras empresas en lugar de al público. |
+
+---
