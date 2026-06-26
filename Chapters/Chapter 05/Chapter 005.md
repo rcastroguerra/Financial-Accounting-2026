@@ -1262,3 +1262,1282 @@ To make sure that they have an adequate supply of inventory, many companies ente
     5-2d Sales Transactions
   </a>
 </h1>
+
+
+Revenue from merchandise sales is usually recorded as Sales. Sometimes a business may use the titles Sales Revenue or Sales of Merchandise.
+
+[Los ingresos por ventas de mercancía generalmente se registran como Ventas. A veces, un negocio puede usar los títulos Ingresos por Ventas o Ventas de Mercancía.]
+
+---
+
+## Cash Sales
+
+A retail business may sell merchandise for cash. Cash sales are normally entered on a cash register and recorded in the accounts. To illustrate, assume that on March 3, NetSolutions sells merchandise for $1,800. These cash sales are recorded as follows:
+
+[Un negocio minorista puede vender mercancía al contado. Las ventas al contado normalmente se ingresan en una caja registradora y se registran en las cuentas. Para ilustrar, suponga que el 3 de marzo, NetSolutions vende mercancía por $1,800. Estas ventas al contado se registran de la siguiente manera:]
+
+<img src="./img/015.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 3 | Cash | 1,800 | |
+| | Sales | | 1,800 |
+| | *Record cash sales.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>1000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>1000</td>
+  </tr>
+</tbody>
+</table>
+
+Using the perpetual inventory system, the cost of goods sold and the decrease in inventory are also recorded. In this way, the inventory account indicates the amount of inventory on hand (not sold).
+
+[Utilizando el sistema de inventario perpetuo, el costo de los bienes vendidos y la disminución del inventario también se registran. De esta manera, la cuenta de inventario indica la cantidad de inventario disponible (no vendido).]
+
+To illustrate, assume that the cost of goods sold on March 3 is $1,200. The entry to record the cost of goods sold and the decrease in the inventory is as follows:
+
+[Para ilustrar, suponga que el costo de los bienes vendidos el 3 de marzo es de $1,200. El asiento para registrar el costo de los bienes vendidos y la disminución del inventario es el siguiente:]
+
+<img src="./img/016.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 3 | Cost of Goods Sold | 1,200 | |
+| | Inventory | | 1,200 |
+| | *Record cost of goods sold.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1200</td>
+    <td></td>
+    <td></td>
+    <td>1200</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Sales may be made to customers using **debit cards** (Cards used for electronic payment by which the money required by the purchase is deducted instantly from the customer's bank account.), sometimes called **bank cards** (Cards used for electronic payment by which the money required by the purchase is deducted instantly from the customer's bank account.). When a customer uses a debit card, the money required by the purchase is deducted instantly from the customer's bank account. For this reason, debit card sales are recorded as cash sales.
+
+[Las ventas pueden realizarse a clientes utilizando **tarjetas de débito** (tarjetas utilizadas para pagos electrónicos mediante los cuales el dinero requerido por la compra se deduce instantáneamente de la cuenta bancaria del cliente), a veces llamadas **tarjetas bancarias** (tarjetas utilizadas para pagos electrónicos mediante los cuales el dinero requerido por la compra se deduce instantáneamente de la cuenta bancaria del cliente). Cuando un cliente utiliza una tarjeta de débito, el dinero requerido por la compra se deduce instantáneamente de la cuenta bancaria del cliente. Por esta razón, las ventas con tarjeta de débito se registran como ventas al contado.]
+
+Sales may also be made to customers using credit cards such as Mastercard or Visa. Credit card sales are normally processed by a clearinghouse that contacts the bank that issued the card. The issuing bank then electronically transfers cash directly to the retailer's bank account. Since the retailer normally receives cash within a few days of making the sale, credit card sales are also recorded as cash sales.
+
+[Las ventas también pueden realizarse a clientes utilizando tarjetas de crédito como Mastercard o Visa. Las ventas con tarjeta de crédito normalmente son procesadas por una cámara de compensación que contacta al banco que emitió la tarjeta. El banco emisor luego transfiere electrónicamente efectivo directamente a la cuenta bancaria del minorista. Dado que el minorista normalmente recibe efectivo dentro de unos días de realizar la venta, las ventas con tarjeta de crédito también se registran como ventas al contado.]
+
+---
+
+## **Link to Dollar Tree:** 
+
+Dollar Tree normally receives cash from credit card sales within three business days, and thus records credit card sales as cash sales.
+
+[**Enlace a Dollar Tree:** Dollar Tree normalmente recibe efectivo de las ventas con tarjeta de crédito dentro de los tres días hábiles, y por lo tanto registra las ventas con tarjeta de crédito como ventas al contado.]
+
+If a retailer allows customers to use debit or credit cards to pay for purchases, the retailer may be charged processing fees by the clearinghouse or issuing bank. Such fees are periodically recorded as an expense. To illustrate, assume that a company pays credit card processing fees of $4,150 on October 31. These fees would be recorded as follows:
+
+[Si un minorista permite a los clientes usar tarjetas de débito o crédito para pagar las compras, el minorista puede ser cobrado por tarifas de procesamiento por la cámara de compensación o el banco emisor. Dichas tarifas se registran periódicamente como un gasto. Para ilustrar, suponga que una empresa paga tarifas de procesamiento de tarjetas de crédito de $4,150 el 31 de octubre. Estas tarifas se registrarían de la siguiente manera:]
+
+<img src="./img/017.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Oct. 31 | Credit Card Processing Fees | 4,150 | |
+| | Cash | | 4,150 |
+| | *Record credit card processing fees.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Credit Card Processing Fees</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>4150</td>
+    <td></td>
+    <td></td>
+    <td>4150</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Instead of using Mastercard or Visa, a customer may use a credit card that is not issued by a bank. For example, a customer might use an American Express card. If the seller uses a clearinghouse, the clearinghouse will collect the receivable and transfer the cash to the retailer's bank account, similar to the way it would have if the customer had used Mastercard or Visa. Large businesses, however, may not use a clearinghouse. In such cases, nonbank credit card sales must first be reported to the card company before cash is received. Thus, a receivable is created with the nonbank credit card company. However, because most retailers use clearinghouses to process both bank and nonbank credit cards, all credit card sales will be recorded as cash sales.
+
+[En lugar de usar Mastercard o Visa, un cliente puede usar una tarjeta de crédito que no es emitida por un banco. Por ejemplo, un cliente podría usar una tarjeta American Express. Si el vendedor usa una cámara de compensación, la cámara de compensación cobrará la cuenta por cobrar y transferirá el efectivo a la cuenta bancaria del minorista, similar a como lo habría hecho si el cliente hubiera usado Mastercard o Visa. Sin embargo, las grandes empresas pueden no usar una cámara de compensación. En tales casos, las ventas con tarjeta de crédito no bancarias deben primero ser reportadas a la compañía de tarjetas antes de recibir el efectivo. Por lo tanto, se crea una cuenta por cobrar con la compañía de tarjetas de crédito no bancarias. Sin embargo, debido a que la mayoría de los minoristas usan cámaras de compensación para procesar tanto tarjetas de crédito bancarias como no bancarias, todas las ventas con tarjeta de crédito se registrarán como ventas al contado.]
+
+---
+
+**Link to Dollar Tree:** Dollar Tree only accepts cash, checks, credit cards, and debit cards from its customers.
+
+[**Enlace a Dollar Tree:** Dollar Tree solo acepta efectivo, cheques, tarjetas de crédito y tarjetas de débito de sus clientes.]
+
+---
+
+## Sales on Account
+
+A retail business may sell merchandise on account. The seller records such sales as a debit to Accounts Receivable and a credit to Sales. To illustrate, assume that NetSolutions sold merchandise on account to Digital Technologies for $18,000, terms n/30. The cost of the merchandise sold was $10,800. NetSolutions would record the sale on account as follows:
+
+[Un negocio minorista puede vender mercancía a crédito. El vendedor registra tales ventas como un débito a Cuentas por Cobrar y un crédito a Ventas. Para ilustrar, suponga que NetSolutions vendió mercancía a crédito a Digital Technologies por $18,000, términos n/30. El costo de la mercancía vendida fue de $10,800. NetSolutions registraría la venta a crédito de la siguiente manera:]
+
+<img src="./img/018.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Apr. 3 | Accounts Receivable | 18,000 | |
+| | Sales | | 18,000 |
+| | *Record sale on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>18,000</td>
+  </tr>
+</tbody>
+</table>
+
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Apr. 3 | Cost of Goods Sold | 10,800 | |
+| | Inventory | | 10,800 |
+| | *Record cost of goods sold.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10,800</td>
+    <td></td>
+    <td></td>
+    <td>10,800</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+NetSolutions would record the receipt of Digital Technologies' payment on April 9 as follows:
+
+[NetSolutions registraría la recepción del pago de Digital Technologies el 9 de abril de la siguiente manera:]
+
+<img src="./img/019.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Apr. 9 | Cash | 18,000 | |
+| | Accounts Receivable | | 18,000 |
+| | *Record receipt of payment.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+## **Link to Dollar Tree:** 
+Because Dollar Tree does not sell merchandise to customers on account, but only accepts cash, checks, credit cards, and debit cards, it did not report any accounts receivable on a recent balance sheet.
+
+[**Enlace a Dollar Tree:** Debido a que Dollar Tree no vende mercancía a crédito a los clientes, sino que solo acepta efectivo, cheques, tarjetas de crédito y tarjetas de débito, no reportó cuentas por cobrar en un balance general reciente.]
+
+---
+
+## Sales Incentives, Promotions, and Discounts
+
+Retailers frequently offer sales incentives, promotions, and discounts to increase sales. For example, a seller might offer customers discounts to purchase early or in large volumes. Discounts may also be offered to encourage customers to pay early. The accounting for these types of sales discounts is discussed in Appendix 1 at the end of this chapter.
+
+[Los minoristas ofrecen con frecuencia incentivos de ventas, promociones y descuentos para aumentar las ventas. Por ejemplo, un vendedor podría ofrecer a los clientes descuentos por comprar temprano o en grandes volúmenes. También se pueden ofrecer descuentos para alentar a los clientes a pagar temprano. La contabilidad de estos tipos de descuentos en ventas se discute en el Apéndice 1 al final de este capítulo.]
+
+Sales incentives and promotions are often distributed by retailers through newspapers, magazines, the Internet, and direct mailings. Such incentives and promotions often take the form of coupons and rebates. A **coupon** (A sales incentive or promotion that provides the customer a discount when purchasing a product.) provides the customer a discount when purchasing a product(s). A **rebate** (A sales incentive or promotion that provides the customer a refund after the product is purchased.) provides the customer a refund after the product is purchased. The accounting for a coupon or rebate depends upon its terms and how it can be redeemed by the customer.
+
+[Los incentivos y promociones de ventas a menudo son distribuidos por los minoristas a través de periódicos, revistas, Internet y correo directo. Tales incentivos y promociones a menudo toman la forma de cupones y reembolsos. Un **cupón** (un incentivo o promoción de ventas que proporciona al cliente un descuento al comprar un producto) proporciona al cliente un descuento al comprar un producto(s). Un **reembolso** (un incentivo o promoción de ventas que proporciona al cliente un reembolso después de que se compra el producto) proporciona al cliente un reembolso después de que se compra el producto. La contabilidad de un cupón o reembolso depende de sus términos y de cómo puede ser canjeado por el cliente.]
+
+A coupon has no value and the retailer has no obligation until a customer purchases merchandise and presents the coupon. As a result, no liability (journal entry) is recorded by the retailer when the coupon is issued. Instead, the retailer reduces sales (revenue) by the amount of the coupon at the time of sale. These types of coupons are commonly issued by companies such as Bed Bath & Beyond (BBBY) and Michaels (MIK) and are referred to as **point-of-sale coupons** (Coupons that have no value and the retailer has no obligation until a customer purchases merchandise and presents the coupon.).
+
+[Un cupón no tiene valor y el minorista no tiene obligación hasta que un cliente compra mercancía y presenta el cupón. Como resultado, el minorista no registra ningún pasivo (asiento de diario) cuando se emite el cupón. En cambio, el minorista reduce las ventas (ingresos) por el monto del cupón en el momento de la venta. Estos tipos de cupones son comúnmente emitidos por empresas como Bed Bath & Beyond (BBBY) y Michaels (MIK) y se conocen como **cupones de punto de venta** (cupones que no tienen valor y el minorista no tiene obligación hasta que un cliente compra mercancía y presenta el cupón).]
+
+To illustrate, assume Welborn Stores offers a coupon on its website for $3 off the customer's next purchase of $15 or more. Assume that Becky Lewis purchases $45 of merchandise, submits the $3 coupon, and pays cash. The $3 coupon reduces the revenue from the sale from $45 to $42 ($45 – $3 coupon). Assuming the merchandise cost Welborn Stores $27, the sale would be recorded as follows:
+
+[Para ilustrar, suponga que Welborn Stores ofrece un cupón en su sitio web por $3 de descuento en la próxima compra del cliente de $15 o más. Suponga que Becky Lewis compra $45 de mercancía, presenta el cupón de $3 y paga en efectivo. El cupón de $3 reduce los ingresos de la venta de $45 a $42 ($45 – $3 del cupón). Suponiendo que la mercancía le costó a Welborn Stores $27, la venta se registraría de la siguiente manera:]
+
+<img src="./img/020.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| | Cash | 42 | |
+| | Sales | | 42 |
+| | *Record cash sale with coupon.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>42</td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| | Cost of Goods Sold | 27 | |
+| | Inventory | | 27 |
+| | *Record cost of goods sold.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>27</td>
+    <td></td>
+    <td></td>
+    <td>27</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+If instead of $3 off, the coupon had been for 10% off, Welborn Stores would have recorded a sale of $40.50 [$45 – ($45 × 10%)]. In both cases, the coupon reduces revenue at the time of sale.
+
+[Si en lugar de $3 de descuento, el cupón hubiera sido del 10% de descuento, Welborn Stores habría registrado una venta de $40.50 [$45 – ($45 × 10%)]. En ambos casos, el cupón reduce los ingresos en el momento de la venta.]
+
+In contrast, assume that a coupon is issued when customers purchase merchandise. The coupon appears on the bottom of the customer's sales receipt and may be redeemed for future purchases. In this case, when the retailer sold the merchandise, it incurred a future obligation (liability) to the customer. As a result, the retailer must estimate the dollar value of coupons that will be redeemed, reduce sales, and record a related liability.
+
+[En contraste, suponga que se emite un cupón cuando los clientes compran mercancía. El cupón aparece en la parte inferior del recibo de venta del cliente y puede ser canjeado para compras futuras. En este caso, cuando el minorista vendió la mercancía, incurrió en una obligación futura (pasivo) con el cliente. Como resultado, el minorista debe estimar el valor en dólares de los cupones que serán canjeados, reducir las ventas y registrar un pasivo relacionado.]
+
+To illustrate, assume that to stimulate summer sales Grande Stores prints a coupon on the bottom of its May 20Y6 sales receipts for $3 off the customer's next purchase of over $20. The coupons may be redeemed June 1 – August 31, 20Y6. During May, Grande Stores sold merchandise for $40,000,000, which generated 6,000,000 sales receipts. The cost of the merchandise sold was $21,500,000. Grande Stores estimates that 20% of the coupons will be redeemed before they expire on August 31. If Grande Stores accepts only cash, Visa, or Mastercard, it would record its May 20Y6 sales as follows:
+
+[Para ilustrar, suponga que para estimular las ventas de verano, Grande Stores imprime un cupón en la parte inferior de sus recibos de ventas de mayo de 20Y6 por $3 de descuento en la próxima compra del cliente de más de $20. Los cupones pueden canjearse del 1 de junio al 31 de agosto de 20Y6. Durante mayo, Grande Stores vendió mercancía por $40,000,000, lo que generó 6,000,000 de recibos de ventas. El costo de la mercancía vendida fue de $21,500,000. Grande Stores estima que el 20% de los cupones serán canjeados antes de que expiren el 31 de agosto. Si Grande Stores acepta solo efectivo, Visa o Mastercard, registraría sus ventas de mayo de 20Y6 de la siguiente manera:]
+
+<img src="./img/023.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|---|---|---|---|
+| May 31 | Cash | 40,000,000 |  |
+|  | Sales |  | 36,400,000 |
+|  | Estimated Coupons Payable |  | 3,600,000 |
+|  | **Record estimated coupon liability.* *6,000,000 recelpts x $3 x 20%** |  |  |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Estimated Coupons Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>40,000,000</td>
+    <td></td>
+    <td></td>
+    <td>3,600,000</td>
+    <td></td>
+    <td>36,400,000</td>
+  </tr>
+</tbody>
+</table>
+
+<img src="./img/024.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|---|---|---|---|
+| May 31 | Cost of Goods Sold | 21,500,000 |  |
+|  | Inventory |  | 21,500,000 |
+|  | **Record cost of goods sold.** |  |  |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>21,500,000</td>
+    <td></td>
+    <td></td>
+    <td>21,500,000</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
+As of May 31, 20Y6, Grande Stores has incurred a current liability, called **Estimated Coupons Payable** (A current liability account for the estimated amount of coupons printed out with sales receipts that will be redeemed by customers.), to its May customers who may redeem its $3 coupons. Since it is estimated that only 20% of its May customers will redeem a coupon, 1,200,000 coupons (6,000,000 sales receipts × 20%) are estimated to be redeemed. Because each coupon is for $3, the estimated coupon liability is $3,600,000 (1,200,000 coupons × $3). This estimated liability reduces the gross sales of $40,000,000 to $36,400,000 ($40,000,000 – $3,600,000).
+
+[Al 31 de mayo de 20Y6, Grande Stores ha incurrido en un pasivo corriente, llamado **Cupones Estimados por Pagar** (una cuenta de pasivo corriente por el monto estimado de cupones impresos con los recibos de ventas que serán canjeados por los clientes), a sus clientes de mayo que pueden canjear sus cupones de $3. Dado que se estima que solo el 20% de sus clientes de mayo canjearán un cupón, se estima que se canjearán 1,200,000 cupones (6,000,000 de recibos de ventas × 20%). Debido a que cada cupón es por $3, el pasivo estimado por cupones es de $3,600,000 (1,200,000 cupones × $3). Este pasivo estimado reduce las ventas brutas de $40,000,000 a $36,400,000 ($40,000,000 – $3,600,000).]
+
+When customers redeem the coupons, the Estimated Coupons Payable is decreased. To illustrate, assume that during June, Grande Stores sold $52,500,000 of merchandise that cost $28,100,000 and that 800,000 of the May coupons were redeemed. Grande Stores would record its June sales as follows:
+
+[Cuando los clientes canjean los cupones, los Cupones Estimados por Pagar disminuyen. Para ilustrar, suponga que durante junio, Grande Stores vendió $52,500,000 de mercancía que costó $28,100,000 y que se canjearon 800,000 de los cupones de mayo. Grande Stores registraría sus ventas de junio de la siguiente manera:]
+
+<img src="./img/025.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|---|---|---|---|
+| June 30 | Cash | 50,100,000 |  |
+|  | Estimated Coupons Payable | 2,400,000 |  |
+|  | Sales |  | 52,500,000 |
+|  | **800,000 coupons x $3 Record redemption of coupons.** |  |  |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Estimated Coupons Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>50,100,000</td>
+    <td></td>
+    <td>2,400,000</td>
+    <td></td>
+    <td></td>
+    <td>52,500,000</td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|---|---|---|---|
+| June 30 | Cost of Goods Sold | 28,100,000 |  |
+|  | Inventory |  | 28,100,000 |
+|  | Record cost of goods sold. |  |  |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>28,100,000</td>
+    <td></td>
+    <td></td>
+    <td>28,100,000</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Grande Stores would record its July and August sales in a similar manner.
+
+[Grande Stores registraría sus ventas de julio y agosto de manera similar.]
+
+Since the May coupon liability is based on an estimate, Estimated Coupons Payable may have a balance on August 31, 20Y6. To illustrate, assume that on August 31, 20Y6, Estimated Coupons Payable has a credit balance of $175,000. Since the coupon period has expired, Grande Stores does not have any further coupon liability to its customers. As a result, the Estimated Coupons Payable credit balance of $175,000 should be added back to Sales as follows:
+
+[Dado que el pasivo por cupones de mayo se basa en una estimación, los Cupones Estimados por Pagar pueden tener un saldo al 31 de agosto de 20Y6. Para ilustrar, suponga que al 31 de agosto de 20Y6, los Cupones Estimados por Pagar tienen un saldo acreedor de $175,000. Dado que el período de cupones ha expirado, Grande Stores no tiene más pasivo por cupones con sus clientes. Como resultado, el saldo acreedor de Cupones Estimados por Pagar de $175,000 debe agregarse nuevamente a Ventas de la siguiente manera:]
+
+<img src="./img/026.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Aug. 31 | Estimated Coupons Payable | 175,000 | |
+| | Sales | | 175,000 |
+| | *Record expiration of coupon liability.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Estimated Coupons Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>175,000</td>
+    <td></td>
+    <td></td>
+    <td>175,000</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+If on August 31, 20Y6, Estimated Coupons Payable had a debit balance of $50,000, Grande Stores would have underestimated the percent of coupons that were redeemed. As a result, Grande Stores would decrease its Sales by making the following entry on August 31:
+
+[Si al 31 de agosto de 20Y6, los Cupones Estimados por Pagar tuvieran un saldo deudor de $50,000, Grande Stores habría subestimado el porcentaje de cupones que se canjearon. Como resultado, Grande Stores disminuiría sus Ventas haciendo el siguiente asiento el 31 de agosto:]
+
+<img src="./img/027.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Aug. 31 | Sales | 50,000 | |
+| | Estimated Coupons Payable | | 50,000 |
+| | *Record additional coupon liability.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Estimated Coupons Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>50,000</td>
+    <td>50,000</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+After the coupon period has expired, Estimated Coupons Payable should have a zero balance.
+
+[Después de que el período de cupones ha expirado, los Cupones Estimados por Pagar deben tener un saldo cero.]
+
+Rebates normally entitle customers to receive cash if they mail in a coupon, receipt of purchase, and barcode from the item purchased. Mail-in rebates are normally distributed to customers in the form of a check or pre-loaded Visa or Mastercard. Retailers often advertise merchandise net of the rebate. For example, Mike's Appliances might advertise a Whirlpool side-by-side refrigerator with a retail list price of $1,799 for $1,499 with a $300 mail-in rebate.
+
+[Los reembolsos normalmente dan derecho a los clientes a recibir efectivo si envían por correo un cupón, el recibo de compra y el código de barras del artículo comprado. Los reembolsos por correo normalmente se distribuyen a los clientes en forma de cheque o tarjeta Visa o Mastercard precargada. Los minoristas a menudo anuncian la mercancía neta del reembolso. Por ejemplo, Mike's Appliances podría anunciar un refrigerador Whirlpool side-by-side con un precio de lista de $1,799 por $1,499 con un reembolso por correo de $300.]
+
+The accounting for rebates is similar to that for coupons.
+
+[La contabilidad de los reembolsos es similar a la de los cupones.]
+
+**Instant rebates** (Rebates that may be redeemed at the time of purchase), which are redeemed at the time of purchase, reduce the revenue at the time of sale. Mail-in rebates require the retailer to estimate the dollar value of rebates that will be redeemed, reduce sales, and record a related liability.
+
+[Los **reembolsos instantáneos** (reembolsos que pueden canjearse en el momento de la compra), que se canjean en el momento de la compra, reducen los ingresos en el momento de la venta. Los reembolsos por correo requieren que el minorista estime el valor en dólares de los reembolsos que se canjearán, reduzca las ventas y registre un pasivo relacionado.]
+
+---
+
+## Sales Returns, Refunds, and Allowances
+
+A buyer may return merchandise that is defective, damaged during shipment, or does not meet the buyer's expectations. If the buyer has already paid for the merchandise, the seller may pay the buyer a **cash refund** (An amount paid by the seller to the buyer for merchandise that is defective, is damaged during shipment, or does not meet the buyer's expectations.). If the buyer has an outstanding accounts receivable with the seller, the buyer may request an offset against the accounts receivable. A buyer could also keep the merchandise and request a partial refund or price allowance.
+
+[Un comprador puede devolver la mercancía que está defectuosa, dañada durante el envío o que no cumple con las expectativas del comprador. Si el comprador ya ha pagado por la mercancía, el vendedor puede pagar al comprador un **reembolso en efectivo** (un monto pagado por el vendedor al comprador por mercancía que está defectuosa, dañada durante el envío o que no cumple con las expectativas del comprador). Si el comprador tiene una cuenta por cobrar pendiente con el vendedor, el comprador puede solicitar una compensación contra la cuenta por cobrar. Un comprador también podría quedarse con la mercancía y solicitar un reembolso parcial o una bonificación de precio.]
+
+---
+
+## **Link to Dollar Tree:** 
+
+Dollar Tree does not offer refunds; all sales are final.
+
+[**Enlace a Dollar Tree:** Dollar Tree no ofrece reembolsos; todas las ventas son finales.]
+
+At the end of the accounting period, a seller must estimate the amount of returns, refunds, and allowances that may have to be issued to customers in the future. Based upon this estimate, sellers record two adjusting entries:
+
+[Al final del período contable, un vendedor debe estimar el monto de devoluciones, reembolsos y bonificaciones que pueden tener que emitirse a los clientes en el futuro. Con base en esta estimación, los vendedores registran dos asientos de ajuste:]
+
+1. The first adjusting entry decreases (debits) Sales and increases (credits) Customer Refunds Payable for the estimated refunds and allowances that will be granted to customers in the future. **Customer Refunds Payable** (A liability account for estimated refunds and allowances that will be paid or granted to customers in the future.) is a current liability for refunds and allowances that will be granted to customers.
+
+[1. El primer asiento de ajuste disminuye (debita) Ventas y aumenta (acredita) Reembolsos a Clientes por Pagar por los reembolsos y bonificaciones estimados que se concederán a los clientes en el futuro. **Reembolsos a Clientes por Pagar** (una cuenta de pasivo para reembolsos y bonificaciones estimados que se pagarán o concederán a los clientes en el futuro) es un pasivo corriente por reembolsos y bonificaciones que se concederán a los clientes.]
+
+2. The second adjusting entry increases (debits) Estimated Returns Inventory for merchandise that is expected to be returned and decreases (credits) Cost of Goods Sold. **Estimated Returns Inventory** (A current asset account for the estimated amount of merchandise that will be returned by customers.) is a current asset for merchandise that is expected to be returned by customers.
+
+[2. El segundo asiento de ajuste aumenta (debita) Inventario de Devoluciones Estimadas por la mercancía que se espera sea devuelta y disminuye (acredita) Costo de Bienes Vendidos. **Inventario de Devoluciones Estimadas** (una cuenta de activo corriente por el monto estimado de mercancía que será devuelta por los clientes) es un activo corriente por la mercancía que se espera sea devuelta por los clientes.]
+
+To illustrate, assume that on December 31, 20Y7, NetSolutions estimates that from 20Y7 sales it will have to refund or grant customers allowances of $7,000 during 20Y8. In addition, NetSolutions estimates that $5,500 of merchandise will be returned. Based upon these estimates, NetSolutions would record the following two adjusting entries on December 31, 20Y7:
+
+[Para ilustrar, suponga que el 31 de diciembre de 20Y7, NetSolutions estima que de las ventas de 20Y7 tendrá que reembolsar o conceder bonificaciones a los clientes por $7,000 durante 20Y8. Además, NetSolutions estima que se devolverán $5,500 de mercancía. Con base en estas estimaciones, NetSolutions registraría los siguientes dos asientos de ajuste el 31 de diciembre de 20Y7:]
+
+<img src="./img/028.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Sales | 7,000 | |
+| | Customer Refunds Payable | | 7,000 |
+| | *Record estimated customer refunds and allowances.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Customer Refunds Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>7,000</td>
+    <td>7,000</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Estimated Returns Inventory | 5,500 | |
+| | Cost of Goods Sold | | 5,500 |
+| | *Record estimated returns inventory.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Estimated Returns Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>5,500</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The first journal entry decreases 20Y7 sales to an amount that is expected to be received from customers and establishes a related liability for customer refunds and allowances. The second journal entry recognizes the inventory that is expected to be returned and decreases the related cost of goods sold.
+
+[El primer asiento de diario disminuye las ventas de 20Y7 a un monto que se espera recibir de los clientes y establece un pasivo relacionado por reembolsos y bonificaciones a clientes. El segundo asiento de diario reconoce el inventario que se espera sea devuelto y disminuye el costo de bienes vendidos relacionado.]
+
+Assume that on March 4, 20Y8, Blake & Sons returned merchandise to NetSolutions with a selling price of $1,800 for a full cash refund. The merchandise originally cost NetSolutions $875. NetSolutions would record the cash refund and the return with the following two entries:
+
+[Suponga que el 4 de marzo de 20Y8, Blake & Sons devolvió mercancía a NetSolutions con un precio de venta de $1,800 por un reembolso completo en efectivo. La mercancía originalmente le costó a NetSolutions $875. NetSolutions registraría el reembolso en efectivo y la devolución con los siguientes dos asientos:]
+
+<img src="./img/029.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 4 | Customer Refunds Payable | 1,800 | |
+| | Cash | | 1,800 |
+| | *Record cash refund.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Customer Refunds Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1,800</td>
+    <td>1,800</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 4 | Inventory | 875 | |
+| | Estimated Returns Inventory | | 875 |
+| | *Record receipt of returned merchandise.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td colspan="2">Estimated Returns Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>875</td>
+    <td></td>
+    <td></td>
+    <td>875</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The first entry records the cash refund payment of $1,800. The second entry records the receipt of the $875 of returned merchandise by debiting Inventory and crediting Estimated Returns Inventory.
+
+[El primer asiento registra el pago del reembolso en efectivo de $1,800. El segundo asiento registra la recepción de los $875 de mercancía devuelta debitando Inventario y acreditando Inventario de Devoluciones Estimadas.]
+
+A buyer who has already paid for merchandise may decide to keep the merchandise and accept a partial refund from the seller. To illustrate, assume that in the prior example Blake & Sons agrees to keep the merchandise in return for a partial refund of $900 from NetSolutions. In this case, NetSolutions would record the partial cash refund to Blake & Sons as follows:
+
+[Un comprador que ya ha pagado por la mercancía puede decidir quedarse con la mercancía y aceptar un reembolso parcial del vendedor. Para ilustrar, suponga que en el ejemplo anterior Blake & Sons acepta quedarse con la mercancía a cambio de un reembolso parcial de $900 de NetSolutions. En este caso, NetSolutions registraría el reembolso parcial en efectivo a Blake & Sons de la siguiente manera:]
+
+<img src="./img/030.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 4 | Customer Refunds Payable | 900 | |
+| | Cash | | 900 |
+| | *Record partial cash refund.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Customer Refunds Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>900</td>
+    <td>900</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+A buyer who receives defective or damaged merchandise may not have paid for the merchandise. In other words, the seller has an outstanding account receivable balance due from the buyer. In this case, the seller may grant a **sales allowance** (A reduction in a customer's account receivable granted due to damaged or defective merchandise.) against the customer's account receivable. When this is done, the seller sends the buyer a **credit memorandum** (A form used by a seller to inform the buyer of the amount the seller proposes to credit to the account receivable due from the buyer.), or **credit memo** (A form used by a seller to inform the buyer of the amount the seller proposes to credit to the account receivable due from the buyer.), indicating its intent to credit the customer's account receivable.
+
+[Un comprador que recibe mercancía defectuosa o dañada puede no haber pagado por la mercancía. En otras palabras, el vendedor tiene un saldo pendiente de cuenta por cobrar del comprador. En este caso, el vendedor puede conceder una **bonificación por venta** (una reducción en la cuenta por cobrar del cliente concedida debido a mercancía dañada o defectuosa) contra la cuenta por cobrar del cliente. Cuando esto se hace, el vendedor envía al comprador un **memorándum de crédito** (un formulario utilizado por un vendedor para informar al comprador del monto que el vendedor propone acreditar a la cuenta por cobrar del comprador), o **nota de crédito** (un formulario utilizado por un vendedor para informar al comprador del monto que el vendedor propone acreditar a la cuenta por cobrar del comprador), indicando su intención de acreditar la cuenta por cobrar del cliente.]
+
+Assume that instead of returning the merchandise, Blake & Sons agrees to accept a sales allowance of $900. NetSolutions notifies Blake & Sons of its granting of the allowance by issuing the credit memo shown in Exhibit 6.
+
+[Suponga que en lugar de devolver la mercancía, Blake & Sons acepta una bonificación por venta de $900. NetSolutions notifica a Blake & Sons de la concesión de la bonificación emitiendo la nota de crédito que se muestra en la Figura 6.]
+
+---
+
+## Exhibit 6
+
+### Credit Memo
+
+[**Figura 6** - Nota de Crédito]
+
+<!-- 📍 IMAGEN: Exhibit 6 - Credit Memo (páginas 8-9) -->
+
+![Exhibit 6 - Credit Memo](./img/031.png)
+
+<table><tbody>
+  <tr>
+    <td colspan="2">NetSolutions</td>
+    <td>No. 321</td>
+  </tr>
+  <tr>
+    <td colspan="2">5101 Washington Ave.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Cincinnati, OH 45227-5101</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CREDIT MEMO</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TO</td>
+    <td>DATE</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Blake &amp; Sons</td>
+    <td>March 4, 20Y8</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3600 Westover Blvd.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Peoria, IL 61615-3600</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>WE CREDITED YOUR ACCOUNT AS FOLLOWS</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sales allowance for defective merchandise.</td>
+    <td>$900.00</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The credit memo indicates that NetSolutions intends to reduce (credit) Blake & Sons' accounts receivable by $900. NetSolutions would record the granting of the customer allowance as follows:
+
+[La nota de crédito indica que NetSolutions tiene la intención de reducir (acreditar) las cuentas por cobrar de Blake & Sons en $900. NetSolutions registraría la concesión de la bonificación al cliente de la siguiente manera:]
+
+<img src="./img/032.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 4 | Customer Refunds Payable | 900 | |
+| | Accounts Receivable | | 900 |
+| | *Sales Allowance for defective merchandise.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Customer Refunds Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>900</td>
+    <td>900</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The journal entries to record customer refunds, allowances, and returns are summarized in Exhibit 7.
+
+[Los asientos de diario para registrar reembolsos, bonificaciones y devoluciones de clientes se resumen en la Figura 7.]
+
+---
+
+## Exhibit 7
+
+### Journal Entries for Customer Sales Returns, Refunds, and Allowances
+
+[**Figura 7** - Asientos de Diario para Devoluciones, Reembolsos y Bonificaciones de Ventas a Clientes]
+
+<!-- 📍 IMAGEN: Exhibit 7 - Journal Entries for Customer Sales Returns, Refunds, and Allowances (páginas 9-10) -->
+
+![Exhibit 7 - Journal Entries for Customer Sales Returns, Refunds, and Allowances](./img/033.png)
+
+| Transaction | Account | Debit | Credit |
+|-------------|---------|-------|--------|
+| **Customer refund or allowance** | Sales | XXX | |
+| | Customer Refunds Payable | | XXX |
+| **Customer return** | Estimated Returns Inventory | XXX | |
+| | Cost of Goods Sold | | XXX |
+| **Cash refund issued** | Customer Refunds Payable | XXX | |
+| | Cash | | XXX |
+| **Returned inventory received** | Inventory | XXX | |
+| | Estimated Returns Inventory | | XXX |
+| **Sales allowance issued** | Sales | XXX | |
+| | Accounts Receivable | | XXX |
+
+---
+
+**Link to Dollar Tree:** Although all sales are final, Dollar Tree will "exchange" any unopened item with the original receipt.
+
+[**Enlace a Dollar Tree:** Aunque todas las ventas son finales, Dollar Tree "cambiará" cualquier artículo sin abrir con el recibo original.]
+
+---
+
+## Ethics in Action
+
+### The Case of the Fraudulent Price Tags
+
+[**Ética en Acción - El Caso de las Etiquetas de Precio Fraudulentas**]
+
+One of the challenges for a retailer is policing its sales return policy. There are many ways in which customers can unethically or illegally abuse such policies. In one case, a couple was accused of attaching a company's store price tags to cheaper merchandise bought or obtained elsewhere. The couple then returned the cheaper goods and received the substantially higher refund amount. Company security officials discovered the fraud and had the couple arrested after they had allegedly bilked the company for more than $1 million.
+
+[Uno de los desafíos para un minorista es controlar su política de devoluciones de ventas. Hay muchas formas en que los clientes pueden abusar de manera poco ética o ilegal de dichas políticas. En un caso, una pareja fue acusada de colocar etiquetas de precio de la tienda de una empresa a mercancía más barata comprada u obtenida en otro lugar. La pareja luego devolvió los bienes más baratos y recibió el monto de reembolso considerablemente más alto. Los funcionarios de seguridad de la empresa descubrieron el fraude y la pareja fue arrestada después de haber estafado presuntamente a la empresa por más de $1 millón.]
+
+*Source: Jack L. Hayes International, Inc., 28th Annual Retail Theft Survey, 2016.*
+
+---
+
+## Check Up Corner 5-2
+
+### Sales Transactions
+
+[**Esquina de Verificación 5-2 - Transacciones de Ventas**]
+
+On December 30, Burrows Inc. sold $12,000 of merchandise to Wall Company on account, with terms n/30. The merchandise cost Burrows $8,000. On January 3, Wall determines that a portion of the merchandise received does not operate properly, and Burrows issues a credit memo for the returned items. The invoice amount of the returned merchandise is $3,000, which cost Burrows $2,000. Journalize the entries by Burrows to record (a) the December 30 sale, (b) the January 3 return, and (c) the receipt of the amount due from Wall on January 6.
+
+[El 30 de diciembre, Burrows Inc. vendió $12,000 de mercancía a Wall Company a crédito, con términos n/30. La mercancía le costó a Burrows $8,000. El 3 de enero, Wall determina que una parte de la mercancía recibida no funciona correctamente, y Burrows emite una nota de crédito por los artículos devueltos. El monto de la factura de la mercancía devuelta es de $3,000, que le costó a Burrows $2,000. Registre en el diario los asientos de Burrows para (a) la venta del 30 de diciembre, (b) la devolución del 3 de enero y (c) la recepción del monto adeudado por Wall el 6 de enero.]
+
+---
+
+### Solution - Check Up Corner 5-2
+
+[**Solución - Esquina de Verificación 5-2**]
+
+<img src="./img/034.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 30 | Accounts Receivable | 12,000 | |
+| | Sales | | 12,000 |
+| | *Record sale on account.* | | |
+| Dec. 30 | Cost of Goods Sold | 8,000 | |
+| | Inventory | | 8,000 |
+| | *Record cost of goods sold.* | | |
+| Jan. 3 | Sales | 3,000 | |
+| | Accounts Receivable | | 3,000 |
+| | *Record credit memo for return.* | | |
+| Jan. 3 | Inventory | 2,000 | |
+| | Cost of Goods Sold | | 2,000 |
+| | *Record return of inventory.* | | |
+| Jan. 6 | Cash | 9,000 | |
+| | Accounts Receivable | | 9,000 |
+| | *Record receipt of payment.* | | |
+
+---
+
+## Using Data Analytics
+
+### Sales
+
+[**Uso de Analítica de Datos - Ventas**]
+
+Retail businesses, such as Target Corporation (TGT), use data analytics to answer questions such as the following:
+
+[Los negocios minoristas, como Target Corporation (TGT), utilizan la analítica de datos para responder preguntas como las siguientes:]
+
+- What are our best-selling products?
+- What products are generating returns?
+- What percent of our customers are using self-checkouts?
+- What time of the day do we have the most sales?
+- What percent of our customers use credit cards?
+- What percent of our customers use debit cards?
+
+[- ¿Cuáles son nuestros productos más vendidos?
+- ¿Qué productos están generando devoluciones?
+- ¿Qué porcentaje de nuestros clientes utiliza autopagos?
+- ¿A qué hora del día tenemos más ventas?
+- ¿Qué porcentaje de nuestros clientes utiliza tarjetas de crédito?
+- ¿Qué porcentaje de nuestros clientes utiliza tarjetas de débito?]
+
+Target has used data (predictive) analytics to improve the retail experience of its customers as well as to increase its sales. For example, Target uses data analytics to decide which products should earn shelf space in its brick-and-mortar stores and which are best serviced with its online sales app.
+
+[Target ha utilizado la analítica de datos (predictiva) para mejorar la experiencia minorista de sus clientes, así como para aumentar sus ventas. Por ejemplo, Target utiliza la analítica de datos para decidir qué productos deben ganar espacio en los estantes de sus tiendas físicas y cuáles son mejor atendidos con su aplicación de ventas en línea.]
+
+*See TIF 5-8 for a homework assignment using data analytics.*
+
+[*Vea TIF 5-8 para una tarea que utiliza analítica de datos.*]
+
+*Source: Dina Gerdeman, "On Target: Rethinking the Retail Website," Forbes, December 4, 2018.*
+
+---
+
