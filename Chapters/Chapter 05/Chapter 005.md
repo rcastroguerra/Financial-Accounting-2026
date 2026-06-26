@@ -20,6 +20,8 @@
 
 ##### [Capitulo 5-2f Summary: Recording Inventory Transactions](#756544)
 
+##### [Capitulo 5-2g Dual Nature of Merchandise Transactions](#792657)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -2994,3 +2996,313 @@ Shipping terms, the passage of title (control), and whether the buyer or seller 
     5-2f Summary: Recording Inventory Transactions
   </a>
 </h1>
+
+
+Recording inventory transactions under the perpetual inventory system has been described and illustrated in the preceding sections. These transactions involved purchases, purchases returns and allowances, freight, cost of goods sold (from sales), and customer returns. Exhibit 9 summarizes how these transactions are recorded in T account form.
+
+[El registro de transacciones de inventario bajo el sistema de inventario perpetuo se ha descrito e ilustrado en las secciones anteriores. Estas transacciones involucraron compras, devoluciones y bonificaciones de compras, fletes, costo de bienes vendidos (por ventas) y devoluciones de clientes. La Figura 9 resume cómo se registran estas transacciones en forma de cuenta T.]
+
+---
+
+## Exhibit 9
+
+### Recording Inventory Transactions
+
+[**Figura 9** - Registro de Transacciones de Inventario]
+
+<!-- 📍 IMAGEN: Exhibit 9 - Recording Inventory Transactions (página 1) -->
+
+![Exhibit 9 - Recording Inventory Transactions](./img/039.png)
+
+| Inventory | |
+|-----------|-----------------|
+| Purchases | Purchases returns and allowances |
+| Freight for merchandise purchased FOB shipping point | Cost of goods sold |
+| Customer returns | |
+
+| Estimated Returns Inventory | |
+|-----------------------------|-------------------|
+| Adjusting entry for estimated customer returns | Customer returns |
+
+| Cost of Goods Sold | |
+|--------------------|-----------------|
+| Cost of goods sold | Adjusting entry for estimated customer returns |
+
+---
+
+<h1 id="792657" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-2g Dual Nature of Merchandise Transactions
+  </a>
+</h1>
+
+# 5-2g Dual Nature of Merchandise Transactions
+
+Each merchandising transaction affects a buyer and a seller. In the illustration shown in Exhibit 10, the same transactions for a seller and buyer are recorded. In Exhibit 10, the seller is Scully Company and the buyer is Burton Co.
+
+[Cada transacción de mercancía afecta a un comprador y a un vendedor. En la ilustración que se muestra en la Figura 10, se registran las mismas transacciones para un vendedor y un comprador. En la Figura 10, el vendedor es Scully Company y el comprador es Burton Co.]
+
+---
+
+## Exhibit 10
+
+### Illustration of Inventory Transactions for Seller and Buyer
+
+[**Figura 10** - Ilustración de Transacciones de Inventario para Vendedor y Comprador]
+
+<!-- 📍 IMAGEN: Exhibit 10 - Illustration of Inventory Transactions for Seller and Buyer (páginas 1-2) -->
+
+![Exhibit 10 - Illustration of Inventory Transactions for Seller and Buyer](./img/040.png)
+
+<table><tbody>
+  <tr>
+    <td>Transaction</td>
+    <td colspan="3">Scully Company (Seller)</td>
+    <td colspan="3">Burton Co. (Buyer)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td></td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td rowspan="4">July 1. Scully Company sold<br> merchandise on account to Burton<br> Co., $7,500, terms FOB shipping<br> point, n/45. The cost of the goods<br> sold was $4,500.</td>
+    <td>Accounts Receivable—Burton Co. ... </td>
+    <td>7,500</td>
+    <td></td>
+    <td>Inventory</td>
+    <td>7,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td></td>
+    <td>7,500</td>
+    <td>Accounts Payable—Scully Co</td>
+    <td></td>
+    <td>7,500</td>
+  </tr>
+  <tr>
+    <td>Cost of Goods Sold </td>
+    <td>4,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Inventory</td>
+    <td></td>
+    <td>4,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">July 2. Burton Co. paid freight<br> of $150 on July 1 purchase from<br> Scully Company.</td>
+    <td>No journal entry.</td>
+    <td></td>
+    <td></td>
+    <td>Inventory </td>
+    <td>150</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Cash</td>
+    <td></td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td rowspan="4">July 3. Scully Company sold<br> merchandise on account to<br> Burton Co., $5,000, terms FOB<br> destination, n/15. The cost of<br> the goods sold was $3,500.</td>
+    <td>Accounts Receivable—Burton Co</td>
+    <td>5,000</td>
+    <td></td>
+    <td>Inventory </td>
+    <td>5,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td></td>
+    <td>5,000</td>
+    <td>Accounts Payable-Scully Co.</td>
+    <td></td>
+    <td>5,000</td>
+  </tr>
+  <tr>
+    <td>Cost of Goods Sold</td>
+    <td>3,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Inventory</td>
+    <td></td>
+    <td>3,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">July 7. Scully Company<br> paid freight of $250 for delivery<br> of merchandise sold to Burton<br> Co. on July 3.</td>
+    <td>Delivery Expense</td>
+    <td>250</td>
+    <td></td>
+    <td>No journal entry.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td></td>
+    <td>250</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">July 17. Scully Company<br> received payment from Burton<br> Co. for purchase of July 3.</td>
+    <td>Cash </td>
+    <td>5,000</td>
+    <td></td>
+    <td>Accounts Payable-Scully Co.</td>
+    <td>5,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accounts Receivable—Burton Co.</td>
+    <td></td>
+    <td>5,000</td>
+    <td>Cash </td>
+    <td></td>
+    <td>5,000</td>
+  </tr>
+  <tr>
+    <td rowspan="6">July 18. Scully Company<br> sold merchandise on account<br> to Burton Co., $12,000, terms<br> FOB shipping point, n/eom. Scully<br> Company prepaid freight of $500,<br> which was added to the invoice.<br> The cost of the goods sold was<br> $7,200.</td>
+    <td>Accounts Receivable—Burton Co.</td>
+    <td>12,500</td>
+    <td></td>
+    <td>Inventory </td>
+    <td>12,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td></td>
+    <td>12,500</td>
+    <td>Accounts Payable-Scully Co.</td>
+    <td></td>
+    <td>12,500</td>
+  </tr>
+  <tr>
+    <td>Accounts Receivable—Burton Co</td>
+    <td>500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cash </td>
+    <td></td>
+    <td>500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cost of Goods Sold</td>
+    <td>7,200</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Inventory</td>
+    <td></td>
+    <td>7,200</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">July 22. Scully Company<br> paid Burton Co. a refund of <br>$750 for merchandise damaged<br> in the July 3 purchase. Burton<br> kept the merchandise.</td>
+    <td>Customer Refunds Payable.</td>
+    <td>750</td>
+    <td></td>
+    <td>Cash</td>
+    <td>750</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cash</td>
+    <td></td>
+    <td>750</td>
+    <td>Inventory</td>
+    <td></td>
+    <td>750</td>
+  </tr>
+  <tr>
+    <td rowspan="2">July 31. Scully Company<br> received payment from Burton<br> Co. for purchase of July 18.</td>
+    <td>Cash</td>
+    <td>12,500</td>
+    <td></td>
+    <td>Accounts Payable-Scully Co.</td>
+    <td>12,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accounts Receivable—Burton Co</td>
+    <td></td>
+    <td>12,500</td>
+    <td>Cash</td>
+    <td></td>
+    <td>12,500</td>
+  </tr>
+  <tr>
+    <td rowspan="4">July 31. Scully Company<br> granted a customer allowance<br> (credit memo) to Burton Co.<br> for $2,500 for merchandise<br> returned from July 1 purchase.<br> The cost of the merchandise<br> returned was $1,500.</td>
+    <td>Customer Refunds Payable.</td>
+    <td>2,500</td>
+    <td></td>
+    <td>Accounts Payable-Scully Co.</td>
+    <td>2,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accounts Receivable—Burton Co</td>
+    <td></td>
+    <td>2,500</td>
+    <td>Inventory</td>
+    <td></td>
+    <td>2,500</td>
+  </tr>
+  <tr>
+    <td>Inventory</td>
+    <td>1,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cost of Goods Sold</td>
+    <td></td>
+    <td>1,500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+---
+
