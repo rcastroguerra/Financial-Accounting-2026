@@ -38,6 +38,28 @@
 
 ##### [Capitulo 5-4b Single-Step Income Statement](#471603)
 
+##### [Capitulo 5-4c Statement of Stockholders’ Equity](#096622)
+
+##### [Capitulo 5-4d Balance Sheet](#725763)
+
+##### [Capitulo 5-4e The Closing Process](#256917)
+
+##### [Capitulo 5-5 Appendix 1 Sales Discounts](#318957)
+
+##### [Capitulo 5-5a Gross Method](#542336)
+
+##### [Capitulo 5-5b Net Method](#088596)
+
+##### [Capitulo 5-5c Comparison of Gross and Net Methods](#524006)
+
+##### [Capitulo 5-6 Appendix 2 the Periodic Inventory System](#292721)
+
+##### [Capitulo 5-6a Chart of Accounts under the Periodic Inventory System](#213853)
+
+##### [Capitulo 5-6b Recording Merchandise Transactions under the Periodic Inventory System](#393689)
+
+##### [Capitulo 5-6c Adjusting Process under the Periodic Inventory System](#222755)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -4416,3 +4438,1750 @@ Prepare a multiple-step income statement for Laser-Tek Company.
     5-4b Single-Step Income Statement
   </a>
 </h1>
+
+
+An alternate form of income statement is the **single-step income statement** (A form of income statement in which the total of all expenses is deducted from the total of all revenues.). As shown in Exhibit 13, the income statement for NetSolutions deducts the total of all expenses in one step from the total of all revenues.
+
+[Una forma alternativa de estado de resultados es el **estado de resultados de un solo paso** (una forma de estado de resultados en la que el total de todos los gastos se deduce del total de todos los ingresos). Como se muestra en la Figura 13, el estado de resultados para NetSolutions deduce el total de todos los gastos en un solo paso del total de todos los ingresos.]
+
+The single-step form emphasizes total revenues and total expenses in determining net income. A criticism of the single-step form is that gross profit and operating income are not reported.
+
+[La forma de un solo paso enfatiza los ingresos totales y los gastos totales al determinar el ingreso neto. Una crítica de la forma de un solo paso es que no se reportan la utilidad bruta ni el ingreso operativo.]
+
+
+## Exhibit 13
+
+<img src="./img/053.png" width="800"></img>
+---
+
+<h1 id="096622" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-4c Statement of Stockholders’ Equity
+  </a>
+</h1>
+
+
+The statement of stockholders' equity for NetSolutions is shown in Exhibit 14. This statement assumes that NetSolutions issued $5,000 of additional common stock in 20Y8. The net income of $80,400 is taken from the income statement, while the dividends of $18,000 is taken from the adjusted trial balance, shown in Exhibit 11.
+
+[El estado de cambios en el capital contable para NetSolutions se muestra en la Figura 14. Este estado supone que NetSolutions emitió $5,000 de acciones comunes adicionales en 20Y8. El ingreso neto de $80,400 se toma del estado de resultados, mientras que los dividendos de $18,000 se toman del balance de comprobación ajustado, que se muestra en la Figura 11.]
+
+---
+## Exhibit 11
+
+<img src="./img/055.png" width="800"></img>
+
+## Exhibit 14
+
+### Statement of Stockholders' Equity for Retail Business
+
+[**Figura 14** - Estado de Cambios en el Capital Contable para un Negocio Minorista]
+
+<!-- 📍 IMAGEN: Exhibit 14 - Statement of Stockholders' Equity (página 1) -->
+
+![Exhibit 14 - Statement of Stockholders' Equity](./img/054.png)
+
+| | Common Stock | Retained Earnings | Total |
+|---|---|---|---|
+| Balances, January 1, 20Y8 | $25,000 | $123,800 | $148,800 |
+| Issued common stock | 5,000 | | 5,000 |
+| Net income | | 80,400 | 80,400 |
+| Dividends | | (18,000) | (18,000) |
+| **Balances, December 31, 20Y8** | **$30,000** | **$186,200** | **$216,200** |
+
+---
+
+<h1 id="725763" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-4d Balance Sheet
+  </a>
+</h1>
+
+
+The balance sheet for NetSolutions is shown in Exhibit 15. Inventory and estimated returns inventory are reported as current assets. In addition, customer refunds payable and the current portion of the note payable of $5,000 are reported as current liabilities.
+
+[El balance general para NetSolutions se muestra en la Figura 15. El inventario y el inventario de devoluciones estimadas se reportan como activos corrientes. Además, los reembolsos a clientes por pagar y la porción corriente del pagaré de $5,000 se reportan como pasivos corrientes.]
+
+---
+
+## Exhibit 15
+
+### Balance Sheet for Retail Business
+
+[**Figura 15** - Balance General para un Negocio Minorista]
+
+<!-- 📍 IMAGEN: Exhibit 15 - Balance Sheet for Retail Business (páginas 1-2) -->
+
+![Exhibit 15 - Balance Sheet for Retail Business](./img/056.png)
+
+---
+
+### NetSolutions
+### Balance Sheet
+### December 31, 20Y8
+
+<table><tbody>
+  <tr>
+    <td colspan="6">Assets</td>
+    <td></td>
+    <td>Amount</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Current assets:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Cash</td>
+    <td></td>
+    <td>$52,650</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Accounts receivable</td>
+    <td></td>
+    <td>91,080</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Inventory</td>
+    <td></td>
+    <td>62,150</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Estimated returns inventory</td>
+    <td></td>
+    <td>5,300</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Office supplies</td>
+    <td></td>
+    <td>480</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Prepaid insurance</td>
+    <td></td>
+    <td>2,650</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="3">Total current assets</td>
+    <td></td>
+    <td></td>
+    <td>$214,310</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Property, plant, and equipment:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Land</td>
+    <td></td>
+    <td>$20,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Store equipment</td>
+    <td>$27,100</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Accumulated depreciation</td>
+    <td>(5,700)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="3">Book value</td>
+    <td></td>
+    <td>21,400</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Office equipment</td>
+    <td>$15,570</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Accumulated depreciation</td>
+    <td>(4,720)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="3">Book value</td>
+    <td></td>
+    <td>10,850</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Total property, plant, and equipment</td>
+    <td></td>
+    <td></td>
+    <td>$52,250</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Total assets</td>
+    <td></td>
+    <td></td>
+    <td>$266,560</td>
+  </tr>
+  <tr>
+    <td colspan="9"></td>
+  </tr>
+  <tr>
+    <td colspan="6">Liabilities</td>
+    <td></td>
+    <td>Amount</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Current liabilities:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Accounts payable</td>
+    <td></td>
+    <td>$12,466</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Customer refunds payable</td>
+    <td></td>
+    <td>7,954</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Estimated coupons payable</td>
+    <td></td>
+    <td>2,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Note payable (current portion)</td>
+    <td></td>
+    <td>5,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Salaries payable</td>
+    <td></td>
+    <td>1,140</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Unearned rent</td>
+    <td></td>
+    <td>1,800</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td colspan="3">Total current liabilities</td>
+    <td></td>
+    <td></td>
+    <td>$30,360</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Long-term liabilities:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="4">Note payable (long-term portion)</td>
+    <td></td>
+    <td></td>
+    <td>20,000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Total liabilities</td>
+    <td></td>
+    <td></td>
+    <td>$50,360</td>
+  </tr>
+  <tr>
+    <td colspan="9"></td>
+  </tr>
+  <tr>
+    <td colspan="6">Stockholders' Equity</td>
+    <td></td>
+    <td>Amount</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Common stock</td>
+    <td></td>
+    <td>$30,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Retained earnings</td>
+    <td></td>
+    <td>186,200</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Total stockholders' equity</td>
+    <td></td>
+    <td></td>
+    <td>$216,200</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="5">Total liabilities and stockholders' equity</td>
+    <td></td>
+    <td></td>
+    <td>$266,560</td>
+  </tr>
+</tbody></table>
+
+---
+
+## **Link to Dollar Tree:** 
+On a recent balance sheet, Dollar Tree reported inventory as a current asset and the current portion of long-term debt as a current liability.
+
+[**Enlace a Dollar Tree:** En un balance general reciente, Dollar Tree reportó el inventario como un activo corriente y la porción corriente de la deuda a largo plazo como un pasivo corriente.]
+
+---
+
+## Ethics in Action
+
+### The Cost of Employee Theft
+
+[**Ética en Acción - El Costo del Robo de Empleados**]
+
+A survey of 21 large retail businesses estimated that over $4 billion is lost to shoplifting and employee theft. The stores apprehended almost 10 times the number of shoplifters (315,095) than dishonest employees (32,941). However, the average amount stolen by dishonest employees ($1,380.62) was over 4.5 times the average amount stolen by shoplifters ($288.71). In some cases, stores were able to recover the thefts, but it was estimated that for every $1.00 recovered, $14.75 was lost. Fewer sales associates and more store reliance on customer self-service may be contributing to shoplifting. Less supervision of employees and the ability to sell stolen merchandise online may be contributing to employee thefts.
+
+[Una encuesta de 21 grandes empresas minoristas estimó que más de $4 mil millones se pierden por robos en tiendas y robos de empleados. Las tiendas aprehendieron casi 10 veces más el número de ladrones de tiendas (315,095) que de empleados deshonestos (32,941). Sin embargo, el monto promedio robado por empleados deshonestos ($1,380.62) fue más de 4.5 veces el monto promedio robado por ladrones de tiendas ($288.71). En algunos casos, las tiendas pudieron recuperar los robos, pero se estimó que por cada $1.00 recuperado, se perdieron $14.75. Menos asociados de ventas y una mayor dependencia de las tiendas en el autoservicio del cliente pueden estar contribuyendo a los robos en tiendas. Menos supervisión de los empleados y la capacidad de vender mercancía robada en línea pueden estar contribuyendo a los robos de empleados.]
+
+*Source: Jack L. Hayes International Inc., 32nd Annual Retail Theft Survey, 2020.*
+
+---
+
+<h1 id="256917" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-4e The Closing Process
+  </a>
+</h1>
+
+The closing entries for a retail business are similar to those for a service business. The two closing entries for a retail business are as follows:
+
+[Los asientos de cierre para un negocio minorista son similares a los de un negocio de servicios. Los dos asientos de cierre para un negocio minorista son los siguientes:]
+
+| Closing Entry 1. | Debit each revenue account for its balance, credit each expense account for its balance, and credit the retained earnings account for net income. Debit the retained earnings account for a net loss. Cost of Goods Sold is a temporary account and is closed like an expense account. |
+|---|---|
+| Closing Entry 2. | Debit the retained earnings account for the balance of the dividends account and credit the dividends account. |
+
+The two closing entries for NetSolutions are as follows:
+
+[Los dos asientos de cierre para NetSolutions son los siguientes:]
+
+<img src="./img/057.png" width="800"></img>
+
+<table><tbody>
+  <tr>
+    <td colspan="5">Journal</td>
+    <td>Page 29</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td colspan="2">Item</td>
+    <td>Post. Ref.</td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td>20Y8 Dec. 31</td>
+    <td></td>
+    <td>Closing Entries</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Sales</td>
+    <td>410</td>
+    <td>708,255</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Rent Revenue</td>
+    <td>610</td>
+    <td>600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Cost of Goods Sold</td>
+    <td>510</td>
+    <td></td>
+    <td>520,305</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Sales Salaries Expense</td>
+    <td>520</td>
+    <td></td>
+    <td>53,430</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Advertising Expense</td>
+    <td>521</td>
+    <td></td>
+    <td>10,860</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Depr. Expense—Store Equipment</td>
+    <td>522</td>
+    <td></td>
+    <td>3,100</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Delivery Expense</td>
+    <td>523</td>
+    <td></td>
+    <td>2,800</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Miscellaneous Selling Expense</td>
+    <td>529</td>
+    <td></td>
+    <td>630</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Office Salaries Expense</td>
+    <td>530</td>
+    <td></td>
+    <td>21,020</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Rent Expense</td>
+    <td>531</td>
+    <td></td>
+    <td>8,100</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Depr. Expense—Office Equipment</td>
+    <td>532</td>
+    <td></td>
+    <td>2,490</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Insurance Expense</td>
+    <td>533</td>
+    <td></td>
+    <td>1,910</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Office Supplies Expense</td>
+    <td>534</td>
+    <td></td>
+    <td>610</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Miscellaneous Administrative Expense</td>
+    <td>539</td>
+    <td></td>
+    <td>760</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Interest Expense</td>
+    <td>710</td>
+    <td></td>
+    <td>2,440</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Retained Earnings</td>
+    <td>311</td>
+    <td></td>
+    <td>80,400</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>To close revenue and expense accounts.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Dec. 31</td>
+    <td colspan="2">Retained Earnings</td>
+    <td>311</td>
+    <td>18,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Dividends</td>
+    <td>312</td>
+    <td></td>
+    <td>18,000</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>To close dividends account.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+After the closing entries are posted to the accounts, a post-closing trial balance is prepared. The only accounts that appear on the post-closing trial balance are the asset, contra asset, liability, and stockholders' equity accounts with balances. These are the same accounts that appear on the end-of-period balance sheet. If the two totals of the trial balance columns are not equal, an error has occurred that must be found and corrected. The post-closing trial balance for NetSolutions is shown in Exhibit 16.
+
+[Después de que los asientos de cierre se traspasan a las cuentas, se prepara un balance de comprobación posterior al cierre. Las únicas cuentas que aparecen en el balance de comprobación posterior al cierre son las cuentas de activo, contra activo, pasivo y capital contable con saldos. Estas son las mismas cuentas que aparecen en el balance general de fin de período. Si los dos totales de las columnas del balance de comprobación no son iguales, ha ocurrido un error que debe ser encontrado y corregido. El balance de comprobación posterior al cierre para NetSolutions se muestra en la Figura 16.]
+
+---
+
+
+## Exhibit 16
+
+### Post-Closing Trial Balance
+
+[**Figura 16** - Balance de Comprobación Posterior al Cierre]
+
+<!-- 📍 IMAGEN: Exhibit 16 - Post-Closing Trial Balance (página 2) -->
+
+![Exhibit 16 - Post-Closing Trial Balance](./img/058.png)
+
+## NetSolutions
+
+**Post-Closing Trial Balance**
+
+**December 31, 20Y8**
+
+| Account No. | | Debit Balances | Credit Balances |
+|-------------|---------------------|---------------|-----------------|
+| 110 | Cash | 52,650 | |
+| 112 | Accounts Receivable | 91,080 | |
+| 115 | Inventory | 62,150 | |
+| 116 | Estimated Returns Inventory | 5,300 | |
+| 117 | Office Supplies | 480 | |
+| 118 | Prepaid Insurance | 2,650 | |
+| 120 | Land | 20,000 | |
+| 123 | Store Equipment | 27,100 | |
+| 124 | Accumulated Depreciation—Store Equipment | | 5,700 |
+| 125 | Office Equipment | 15,570 | |
+| 126 | Accumulated Depreciation—Office Equipment | | 4,720 |
+| 210 | Accounts Payable | | 12,466 |
+| 211 | Salaries Payable | | 1,140 |
+| 212 | Unearned Rent | | 1,800 |
+| 213 | Customer Refunds Payable | | 7,954 |
+| 214 | Estimated Coupons Payable | | 2,000 |
+| 215 | Notes Payable | | 25,000 |
+| 310 | Common Stock | | 30,000 |
+| 311 | Retained Earnings | | 186,200 |
+| | **Totals** | **276,980** | **276,980** |
+
+---
+
+## Analysis for Decision Making
+
+### Asset Turnover Ratio
+
+[**Análisis para la Toma de Decisiones - Razón de Rotación de Activos**]
+
+**Objective 5** - Describe and illustrate the use of the asset turnover ratio in evaluating a company's operating performance.
+
+[**Objetivo 5** - Describir e ilustrar el uso de la razón de rotación de activos en la evaluación del rendimiento operativo de una empresa.]
+
+The **asset turnover ratio** (A profitability ratio that measures how effectively a business is using its assets to generate sales, computed as sales divided by average total assets.) measures how effectively a business is using its assets to generate sales. A high ratio indicates an effective use of assets.
+
+[La **razón de rotación de activos** (una razón de rentabilidad que mide la efectividad con la que un negocio está utilizando sus activos para generar ventas, calculada como ventas divididas entre activos totales promedio) mide la efectividad con la que un negocio está utilizando sus activos para generar ventas. Una razón alta indica un uso efectivo de los activos.]
+
+The asset turnover ratio is computed as follows:
+
+[La razón de rotación de activos se calcula de la siguiente manera:]
+
+$$\text{Asset Turnover Ratio} = \frac{\text{Sales}}{\text{Average Total Assets}}$$
+
+The denominator is the average of the total assets at the beginning and end of the year. To illustrate the use of this ratio, the following data (in millions) were taken from recent annual reports of Dollar Tree, Inc. (DLTR):
+
+[El denominador es el promedio de los activos totales al principio y al final del año. Para ilustrar el uso de esta razón, los siguientes datos (en millones) se tomaron de informes anuales recientes de Dollar Tree, Inc. (DLTR):]
+
+| | Year 2 | Year 1 |
+|---|---|---|
+| Total sales | $22,823 | $22,246 |
+| **Total assets:** | | |
+| Beginning of year | $16,333 | $15,702 |
+| End of year | $13,501 | $16,333 |
+
+The asset turnover ratio for each year is as follows:
+
+[La razón de rotación de activos para cada año es la siguiente:]
+
+| | Year 2 | Year 1 |
+|---|---|---|
+| Sales | $22,823 | $22,246 |
+| Average assets | $14,917 | $16,018 |
+| | [($13,501 + $16,333) ÷ 2] | [($16,333 + $15,702) ÷ 2] |
+| **Asset turnover ratio** | **1.53** | **1.39** |
+| | $22,823 ÷ $14,917 | $22,246 ÷ $16,018 |
+
+Dollar Tree's asset turnover ratio increased from 1.39 in Year 1 to 1.53 in Year 2. Thus, Dollar Tree had a significant increase in the use of its assets to generate sales in Year 2. This increase is likely due to Dollar Tree's reduction of the duplication of assets from its acquisition of Family Dollar Stores several years prior to Year 2.
+
+[La razón de rotación de activos de Dollar Tree aumentó de 1.39 en el Año 1 a 1.53 en el Año 2. Por lo tanto, Dollar Tree tuvo un aumento significativo en el uso de sus activos para generar ventas en el Año 2. Este aumento probablemente se debe a la reducción de la duplicación de activos por parte de Dollar Tree de su adquisición de Family Dollar Stores varios años antes del Año 2.]
+
+Using the asset turnover ratio for comparisons to competitors and with industry averages could also be beneficial in interpreting Dollar Tree's use of its assets (see MAD 5-2).
+
+[El uso de la razón de rotación de activos para comparaciones con competidores y con promedios de la industria también podría ser beneficioso para interpretar el uso de sus activos por parte de Dollar Tree (vea MAD 5-2).]
+
+---
+
+## Make a Decision
+
+### Asset Turnover Ratio
+
+[**Tome una Decisión - Razón de Rotación de Activos**]
+
+- Analyze and compare Amazon.com and Netflix (MAD 5-1) (Continuing company analysis)
+- Analyze Dollar General (MAD 5-2)
+- Compare Dollar Tree and Dollar General (MAD 5-3)
+- Analyze and compare CSX, Union Pacific, and YRC Worldwide (MAD 5-4)
+- Analyze Home Depot (MAD 5-5)
+- Analyze and compare Kroger and Tiffany (MAD 5-6)
+- Analyze J. C. Penney (MAD 5-7)
+
+---
+
+<h1 id="318957" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-5 Appendix 1 Sales Discounts
+  </a>
+</h1>
+
+
+When a company sells merchandise on account, the buyer and seller must agree on the credit period and terms prior to the delivery of the merchandise. These credit terms are normally included on the invoice (bill) that the seller sends to the buyer after delivery of the merchandise.
+
+[Cuando una empresa vende mercancía a crédito, el comprador y el vendedor deben acordar el período de crédito y los términos antes de la entrega de la mercancía. Estos términos de crédito normalmente se incluyen en la factura (cuenta) que el vendedor envía al comprador después de la entrega de la mercancía.]
+
+**Objective 6** - Describe and illustrate the gross and net methods of accounting for sales discounts.
+
+[**Objetivo 6** - Describir e ilustrar los métodos bruto y neto de contabilización de descuentos por ventas.]
+
+To encourage a buyer to pay the invoice early, a seller may offer a **sales discount** (From the seller's perspective, a discount that a seller may offer the buyer for early payment.) with such terms as 2/10, n/30. These terms provide a customer a 2% discount off of the invoice price if the customer pays within 10 days of the date of the invoice. If not paid within 10 days, the total invoice amount is due within 30 days. For example, a $12,000 invoice dated August 1 with terms 2/10, n/30 could be satisfied by paying $11,760 [$12,000 – ($12,000 × 2%)] on or before August 11. If the terms had been 1/10, n/30, the invoice could be satisfied by paying $11,880 [$12,000 – ($12,000 × 1%)]. If not paid by August 11, $12,000 would be due by August 31.
+
+[Para alentar a un comprador a pagar la factura anticipadamente, un vendedor puede ofrecer un **descuento por ventas** (desde la perspectiva del vendedor, un descuento que un vendedor puede ofrecer al comprador por pago anticipado) con términos como 2/10, n/30. Estos términos proporcionan al cliente un descuento del 2% sobre el precio de la factura si el cliente paga dentro de los 10 días posteriores a la fecha de la factura. Si no se paga dentro de los 10 días, el monto total de la factura es exigible dentro de los 30 días. Por ejemplo, una factura de $12,000 fechada el 1 de agosto con términos 2/10, n/30 podría ser satisfecha pagando $11,760 [$12,000 – ($12,000 × 2%)] el 11 de agosto o antes. Si los términos hubieran sido 1/10, n/30, la factura podría ser satisfecha pagando $11,880 [$12,000 – ($12,000 × 1%)]. Si no se paga antes del 11 de agosto, $12,000 serían exigibles antes del 31 de agosto.]
+
+Sales discounts for early payment may be accounted for by the seller using the gross method or the net method. Either method may be used as long as the seller's financial statements are reported using generally accepted accounting principles (GAAP).
+
+[Los descuentos por ventas por pago anticipado pueden ser contabilizados por el vendedor utilizando el método bruto o el método neto. Cualquiera de los dos métodos puede ser utilizado siempre que los estados financieros del vendedor se reporten utilizando los principios de contabilidad generalmente aceptados (GAAP).]
+
+---
+
+<h1 id="542336" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-5a Gross Method
+  </a>
+</h1>
+
+Under the **gross method of recording sales discounts** (A method of recording a sales invoice at the gross amount rather than the amount net of any discounts offered for early payment.), a sales invoice with credit terms that include a discount for early payment is recorded at the invoice amount. If the customer pays within the discount period, Cash is debited for the amount received, the discount is recorded as a debit to Sales Discounts, and Accounts Receivable is credited for the invoice amount. Sales Discounts is a contra (offsetting) account to Sales and is used so that managers can determine the sales discounts taken during the period.
+
+[Bajo el **método bruto de registro de descuentos por ventas** (un método de registrar una factura de venta por el monto bruto en lugar del monto neto de cualquier descuento ofrecido por pago anticipado), una factura de venta con términos de crédito que incluyen un descuento por pago anticipado se registra por el monto de la factura. Si el cliente paga dentro del período de descuento, se debita Efectivo por el monto recibido, el descuento se registra como un débito a Descuentos por Ventas, y se acredita Cuentas por Cobrar por el monto de la factura. Descuentos por Ventas es una cuenta de contra (compensatoria) a Ventas y se utiliza para que los gerentes puedan determinar los descuentos por ventas tomados durante el período.]
+
+To illustrate, assume that NetSolutions sold $18,000 of merchandise to Digital Technologies on March 10, 20Y8, with credit terms of 2/10, n/30. The cost of the merchandise sold was $10,800. The sale would be recorded under the gross method as follows:
+
+[Para ilustrar, suponga que NetSolutions vendió $18,000 de mercancía a Digital Technologies el 10 de marzo de 20Y8, con términos de crédito de 2/10, n/30. El costo de la mercancía vendida fue de $10,800. La venta se registraría bajo el método bruto de la siguiente manera:]
+
+<img src="./img/059.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 10 | Accounts Receivable | 18,000 | |
+| | Sales | | 18,000 |
+| | *Record sale on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>18,000</td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 10 | Cost of Goods Sold | 10,800 | |
+| | Inventory | | 10,800 |
+| | *Record cost of goods sold.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>10,800</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>10,800</td>
+  </tr>
+</tbody>
+</table>
+
+Assuming Digital Technologies pays within the discount period on March 20, the payment would be recorded as follows:
+
+[Suponiendo que Digital Technologies paga dentro del período de descuento el 20 de marzo, el pago se registraría de la siguiente manera:]
+
+<img src="./img/060.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 20 | Cash | 17,640 | |
+| | Sales Discounts | 360 | |
+| | Accounts Receivable | | 18,000 |
+| | *Record payment within discount period.* | | |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="2">Stockholders' Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales Discounts</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>17,640</td>
+    <td></td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td>360</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Instead of paying within the discount period, assume that Digital Technologies pays the gross amount of $18,000 on April 9. The payment would be recorded as follows:
+
+[En lugar de pagar dentro del período de descuento, suponga que Digital Technologies paga el monto bruto de $18,000 el 9 de abril. El pago se registraría de la siguiente manera:]
+
+<img src="./img/061.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Apr. 9 | Cash | 18,000 | |
+| | Accounts Receivable | | 18,000 |
+| | *Record payment after discount period.* | | |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="2">Stockholders' Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Generally accepted accounting principles (GAAP) require that sellers record revenue (sales) in the amount most likely to be received (entitled). Thus, when a customer takes or is likely to take a discount, sales must be reported net of the discount.
+
+[Los principios de contabilidad generalmente aceptados (GAAP) requieren que los vendedores registren los ingresos (ventas) por el monto que es más probable que se reciba (al que tienen derecho). Por lo tanto, cuando un cliente toma o es probable que tome un descuento, las ventas deben reportarse netas del descuento.]
+
+To illustrate, assume that at its year-end on December 31, 20Y2, Newland Interiors has a credit balance of $3,750,000 in Sales and a debit balance of $610,000 in Sales Discounts. Newland Interiors would report Net sales of $3,140,000 ($3,750,000 – $610,000) on its income statement.
+
+[Para ilustrar, suponga que al final de su año el 31 de diciembre de 20Y2, Newland Interiors tiene un saldo acreedor de $3,750,000 en Ventas y un saldo deudor de $610,000 en Descuentos por Ventas. Newland Interiors reportaría Ventas netas de $3,140,000 ($3,750,000 – $610,000) en su estado de resultados.]
+
+If Newland Interiors has a significant balance in Accounts Receivable on December 31, 20Y2, that are subject to sales discounts, an adjusting entry would be necessary to reduce Accounts Receivable and Sales to the amount expected to be received (entitled) in the following year. Since most companies have a fiscal year-end accounting period that coincides with their lowest level of operating activity, their end-of-the-year Accounts Receivable balance is normally relatively small. For this reason, this adjusting entry is not illustrated.
+
+[Si Newland Interiors tiene un saldo significativo en Cuentas por Cobrar al 31 de diciembre de 20Y2, que están sujetas a descuentos por ventas, sería necesario un asiento de ajuste para reducir las Cuentas por Cobrar y las Ventas al monto que se espera recibir (al que se tiene derecho) en el año siguiente. Dado que la mayoría de las empresas tienen un período contable de fin de año fiscal que coincide con su nivel más bajo de actividad operativa, su saldo de Cuentas por Cobrar al final del año es normalmente relativamente pequeño. Por esta razón, este asiento de ajuste no se ilustra.]
+
+---
+
+<h1 id="088596" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-5b Net Method
+  </a>
+</h1>
+
+Under the **net method of recording sales discounts** (A method of recording a sales invoice at the amount net of any discounts for early payment.), a sales invoice with credit terms that include a discount for early payment is recorded at the net amount of the invoice. If the customer pays within the discount period, Cash is debited for the amount received and Accounts Receivable is credited.
+
+[Bajo el **método neto de registro de descuentos por ventas** (un método de registrar una factura de venta por el monto neto de cualquier descuento por pago anticipado), una factura de venta con términos de crédito que incluyen un descuento por pago anticipado se registra por el monto neto de la factura. Si el cliente paga dentro del período de descuento, se debita Efectivo por el monto recibido y se acredita Cuentas por Cobrar.]
+
+To illustrate, assume that NetSolutions sold $18,000 of merchandise to Digital Technologies on March 10, 20Y8, with credit terms of 2/10, n/30. The cost of the merchandise sold was $10,800. The sale would be recorded under the net method as follows:
+
+[Para ilustrar, suponga que NetSolutions vendió $18,000 de mercancía a Digital Technologies el 10 de marzo de 20Y8, con términos de crédito de 2/10, n/30. El costo de la mercancía vendida fue de $10,800. La venta se registraría bajo el método neto de la siguiente manera:]
+
+<img src="./img/063.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 10 | Accounts Receivable | 17,640 | |
+| | Sales | | 17,640 |
+| | *Record sale on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>17,640</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>17,640</td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 10 | Cost of Goods Sold | 10,800 | |
+| | Inventory | | 10,800 |
+| | *Record cost of goods sold.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10,800</td>
+    <td></td>
+    <td></td>
+    <td>10,800</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The sale to Digital Technologies is recorded by NetSolutions at $17,640, which is the invoice amount of $18,000 less the sales discount of $360 ($18,000 × 2%).
+
+[La venta a Digital Technologies se registra por NetSolutions en $17,640, que es el monto de la factura de $18,000 menos el descuento por ventas de $360 ($18,000 × 2%).]
+
+The payment by Digital Technologies on March 19 is recorded as follows:
+
+[El pago de Digital Technologies el 19 de marzo se registra de la siguiente manera:]
+
+<img src="./img/064.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 19 | Cash | 17,640 | |
+| | Accounts Receivable | | 17,640 |
+| | *Record payment within discount period.* | | |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="2">Stockholders' Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>17,640</td>
+    <td></td>
+    <td></td>
+    <td>17,640</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+If Digital Technologies did not pay within the discount period, NetSolutions would receive $18,000 and Sales would be credited for the amount of the discount. For example, assuming that Digital Technologies paid NetSolutions on April 9, the payment would be recorded by NetSolutions as follows:
+
+[Si Digital Technologies no pagara dentro del período de descuento, NetSolutions recibiría $18,000 y se acreditaría Ventas por el monto del descuento. Por ejemplo, suponiendo que Digital Technologies pagó a NetSolutions el 9 de abril, el pago sería registrado por NetSolutions de la siguiente manera:]
+
+<img src="./img/065.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Apr. 9 | Cash | 18,000 | |
+| | Accounts Receivable | | 17,640 |
+| | Sales | | 360 |
+| | *Record payment after discount period.* | | |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="2">Stockholders' Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>18,000</td>
+    <td></td>
+    <td></td>
+    <td>17,640</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>360</td>
+  </tr>
+</tbody>
+</table>
+
+The net method records Sales at the amount received from customers, which is net of any sales discounts. As a result, the net method is consistent with the GAAP requirement that revenue (sales) be recorded at the amount most likely to be received (entitled). Thus, Sales is reported on the income statement at the sales account balance.
+
+[El método neto registra las Ventas por el monto recibido de los clientes, que es neto de cualquier descuento por ventas. Como resultado, el método neto es consistente con el requisito de GAAP de que los ingresos (ventas) se registren por el monto que es más probable que se reciba (al que se tiene derecho). Por lo tanto, las Ventas se reportan en el estado de resultados por el saldo de la cuenta de ventas.]
+
+The disadvantage of the net method is that the amount of sales discounts taken by customers is not readily available from the ledger since there is no sales discounts account. Most computerized accounting systems, however, have the capability to capture a variety of data, including discounts, returns, and refunds by customers.
+
+[La desventaja del método neto es que el monto de los descuentos por ventas tomados por los clientes no está fácilmente disponible en el libro mayor, ya que no hay una cuenta de descuentos por ventas. Sin embargo, la mayoría de los sistemas contables computarizados tienen la capacidad de capturar una variedad de datos, incluyendo descuentos, devoluciones y reembolsos por clientes.]
+
+---
+
+<h1 id="524006" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-5c Comparison of Gross and Net Methods
+  </a>
+</h1>
+
+
+A comparison of the gross and net methods using the NetSolutions sale of $18,000 illustrated earlier is shown in Exhibit 17.
+
+[Una comparación de los métodos bruto y neto utilizando la venta de $18,000 de NetSolutions ilustrada anteriormente se muestra en la Figura 17.]
+
+---
+
+## Exhibit 17
+
+### Gross and Net Methods of Recording Sales Discounts
+
+[**Figura 17** - Métodos Bruto y Neto de Registro de Descuentos por Ventas]
+
+<!-- 📍 IMAGEN: Exhibit 17 - Comparison of Gross and Net Methods (coordenadas [122, 245, 852, 580]) -->
+
+![Exhibit 17 - Gross and Net Methods of Recording Sales Discounts](./img/066.png)
+
+---
+
+### Comparison of Gross and Net Methods
+
+<table><tbody>
+  <tr>
+    <td colspan="4"></td>
+    <td colspan="2">Gross Method</td>
+    <td colspan="2">Net Method</td>
+  </tr>
+  <tr>
+    <td colspan="4">Sale:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Mar. 10</td>
+    <td colspan="2">Accounts Receivable-Digital Technologies</td>
+    <td>18,000</td>
+    <td></td>
+    <td>17,640</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Sales.</td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+    <td>17,640</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>10</td>
+    <td colspan="2">Cost of Goods Sold</td>
+    <td>18,000</td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Inventory</td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+    <td>18,000</td>
+  </tr>
+  <tr>
+    <td colspan="4">Discount Taken:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Mar. 19</td>
+    <td colspan="2">Cash</td>
+    <td>17,640</td>
+    <td></td>
+    <td>17,640</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td colspan="2">Sales Discounts.</td>
+    <td>360</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Accounts Receivable-Digital Technologies</td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+    <td>17,640</td>
+  </tr>
+  <tr>
+    <td colspan="4">Discount Not Taken:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Apr. 9</td>
+    <td colspan="2">Cash</td>
+    <td>18,000</td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Accounts Receivable-Digital Technologies</td>
+    <td></td>
+    <td>18,000</td>
+    <td></td>
+    <td>17,640</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Sales</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>360</td>
+  </tr>
+</tbody></table>
+
+---
+
+<h1 id="292721" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-6 Appendix 2 the Periodic Inventory System
+  </a>
+</h1>
+
+Throughout this chapter, the perpetual inventory system was used to record purchases and sales of merchandise. Not all retail businesses, however, use the perpetual inventory system. For example, small retail businesses, such as a local hardware store, may use a manual accounting system. A manual perpetual inventory system is time consuming and costly to maintain. In this case, the periodic inventory system may be used.
+
+[A lo largo de este capítulo, se utilizó el sistema de inventario perpetuo para registrar las compras y ventas de mercancía. Sin embargo, no todos los negocios minoristas utilizan el sistema de inventario perpetuo. Por ejemplo, los pequeños negocios minoristas, como una ferretería local, pueden utilizar un sistema contable manual. Un sistema de inventario perpetuo manual es lento y costoso de mantener. En este caso, se puede utilizar el sistema de inventario periódico.]
+
+**Objective 7** - Describe and illustrate the periodic system of accounting for merchandise transactions.
+
+[**Objetivo 7** - Describir e ilustrar el sistema periódico de contabilidad para transacciones de mercancía.]
+
+Under the periodic inventory system, purchases are normally recorded at their invoice amount as a debit to Purchases. If the invoice is paid within the discount period, the discount is recorded as a credit in a separate account called Purchases Discounts. Likewise, purchases returns are recorded as a credit in a separate account called Purchases Returns and Allowances.
+
+[Bajo el sistema de inventario periódico, las compras normalmente se registran por su monto de factura como un débito a Compras. Si la factura se paga dentro del período de descuento, el descuento se registra como un crédito en una cuenta separada llamada Descuentos por Compras. Del mismo modo, las devoluciones de compras se registran como un crédito en una cuenta separada llamada Devoluciones y Bonificaciones por Compras.]
+
+---
+
+<h1 id="213853" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-6a Chart of Accounts under the Periodic Inventory System
+  </a>
+</h1>
+
+# 5-6a Chart of Accounts under the Periodic Inventory System
+
+The chart of accounts for NetSolutions under a periodic inventory system is shown in Exhibit 18. The accounts used to record transactions under the periodic inventory system are highlighted in blue in Exhibit 18.
+
+[El catálogo de cuentas para NetSolutions bajo un sistema de inventario periódico se muestra en la Figura 18. Las cuentas utilizadas para registrar transacciones bajo el sistema de inventario periódico están resaltadas en azul en la Figura 18.]
+
+---
+
+## Exhibit 18
+
+### Chart of Accounts under the Periodic Inventory System
+
+[**Figura 18** - Catálogo de Cuentas bajo el Sistema de Inventario Periódico]
+
+<!-- 📍 IMAGEN: Exhibit 18 - Chart of Accounts under the Periodic Inventory System (página 1) -->
+
+![Exhibit 18 - Chart of Accounts under the Periodic Inventory System](./img/067.png)
+
+
+### Chart of Accounts under the Periodic Inventory System
+
+[**Figura 18** - Catálogo de Cuentas bajo el Sistema de Inventario Periódico]
+
+<table><tbody>
+  <tr>
+    <td colspan="3">Balance Sheet Accounts</td>
+    <td colspan="3">Income Statement Accounts</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">100 Assets</td>
+    <td></td>
+    <td colspan="2">400 Revenues</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>110 Cash</td>
+    <td></td>
+    <td></td>
+    <td>410 Sales</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>111 Notes Receivable</td>
+    <td></td>
+    <td colspan="2">500 Costs and Expenses</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>112 Accounts Receivable</td>
+    <td></td>
+    <td></td>
+    <td>510 Purchases</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>115 Inventory</td>
+    <td></td>
+    <td></td>
+    <td>511 Purchases Returns and Allowances</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>116 Estimated Returns Inventory</td>
+    <td></td>
+    <td></td>
+    <td>512 Purchases Discounts</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>117 Office Supplies</td>
+    <td></td>
+    <td></td>
+    <td>513 Freight In</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>118 Prepaid Insurance</td>
+    <td></td>
+    <td></td>
+    <td>520 Sales Salaries Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>120 Land</td>
+    <td></td>
+    <td></td>
+    <td>521 Advertising Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>123 Store Equipment</td>
+    <td></td>
+    <td></td>
+    <td>522 Depreciation Expense—Store Equipment</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>124 Accumulated Depreciation—Store Equipment</td>
+    <td></td>
+    <td></td>
+    <td>523 Delivery Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>125 Office Equipment</td>
+    <td></td>
+    <td></td>
+    <td>529 Miscellaneous Selling Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>126 Accumulated Depreciation—Office Equipment</td>
+    <td></td>
+    <td></td>
+    <td>530 Office Salaries Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">200 Liabilities</td>
+    <td></td>
+    <td></td>
+    <td>531 Rent Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>210 Accounts Payable</td>
+    <td></td>
+    <td></td>
+    <td>532 Depreciation Expense—Office Equipment</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>211 Salaries Payable</td>
+    <td></td>
+    <td></td>
+    <td>533 Insurance Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>212 Unearned Rent</td>
+    <td></td>
+    <td></td>
+    <td>534 Office Supplies Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>213 Customer Refunds Payable</td>
+    <td></td>
+    <td></td>
+    <td>539 Miscellaneous Administrative Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>214 Estimated Coupons Payable</td>
+    <td></td>
+    <td colspan="2">600 Other Revenue</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>215 Notes Payable</td>
+    <td></td>
+    <td></td>
+    <td>610 Rent Revenue</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">300 Stockholders' Equity</td>
+    <td></td>
+    <td colspan="2">700 Other Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>310 Common Stock</td>
+    <td></td>
+    <td></td>
+    <td>710 Interest Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>311 Retained Earnings</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>312 Dividends</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+---
+
+<h1 id="393689" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-6b Recording Merchandise Transactions under the Periodic Inventory System
+  </a>
+</h1>
+
+
+Using the periodic inventory system, purchases of inventory are not recorded in the inventory account. Instead, purchases, purchases discounts, and purchases returns and allowances accounts are used. In addition, the sales of merchandise are not recorded in the inventory account. Thus, there is no detailed record of the amount of inventory on hand at any given time. At the end of the period, a physical count of inventory on hand is taken. This physical count is used to determine the cost of goods sold as will be illustrated later.
+
+[Utilizando el sistema de inventario periódico, las compras de inventario no se registran en la cuenta de inventario. En su lugar, se utilizan las cuentas de compras, descuentos por compras y devoluciones y bonificaciones por compras. Además, las ventas de mercancía no se registran en la cuenta de inventario. Por lo tanto, no hay un registro detallado de la cantidad de inventario disponible en ningún momento. Al final del período, se realiza un conteo físico del inventario disponible. Este conteo físico se utiliza para determinar el costo de los bienes vendidos como se ilustrará más adelante.]
+
+The use of purchases, purchases discounts, purchases returns and allowances, and freight in accounts are described in this section.
+
+[El uso de las cuentas de compras, descuentos por compras, devoluciones y bonificaciones por compras, y flete en se describen en esta sección.]
+
+---
+
+## Purchases
+
+Purchases of inventory are recorded in a purchases account rather than in the inventory account. Purchases is debited for the invoice amount of a purchase.
+
+[Las compras de inventario se registran en una cuenta de compras en lugar de en la cuenta de inventario. Compras se debita por el monto de la factura de una compra.]
+
+---
+
+## Purchases Discounts
+
+Purchases discounts are normally recorded in a separate purchases discounts account. The balance of the purchases discounts account is reported as a deduction from Purchases for the period. Thus, Purchases Discounts is a contra (or offsetting) account to Purchases.
+
+[Los descuentos por compras normalmente se registran en una cuenta separada de descuentos por compras. El saldo de la cuenta de descuentos por compras se reporta como una deducción de Compras para el período. Por lo tanto, Descuentos por Compras es una cuenta de contra (o compensatoria) a Compras.]
+
+---
+
+## Purchases Returns and Allowances
+
+Purchases returns and allowances are recorded in a similar manner as purchases discounts. A separate purchases returns and allowances account is used to record returns and allowances. Purchases returns and allowances are reported as a deduction from Purchases for the period. Thus, Purchases Returns and Allowances is a contra (or offsetting) account to Purchases.
+
+[Las devoluciones y bonificaciones por compras se registran de manera similar a los descuentos por compras. Se utiliza una cuenta separada de devoluciones y bonificaciones por compras para registrar las devoluciones y bonificaciones. Las devoluciones y bonificaciones por compras se reportan como una deducción de Compras para el período. Por lo tanto, Devoluciones y Bonificaciones por Compras es una cuenta de contra (o compensatoria) a Compras.]
+
+---
+
+## Freight In
+
+When merchandise is purchased FOB shipping point, the buyer pays for the freight. Under the periodic inventory system, freight paid when purchasing merchandise FOB shipping point is debited to Freight In, Transportation In, or a similar account.
+
+[Cuando la mercancía se compra FOB punto de embarque, el comprador paga el flete. Bajo el sistema de inventario periódico, el flete pagado al comprar mercancía FOB punto de embarque se debita a Flete en, Transporte en, o una cuenta similar.]
+
+The preceding periodic inventory accounts and their effect on the cost of merchandise purchased are summarized as follows:
+
+[Las cuentas de inventario periódico anteriores y su efecto en el costo de la mercancía comprada se resumen de la siguiente manera:]
+
+| Account | Entry to Increase | Normal Balance | Effect on Cost of Merchandise Purchased |
+|---|---|---|---|
+| Purchases | Debit | Debit | Increases |
+| Purchases Discounts | Credit | Credit | Decreases |
+| Purchases Returns and Allowances | Credit | Credit | Decreases |
+| Freight In | Debit | Debit | Increases |
+
+Exhibit 19 illustrates the recording of merchandise transactions using the periodic system.
+
+[La Figura 19 ilustra el registro de transacciones de mercancía utilizando el sistema periódico.]
+
+---
+
+## Exhibit 19
+
+### Transactions Using the Periodic Inventory System
+
+[**Figura 19** - Transacciones Utilizando el Sistema de Inventario Periódico]
+
+<!-- 📍 IMAGEN: Exhibit 19 - Transactions Using the Periodic Inventory System (página 2) -->
+
+![Exhibit 19 - Transactions Using the Periodic Inventory System](./img/068.png)
+
+<table><tbody>
+  <tr>
+    <td rowspan="2">Transaction</td>
+    <td colspan="4">Periodic Inventory System</td>
+  </tr>
+  <tr>
+    <td colspan="2">Account</td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td rowspan="2">June 5. Purchased $30,000<br> of merchandise on account,<br> terms 2/10, n/30.</td>
+    <td colspan="2">Purchases</td>
+    <td>30,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Accounts Payable</td>
+    <td></td>
+    <td>30,000</td>
+  </tr>
+  <tr>
+    <td rowspan="2">June 8. Returned merchandise<br> purchased on account on<br> June 5, $500.</td>
+    <td colspan="2">Accounts Payable</td>
+    <td>500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Purchases Returns and Allowances</td>
+    <td></td>
+    <td>500</td>
+  </tr>
+  <tr>
+    <td rowspan="3">June 15. Paid for purchase <br>of June 5, less return of $500<br> and discount of<br> $590 [($30,000 – $500) × 2%].</td>
+    <td colspan="2">Accounts Payable</td>
+    <td>29,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Cash</td>
+    <td></td>
+    <td>28,910</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Purchases Discounts</td>
+    <td></td>
+    <td>590</td>
+  </tr>
+  <tr>
+    <td rowspan="2">June 18. Sold merchandise<br> on account, $12,500, n/eom.<br> The cost of the goods sold was $9,000.</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td>12,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Sales</td>
+    <td></td>
+    <td>12,500</td>
+  </tr>
+  <tr>
+    <td rowspan="3">June 22. Purchased merchandise,<br> $15,000, terms FOB shipping <br>point, 2/15, n/30, with prepaid <br>freight of $750 added to the invoice.</td>
+    <td colspan="2">Purchases</td>
+    <td>15,000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Freight In</td>
+    <td>750</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Accounts Payable</td>
+    <td></td>
+    <td>15,750</td>
+  </tr>
+  <tr>
+    <td rowspan="2">June 28. Received payment <br>on account from June 18 sale.</td>
+    <td colspan="2">Cash</td>
+    <td>12,500</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Accounts Receivable</td>
+    <td></td>
+    <td>12,500</td>
+  </tr>
+  <tr>
+    <td rowspan="2">June 29. Received $19,600 <br>from cash sales. The cost of <br>the goods sold was $13,800.</td>
+    <td colspan="2">Cash</td>
+    <td>19,600</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Sales</td>
+    <td></td>
+    <td>19,600</td>
+  </tr>
+</tbody></table>
+
+---
+
+<h1 id="222755" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-6c Adjusting Process under the Periodic Inventory System
+  </a>
+</h1>
+
