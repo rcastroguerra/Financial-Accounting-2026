@@ -22,6 +22,12 @@
 
 ##### [Capitulo 5-2g Dual Nature of Merchandise Transactions](#792657)
 
+##### [Capitulo 5-2h Sales Taxes and Trade Discounts](#407384)
+
+##### [Capitulo 5-3 The Adjusting Process](#589432)
+
+##### [Capitulo 5-3a Inventory Shrinkage](#061064)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -3305,3 +3311,303 @@ Each merchandising transaction affects a buyer and a seller. In the illustration
 
 ---
 
+<h1 id="407384" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-2h Sales Taxes and Trade Discounts
+  </a>
+</h1>
+
+Sales of merchandise often involve sales taxes. Also, the seller may offer buyers trade discounts.
+
+[Las ventas de mercancía a menudo implican impuestos a las ventas. Además, el vendedor puede ofrecer a los compradores descuentos comerciales.]
+
+---
+
+## Sales Taxes
+
+Almost all states levy a tax on sales of merchandise. The liability for the sales tax is incurred when the sale is made.
+
+[Casi todos los estados imponen un impuesto sobre las ventas de mercancía. El pasivo por el impuesto a las ventas se incurre cuando se realiza la venta.]
+
+At the time of a cash sale, the seller collects the sales tax. When a sale is made on account, the seller charges the tax to the buyer by debiting Accounts Receivable. The seller credits the sales account for the amount of the sale and credits the tax to Sales Tax Payable. For example, the seller would record a sale of $100 on account, subject to a tax of 6%, as follows:
+
+[En el momento de una venta al contado, el vendedor cobra el impuesto a las ventas. Cuando se realiza una venta a crédito, el vendedor carga el impuesto al comprador debitando Cuentas por Cobrar. El vendedor acredita la cuenta de ventas por el monto de la venta y acredita el impuesto a Impuesto a las Ventas por Pagar. Por ejemplo, el vendedor registraría una venta de $100 a crédito, sujeta a un impuesto del 6%, de la siguiente manera:]
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Aug. 12| Accounts Receivable | 106 | |
+| | Sales | | 100 |
+| | Sales Tax Payable | | 6 |
+| | *Record sale on account with sales tax.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales Tax Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>106</td>
+    <td></td>
+    <td></td>
+    <td>6</td>
+    <td></td>
+    <td>100</td>
+  </tr>
+</tbody>
+</table>
+
+On a regular basis, the seller pays to the taxing authority (state) the amount of the sales tax collected. The seller records such a payment as follows:
+
+[De manera regular, el vendedor paga a la autoridad fiscal (estado) el monto del impuesto a las ventas cobrado. El vendedor registra dicho pago de la siguiente manera:]
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+|Sept. 15 | Sales Tax Payable | 2,900 | |
+| | Cash | | 2,900 |
+| | *Payment for sales taxes collected during August.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales Tax Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2,900</td>
+    <td>2,900</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+## Trade Discounts
+
+**Wholesale businesses** (A company that sells merchandise to other businesses rather than to the public.) are companies that sell merchandise to other businesses rather than to the public, called B2B transactions. Wholesalers may offer special discounts off list prices to government agencies or businesses that order large quantities. Such discounts are called **trade discounts** (Discounts from the list prices in published catalogs or special discounts offered to certain classes of buyers.).
+
+[Las **empresas mayoristas** (una empresa que vende mercancía a otras empresas en lugar de al público) son empresas que venden mercancía a otras empresas en lugar de al público, llamadas transacciones B2B. Los mayoristas pueden ofrecer descuentos especiales sobre los precios de lista a agencias gubernamentales o empresas que piden grandes cantidades. Dichos descuentos se llaman **descuentos comerciales** (descuentos sobre los precios de lista en catálogos publicados o descuentos especiales ofrecidos a ciertas clases de compradores).]
+
+Sellers and buyers do not normally record the list prices of merchandise and trade discounts in their accounts. For example, assume that an item has a list price of $1,000 and a 40% trade discount. The seller records the sale of the item at $600 [$1,000 less the trade discount of $400 ($1,000 × 40%)]. Likewise, the buyer records the purchase at $600.
+
+[Los vendedores y compradores normalmente no registran los precios de lista de la mercancía y los descuentos comerciales en sus cuentas. Por ejemplo, suponga que un artículo tiene un precio de lista de $1,000 y un descuento comercial del 40%. El vendedor registra la venta del artículo en $600 [$1,000 menos el descuento comercial de $400 ($1,000 × 40%)]. Del mismo modo, el comprador registra la compra en $600.]
+
+---
+
+<h1 id="589432" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-3 The Adjusting Process
+  </a>
+</h1>
+
+
+The chart of accounts (Exhibit 2) and the recording of transactions for a retail business (NetSolutions) have been described and illustrated. Next, the adjusting process for a retail business is described and illustrated. This discussion focuses on the following adjusting entries that differ from those of a service business:
+
+[El catálogo de cuentas (Figura 2) y el registro de transacciones para un negocio minorista (NetSolutions) se han descrito e ilustrado. A continuación, se describe e ilustra el proceso de ajuste para un negocio minorista. Esta discusión se centra en los siguientes asientos de ajuste que difieren de los de un negocio de servicios:]
+
+- **Inventory Shrinkage** [**Merma de Inventario**]
+- **Customer Returns and Allowances** [**Devoluciones y Bonificaciones de Clientes**]
+
+---
+
+**Objective 3** - Describe and illustrate the adjusting process for a retail business.
+
+[**Objetivo 3** - Describir e ilustrar el proceso de ajuste para un negocio minorista.]
+
+---
+
+
+
+## Exhibit 2.
+
+<img src="./img/006.png" width="800"></img>
+
+[**Figura 2** - Catálogo de Cuentas para NetSolutions como Negocio Minorista]
+
+<table><thead>
+  <tr>
+    <th colspan="2" style="font-weight: bold;">Balance Sheet Accounts</th>
+    <th colspan="2" style="font-weight: bold;">Income Statement Accounts</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">100 Assets</td>
+    <td colspan="2" style="font-weight: bold;">400 Revenues</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>110 Cash</td>
+    <td></td>
+    <td style="color: darkorange;">410 Sales</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>112 Accounts Receivable</td>
+    <td></td>
+    <td>500 Costs and Expenses</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="color: darkorange;">115 Inventory</td>
+    <td></td>
+    <td style="color: darkorange;">510 Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="color: darkorange;">116 Estimated Returns Inventory</td>
+    <td></td>
+    <td>520 Sales Salaries Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>117 Office Supplies</td>
+    <td></td>
+    <td>521 Advertising Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>118 Prepaid Insurance</td>
+    <td></td>
+    <td>522 Depreciation Expense—Store Equipment</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>120 Land</td>
+    <td></td>
+    <td style="color: darkorange;">523 Delivery Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>123 Store Equipment</td>
+    <td></td>
+    <td>529 Miscellaneous Selling Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>124 Accumulated Depreciation—Store Equipment</td>
+    <td></td>
+    <td>530 Office Salaries Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>125 Office Equipment</td>
+    <td></td>
+    <td>531 Rent Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>126 Accumulated Depreciation—Office Equipment</td>
+    <td></td>
+    <td>532 Depreciation Expense—Office Equipment</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">200 Liabilities</td>
+    <td></td>
+    <td>533 Insurance Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>210 Accounts Payable</td>
+    <td></td>
+    <td>534 Office Supplies Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>211 Salaries Payable</td>
+    <td></td>
+    <td>539 Miscellaneous Administrative Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>212 Unearned Rent</td>
+    <td colspan="2" style="font-weight: bold;">600 Other Revenue</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="color: darkorange;">213 Customer Refunds Payable</td>
+    <td></td>
+    <td>610 Rent Revenue</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="color: darkorange;">214 Estimated Coupons Payable</td>
+    <td colspan="2" style="font-weight: bold;">700 Other Expense</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>215 Notes Payable</td>
+    <td></td>
+    <td>710 Interest Expense</td>
+  </tr>
+  <tr>
+    <td colspan="2" style="font-weight: bold;">300 Stockholders' Equity</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>310 Common Stock</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>311 Retained Earnings</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>312 Dividends</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+---
+
+<h1 id="061064" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-3a Inventory Shrinkage
+  </a>
+</h1>
