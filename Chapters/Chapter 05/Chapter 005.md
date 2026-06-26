@@ -3036,7 +3036,6 @@ Recording inventory transactions under the perpetual inventory system has been d
   </a>
 </h1>
 
-# 5-2g Dual Nature of Merchandise Transactions
 
 Each merchandising transaction affects a buyer and a seller. In the illustration shown in Exhibit 10, the same transactions for a seller and buyer are recorded. In Exhibit 10, the seller is Scully Company and the buyer is Burton Co.
 
