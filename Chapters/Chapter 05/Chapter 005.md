@@ -12,6 +12,8 @@
 
 ##### [Capitulo 5-2b Subsidiary Ledgers](#863176)
 
+##### [Capitulo 5-2c Purchases Transactions](#589443)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -437,3 +439,9 @@ Most retail companies also use computerized accounting systems that record simil
 [La mayoría de las empresas minoristas también utilizan sistemas contables computarizados que registran transacciones similares en diarios separados, que generan informes de compras, ventas e inventario. Estos diarios separados se llaman **diarios especiales** (diarios diseñados para ser utilizados para registrar un solo tipo de transacción que ocurre con frecuencia). Sin embargo, por simplicidad, los asientos de diario en este capítulo se ilustrarán utilizando un diario general de dos columnas.]
 
 ---
+
+<h1 id="589443" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-2c Purchases Transactions
+  </a>
+</h1>
