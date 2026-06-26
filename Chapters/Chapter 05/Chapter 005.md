@@ -14,6 +14,8 @@
 
 ##### [Capitulo 5-2c Purchases Transactions](#589443)
 
+##### [Capitulo 5-2d Sales Transactions](#168964)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -443,5 +445,820 @@ Most retail companies also use computerized accounting systems that record simil
 <h1 id="589443" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-2c Purchases Transactions
+  </a>
+</h1>
+
+There are two systems for accounting for merchandise transactions: perpetual and periodic. In a **perpetual inventory system** (The inventory system in which each purchase and sale of merchandise is recorded in the inventory account and related subsidiary ledger; therefore, the inventory records are updated continuously.), each purchase and sale of merchandise is recorded in the inventory account and related subsidiary ledger. In this way, the amount of merchandise available for sale and the amount sold are continuously (perpetually) updated in the inventory records. In a **periodic inventory system** (An inventory system in which the inventory records are updated only after a physical count has been taken at periodic intervals, usually at the end of an accounting period.), the inventory does not show the amount of merchandise available for sale and the amount sold. Instead, a listing of inventory on hand, called a **physical inventory** (A detailed listing of merchandise on hand.), is prepared at the end of the accounting period. This physical inventory is used to determine the cost of inventory on hand at the end of the period and the cost of goods sold during the period.
+
+[Existen dos sistemas para contabilizar las transacciones de mercancía: perpetuo y periódico. En un **sistema de inventario perpetuo** (el sistema de inventario en el que cada compra y venta de mercancía se registra en la cuenta de inventario y en el libro mayor auxiliar relacionado; por lo tanto, los registros de inventario se actualizan continuamente), cada compra y venta de mercancía se registra en la cuenta de inventario y en el libro mayor auxiliar relacionado. De esta manera, la cantidad de mercancía disponible para la venta y la cantidad vendida se actualizan continuamente (perpetuamente) en los registros de inventario. En un **sistema de inventario periódico** (un sistema de inventario en el que los registros de inventario se actualizan solo después de que se ha realizado un conteo físico a intervalos periódicos, generalmente al final de un período contable), el inventario no muestra la cantidad de mercancía disponible para la venta y la cantidad vendida. En su lugar, se prepara una lista del inventario disponible, llamada **inventario físico** (una lista detallada de la mercancía disponible), al final del período contable. Este inventario físico se utiliza para determinar el costo del inventario disponible al final del período y el costo de los bienes vendidos durante el período.]
+
+Most retail companies use computerized perpetual inventory systems. Such systems use bar codes or radio frequency identification codes embedded in a product. An optical scanner or radio frequency identification device is then used to read the product codes and track inventory on hand and sold.
+
+[La mayoría de las empresas minoristas utilizan sistemas de inventario perpetuo computarizados. Dichos sistemas utilizan códigos de barras o códigos de identificación por radiofrecuencia incrustados en un producto. Luego se utiliza un escáner óptico o un dispositivo de identificación por radiofrecuencia para leer los códigos de los productos y rastrear el inventario disponible y vendido.]
+
+Because computerized perpetual inventory systems are widely used, this chapter illustrates merchandise transactions using a perpetual inventory system. The periodic system is described and illustrated in Appendix 2 at the end of this chapter.
+
+[Dado que los sistemas de inventario perpetuo computarizados son ampliamente utilizados, este capítulo ilustra las transacciones de mercancía utilizando un sistema de inventario perpetuo. El sistema periódico se describe e ilustra en el Apéndice 2 al final de este capítulo.]
+
+---
+
+**Link to Dollar Tree:** Dollar Tree uses point-of-sale computerized software to plan purchases and track inventory. This system automatically reorders key items based on sales and inventory levels.
+
+[**Enlace a Dollar Tree:** Dollar Tree utiliza software computarizado de punto de venta para planificar compras y rastrear inventario. Este sistema reordena automáticamente artículos clave basándose en las ventas y los niveles de inventario.]
+
+---
+
+## Purchase of Merchandise
+
+Under the perpetual inventory system, cash purchases of merchandise are recorded as follows:
+
+[Bajo el sistema de inventario perpetuo, las compras de mercancía al contado se registran de la siguiente manera:]
+
+<img src="./img/007.png" width="800"></img>
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2510</td>
+    <td>2510</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Purchases of inventory on account are recorded as follows:
+
+[Las compras de inventario a crédito se registran de la siguiente manera:]
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Jan. 4 | Inventory | 9,250 | |
+| | Accounts Payable—Thomas Corporation | | 9,250 |
+| | *Purchased inventory on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Account Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>9250</td>
+    <td></td>
+    <td></td>
+    <td>9250</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The terms of purchases on account are normally indicated on the **invoice** (The bill that the seller sends to the buyer for sales made or services rendered on account.) or bill that the seller sends the buyer. An example of an invoice sent to NetSolutions by Alpha Technologies is shown in Exhibit 3.
+
+[Los términos de las compras a crédito normalmente se indican en la **factura** (la cuenta que el vendedor envía al comprador por las ventas realizadas o los servicios prestados a crédito) o cuenta que el vendedor envía al comprador. Un ejemplo de una factura enviada a NetSolutions por Alpha Technologies se muestra en la Figura 3.]
+
+---
+
+## Exhibit 3
+
+### Invoice
+
+[**Figura 3** - Factura]
+
+<img src="./img/008.png" width="800"></img>
+
+<table><thead>
+  <tr>
+    <th colspan="3">Alpha Technologies</th>
+    <th>Invoice No. 106-8</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="3">1000 Matrix Blvd.</td>
+    <td>Made in U.S.A.</td>
+  </tr>
+  <tr>
+    <td colspan="3">San Jose, CA 95116-1000</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SOLD TO</td>
+    <td>CUSTOMER ORDER NO.</td>
+    <td>ORDER DATE</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>NetSolutions </td>
+    <td>412</td>
+    <td>Jan. 3, 20Y8</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5101 Washington Ave.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cincinnati, OH 45227-5101</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DATE SHIPPED</td>
+    <td>HOW SHIPPED AND ROUTE</td>
+    <td>TERMS</td>
+    <td>INVOICE DATE</td>
+  </tr>
+  <tr>
+    <td>Jan. 5, 20Y8</td>
+    <td>US Express Trucking Co.</td>
+    <td>2/10, n/30</td>
+    <td>Jan. 5, 20Y8</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FROM</td>
+    <td>F.O.B.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>San Jose</td>
+    <td>Cincinnati</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>QUANTITY</td>
+    <td>DESCRIPTION</td>
+    <td>UNIT PRICE</td>
+    <td>AMOUNT</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>HC9 Printer/Fax/Copiers</td>
+    <td>$150.00</td>
+    <td>$3,000.00</td>
+  </tr>
+</tbody></table>
+
+The terms for when payments for merchandise are to be made are called the **credit terms** (Terms for payment on account by the buyer to the seller). If payment is required on delivery, the terms are cash or net cash. Otherwise, the buyer is allowed an amount of time, known as the **credit period** (The amount of time the buyer is allowed in which to pay the seller), in which to pay. The credit period usually begins with the date of the sale as shown on the invoice.
+
+[Los términos para cuándo se deben realizar los pagos por la mercancía se llaman **términos de crédito** (términos de pago a cuenta por parte del comprador al vendedor). Si el pago se requiere en el momento de la entrega, los términos son al contado o neto al contado. De lo contrario, se le permite al comprador un período de tiempo, conocido como **período de crédito** (el período de tiempo que se le permite al comprador para pagar al vendedor), en el cual pagar. El período de crédito generalmente comienza con la fecha de la venta como se muestra en la factura.]
+
+---
+
+## Business Insight
+
+### Apple's Credit Terms
+
+[**Perspectiva de Negocio - Términos de Crédito de Apple**]
+
+Working capital efficiency is influenced by the relationship between the suppliers' and customers' credit terms. If the suppliers' credit terms are longer than the customers' credit terms, then the company is able to use suppliers to finance the operating cycle. For example, Apple (AAPL) is able to collect on sales within an average of approximately 30 days. However, Apple uses an average of approximately 100 days to pay its suppliers. Thus, Apple collects faster than it pays, allowing Apple to use the suppliers' money as an interest-free loan for the 70-day (100 days - 30 days) difference.
+
+[La eficiencia del capital de trabajo está influenciada por la relación entre los términos de crédito de los proveedores y los clientes. Si los términos de crédito de los proveedores son más largos que los términos de crédito de los clientes, entonces la empresa puede utilizar a los proveedores para financiar el ciclo operativo. Por ejemplo, Apple (AAPL) puede cobrar las ventas en un promedio de aproximadamente 30 días. Sin embargo, Apple utiliza un promedio de aproximadamente 100 días para pagar a sus proveedores. Por lo tanto, Apple cobra más rápido de lo que paga, lo que le permite a Apple utilizar el dinero de los proveedores como un préstamo sin intereses por la diferencia de 70 días (100 días - 30 días).]
+
+*Source: Apple*
+
+Payment may be due within a stated number of days after the invoice date, such as 15 days or 30 days. In these cases, the terms are net 15 days or net 30 days and are normally expressed as n/15 or n/30. If payment is due by the end of the month in which the sale was made, the terms are written as n/eom.
+
+[El pago puede ser exigible dentro de un número determinado de días después de la fecha de la factura, como 15 días o 30 días. En estos casos, los términos son neto 15 días o neto 30 días y normalmente se expresan como n/15 o n/30. Si el pago es exigible al final del mes en el que se realizó la venta, los términos se escriben como n/eom.]
+
+---
+
+## Purchases Discounts
+
+B2B (business-to-business) purchases may include a discount by the supplier (vendor) to encourage the buyer to pay before the end of the credit period. For example, a supplier may offer a 2% discount if the buyer pays within 10 days of the invoice date. If the buyer does not take the discount, the total invoice amount is due within 30 days. These terms are expressed as 2/10, n/30 and are read as "2% discount if paid within 10 days, net amount due within 30 days." The credit terms of 2/10, n/30 are summarized in Exhibit 4, using the invoice in Exhibit 3.
+
+[Las compras B2B (empresa-empresa) pueden incluir un descuento del proveedor (vendedor) para alentar al comprador a pagar antes del final del período de crédito. Por ejemplo, un proveedor puede ofrecer un descuento del 2% si el comprador paga dentro de los 10 días posteriores a la fecha de la factura. Si el comprador no toma el descuento, el monto total de la factura es exigible dentro de los 30 días. Estos términos se expresan como 2/10, n/30 y se leen como "2% de descuento si se paga dentro de 10 días, monto neto exigible dentro de 30 días". Los términos de crédito de 2/10, n/30 se resumen en la Figura 4, utilizando la factura de la Figura 3.]
+
+---
+
+## Exhibit 4
+
+### Credit Terms
+
+[**Figura 4** - Términos de Crédito]
+
+<!-- 📍 IMAGEN: Exhibit 4 - Credit Terms (coordenadas [114, 513, 858, 935]) -->
+
+![Exhibit 4 - Credit Terms](./img/009.png)
+
+Discounts taken by the buyer for early payment of an invoice are called **purchases discounts** (Discounts taken by the buyer for early payment of an invoice.). Purchases discounts taken by a buyer reduce the cost of the merchandise purchased. Even if the buyer has to borrow to pay within a discount period, it is normally to the buyer's advantage to do so. For this reason, accounting systems are normally designed so that all available discounts are taken.
+
+[Los descuentos tomados por el comprador por el pago anticipado de una factura se llaman **descuentos por compras** (descuentos tomados por el comprador por el pago anticipado de una factura). Los descuentos por compras tomados por un comprador reducen el costo de la mercancía comprada. Incluso si el comprador tiene que pedir prestado para pagar dentro del período de descuento, normalmente es ventajoso para el comprador hacerlo. Por esta razón, los sistemas contables normalmente están diseñados para que se tomen todos los descuentos disponibles.]
+
+To illustrate, the invoice shown in Exhibit 3 is used. The last day of the discount period is January 15 (invoice date of January 5 plus 10 days). Assume that in order to pay the invoice on January 15, NetSolutions borrows $2,940, which is $3,000 less the discount of $60 ($3,000 × 2%). If an annual interest rate of 6% and a 360-day year is also assumed, the interest on the loan of $2,940 for the remaining 20 days of the credit period is $9.80 ($2,940 × 6% × 20 ÷ 360).
+
+[Para ilustrar, se utiliza la factura mostrada en la Figura 3. El último día del período de descuento es el 15 de enero (fecha de la factura del 5 de enero más 10 días). Suponga que para pagar la factura el 15 de enero, NetSolutions pide prestado $2,940, que es $3,000 menos el descuento de $60 ($3,000 × 2%). Si también se asume una tasa de interés anual del 6% y un año de 360 días, el interés del préstamo de $2,940 por los 20 días restantes del período de crédito es de $9.80 ($2,940 × 6% × 20 ÷ 360).]
+
+The net savings to NetSolutions of taking the discount is $50.20, computed as follows:
+
+[El ahorro neto para NetSolutions de tomar el descuento es de $50.20, calculado de la siguiente manera:]
+
+| Description | Amount |
+|---|---|
+| Discount of 2% on $3,000 | $60.00 |
+| Interest for 20 days at a rate of 6% on $2,940 | (9.80) |
+| **Savings from taking the discount** | **$50.20** |
+
+The savings can also be seen by comparing the interest rate on the money saved by taking the discount and the interest rate on the money borrowed to take the discount. The interest rate on the money saved in the prior example is estimated by converting 2% for 20 days to a yearly rate, as follows:
+
+[El ahorro también se puede ver comparando la tasa de interés sobre el dinero ahorrado al tomar el descuento y la tasa de interés sobre el dinero prestado para tomar el descuento. La tasa de interés sobre el dinero ahorrado en el ejemplo anterior se estima convirtiendo el 2% durante 20 días a una tasa anual, de la siguiente manera:]
+
+$$
+    2\% \times \frac{360 \text{ days}}{20 \text{ days}} = 2\% \times 18 = 36\%\
+$$
+
+If NetSolutions borrows the money to take the discount, it pays interest of 6%. If NetSolutions does not take the discount, it pays an estimated interest rate of 36% for using the $3,000 for an additional 20 days.
+
+[Si NetSolutions pide prestado el dinero para tomar el descuento, paga un interés del 6%. Si NetSolutions no toma el descuento, paga una tasa de interés estimada del 36% por usar los $3,000 por 20 días adicionales.]
+
+Under the perpetual inventory system, the buyer initially debits Inventory for the amount of the invoice. When paying the invoice within the discount period, the buyer credits Inventory for the amount of the discount. In this way, Inventory shows the net cost to the buyer.
+
+[Bajo el sistema de inventario perpetuo, el comprador inicialmente debita Inventario por el monto de la factura. Cuando paga la factura dentro del período de descuento, el comprador acredita Inventario por el monto del descuento. De esta manera, Inventario muestra el costo neto para el comprador.]
+
+To illustrate, NetSolutions would record the Alpha Technologies invoice and its payment at the end of the discount period as follows:
+
+[Para ilustrar, NetSolutions registraría la factura de Alpha Technologies y su pago al final del período de descuento de la siguiente manera:]
+
+<img src="./img/010.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Jan. 5 | Inventory | 3,000 | |
+| | Accounts Payable | | 3,000 |
+| | *Purchased merchandise on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>3000</td>
+    <td></td>
+    <td></td>
+    <td>3000</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Jan. 15 | Accounts Payable | 3,000 | |
+| | Cash | | 2,940 |
+| | Inventory | | 60 |
+| | *Paid invoice within discount period.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2940</td>
+    <td></td>
+    <td>60</td>
+    <td>3000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Assume that NetSolutions does not take the discount, but instead pays the invoice on February 4. In this case, NetSolutions would record the payment as follows:
+
+<img src="./img/011.png" width="800"></img>
+
+| Date   | Account                             | Debit | Credit |
+|--------|-------------------------------------|-------|--------|
+| Feb. 4 | Accounts Payable—Alpha Technologies | 3,000 |        |
+|        | Cash                                |       | 3,000  |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3000</td>
+    <td>3000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+## Purchases Returns and Allowances
+
+A buyer may request an allowance for merchandise that is returned (purchases return) or a price allowance (purchases allowance) for damaged or defective merchandise. From a buyer's perspective, such returns and allowances are called **purchases returns and allowances** (From the buyer's perspective, returned merchandise or an adjustment for defective merchandise.). In both cases, the buyer normally sends the seller a debit memorandum to notify the seller of reasons for the return (purchase return) or to request a price reduction (purchase allowance).
+
+[Un comprador puede solicitar una bonificación por la mercancía que se devuelve (devolución de compra) o una bonificación de precio (bonificación de compra) por mercancía dañada o defectuosa. Desde la perspectiva del comprador, tales devoluciones y bonificaciones se llaman **devoluciones y bonificaciones de compras** (desde la perspectiva del comprador, mercancía devuelta o un ajuste por mercancía defectuosa). En ambos casos, el comprador normalmente envía al vendedor un memorándum de débito para notificar al vendedor las razones de la devolución (devolución de compra) o para solicitar una reducción de precio (bonificación de compra).]
+
+A **debit memorandum** (A form used by a buyer to inform the seller of the amount the buyer proposes to debit to the account payable due the seller.), often called a debit memo, is shown in Exhibit 5. A debit memo informs the seller of the amount the buyer proposes to debit to the account payable due the seller. It also states the reasons for the return or the request for the price allowance.
+
+[Un **memorándum de débito** (un formulario utilizado por el comprador para informar al vendedor del monto que el comprador propone debitar a la cuenta por pagar al vendedor), a menudo llamado nota de débito, se muestra en la Figura 5. Una nota de débito informa al vendedor del monto que el comprador propone debitar a la cuenta por pagar al vendedor. También establece las razones de la devolución o la solicitud de la bonificación de precio.]
+
+---
+
+## Exhibit 5
+
+### Debit Memo
+
+[**Figura 5** - Memorándum de Débito]
+
+<img src="./img/012.png" width="800"></img>
+
+<table><thead>
+  <tr>
+    <th colspan="2">NetSolutions</th>
+    <th>No. 18</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">5101 Washington Ave.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">Cincinnati, OH 45227-5101</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DEBIT MEMO</td>
+    <td>DATE</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TO</td>
+    <td>March 7, 20Y8</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Maxim Systems</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7519 East Wilson Ave.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Seattle, WA 98101-7519</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>WE DEBITED YOUR ACCOUNT AS FOLLOWS</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10 Server Network Cards, your invoice No. 7291,</td>
+    <td>@ $90.00</td>
+    <td>900.00</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;are being returned via parcel post. Our order specified No. 825X.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+The buyer may use the debit memo as the basis for recording the return or allowance or wait for approval from the seller (creditor). In either case, the buyer debits Accounts Payable and credits Inventory.
+
+[El comprador puede utilizar la nota de débito como base para registrar la devolución o bonificación, o esperar la aprobación del vendedor (acreedor). En cualquier caso, el comprador debita Cuentas por Pagar y acredita Inventario.]
+
+To illustrate, NetSolutions records the return of the inventory indicated in the debit memo in Exhibit 5 as follows:
+
+[Para ilustrar, NetSolutions registra la devolución del inventario indicado en la nota de débito en la Figura 5 de la siguiente manera:]
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Mar. 7 | Accounts Payable | 900 | |
+| | Inventory | | 900 |
+| | Debit Memo No. 18 *Returned merchandise to Maxim Systems.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>900</td>
+    <td>900</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+---
+
+## Purchases Discounts and Returns Combined
+
+Before paying an invoice, a buyer may return inventory or be granted a price allowance for an invoice with a purchase discount. To illustrate, assume the following data concerning a purchase of inventory by NetSolutions on May 2:
+
+[Antes de pagar una factura, un comprador puede devolver el inventario o recibir una bonificación de precio por una factura con descuento por compra. Para ilustrar, suponga los siguientes datos sobre una compra de inventario por parte de NetSolutions el 2 de mayo:]
+
+- May 2. Purchased $5,000 of inventory on account from Delta Data Link, terms 2/10, n/30.
+- May 4. Returned inventory with an invoice amount of $1,000 that was purchased on May 2.
+- May 12. Paid for the purchase of May 2 less the return and discount.
+
+NetSolutions would record these transactions as follows:
+
+[NetSolutions registraría estas transacciones de la siguiente manera:]
+
+<img src="./img/013.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| May 2 | Inventory | 5,000 | |
+| | Accounts Payable | | 5,000 |
+| | *Purchased merchandise on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>5000</td>
+    <td></td>
+    <td></td>
+    <td>5000</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| May 4 | Accounts Payable | 1,000 | |
+| | Inventory | | 1,000 |
+| | *Returned defective merchandise.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1000</td>
+    <td>1000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| May 12 | Accounts Payable | 4,000 | |
+| | Cash | | 3,920 |
+| | Inventory | | 80 |
+| | *Paid invoice less return and discount.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>3920</td>
+    <td></td>
+    <td>80</td>
+    <td>4000</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+**Calculations:**
+- Amount subject to discount = $5,000 - $1,000 = $4,000
+- Discount = $4,000 × 2% = $80
+- Cash payment = $4,000 - $80 = $3,920
+
+---
+
+## Check Up Corner 5-1
+
+### Purchases Transactions
+
+[**Esquina de Verificación 5-1 - Transacciones de Compras**]
+
+On August 10, Knopfler Company purchased inventory on account from Fray Co. for $11,500, terms 2/10, n/30. Knopfler returned inventory with an invoice amount of $2,500 on August 14 and received full credit. Journalize Knopfler's entries for (a) the purchase, (b) the return, and (c) the payment of the invoice on August 18.
+
+[El 10 de agosto, Knopfler Company compró inventario a crédito de Fray Co. por $11,500, términos 2/10, n/30. Knopfler devolvió inventario con un monto de factura de $2,500 el 14 de agosto y recibió crédito completo. Registre en el diario los asientos de Knopfler para (a) la compra, (b) la devolución y (c) el pago de la factura el 18 de agosto.]
+
+---
+
+### Solution - Check Up Corner 5-1
+
+[**Solución - Esquina de Verificación 5-1**]
+
+<img src="./img/014.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Aug. 10 | Inventory | 11,500 | |
+| | Accounts Payable | | 11,500 |
+| | *Purchased merchandise on account.* | | |
+| Aug. 14 | Accounts Payable | 2,500 | |
+| | Inventory | | 2,500 |
+| | *Returned defective merchandise.* | | |
+| Aug. 18 | Accounts Payable | 9,000 | |
+| | Cash | | 8,820 |
+| | Inventory | | 180 |
+| | *Paid invoice less return and discount.* | | |
+
+**Calculations:**
+- Amount subject to discount = $11,500 - $2,500 = $9,000
+- Discount = $9,000 × 2% = $180
+- Cash payment = $9,000 - $180 = $8,820
+
+---
+
+## Pathways Challenge
+
+### This Is Accounting!
+
+### Economic Activity
+
+[**Desafío Pathways - ¡Esto es Contabilidad! - Actividad Económica**]
+
+To make sure that they have an adequate supply of inventory, many companies enter into contracts to purchase merchandise and other inventory at a future date. For example, in recent financial statements, Starbucks Corporation (SBUX) reported that it had entered into $854 million of contracts (commitments) to purchase coffee in the future at a fixed price. It had another $203 million of similar contracts (commitments) where the price was to be determined at a later date.
+
+[Para asegurarse de tener un suministro adecuado de inventario, muchas empresas celebran contratos para comprar mercancía y otro inventario en una fecha futura. Por ejemplo, en estados financieros recientes, Starbucks Corporation (SBUX) informó que había celebrado $854 millones en contratos (compromisos) para comprar café en el futuro a un precio fijo. Tenía otros $203 millones en contratos similares (compromisos) donde el precio se determinaría en una fecha posterior.]
+
+*Source: Starbucks Corporation, Form 10-K for a Recent Fiscal Year Ended September 29.*
+
+#### Critical Thinking/Judgment
+
+[**Pensamiento Crítico/Juicio**]
+
+1. How should Starbucks record and/or report these contracts (commitments) to purchase coffee?
+
+2. If the market price of coffee falls below the agreed-upon fixed price, should Starbucks recognize a loss?
+
+3. If the market price of coffee rises above the agreed-upon fixed price, should Starbucks recognize a gain?
+
+[1. ¿Cómo debería Starbucks registrar y/o reportar estos contratos (compromisos) para comprar café?
+
+2. Si el precio de mercado del café cae por debajo del precio fijo acordado, ¿debería Starbucks reconocer una pérdida?
+
+3. Si el precio de mercado del café sube por encima del precio fijo acordado, ¿debería Starbucks reconocer una ganancia?]
+
+---
+
+<h1 id="168964" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-2d Sales Transactions
   </a>
 </h1>
