@@ -16,6 +16,10 @@
 
 ##### [Capitulo 5-2d Sales Transactions](#168964)
 
+##### [Capitulo 5-2e Freight](#558556)
+
+##### [Capitulo 5-2f Summary: Recording Inventory Transactions](#756544)
+
 <h1 id="426147" style="color:#E65100;">
   <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
     5-1 Nature of Retail Businesses
@@ -2541,3 +2545,452 @@ Target has used data (predictive) analytics to improve the retail experience of 
 
 ---
 
+<h1 id="558556" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-2e Freight
+  </a>
+</h1>
+
+
+Purchases and sales of merchandise often involve freight. The terms of a sale indicate when ownership (title and control) of the merchandise passes from the seller to the buyer. This point determines whether the buyer or the seller pays the freight costs.
+
+[Las compras y ventas de mercancía a menudo implican fletes. Los términos de una venta indican cuándo la propiedad (título y control) de la mercancía pasa del vendedor al comprador. Este punto determina si el comprador o el vendedor pagan los costos de flete.]
+
+The ownership of the merchandise may pass to the buyer when the seller delivers the merchandise to the freight carrier. In this case, the terms are said to be **FOB (free on board) shipping point** (Freight terms in which the buyer pays the transportation costs from the shipping point to the final destination.). This term means that the buyer pays the freight costs from the shipping point to the final destination. Such costs are part of the buyer's total cost of purchasing inventory and are added to the cost of the inventory by debiting Inventory.
+
+[La propiedad de la mercancía puede pasar al comprador cuando el vendedor entrega la mercancía al transportista. En este caso, se dice que los términos son **FOB (libre a bordo) punto de embarque** (términos de flete en los que el comprador paga los costos de transporte desde el punto de embarque hasta el destino final). Este término significa que el comprador paga los costos de flete desde el punto de embarque hasta el destino final. Dichos costos son parte del costo total de compra de inventario del comprador y se agregan al costo del inventario debitando Inventario.]
+
+## Note
+
+>The buyer bears the freight costs if the shipping terms are FOB shipping point.
+
+To illustrate, assume that on June 10, NetSolutions purchased merchandise as follows:
+
+[Para ilustrar, suponga que el 10 de junio, NetSolutions compró mercancía de la siguiente manera:]
+
+- June 10. Purchased merchandise from Magna Data, $1,200 terms FOB shipping point.
+- June 10. Paid freight of $50 on June 10 purchase from Magna Data.
+
+[10 de junio. Compró mercancía de Magna Data, $1,200 términos FOB punto de embarque.
+10 de junio. Pagó flete de $50 por la compra del 10 de junio de Magna Data.]
+
+NetSolutions would record these two transactions as follows:
+
+[NetSolutions registraría estas dos transacciones de la siguiente manera:]
+
+<img src="./img/035.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 10 | Inventory | 1,200 | |
+| | Accounts Payable—Magna Data | | 1,200 |
+| | *Purchased merchandise on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+    <th></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1,200</td>
+    <td></td>
+    <td></td>
+    <td>1,200</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 10 | Inventory | 50 | |
+| | Cash | | 50 |
+| | *Paid freight on purchase.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>50</td>
+    <td>50</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The ownership of the merchandise may pass to the buyer when the buyer receives the merchandise. In this case, the terms are said to be **FOB (free on board) destination** (Freight terms in which the seller pays the transportation costs from the shipping point to the final destination.). This term means that the seller pays the freight costs from the shipping point to the buyer's final destination. When the seller pays the delivery charges, the seller debits Delivery Expense or Freight Out. Delivery Expense is reported on the seller's income statement as a selling expense.
+
+[La propiedad de la mercancía puede pasar al comprador cuando el comprador recibe la mercancía. En este caso, se dice que los términos son **FOB (libre a bordo) destino** (términos de flete en los que el vendedor paga los costos de transporte desde el punto de embarque hasta el destino final). Este término significa que el vendedor paga los costos de flete desde el punto de embarque hasta el destino final del comprador. Cuando el vendedor paga los cargos de entrega, el vendedor debita Gastos de Entrega o Flete de Salida. Los Gastos de Entrega se reportan en el estado de resultados del vendedor como un gasto de venta.]
+
+## Note
+
+>The seller bears the freight costs if the shipping terms are FOB destination.
+
+To illustrate, assume that NetSolutions sells merchandise as follows:
+
+[Para ilustrar, suponga que NetSolutions vende mercancía de la siguiente manera:]
+
+- June 15. Sold merchandise to Kranz Company on account, $700, terms FOB destination. The cost of the goods sold is $480.
+- June 15. NetSolutions pays freight of $40 on the sale of June 15.
+
+[15 de junio. Vendió mercancía a Kranz Company a crédito, $700, términos FOB destino. El costo de los bienes vendidos es de $480.
+15 de junio. NetSolutions paga flete de $40 por la venta del 15 de junio.]
+
+NetSolutions records the sale, the cost of the sale, and the freight cost as follows:
+
+[NetSolutions registra la venta, el costo de la venta y el costo de flete de la siguiente manera:]
+
+<img src="./img/036.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 15 | Accounts Receivable | 700 | |
+| | Sales | | 700 |
+| | *Record sale on account.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>700</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>700</td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 15 | Cost of Goods Sold | 480 | |
+| | Inventory | | 480 |
+| | *Record cost of goods sold.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>480</td>
+    <td></td>
+    <td></td>
+    <td>480</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 15 | Delivery Expense | 40 | |
+| | Cash | | 40 |
+| | *Paid freight on sale.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Delivery Expense</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>40</td>
+    <td></td>
+    <td></td>
+    <td>40</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The seller may prepay the freight, even though the terms are FOB shipping point. The seller will then add the freight to the invoice. The buyer debits Inventory for the total amount of the invoice, including the freight. Any discount terms would not apply to the prepaid freight.
+
+[El vendedor puede pagar por adelantado el flete, incluso si los términos son FOB punto de embarque. El vendedor agregará entonces el flete a la factura. El comprador debita Inventario por el monto total de la factura, incluido el flete. Los términos de descuento no se aplicarían al flete prepagado.]
+
+To illustrate, assume that NetSolutions sells merchandise as follows:
+
+[Para ilustrar, suponga que NetSolutions vende mercancía de la siguiente manera:]
+
+- June 20. Sold merchandise to Planter Company on account, $800, terms FOB shipping point, n/30.
+- NetSolutions paid freight of $45, which was added to the invoice. The cost of the goods sold is $360.
+
+[20 de junio. Vendió mercancía a Planter Company a crédito, $800, términos FOB punto de embarque, n/30.
+NetSolutions pagó flete de $45, que se agregó a la factura. El costo de los bienes vendidos es de $360.]
+
+NetSolutions records the sale, the cost of the sale, and the freight as follows:
+
+[NetSolutions registra la venta, el costo de la venta y el flete de la siguiente manera:]
+
+<img src="./img/037.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 20 | Accounts Receivable—Planter Company | 800 | |
+| | Sales | | 800 |
+| | *Sold merchandise, terms FOB shipping point.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td>800</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>800</td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 20 | Cost of Goods Sold | 360 | |
+| | Inventory | | 360 |
+| | *Recorded cost of goods sold to Planter Company.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="2">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Inventory</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cost of Goods Sold</td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>360</td>
+    <td></td>
+    <td></td>
+    <td>360</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| June 20 | Accounts Receivable—Planter Company | 45 | |
+| | Cash | | 45 |
+| | *Prepaid shipping cost on merchandise sold.* | | |
+
+<table><thead>
+  <tr>
+    <th colspan="4">Assets</th>
+    <th>=</th>
+    <th colspan="2">Liabilities</th>
+    <th>+</th>
+    <th colspan="2">Stockholders' Equity</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">Cash</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+    <td>debit</td>
+    <td>credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>45</td>
+    <td>45</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Shipping terms, the passage of title (control), and whether the buyer or seller is to pay the freight costs are summarized in Exhibit 8.
+
+[Los términos de envío, el paso de título (control) y si el comprador o el vendedor deben pagar los costos de flete se resumen en la Figura 8.]
+
+---
+
+## Exhibit 8
+
+### Summary of Shipping Terms
+
+[**Figura 8** - Resumen de Términos de Envío]
+
+<!-- 📍 IMAGEN: Exhibit 8 - Summary of Shipping Terms (páginas 3-4) -->
+
+![Exhibit 8 - Summary of Shipping Terms](./img/038.png)
+
+| Shipping Term | Who Pays Freight | Who Bears Risk | Title Passes |
+|---------------|------------------|----------------|--------------|
+| FOB Shipping Point | Buyer | Buyer | When goods are delivered to carrier |
+| FOB Destination | Seller | Seller | When goods are delivered to buyer |
+
+---
+
+<h1 id="756544" style="color:#E65100;">
+  <a href="#Chapter_005" style="color:inherit; text-decoration:none;">
+    5-2f Summary: Recording Inventory Transactions
+  </a>
+</h1>
