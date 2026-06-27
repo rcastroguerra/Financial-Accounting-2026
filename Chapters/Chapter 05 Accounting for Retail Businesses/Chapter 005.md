@@ -1,6 +1,6 @@
 <h1 id="Chapter_005" style="color:#42A5F5;">Indice</h1>
 
-##### [Capitulo Titu5-1 Nature of Retail Businesseslo](#426147)
+##### [Capitulo 5-1 Nature of Retail Businesseslo](#426147)
 
 ##### [Capitulo 5-1a Operating Cycle](#711892)
 
