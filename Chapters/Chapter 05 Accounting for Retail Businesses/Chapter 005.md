@@ -1,6 +1,6 @@
 <h1 id="Chapter_005" style="color:#42A5F5;">Indice</h1>
 
-##### [Capitulo 5-1 Nature of Retail Businesseslo](#426147)
+##### [Capitulo 5-1 Nature of Retail Businesses](#426147)
 
 ##### [Capitulo 5-1a Operating Cycle](#711892)
 
@@ -1446,9 +1446,9 @@ If a retailer allows customers to use debit or credit cards to pay for purchases
 
 | Date | Account | Debit | Credit |
 |------|---------|-------|--------|
-| Oct. 31 | Credit Card Processing Fees | 4,150 | |
+| Oct. 31 | Credit Card Expenses | 4,150 | |
 | | Cash | | 4,150 |
-| | *Record credit card processing fees.* | | |
+| | *Record credit card Expenses.* | | |
 
 <table><thead>
   <tr>
@@ -1464,7 +1464,7 @@ If a retailer allows customers to use debit or credit cards to pay for purchases
     <td rowspan="3"></td>
     <td colspan="2"></td>
     <td rowspan="3"></td>
-    <td colspan="2">Credit Card Processing Fees</td>
+    <td colspan="2">Credit Card Expenses</td>
   </tr>
   <tr>
     <td>debit</td>
