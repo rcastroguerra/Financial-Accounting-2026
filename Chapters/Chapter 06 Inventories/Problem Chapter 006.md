@@ -181,6 +181,41 @@ The beginning inventory for Dunne Co. and data on purchases and sales for a thre
 |                      |    |        |          | 9  | $1,260 | $11,340      | 6  | $1,260 | $7,560      |
 | **June 30 Balances** |    |        |          |    |        | **$312,080** |    |        | **$31,560** |
 
+## Dunne Co.
+## Schedule of Cost of Goods Sold
+## LIFO Method
+## For the Three Months Ended June 30
+
+| Date | Purchases Qty | Purchases Unit Cost | Purchases Total Cost | COGS Qty | COGS Unit Cost | COGS Total Cost | Inventory Qty | Inventory Unit Cost | Inventory Total Cost | Registro Contable | Cálculo / Explicación |
+|------|---------------|---------------------|----------------------|----------|----------------|-----------------|---------------|---------------------|----------------------|-------------------|------------------------|
+| Apr. 3 | | | | | | | 25 | $1,200 | $30,000 | Ninguno | Inventario inicial: 25 × $1,200 = $30,000 |
+| Apr. 8 | 75 | $1,240 | $93,000 | | | | 25 | $1,200 | $30,000 | Dr. Inventory $93,000 / Cr. Accounts Payable $93,000 | Compra: 75 × $1,240 = $93,000 |
+| | | | | | | | 75 | $1,240 | $93,000 | | Se añaden al inventario |
+| Apr. 11 | | | | 40 | $1,240 | $49,600 | 25 | $1,200 | $30,000 | Dr. COGS $49,600 / Cr. Inventory $49,600 | Venta: LIFO → 40 unidades más recientes (Apr. 8) → 40 × $1,240 |
+| | | | | | | | 35 | $1,240 | $43,400 | | Quedan 35 unidades de la compra del Apr. 8 |
+| Apr. 30 | | | | 30 | $1,240 | $37,200 | 25 | $1,200 | $30,000 | Dr. COGS $37,200 / Cr. Inventory $37,200 | Venta: LIFO → 30 unidades de la compra del Apr. 8 → 30 × $1,240 |
+| | | | | | | | 5 | $1,240 | $6,200 | | Quedan 5 unidades de la compra del Apr. 8 |
+| May 8 | 60 | $1,260 | $75,600 | | | | 25 | $1,200 | $30,000 | Dr. Inventory $75,600 / Cr. Accounts Payable $75,600 | Compra: 60 × $1,260 = $75,600 |
+| | | | | | | | 5 | $1,240 | $6,200 | | Se añaden al inventario |
+| | | | | | | | 60 | $1,260 | $75,600 | | |
+| May 10 | | | | 50 | $1,260 | $63,000 | 25 | $1,200 | $30,000 | Dr. COGS $63,000 / Cr. Inventory $63,000 | Venta: LIFO → 50 unidades de la compra del May 8 → 50 × $1,260 |
+| | | | | | | | 5 | $1,240 | $6,200 | | Quedan 10 unidades de la compra del May 8 |
+| | | | | | | | 10 | $1,260 | $12,600 | | |
+| May 19 | | | | 10 | $1,260 | $12,600 | | | | Dr. COGS $24,800 / Cr. Inventory $24,800 | Venta: LIFO → 10 unidades de May 8 (10 × $1,260) + 5 unidades de Apr. 8 (5 × $1,240) + 5 unidades de Apr. 3 (5 × $1,200) |
+| | | | | 5 | $1,240 | $6,200 | | | | | |
+| | | | | 5 | $1,200 | $6,000 | 20 | $1,200 | $24,000 | | Quedan 20 unidades del inventario inicial |
+| May 28 | 80 | $1,260 | $100,800 | | | | 20 | $1,200 | $24,000 | Dr. Inventory $100,800 / Cr. Accounts Payable $100,800 | Compra: 80 × $1,260 = $100,800 |
+| | | | | | | | 80 | $1,260 | $100,800 | | Se añaden al inventario |
+| June 5 | | | | 40 | $1,260 | $50,400 | 20 | $1,200 | $24,000 | Dr. COGS $50,400 / Cr. Inventory $50,400 | Venta: LIFO → 40 unidades de la compra del May 28 → 40 × $1,260 |
+| | | | | | | | 40 | $1,260 | $50,400 | | Quedan 40 unidades de la compra del May 28 |
+| June 16 | | | | 25 | $1,260 | $31,500 | 20 | $1,200 | $24,000 | Dr. COGS $31,500 / Cr. Inventory $31,500 | Venta: LIFO → 25 unidades de la compra del May 28 → 25 × $1,260 |
+| | | | | | | | 15 | $1,260 | $18,900 | | Quedan 15 unidades de la compra del May 28 |
+| June 21 | 35 | $1,264 | $44,240 | | | | 20 | $1,200 | $24,000 | Dr. Inventory $44,240 / Cr. Accounts Payable $44,240 | Compra: 35 × $1,264 = $44,240 |
+| | | | | | | | 15 | $1,260 | $18,900 | | Se añaden al inventario |
+| | | | | | | | 35 | $1,264 | $44,240 | | |
+| June 28 | | | | 35 | $1,264 | $44,240 | 20 | $1,200 | $24,000 | Dr. COGS $55,580 / Cr. Inventory $55,580 | Venta: LIFO → 35 unidades de June 21 (35 × $1,264) + 9 unidades de May 28 (9 × $1,260) |
+| | | | | 9 | $1,260 | $11,340 | 6 | $1,260 | $7,560 | | Quedan 6 unidades de la compra del May 28 |
+| **June 30 Balances** | | | | | | **$312,080** | | | **$31,560** | | **COGS Total = $312,080** / **Inventario Final = $31,560** |
 ---
 
 ### 2. Determine the total sales, the total cost of goods sold, and the gross profit from sales for the period.
