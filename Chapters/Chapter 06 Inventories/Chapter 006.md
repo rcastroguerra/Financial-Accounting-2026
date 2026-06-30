@@ -28,6 +28,20 @@
 
 ##### [Capitulo 6-6a Valuation at Lower of Cost or Market](#536266)
 
+##### [Capitulo 6-6b Inventory on the Balance Sheet](#522276)
+
+##### [Capitulo 6-6c Effects of Inventory Errors on the Financial Statements](#412888)
+
+##### [Capitulo 6-7 Appendix Estimating Inventory Cost](#510545)
+
+##### [Capitulo 6-7a Retail Method of Inventory Costing](#587631)
+
+##### [Capitulo 6-7b Gross Profit Method of Inventory Costing](#963166)
+
+##### [Capitulo 6-8a Let’s Review Chapter Summary](#554495)
+
+##### [Capitulo 6-8b Key Terms](#767516)
+
 <h1 id="883394" style="color:#E65100;">
   <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
     6-1 Control of Inventory
@@ -1730,6 +1744,584 @@ Apply the lower-of-cost-or-market method to each inventory item in a form simila
 | Tablet | 12 × $132 | $1,584 |
 | Smartphone | 8 × $187 | $1,496 |
 | **Total** | | **$4,760** |
+
+---
+
+<h1 id="522276" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-6b Inventory on the Balance Sheet
+  </a>
+</h1>
+
+Inventory is usually reported in the "Current assets" section of the balance sheet. In addition to this amount, the following are reported on the balance sheet or in the accompanying notes:
+
+[El inventario generalmente se reporta en la sección de "Activos corrientes" del balance general. Además de este monto, lo siguiente se reporta en el balance general o en las notas adjuntas:]
+
+- The method of determining the cost of the inventory (FIFO, LIFO, or weighted average)
+- The method of valuing the inventory (cost or the lower of cost or market)
+
+[El método para determinar el costo del inventario (PEPS, UEPS o promedio ponderado)
+- El método para valorar el inventario (costo o el menor entre costo o mercado)]
+
+The presentation for inventory for Best Buy Co., Inc. (BBY) within the "Current assets" section of the balance sheet and accompanying notes is as follows:
+
+[La presentación del inventario para Best Buy Co., Inc. (BBY) dentro de la sección de "Activos corrientes" del balance general y las notas adjuntas es la siguiente:]
+
+---
+
+**Link to Best Buy:**
+
+<!-- 📍 IMAGEN: Best Buy Balance Sheet Presentation (coordenadas [112, 464, 863, 824]) -->
+
+![Best Buy Balance Sheet Presentation](./img/017.png)
+
+### Best Buy Co., Inc.  
+#### Balance Sheet  
+##### February 2  
+*(in millions)*  
+
+<table><tbody>
+  <tr>
+    <td colspan="5">Assets</td>
+  </tr>
+  <tr>
+    <td colspan="3">Description</td>
+    <td>Amount</td>
+    <td>Total</td>
+  </tr>
+  <tr>
+    <td colspan="3">Current Assets:</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Cash and cash equivalents</td>
+    <td></td>
+    <td>$1,980</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Accounts receivable</td>
+    <td>$1,038</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Allowance for doubtful accounts</td>
+    <td>(23)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Accounts receivable, net</td>
+    <td></td>
+    <td>1,015</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Merchandise inventories</td>
+    <td></td>
+    <td>5,409</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Other current assets</td>
+    <td></td>
+    <td>466</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Total current assets</td>
+    <td></td>
+    <td>$8,870</td>
+  </tr>
+</tbody></table>
+
+---
+
+It is not unusual for a large business to use different costing methods for segments of its inventories. Also, a business may change its inventory costing method. In such cases, the effect of the change and the reason for the change are disclosed in the notes to the financial statements.
+
+[No es inusual que una gran empresa utilice diferentes métodos de costeo para segmentos de sus inventarios. Además, una empresa puede cambiar su método de costeo de inventario. En tales casos, el efecto del cambio y la razón del cambio se divulgan en las notas a los estados financieros.]
+
+---
+
+<h1 id="412888" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-6c Effects of Inventory Errors on the Financial Statements
+  </a>
+</h1>
+
+
+Any errors in inventory will affect the balance sheet and income statement. Some reasons that inventory errors may occur include the following:
+
+[Cualquier error en el inventario afectará el balance general y el estado de resultados. Algunas razones por las que pueden ocurrir errores en el inventario incluyen las siguientes:]
+
+- Physical inventory on hand was miscounted.
+- Costs were incorrectly assigned to inventory using an inventory costing method, such as FIFO, LIFO, or weighted average, that was incorrectly applied.
+- Inventory in transit was incorrectly included or excluded from inventory.
+- Consigned inventory was incorrectly included or excluded from inventory.
+
+[El inventario físico disponible fue contado incorrectamente.
+- Los costos se asignaron incorrectamente al inventario utilizando un método de costeo de inventario, como PEPS, UEPS o promedio ponderado, que se aplicó incorrectamente.
+- El inventario en tránsito se incluyó o excluyó incorrectamente del inventario.
+- El inventario en consignación se incluyó o excluyó incorrectamente del inventario.]
+
+Inventory errors often arise when conducting the end-of-year "physical" inventory. For example, merchandise that was ordered FOB shipping point may be in transit at the end of the year and thus, not counted as part of the physical inventory. Even though the inventory has not been received, the title to the merchandise passed to the buyer at the time of shipment and should be included in the buyer's physical inventory.
+
+[Los errores de inventario a menudo surgen al realizar el inventario "físico" de fin de año. Por ejemplo, la mercancía que se pidió FOB punto de embarque puede estar en tránsito al final del año y, por lo tanto, no se cuenta como parte del inventario físico. Aunque el inventario no se haya recibido, el título de la mercancía pasó al comprador en el momento del envío y debe incluirse en el inventario físico del comprador.]
+
+Likewise, manufacturers sometimes ship merchandise to retailers who act as the manufacturer's selling agent. The manufacturer, called the **consignor** (The manufacturer in a consigned inventory arrangement), retains title until the goods are sold. Such merchandise, called **consigned inventory** (Merchandise that is shipped by manufacturers to retailers who act as the manufacturer's selling agent), is said to be shipped on consignment to the retailer, called the **consignee** (The retailer in a consigned inventory arrangement). Any unsold merchandise at year-end is a part of the manufacturer's (consignor's) inventory, even though the merchandise is in the hands of the retailer (consignee). At year-end, the retailer (consignee) may incorrectly include the consigned merchandise in its physical inventory or the manufacturer may incorrectly exclude it from its physical inventory.
+
+[Del mismo modo, los fabricantes a veces envían mercancía a minoristas que actúan como agente de ventas del fabricante. El fabricante, llamado **consignador** (el fabricante en un acuerdo de inventario en consignación), retiene el título hasta que se venden los bienes. Dicha mercancía, llamada **inventario en consignación** (mercancía que es enviada por los fabricantes a los minoristas que actúan como agente de ventas del fabricante), se dice que se envía en consignación al minorista, llamado **consignatario** (el minorista en un acuerdo de inventario en consignación). Cualquier mercancía no vendida al final del año es parte del inventario del fabricante (consignador), aunque la mercancía esté en manos del minorista (consignatario). Al final del año, el minorista (consignatario) puede incluir incorrectamente la mercancía en consignación en su inventario físico o el fabricante puede excluirla incorrectamente de su inventario físico.]
+
+Errors in the ending inventory affect not only the balance sheet, but also the income statement. In a perpetual inventory system, the end-of-year physical inventory is the basis for the inventory shrinkage adjustment illustrated in Chapter 5, Accounting for Retail Businesses. This adjustment for inventory shrinkage increases Cost of Goods Sold and decreases Inventory. In a periodic inventory system, ending inventory is subtracted from goods available for sale in computing cost of goods sold. In addition, since the ending inventory becomes the beginning inventory of the next period, the income statement of the next period is also misstated.
+
+[Los errores en el inventario final afectan no solo el balance general, sino también el estado de resultados. En un sistema de inventario perpetuo, el inventario físico de fin de año es la base para el ajuste por merma de inventario ilustrado en el Capítulo 5, Contabilidad para Negocios Minoristas. Este ajuste por merma de inventario aumenta el Costo de Bienes Vendidos y disminuye el Inventario. En un sistema de inventario periódico, el inventario final se resta de los bienes disponibles para la venta al calcular el costo de bienes vendidos. Además, dado que el inventario final se convierte en el inventario inicial del próximo período, el estado de resultados del próximo período también se presenta incorrectamente.]
+
+---
+
+## Pathways Challenge
+
+### This Is Accounting!
+
+### Economic Activity
+
+[**Desafío Pathways - ¡Esto es Contabilidad! - Actividad Económica**]
+
+Tyson Foods (TSN), one of the world's largest food companies, operates a chicken production process that begins with the hatching of chicks and ends with packaged chicken for sale at your local grocery market. The most desirable chickens are maintained as breeding stock for laying eggs and producing chicks. Once a chick is hatched, it is transported to a growing farm. At the farm, the chicken is housed and fed corn, soybean, and other feed. Once the chicken reaches maturity, it is transported to a processing plant where it is converted into a finished product and packaged for delivery to your local grocery store.
+
+[Tyson Foods (TSN), una de las empresas alimentarias más grandes del mundo, opera un proceso de producción de pollos que comienza con la incubación de polluelos y termina con pollo empaquetado para la venta en su supermercado local. Los pollos más deseables se mantienen como reproductores para la puesta de huevos y la producción de polluelos. Una vez que un polluelo nace, se transporta a una granja de cría. En la granja, el pollo se aloja y se alimenta con maíz, soja y otros alimentos. Una vez que el pollo alcanza la madurez, se transporta a una planta de procesamiento donde se convierte en un producto terminado y se empaqueta para su entrega a su supermercado local.]
+
+#### Critical Thinking/Judgment
+
+[**Pensamiento Crítico/Juicio**]
+
+1. How should Tyson account for the transportation, boarding, and feed costs related to chickens sent to the processing plant?
+   
+   ¿Cómo debería Tyson contabilizar los costos de transporte, alojamiento y alimentación relacionados con los pollos enviados a la planta de procesamiento?
+
+2. Can you think of any other costs related to chickens raised for processing?
+   
+   ¿Puede pensar en otros costos relacionados con los pollos criados para procesamiento?
+
+3. Should the costs of the breeder flock be included in inventory?
+   
+   ¿Deberían incluirse los costos de la parvada reproductora en el inventario?
+
+
+Exhibit 11 illustrates the effects of inventory errors on the income statement and balance sheet.
+
+[La Figura 11 ilustra los efectos de los errores de inventario en el estado de resultados y el balance general.]
+
+---
+
+## Exhibit 11
+
+### Effects of Inventory Errors
+
+[**Figura 11** - Efectos de los Errores de Inventario]
+
+<!-- 📍 IMAGEN: Exhibit 11 - Effects of Inventory Errors (coordenadas [101, 17, 874, 264]) -->
+
+![Exhibit 11 - Effects of Inventory Errors](./img/018.png)
+
+To illustrate, assume that Zula Industries incorrectly counted its December 31, 20Y1, inventory at $250,000 instead of the correct amount of $220,000. The effect of the misstatement on Zula's income statement and balance sheet for 20Y1 (current year) and 20Y2 (following year) is shown in Exhibit 12.
+
+[Para ilustrar, suponga que Zula Industries contó incorrectamente su inventario del 31 de diciembre de 20Y1 en $250,000 en lugar del monto correcto de $220,000. El efecto de la declaración incorrecta en el estado de resultados y el balance general de Zula para 20Y1 (año actual) y 20Y2 (año siguiente) se muestra en la Figura 12.]
+
+---
+
+## Exhibit 12
+
+### Effects of Inventory Errors - Zula Industries
+
+[**Figura 12** - Efectos de los Errores de Inventario - Zula Industries]
+
+<!-- 📍 IMAGEN: Exhibit 12 - Effects of Inventory Errors - Zula Industries (coordenadas [101, 440, 874, 718]) -->
+
+![Exhibit 12 - Effects of Inventory Errors - Zula Industries](./img/019.png)
+
+---
+
+## Check Up Corner 6-5
+
+### Effects of Inventory Errors
+
+[**Esquina de Verificación 6-5 - Efectos de los Errores de Inventario**]
+
+Zulu Industries incorrectly counted its December 31, 20Y1, inventory at $250,000 instead of the correct amount of $220,000. Indicate the effect of the misstatement on Zulu's income statement for the current year (20Y1) and the following year (20Y2). What is the net effect of the error for the two years?
+
+[Zulu Industries contó incorrectamente su inventario del 31 de diciembre de 20Y1 en $250,000 en lugar del monto correcto de $220,000. Indique el efecto de la declaración incorrecta en el estado de resultados de Zulu para el año actual (20Y1) y el año siguiente (20Y2). ¿Cuál es el efecto neto del error para los dos años?]
+
+---
+
+### Solution - Check Up Corner 6-5
+
+<img src="./img/020.png" width="800"></img>
+
+[**Solución - Esquina de Verificación 6-5**]
+
+**Current Year (20Y1) - Ending Inventory Overstated by $30,000**
+
+| Financial Statement | Account | Effect |
+|---|---|---|
+| Income Statement | Cost of Goods Sold | Understated by $30,000 |
+| Income Statement | Net Income | Overstated by $30,000 |
+| Balance Sheet | Inventory (Assets) | Overstated by $30,000 |
+| Balance Sheet | Retained Earnings | Overstated by $30,000 |
+
+**Following Year (20Y2) - Beginning Inventory Overstated by $30,000**
+
+| Financial Statement | Account | Effect |
+|---|---|---|
+| Income Statement | Cost of Goods Sold | Overstated by $30,000 |
+| Income Statement | Net Income | Understated by $30,000 |
+| Balance Sheet | Inventory (Assets) | Correct |
+| Balance Sheet | Retained Earnings | Correct |
+
+**Net Effect for Two Years**
+
+| | Effect |
+|---|---|
+| Combined Net Income | Correct (errors offset each other) |
+| Total Assets | Correct (inventory returns to correct value) |
+| Retained Earnings | Correct |
+
+---
+
+## Analysis for Decision Making
+
+### Inventory Turnover and Days' Sales in Inventory
+
+[**Análisis para la Toma de Decisiones - Rotación de Inventario y Días de Ventas en Inventario**]
+
+A merchandising business should keep enough inventory on hand to meet its customers' needs. A failure to do so may result in lost sales. However, too much inventory ties up funds that could be used to improve operations.
+
+[Un negocio minorista debe mantener suficiente inventario disponible para satisfacer las necesidades de sus clientes. No hacerlo puede resultar en pérdida de ventas. Sin embargo, demasiado inventario inmoviliza fondos que podrían utilizarse para mejorar las operaciones.]
+
+Also, excess inventory increases expenses such as storage and property taxes. Finally, excess inventory increases the risk of losses due to price decreases, damage, or changes in customer tastes.
+
+[Además, el exceso de inventario aumenta los gastos como almacenamiento e impuestos a la propiedad. Finalmente, el exceso de inventario aumenta el riesgo de pérdidas debido a disminuciones de precios, daños o cambios en los gustos de los clientes.]
+
+Two measures to analyze inventory management are:
+
+[Dos medidas para analizar la gestión de inventario son:]
+
+- Inventory turnover
+- Days' sales in inventory
+
+[Rotación de inventario
+- Días de ventas en inventario]
+
+**Inventory turnover** (A measure of the number of times inventory is turned into goods sold during the year, computed by dividing the cost of goods sold by the average inventory.) measures the relationship between the cost of goods sold and the amount of inventory carried during the period. It measures the number of times inventory is turned into sold goods during the year. It is computed as follows:
+
+[La **rotación de inventario** (una medida del número de veces que el inventario se convierte en bienes vendidos durante el año, calculada dividiendo el costo de bienes vendidos entre el inventario promedio) mide la relación entre el costo de bienes vendidos y la cantidad de inventario mantenido durante el período. Mide el número de veces que el inventario se convierte en bienes vendidos durante el año. Se calcula de la siguiente manera:]
+
+$$\text{Inventory Turnover} = \frac{\text{Cost of Goods Sold}}{\text{Average Inventory}}$$
+
+To illustrate, inventory turnover for Best Buy Co., Inc. (BBY) is computed from the following data (in millions) from two recent annual reports:
+
+[Para ilustrar, la rotación de inventario para Best Buy Co., Inc. (BBY) se calcula a partir de los siguientes datos (en millones) de dos informes anuales recientes:]
+
+| | Year 3 | Year 2 | Year 1 |
+|---|---|---|---|
+| Cost of goods sold | $32,918 | $32,275 | $29,963 |
+| **Inventories:** | | | |
+| Beginning of year | $5,209 | $4,864 | $5,051 |
+| End of year | $5,409 | $5,209 | $4,864 |
+| **Average inventory:** | | | |
+| ($5,209 + $5,409) ÷ 2 | $5,309.0 | | |
+| ($4,864 + $5,209) ÷ 2 | | $5,036.5 | |
+| ($5,051 + $4,864) ÷ 2 | | | $4,957.5 |
+| **Inventory turnover:** | | | |
+| $32,918 ÷ $5,309.0 | **6.2** | | |
+| $32,275 ÷ $5,036.5 | | **6.4** | |
+| $29,963 ÷ $4,957.5 | | | **6.0** |
+
+Generally, the larger the inventory turnover, the more efficient and effective the company is in managing inventory. In the preceding example, inventory turnover increased from 6.0 to 6.4 during Year 2; thus, Best Buy's inventory management improved during Year 2. Between Year 2 and Year 3, inventory turnover declined slightly from 6.4 to 6.2.
+
+[Generalmente, cuanto mayor es la rotación de inventario, más eficiente y efectiva es la empresa en la gestión de inventario. En el ejemplo anterior, la rotación de inventario aumentó de 6.0 a 6.4 durante el Año 2; por lo tanto, la gestión de inventario de Best Buy mejoró durante el Año 2. Entre el Año 2 y el Año 3, la rotación de inventario disminuyó ligeramente de 6.4 a 6.2.]
+
+The **days' sales in inventory** (The measure of the length of time it takes to acquire, sell, and replace inventory, computed by dividing the average inventory by the average daily cost of goods sold.) measures the length of time it takes to acquire, sell, and replace the inventory. It is computed as follows:
+
+[Los **días de ventas en inventario** (la medida del tiempo que lleva adquirir, vender y reemplazar el inventario, calculada dividiendo el inventario promedio entre el costo diario promedio de bienes vendidos) mide el tiempo que lleva adquirir, vender y reemplazar el inventario. Se calcula de la siguiente manera:]
+
+$$\text{Days' Sales in Inventory} = \frac{\text{Average Inventory}}{\text{Average Daily Cost of Goods Sold}}$$
+
+The average daily cost of goods sold is determined by dividing the cost of goods sold by 365. Based upon the preceding data, the days' sales in inventory for Best Buy is computed as follows:
+
+[El costo diario promedio de bienes vendidos se determina dividiendo el costo de bienes vendidos entre 365. Con base en los datos anteriores, los días de ventas en inventario para Best Buy se calculan de la siguiente manera:]
+
+| | Year 3 | Year 2 | Year 1 |
+|---|---|---|---|
+| Cost of goods sold | $32,918 | $32,275 | $29,963 |
+| **Average daily cost of goods sold:** | | | |
+| $32,918 ÷ 365 days | $90.2 per day | | |
+| $32,275 ÷ 365 days | | $88.4 per day | |
+| $29,963 ÷ 365 days | | | $82.1 per day |
+| **Average inventory** | $5,309.0 | $5,036.5 | $4,957.5 |
+| **Days' sales in inventory:** | | | |
+| $5,309.0 ÷ $90.2 | **58.9 days** | | |
+| $5,036.5 ÷ $88.4 | | **57.0 days** | |
+| $4,957.5 ÷ $82.1 | | | **60.4 days** |
+
+Generally, the lower the days' sales in inventory, the more efficient and effective the company is in managing inventory. The days' sales in inventory decreased from 60.4 days in Year 1 to 58.9 days in Year 3; thus, Best Buy's inventory management improved. This is consistent with the increase in inventory turnover during the year.
+
+[Generalmente, cuanto menores son los días de ventas en inventario, más eficiente y efectiva es la empresa en la gestión de inventario. Los días de ventas en inventario disminuyeron de 60.4 días en el Año 1 a 58.9 días en el Año 3; por lo tanto, la gestión de inventario de Best Buy mejoró. Esto es consistente con el aumento en la rotación de inventario durante el año.]
+
+As with most financial ratios, differences exist among industries. To illustrate, The Kroger Co. (KR) is the world's largest grocery store chain. Because food is perishable, it will sell more rapidly than Best Buy's consumer electronics. Thus, Kroger's inventory management should be significantly more efficient than Best Buy's. For a recent year, this is confirmed as follows:
+
+[Como con la mayoría de las razones financieras, existen diferencias entre las industrias. Para ilustrar, The Kroger Co. (KR) es la cadena de supermercados más grande del mundo. Debido a que los alimentos son perecederos, se venderán más rápidamente que los productos electrónicos de consumo de Best Buy. Por lo tanto, la gestión de inventario de Kroger debería ser significativamente más eficiente que la de Best Buy. Para un año reciente, esto se confirma de la siguiente manera:]
+
+| | Best Buy | Kroger |
+|---|---|---|
+| Inventory turnover | 6.2 | 14.2 |
+| Days' sales in inventory | 58.9 days | 25.7 days |
+
+---
+
+## Make a Decision
+
+### Inventory Turnover and Days' Sales in Inventory
+
+[**Tome una Decisión - Rotación de Inventario y Días de Ventas en Inventario**]
+
+- Analyze and compare Amazon.com to Target (MAD 6-1) (Continuing company analysis)
+- Analyze and compare Darden Restaurants to Chipotle Mexican Grill (MAD 6-2)
+- Analyze and compare Costco, Walmart, and Nordstrom (MAD 6-3)
+- Analyze and compare Monster Beverage and Brown-Forman (MAD 6-4)
+
+---
+
+<h1 id="510545" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-7 Appendix Estimating Inventory Cost
+  </a>
+</h1>
+
+
+A business may need to estimate the amount of inventory for the following reasons:
+
+[Una empresa puede necesitar estimar la cantidad de inventario por las siguientes razones:]
+
+- Perpetual inventory records are not maintained.
+- A disaster such as a fire or flood has destroyed the inventory records and the inventory.
+- Monthly or quarterly financial statements are needed, but a physical inventory is taken only once a year.
+
+[Los registros de inventario perpetuo no se mantienen.
+- Un desastre como un incendio o una inundación ha destruido los registros de inventario y el inventario.
+- Se necesitan estados financieros mensuales o trimestrales, pero se toma un inventario físico solo una vez al año.]
+
+This appendix describes and illustrates two widely used methods of estimating inventory cost.
+
+[Este apéndice describe e ilustra dos métodos ampliamente utilizados para estimar el costo del inventario.]
+
+**Objective 8** - Describe and illustrate the estimation of inventory using the retail and gross profit methods of inventory costing.
+
+[**Objetivo 8** - Describir e ilustrar la estimación del inventario utilizando los métodos de costo de inventario al por menor y de utilidad bruta.]
+
+---
+
+<h1 id="587631" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-7a Retail Method of Inventory Costing
+  </a>
+</h1>
+
+The **retail inventory method** (A method of estimating inventory cost that is based on the relationship of cost to retail price.) of estimating inventory cost requires costs and retail prices to be maintained for the merchandise available for sale. A ratio of cost to retail price is then used to convert ending inventory at retail to estimate the ending inventory cost.
+
+[El **método de inventario al por menor** (un método de estimación del costo del inventario que se basa en la relación del costo al precio de venta al público) para estimar el costo del inventario requiere que se mantengan los costos y los precios de venta al público para la mercancía disponible para la venta. Luego se utiliza una relación del costo al precio de venta al público para convertir el inventario final al precio de venta al público y estimar el costo del inventario final.]
+
+The retail inventory method is applied as follows:
+
+[El método de inventario al por menor se aplica de la siguiente manera:]
+
+**Step 1.** Determine the total merchandise available for sale at cost and retail.
+
+[**Paso 1.** Determine la mercancía total disponible para la venta al costo y al precio de venta al público.]
+
+**Step 2.** Determine the ratio of the cost to retail of the merchandise available for sale.
+
+[**Paso 2.** Determine la relación del costo al precio de venta al público de la mercancía disponible para la venta.]
+
+**Step 3.** Determine the ending inventory at retail by deducting the sales from the merchandise available for sale at retail.
+
+[**Paso 3.** Determine el inventario final al precio de venta al público deduciendo las ventas de la mercancía disponible para la venta al precio de venta al público.]
+
+**Step 4.** Estimate the ending inventory cost by multiplying the ending inventory at retail by the cost to retail ratio.
+
+[**Paso 4.** Estime el costo del inventario final multiplicando el inventario final al precio de venta al público por la relación costo/precio de venta al público.]
+
+Exhibit 13 illustrates the retail inventory method.
+
+[La Figura 13 ilustra el método de inventario al por menor.]
+
+---
+
+## Exhibit 13
+
+### Determining Inventory by the Retail Method
+
+[**Figura 13** - Determinación del Inventario por el Método al por Menor]
+
+<!-- 📍 IMAGEN: Exhibit 13 - Determining Inventory by the Retail Method (página 1) -->
+
+![Exhibit 13 - Determining Inventory by the Retail Method](./img/021.png)
+
+|  |  | Cost | Retail |
+|---|---|---|---|
+|  | Inventory, January 1 | $19,400 | $36,000 |
+|  | Purchases in January (net) | 42,600 | 64,000 |
+| **Step 1 -** | **Merchandise available for sale** | **$62,000** | **$100,000** |
+| **Step 2 -** | **Ratio of cost to retail price:** $62,000 / $100,000 = **62%** |  |  |
+|  | Sales for January |  | 70,000 |
+| **Step 3 -** | **Inventory, January 31, at retail** |  | **$30,000** |
+| **Step 4 -** | **Inventory, January 31, at estimated cost** |  |  |
+|  | ($30,000 × 62%) |  | **$18,600** |
+
+When estimating the cost to retail ratio, the mix of items in the ending inventory is assumed to be the same as the merchandise available for sale. If the ending inventory is made up of different classes of merchandise, cost to retail ratios may be developed for each class of inventory.
+
+[Al estimar la relación costo/precio de venta al público, se asume que la mezcla de artículos en el inventario final es la misma que la mercancía disponible para la venta. Si el inventario final está compuesto por diferentes clases de mercancía, se pueden desarrollar relaciones costo/precio de venta al público para cada clase de inventario.]
+
+An advantage of the retail method is that it provides inventory figures for preparing monthly statements. Department stores and similar retailers often determine gross profit and operating income each month but may take a physical inventory only once or twice a year. Thus, the retail method allows management to monitor operations more closely.
+
+[Una ventaja del método al por menor es que proporciona cifras de inventario para preparar estados mensuales. Los grandes almacenes y minoristas similares a menudo determinan la utilidad bruta y el ingreso operativo cada mes, pero pueden tomar un inventario físico solo una o dos veces al año. Por lo tanto, el método al por menor permite a la administración monitorear las operaciones más de cerca.]
+
+The retail method may also be used as an aid in taking a physical inventory. In this case, the items are counted and recorded at their retail (selling) prices instead of their costs. The physical inventory at retail is then converted to cost by using the cost to retail ratio.
+
+[El método al por menor también puede utilizarse como ayuda para tomar un inventario físico. En este caso, los artículos se cuentan y registran a sus precios de venta al público (de venta) en lugar de sus costos. El inventario físico al precio de venta al público se convierte luego al costo utilizando la relación costo/precio de venta al público.]
+
+---
+
+<h1 id="963166" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-7b Gross Profit Method of Inventory Costing
+  </a>
+</h1>
+
+
+The **gross profit method** (A method of estimating inventory cost that is based on the relationship of gross profit to sales.) uses the estimated gross profit for the period to estimate the inventory at the end of the period. The gross profit is estimated from the preceding year, adjusted for any current-period changes in the cost and sales prices.
+
+[El **método de utilidad bruta** (un método de estimación del costo del inventario que se basa en la relación de la utilidad bruta con las ventas) utiliza la utilidad bruta estimada para el período para estimar el inventario al final del período. La utilidad bruta se estima a partir del año anterior, ajustada por cualquier cambio en el período actual en los costos y precios de venta.]
+
+The gross profit method is applied as follows:
+
+[El método de utilidad bruta se aplica de la siguiente manera:]
+
+**Step 1.** Determine the merchandise available for sale at cost.
+
+[**Paso 1.** Determine la mercancía disponible para la venta al costo.]
+
+**Step 2.** Determine the estimated gross profit by multiplying the sales by the gross profit percentage, assumed to be 30% in this illustration.
+
+[**Paso 2.** Determine la utilidad bruta estimada multiplicando las ventas por el porcentaje de utilidad bruta, que se supone del 30% en esta ilustración.]
+
+**Step 3.** Determine the estimated cost of goods sold by deducting the estimated gross profit from the sales.
+
+[**Paso 3.** Determine el costo de bienes vendidos estimado deduciendo la utilidad bruta estimada de las ventas.]
+
+**Step 4.** Estimate the ending inventory cost by deducting the estimated cost of goods sold from the merchandise available for sale.
+
+[**Paso 4.** Estime el costo del inventario final deduciendo el costo de bienes vendidos estimado de la mercancía disponible para la venta.]
+
+Exhibit 14 illustrates the gross profit method.
+
+[La Figura 14 ilustra el método de utilidad bruta.]
+
+---
+
+## Exhibit 14
+
+### Estimating Inventory by Gross Profit Method
+
+[**Figura 14** - Estimación del Inventario por el Método de Utilidad Bruta]
+
+<!-- 📍 IMAGEN: Exhibit 14 - Estimating Inventory by Gross Profit Method (página 1) -->
+
+![Exhibit 14 - Estimating Inventory by Gross Profit Method](./img/022.png)
+
+|  |  |  | **Cost** |
+|---|---|---|---|
+|  | Inventory, January 1 |  | $57,000 |
+|  | Purchases in January (net) |  | 180,000 |
+| **Step 1 -** | **Merchandise available for sale** |  | **$237,000** |
+|  | Sales for January | $250,000 |  |
+| **Step 2 -** | **Estimated gross profit ($250,000 × 30%)** | (75,000) |  |
+| **Step 3 -** | **Estimated cost of goods sold** |  | **$175,000** |
+| **Step 4 -** | **Estimated inventory, January 31** |  | **$62,000** |
+
+The gross profit method is useful for estimating inventories for monthly or quarterly financial statements. It is also useful in estimating the cost of inventory destroyed by fire or other disasters.
+
+[El método de utilidad bruta es útil para estimar inventarios para estados financieros mensuales o trimestrales. También es útil para estimar el costo del inventario destruido por incendios u otros desastres.]
+
+---
+
+<h1 id="554495" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-8a Let’s Review Chapter Summary
+  </a>
+</h1>
+
+**1.** Two objectives of inventory control are safeguarding the inventory and properly reporting it in the financial statements. The perpetual inventory system and physical count enhance control over inventory.
+
+[**1.** Dos objetivos del control de inventario son salvaguardar el inventario y reportarlo adecuadamente en los estados financieros. El sistema de inventario perpetuo y el conteo físico mejoran el control sobre el inventario.]
+
+**2.** The three common inventory cost flow assumptions used in business are the (1) first-in, first-out method (FIFO); (2) last-in, first-out method (LIFO); and (3) weighted average cost method. The cost flow assumption affects the income statement and balance sheet.
+
+[**2.** Los tres supuestos comunes de flujo de costos de inventario utilizados en los negocios son (1) el método de primeras entradas, primeras salidas (PEPS); (2) el método de últimas entradas, primeras salidas (UEPS); y (3) el método de costo promedio ponderado. El supuesto de flujo de costos afecta el estado de resultados y el balance general.]
+
+**3.** In a perpetual inventory system, the number of units and the cost of each type of merchandise are recorded in a subsidiary inventory ledger, with a separate account for each type of merchandise.
+
+[**3.** En un sistema de inventario perpetuo, el número de unidades y el costo de cada tipo de mercancía se registran en un libro mayor auxiliar de inventario, con una cuenta separada para cada tipo de mercancía.]
+
+**4.** In a periodic inventory system, a physical inventory is taken to determine the cost of the inventory and the cost of goods sold.
+
+[**4.** En un sistema de inventario periódico, se toma un inventario físico para determinar el costo del inventario y el costo de los bienes vendidos.]
+
+**5.** The three inventory costing methods will normally yield different amounts for (1) the ending inventory, (2) the cost of goods sold for the period, and (3) the gross profit (and net income) for the period.
+
+[**5.** Los tres métodos de costeo de inventario normalmente producirán diferentes montos para (1) el inventario final, (2) el costo de los bienes vendidos para el período y (3) la utilidad bruta (y el ingreso neto) para el período.]
+
+**6.** The lower-of-cost-or-market (LCM) method is used to value inventory. The market value is the net realizable value of the merchandise. Inventory is usually presented in the "Current assets" section of the balance sheet, following receivables. The methods of determining the cost and valuing the inventory are reported. Errors in reporting inventory will affect the balance sheet and income statement.
+
+[**6.** El método del costo o mercado, el menor (LCM) se utiliza para valorar el inventario. El valor de mercado es el valor neto realizable de la mercancía. El inventario generalmente se presenta en la sección de "Activos corrientes" del balance general, después de las cuentas por cobrar. Los métodos para determinar el costo y valorar el inventario se reportan. Los errores al reportar el inventario afectarán el balance general y el estado de resultados.]
+
+**7.** Inventory turnover measures the number of times inventory is turned into sold goods during the period. It is computed as Cost of Goods Sold ÷ Average Inventory. The days' sales in inventory measures the length of time it takes to acquire, sell, and replace the inventory. It is computed as Average Inventory ÷ Average Daily Cost of Goods Sold. Generally, the larger the inventory turnover and the lower the days' sales in inventory, the more efficient and effective the company is in managing inventory.
+
+[**7.** La rotación de inventario mide el número de veces que el inventario se convierte en bienes vendidos durante el período. Se calcula como Costo de Bienes Vendidos ÷ Inventario Promedio. Los días de ventas en inventario miden el tiempo que lleva adquirir, vender y reemplazar el inventario. Se calcula como Inventario Promedio ÷ Costo Diario Promedio de Bienes Vendidos. Generalmente, cuanto mayor es la rotación de inventario y menor los días de ventas en inventario, más eficiente y efectiva es la empresa en la gestión de inventario.]
+
+---
+
+<h1 id="767516" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-8b Key Terms
+  </a>
+</h1>
+
+
+[**6-8b Términos Clave**]
+
+| English Term | Español | Definition (English) | Definición (Español) |
+|---|---|---|---|
+| consigned inventory | inventario en consignación | Merchandise that is shipped by manufacturers to retailers who act as the manufacturer's selling agent. | Mercancía que es enviada por los fabricantes a los minoristas que actúan como agente de ventas del fabricante. |
+| consignee | consignatario | The retailer in a consigned inventory arrangement. | El minorista en un acuerdo de inventario en consignación. |
+| consignor | consignador | The manufacturer in a consigned inventory arrangement. | El fabricante en un acuerdo de inventario en consignación. |
+| days' sales in inventory | días de ventas en inventario | The measure of the length of time it takes to acquire, sell, and replace inventory, computed by dividing the average inventory by the average daily cost of goods sold. | La medida del tiempo que lleva adquirir, vender y reemplazar el inventario, calculada dividiendo el inventario promedio entre el costo diario promedio de bienes vendidos. |
+| first-in, first-out (FIFO) inventory cost flow method | método de flujo de costos de inventario PEPS (primeras entradas, primeras salidas) | The method of inventory costing based on the assumption that the first units purchased are the first units sold; the method of inventory costing based on the assumption that the costs of merchandise sold should be charged against revenue in the order in which the costs were incurred. | El método de costo de inventario basado en el supuesto de que las primeras unidades compradas son las primeras unidades vendidas; el método de costo de inventario basado en el supuesto de que los costos de la mercancía vendida deben cargarse contra los ingresos en el orden en que se incurrieron en los costos. |
+| gross profit method | método de utilidad bruta | A method of estimating inventory cost that is based on the relationship of gross profit to sales. | Un método de estimación del costo del inventario que se basa en la relación de la utilidad bruta con las ventas. |
+| inventory turnover | rotación de inventario | A measure of the number of times inventory is turned into goods sold during the year, computed by dividing the cost of goods sold by the average inventory. | Una medida del número de veces que el inventario se convierte en bienes vendidos durante el año, calculada dividiendo el costo de bienes vendidos entre el inventario promedio. |
+| last-in, first-out (LIFO) inventory cost flow method | método de flujo de costos de inventario UEPS (últimas entradas, primeras salidas) | A method of inventory costing based on the assumption that the last units purchased are assumed to be sold and the ending inventory is made up of the first purchases. | Un método de costo de inventario basado en el supuesto de que las últimas unidades compradas se consideran vendidas y el inventario final está compuesto por las primeras compras. |
+| lower-of-cost-or-market (LCM) method | método del costo o mercado, el menor (LCM) | A method of valuing inventory that reports the inventory at the lower of its cost or current market value (net realizable value). | Un método de valoración de inventarios que reporta el inventario al menor de su costo o su valor de mercado actual (valor neto realizable). |
+| net realizable value | valor neto realizable | The estimated selling price of an item of inventory less any direct costs of disposal, such as sales commissions; the value of the receivables reduced to the amount that is expected to be collected or realized, computed as accounts receivable less allowance for doubtful accounts. | El precio de venta estimado de un artículo de inventario menos cualquier costo directo de disposición, como comisiones de ventas; el valor de las cuentas por cobrar reducido al monto que se espera cobrar o realizar, calculado como cuentas por cobrar menos la provisión para cuentas de cobro dudoso. |
+| physical inventory | inventario físico | A detailed listing of merchandise on hand. | Una lista detallada de la mercancía disponible. |
+| purchase order | orden de compra | The document authorizing the purchase of the inventory from an approved vendor. | El documento que autoriza la compra del inventario de un proveedor aprobado. |
+| receiving report | informe de recepción | The form or electronic transmission used by the receiving personnel to indicate that materials have been received and inspected. | El formulario o transmisión electrónica utilizada por el personal de recepción para indicar que los materiales han sido recibidos e inspeccionados. |
+| retail inventory method | método de inventario al por menor | A method of estimating inventory cost that is based on the relationship of cost to retail price. | Un método de estimación del costo del inventario que se basa en la relación del costo al precio de venta al público. |
+| specific identification inventory cost flow method | método de flujo de costos de identificación específica | The method of inventory costing in which a unit sold is identified with a specific purchase. | El método de costo de inventario en el que una unidad vendida se identifica con una compra específica. |
+| subsidiary inventory ledger | libro mayor auxiliar de inventario | The subsidiary ledger containing individual accounts for items of inventory. | El libro mayor auxiliar que contiene cuentas individuales para artículos de inventario. |
+| weighted average inventory cost flow method | método de flujo de costos de promedio ponderado | A method of inventory costing in which the cost of the units sold and in ending inventory is a weighted average of the purchase costs. | Un método de costo de inventario en el que el costo de las unidades vendidas y en el inventario final es un promedio ponderado de los costos de compra. |
 
 ---
 
