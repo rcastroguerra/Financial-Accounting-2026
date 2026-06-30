@@ -22,6 +22,12 @@
 
 ##### [Capitulo 6-4c Weighted Average Cost Method](#588161)
 
+##### [Capitulo 6-5 Comparing Inventory Costing Methods](#896919)
+
+##### [Capitulo 6-6 Reporting Inventory in the Financial Statements](#046501)
+
+##### [Capitulo 6-6a Valuation at Lower of Cost or Market](#536266)
+
 <h1 id="883394" style="color:#E65100;">
   <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
     6-1 Control of Inventory
@@ -1084,7 +1090,6 @@ The $16,000 cost of the ending inventory on January 31 is made up of the earlies
   </a>
 </h1>
 
-# 6-4c Weighted Average Cost Method
 
 The weighted average cost method uses the weighted average unit cost for determining the cost of goods sold and the ending inventory. If purchases are relatively uniform during a period, the weighted average cost method provides results that are similar to the physical flow of goods.
 
@@ -1135,7 +1140,7 @@ The $17,208 cost of the ending inventory on January 31 is made up of a weighted 
 
 <!-- 📍 IMAGEN: Exhibit 8 - Weighted Average Flow of Costs with Periodic Inventory (coordenadas [184, 92, 825, 563]) -->
 
-![Exhibit 8 - Weighted Average Flow of Costs with Periodic Inventory](./img/exhibit8_weighted_average_periodic.png)
+![Exhibit 8 - Weighted Average Flow of Costs with Periodic Inventory](./img/012.png)
 
 ---
 
@@ -1167,6 +1172,8 @@ c. weighted average cost method.
 ---
 
 ### Solution - Check Up Corner 6-3
+
+<img src="./img/013.png" width="800"></img>
 
 [**Solución - Esquina de Verificación 6-3**]
 
@@ -1260,8 +1267,469 @@ $$\text{COGS (Weighted Average)} = \$2,310 - \$924 = \$1,386$$
 
 ---
 
-**Chapter 6: Inventories: 6-4c Weighted Average Cost Method**
+<h1 id="896919" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-5 Comparing Inventory Costing Methods
+  </a>
+</h1>
 
-*Book Title: Financial and Managerial Accounting*
-*Printed By: Raydel Castro Guerra (raydel.castro001@mymdc.net)*
-*© 2023 Cengage Learning, Cengage Learning*
+
+A different cost flow is assumed for the FIFO, LIFO, and weighted average inventory cost flow methods. As a result, the three methods normally yield different amounts for the following:
+
+[Se asume un flujo de costos diferente para los métodos de flujo de costos de inventario PEPS, UEPS y promedio ponderado. Como resultado, los tres métodos normalmente producen diferentes montos para los siguientes:]
+
+- Cost of goods sold
+- Gross profit
+- Net income
+- Ending inventory
+
+[Costo de bienes vendidos
+- Utilidad bruta
+- Ingreso neto
+- Inventario final]
+
+Using the perpetual inventory system illustration with sales of $39,000 (1,300 units × $30), the following differences are apparent:
+
+[Utilizando la ilustración del sistema de inventario perpetuo con ventas de $39,000 (1,300 unidades × $30), las siguientes diferencias son evidentes:]
+
+### Partial Income Statements
+
+| | First-In, First-Out | Weighted Average Cost | Last-In, First-Out |
+|---|---|---|---|
+| Sales | $39,000 | $39,000 | $39,000 |
+| Cost of goods sold | (26,720) | (26,900) | (27,200) |
+| **Gross profit** | **$12,280** | **$12,100** | **$11,800** |
+| **Inventory, Jan. 31** | **$18,460** | **$18,280** | **$17,980** |
+
+The preceding differences show the effect of increasing costs (prices). If costs (prices) remain the same, all three methods would yield the same results. However, costs (prices) normally do change. The effects of changing costs (prices) on the FIFO and LIFO methods are summarized in Exhibit 9. The weighted average cost method will always yield results between those of FIFO and LIFO.
+
+[Las diferencias anteriores muestran el efecto del aumento de los costos (precios). Si los costos (precios) permanecen iguales, los tres métodos producirían los mismos resultados. Sin embargo, los costos (precios) normalmente cambian. Los efectos del cambio de los costos (precios) en los métodos PEPS y UEPS se resumen en la Figura 9. El método de costo promedio ponderado siempre producirá resultados entre los de PEPS y UEPS.]
+
+---
+
+## Exhibit 9
+
+### Effects of Changing Costs (Prices): FIFO and LIFO Cost Methods
+
+[**Figura 9** - Efectos de los Cambios en los Costos (Precios): Métodos de Costo PEPS y UEPS]
+
+<!-- 📍 IMAGEN: Exhibit 9 - Effects of Changing Costs (Prices): FIFO and LIFO Cost Methods (coordenadas [16, 51, 969, 223]) -->
+
+![Exhibit 9 - Effects of Changing Costs (Prices): FIFO and LIFO Cost Methods](./img/014.png)
+
+---
+
+### Summary of Effects
+
+| Cost Trend | FIFO | LIFO |
+|---|---|---|
+| **Increasing costs** | Higher gross profit & net income | Lower gross profit & net income |
+| **Decreasing costs** | Lower gross profit & net income | Higher gross profit & net income |
+
+FIFO reports higher gross profit and net income than the LIFO method when costs (prices) are increasing, as shown in Exhibit 9. However, in periods of rapidly rising costs, the inventory that is sold must be replaced at increasingly higher costs. In such cases, a portion of the larger FIFO gross profit and net income are sometimes called **inventory profits** or **illusory profits**.
+
+[PEPS reporta una utilidad bruta y un ingreso neto más altos que el método UEPS cuando los costos (precios) están aumentando, como se muestra en la Figura 9. Sin embargo, en períodos de costos en rápido aumento, el inventario que se vende debe ser reemplazado a costos cada vez más altos. En tales casos, una parte de la mayor utilidad bruta y el ingreso neto de PEPS a veces se llaman **utilidades de inventario** o **utilidades ilusorias**.]
+
+During a period of increasing costs, LIFO matches more recent costs against sales on the income statement. Thus, it can be argued that the LIFO method more nearly matches current costs with current revenues. LIFO also offers an income tax savings during periods of increasing costs. This is because LIFO reports the lowest amount of gross profit and, thus, taxable net income. However, under LIFO, the ending inventory on the balance sheet may be quite different from its current replacement cost. In such cases, the financial statements normally include a note that estimates what the inventory would have been if FIFO had been used.
+
+[Durante un período de costos crecientes, UEPS iguala los costos más recientes con las ventas en el estado de resultados. Por lo tanto, se puede argumentar que el método UEPS iguala más aproximadamente los costos actuales con los ingresos actuales. UEPS también ofrece un ahorro en el impuesto sobre la renta durante períodos de costos crecientes. Esto se debe a que UEPS reporta el monto más bajo de utilidad bruta y, por lo tanto, el ingreso neto imponible. Sin embargo, bajo UEPS, el inventario final en el balance general puede ser bastante diferente de su costo de reemplazo actual. En tales casos, los estados financieros normalmente incluyen una nota que estima cuál habría sido el inventario si se hubiera utilizado PEPS.]
+
+The weighted average cost method is, in a sense, a compromise between FIFO and LIFO. The effect of cost (price) trends is averaged in determining the cost of goods sold and the ending inventory.
+
+[El método de costo promedio ponderado es, en cierto sentido, un compromiso entre PEPS y UEPS. El efecto de las tendencias de costos (precios) se promedia al determinar el costo de los bienes vendidos y el inventario final.]
+
+---
+
+<h1 id="046501" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-6 Reporting Inventory in the Financial Statements
+  </a>
+</h1>
+
+
+Cost is the primary basis for valuing and reporting inventories in the financial statements. However, inventory may be valued at other than cost in the following cases:
+
+[El costo es la base principal para valorar y reportar los inventarios en los estados financieros. Sin embargo, el inventario puede valorarse a un valor distinto al costo en los siguientes casos:]
+
+1. The cost of replacing items in inventory is below the recorded cost.
+
+[1. El costo de reemplazar los artículos en el inventario es inferior al costo registrado.]
+
+2. The inventory cannot be sold at normal prices due to imperfections, style changes, spoilage, damage, obsolescence, or other causes.
+
+[2. El inventario no puede venderse a precios normales debido a imperfecciones, cambios de estilo, deterioro, daños, obsolescencia u otras causas.]
+
+**Objective 6** - Describe and illustrate the reporting of inventory in the financial statements.
+
+[**Objetivo 6** - Describir e ilustrar el reporte del inventario en los estados financieros.]
+
+---
+
+<h1 id="536266" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-6a Valuation at Lower of Cost or Market
+  </a>
+</h1>
+
+
+If the market value is lower than the purchase cost, the **lower-of-cost-or-market (LCM) method** (A method of valuing inventory that reports the inventory at the lower of its cost or current market value (net realizable value).) is used to value the inventory. Market, as used in lower of cost or market, is the **net realizable value** (The estimated selling price of an item of inventory less any direct costs of disposal, such as sales commissions; the value of the receivables reduced to the amount that is expected to be collected or realized, computed as accounts receivable less allowance for doubtful accounts.) of the inventory. Net realizable value is determined as follows:
+
+[Si el valor de mercado es inferior al costo de compra, se utiliza el método del **costo o mercado, el menor (LCM)** (un método de valoración de inventarios que reporta el inventario al menor de su costo o su valor de mercado actual (valor neto realizable)) para valorar el inventario. El mercado, tal como se utiliza en costo o mercado, el menor, es el **valor neto realizable** (el precio de venta estimado de un artículo de inventario menos cualquier costo directo de disposición, como comisiones de ventas; el valor de las cuentas por cobrar reducido al monto que se espera cobrar o realizar, calculado como cuentas por cobrar menos la provisión para cuentas de cobro dudoso) del inventario. El valor neto realizable se determina de la siguiente manera:]
+
+$$\text{Net Realizable Value} = \text{Estimated Selling Price} - \text{Direct Costs of Disposal}$$
+
+Direct costs of disposal include selling expenses such as special advertising or sales commissions.
+
+[Los costos directos de disposición incluyen gastos de venta como publicidad especial o comisiones de ventas.]
+
+To illustrate, assume the following data about an item of damaged inventory:
+
+[Para ilustrar, suponga los siguientes datos sobre un artículo de inventario dañado:]
+
+| | Amount |
+|---|---|
+| Original cost | $1,000 |
+| Estimated selling price | 800 |
+| Estimated selling expenses | 150 |
+
+In applying LCM, the market value of the inventory is $650, computed as follows:
+
+[Al aplicar LCM, el valor de mercado del inventario es de $650, calculado de la siguiente manera:]
+
+$$\text{Market Value (Net Realizable Value)} = \$800 - \$150 = \$650$$
+
+Thus, the inventory would be valued at $650, which is the lower of its cost of $1,000 and its market value of $650.
+
+[Por lo tanto, el inventario se valoraría en $650, que es el menor entre su costo de $1,000 y su valor de mercado de $650.]
+
+The lower-of-cost-or-market method can be applied in one of three ways. The cost, market price, and any declines could be determined for the following:
+
+[El método del costo o mercado, el menor, se puede aplicar de una de tres maneras. El costo, el precio de mercado y cualquier disminución podrían determinarse para lo siguiente:]
+
+1. Each item in the inventory
+2. Each major class or category of inventory
+3. Total inventory as a whole
+
+[1. Cada artículo en el inventario
+2. Cada clase o categoría importante de inventario
+3. El inventario total como un todo]
+
+The amount of any price decline is included in the cost of goods sold. This, in turn, reduces gross profit and net income in the period in which the price declines occur. This matching of price declines to the period in which they occur is the primary advantage of using the lower-of-cost-or-market method.
+
+[El monto de cualquier disminución de precio se incluye en el costo de los bienes vendidos. Esto, a su vez, reduce la utilidad bruta y el ingreso neto en el período en que ocurren las disminuciones de precio. Esta correspondencia de las disminuciones de precio con el período en que ocurren es la ventaja principal de utilizar el método del costo o mercado, el menor.]
+
+---
+
+**Link to Best Buy:** Best Buy values its inventory at lower of cost or market based upon cost and the amount it expects to realize from the sale.
+
+[**Enlace a Best Buy:** Best Buy valora su inventario al costo o mercado, el menor, basado en el costo y el monto que espera realizar de la venta.]
+
+---
+
+## Ethics in Action
+
+### Where's the Bonus?
+
+[**Ética en Acción - ¿Dónde está la Bonificación?**]
+
+Managers are often given bonuses based on reported earnings numbers. This can create a conflict. For example, LIFO can improve the value of the company through lower taxes. However, using LIFO also lowers management bonuses that are based on reported income. Thus, a manager might use FIFO to maximize his or her bonus even though LIFO is better for the company.
+
+[A los gerentes a menudo se les otorgan bonificaciones basadas en las cifras de ganancias reportadas. Esto puede crear un conflicto. Por ejemplo, UEPS puede mejorar el valor de la empresa a través de impuestos más bajos. Sin embargo, el uso de UEPS también reduce las bonificaciones de la gerencia que se basan en los ingresos reportados. Por lo tanto, un gerente podría usar PEPS para maximizar su bonificación, aunque UEPS sea mejor para la empresa.]
+
+To illustrate, assume the following data for 400 identical units of Item A in inventory on December 31:
+
+[Para ilustrar, suponga los siguientes datos para 400 unidades idénticas del Artículo A en el inventario al 31 de diciembre:]
+
+| | Amount |
+|---|---|
+| Cost per unit | $10.25 |
+| Market value (net realizable value) per unit | 9.50 |
+
+Since the market value of Item A is $9.50 per unit, $9.50 is used under the lower-of-cost-or-market method.
+
+[Dado que el valor de mercado del Artículo A es de $9.50 por unidad, se utiliza $9.50 bajo el método del costo o mercado, el menor.]
+
+Exhibit 10 illustrates applying the lower-of-cost-or-market method to (1) each inventory item (Echo, Foxtrot, Sierra, Tango), (2) each major class of inventory (Class 1, Class 2), and (3) inventory in total. As applied on an item-by-item basis, the total lower-of-cost-or-market is $15,070, which is a market decline of $450 ($15,520 – $15,070). As applied to each class of inventory, the inventory would be valued at $15,412, which is a market decline of $108 ($15,520 – $15,412). Finally, if the lower-of-cost-or-market method is applied to the total inventory, the inventory would be valued at $15,472, which is a market decline of $48 ($15,520 – $15,472). The market declines under each approach ($450, $108, or $48) would be included in cost of goods sold.
+
+[La Figura 10 ilustra la aplicación del método del costo o mercado, el menor a (1) cada artículo de inventario (Echo, Foxtrot, Sierra, Tango), (2) cada clase importante de inventario (Clase 1, Clase 2) y (3) el inventario total. Tal como se aplica artículo por artículo, el total del costo o mercado, el menor es de $15,070, lo que representa una disminución de mercado de $450 ($15,520 – $15,070). Tal como se aplica a cada clase de inventario, el inventario se valoraría en $15,412, lo que representa una disminución de mercado de $108 ($15,520 – $15,412). Finalmente, si se aplica el método del costo o mercado, el menor al inventario total, el inventario se valoraría en $15,472, lo que representa una disminución de mercado de $48 ($15,520 – $15,472). Las disminuciones de mercado bajo cada enfoque ($450, $108 o $48) se incluirían en el costo de los bienes vendidos.]
+
+---
+
+## Exhibit 10
+
+### Determining Inventory at Lower of Cost or Market (LCM)
+
+[**Figura 10** - Determinación del Inventario al Costo o Mercado, el Menor (LCM)]
+
+<!-- 📍 IMAGEN: Exhibit 10 - Determining Inventory at Lower of Cost or Market (LCM) (páginas 3-4) -->
+
+![Exhibit 10 - Determining Inventory at Lower of Cost or Market (LCM)](./img/015.png)
+
+<table><tbody>
+  <tr>
+    <td>Item</td>
+    <td>Inventory Quantity</td>
+    <td>Cost per Unit</td>
+    <td>Market Value per Unit (Net Realizable Value)</td>
+    <td>Cost</td>
+    <td>Market</td>
+    <td>Lower of Cost or Market (LCM)</td>
+    <td rowspan="6">(1) Applied <br>Individual Item <br>by Item<br><br><br><br></td>
+  </tr>
+  <tr>
+    <td>Echo</td>
+    <td>400</td>
+    <td>$10.25</td>
+    <td>$9.50</td>
+    <td>$4,100</td>
+    <td>$3,800</td>
+    <td>$3,800</td>
+  </tr>
+  <tr>
+    <td>Foxtrot</td>
+    <td>120</td>
+    <td>22.50</td>
+    <td>24.10</td>
+    <td>2,700</td>
+    <td>2,892</td>
+    <td>2,700</td>
+  </tr>
+  <tr>
+    <td>Sierra</td>
+    <td>600</td>
+    <td>8.00</td>
+    <td>7.75</td>
+    <td>4,800</td>
+    <td>4,650</td>
+    <td>4,650</td>
+  </tr>
+  <tr>
+    <td>Tango</td>
+    <td>280</td>
+    <td>14.00</td>
+    <td>14.75</td>
+    <td>3,920</td>
+    <td>4,130</td>
+    <td>3,920</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>$15,520</td>
+    <td>$15,472</td>
+    <td>$15,070</td>
+  </tr>
+</tbody></table>
+
+<table><tbody>
+  <tr>
+    <td>Item</td>
+    <td>Inventory Quantity</td>
+    <td>Cost per Unit</td>
+    <td>Market Value per Unit (Net Realizable Value)</td>
+    <td>Cost</td>
+    <td>Market</td>
+    <td>Lower of Cost or Market (LCM)</td>
+    <td rowspan="10">(2) Applied by Class</td>
+  </tr>
+  <tr>
+    <td>Class 1:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Echo</td>
+    <td>400</td>
+    <td>$10.25</td>
+    <td>$9.50</td>
+    <td>$4,100</td>
+    <td>$3,800</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Foxtrot</td>
+    <td>120</td>
+    <td>22.50</td>
+    <td>24.10</td>
+    <td>2,700</td>
+    <td>2,892</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Subtotal</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>6,800</td>
+    <td>$6,692</td>
+    <td>$6,692</td>
+  </tr>
+  <tr>
+    <td>Class 2:</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sierra</td>
+    <td>600</td>
+    <td>8.00</td>
+    <td>7.75</td>
+    <td>$4,800</td>
+    <td>$4,650</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tango</td>
+    <td>280</td>
+    <td>14.00</td>
+    <td>14.75</td>
+    <td>3,920</td>
+    <td>4,130</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Subtotal</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>$8,720</td>
+    <td>$8,780</td>
+    <td>$8,720</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>$15,520</td>
+    <td>$15,472</td>
+    <td>$15,412</td>
+  </tr>
+</tbody></table>
+
+<table><tbody>
+  <tr>
+    <td>Item</td>
+    <td>Inventory Quantity</td>
+    <td>Cost per Unit</td>
+    <td>Market Value per Unit (Net Realizable Value)</td>
+    <td>Cost</td>
+    <td>Market</td>
+    <td>Lower of Cost or Market (LCM)</td>
+    <td rowspan="6">(3) Applied to Total Inventory</td>
+  </tr>
+  <tr>
+    <td>Echo</td>
+    <td>400</td>
+    <td>$10.25</td>
+    <td>$9.50</td>
+    <td>$4,100</td>
+    <td>$3,800</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Foxtrot</td>
+    <td>120</td>
+    <td>22.50</td>
+    <td>24.10</td>
+    <td>2,700</td>
+    <td>2,892</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Sierra</td>
+    <td>600</td>
+    <td>8.00</td>
+    <td>7.75</td>
+    <td>4,800</td>
+    <td>4,650</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tango</td>
+    <td>280</td>
+    <td>14.00</td>
+    <td>14.75</td>
+    <td>3,920</td>
+    <td>4,130</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>$15,520</td>
+    <td>$15,472</td>
+    <td>$15,472</td>
+  </tr>
+</tbody></table>
+
+Applying the lower-of-cost-or-market method on an item-by-item basis always gives the lowest value for inventory. Conversely, applying the lower-of-cost-or-market method to the total inventory always gives the highest value for inventory.
+
+[Aplicar el método del costo o mercado, el menor, artículo por artículo siempre da el valor más bajo para el inventario. Por el contrario, aplicar el método del costo o mercado, el menor, al inventario total siempre da el valor más alto para el inventario.]
+
+---
+
+**Link to Best Buy:** The excess of cost over the amount Best Buy expects to receive from the sale of an item is called a markdown.
+
+[**Enlace a Best Buy:** El exceso del costo sobre el monto que Best Buy espera recibir de la venta de un artículo se llama rebaja de precio (markdown).]
+
+---
+
+## Check Up Corner 6-4
+
+### Lower of Cost or Market
+
+[**Esquina de Verificación 6-4 - Costo o Mercado, el Menor**]
+
+JJ's Electronics Company has three products in inventory (PCs, tablets, and smartphones). Each product's quantity, cost per unit, and market value per unit are as follows:
+
+[JJ's Electronics Company tiene tres productos en inventario (PCs, tabletas y teléfonos inteligentes). La cantidad, el costo por unidad y el valor de mercado por unidad de cada producto son los siguientes:]
+
+| Item | Inventory Quantity | Cost per Unit | Market Value per Unit (Net Realizable Value) |
+|---|---|---|---|
+| PC | 10 | $175 | $168 |
+| Tablet | 12 | 132 | 150 |
+| Smartphone | 8 | 199 | 187 |
+
+Apply the lower-of-cost-or-market method to each inventory item in a form similar to Exhibit 10.
+
+[Aplique el método del costo o mercado, el menor, a cada artículo de inventario en un formato similar al de la Figura 10.]
+
+---
+
+### Solution - Check Up Corner 6-4
+
+<img src="./img/016.png" width="800"></img>
+
+[**Solución - Esquina de Verificación 6-4**]
+
+| Item | Inventory Quantity | Cost per Unit | Market Value per Unit (Net Realizable Value) | Cost | Market | Lower of Cost or Market |
+|---|---|---|---|---|---|---|
+| PC | 10 | $175 | $168 | $1,750 | $1,680 | $1,680 |
+| Tablet | 12 | 132 | 150 | 1,584 | 1,800 | 1,584 |
+| Smartphone | 8 | 199 | 187 | 1,592 | 1,496 | 1,496 |
+| **Total** | | | | **$4,926** | **$4,976** | **$4,760** |
+
+**Calculations:**
+
+| Item | Calculation | LCM |
+|---|---|---|
+| PC | 10 × $168 | $1,680 |
+| Tablet | 12 × $132 | $1,584 |
+| Smartphone | 8 × $187 | $1,496 |
+| **Total** | | **$4,760** |
+
+---
+
