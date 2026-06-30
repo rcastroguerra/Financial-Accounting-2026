@@ -73,7 +73,6 @@ Two primary objectives of control over inventory are as follows:
   </a>
 </h1>
 
-# 6-1a Safeguarding Inventory
 
 Controls for safeguarding inventory begin as soon as the inventory is ordered. The following documents are often used for inventory control:
 
@@ -121,7 +120,6 @@ Finally, controls for safeguarding inventory should include security measures to
   </a>
 </h1>
 
-# 6-1b Reporting Inventory
 
 A physical inventory or count of inventory should be taken near year-end to make sure that the quantity of inventory reported in the financial statements is accurate. After the quantity of inventory on hand is determined, the cost of the inventory is assigned for reporting in the financial statements. Most companies assign costs to inventory using one of three inventory cost flow assumptions. If a physical count is not possible or inventory records are not available, the inventory cost may be estimated as described in the appendix at the end of this chapter.
 
