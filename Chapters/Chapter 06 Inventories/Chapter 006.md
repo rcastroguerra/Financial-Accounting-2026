@@ -20,6 +20,8 @@
 
 ##### [Capitulo 6-4b Last-In, First-Out Method](#495704)
 
+##### [Capitulo 6-4c Weighted Average Cost Method](#588161)
+
 <h1 id="883394" style="color:#E65100;">
   <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
     6-1 Control of Inventory
@@ -1040,8 +1042,6 @@ The $18,460 cost of the ending inventory on January 31 is made up of the most re
   </a>
 </h1>
 
-# 6-4b Last-In, First-Out Method
-
 When the LIFO method is used, the cost of goods on hand at the end of the period is made up of the earliest costs. Based on the same data for Item 127B as in the FIFO example, the cost of the 800 units in ending inventory on January 31 is $16,000, which consists of 800 units from the beginning inventory at a cost of $20.00 per unit.
 
 [Cuando se utiliza el método UEPS, el costo de los bienes disponibles al final del período está compuesto por los costos más antiguos. Con base en los mismos datos para el Artículo 127B que en el ejemplo PEPS, el costo de las 800 unidades en el inventario final al 31 de enero es de $16,000, que consiste en 800 unidades del inventario inicial a un costo de $20.00 por unidad.]
@@ -1076,3 +1076,192 @@ The $16,000 cost of the ending inventory on January 31 is made up of the earlies
 ![Exhibit 7 - Last-In, First-Out Flow of Costs with Periodic Inventory](./img/011.png)
 
 ---
+
+
+<h1 id="588161" style="color:#E65100;">
+  <a href="#Chapter_006" style="color:inherit; text-decoration:none;">
+    6-4c Weighted Average Cost Method
+  </a>
+</h1>
+
+# 6-4c Weighted Average Cost Method
+
+The weighted average cost method uses the weighted average unit cost for determining the cost of goods sold and the ending inventory. If purchases are relatively uniform during a period, the weighted average cost method provides results that are similar to the physical flow of goods.
+
+[El método de costo promedio ponderado utiliza el costo unitario promedio ponderado para determinar el costo de los bienes vendidos y el inventario final. Si las compras son relativamente uniformes durante un período, el método de costo promedio ponderado proporciona resultados que son similares al flujo físico de los bienes.]
+
+The weighted average unit cost is determined as follows:
+
+[El costo unitario promedio ponderado se determina de la siguiente manera:]
+
+$$\text{Weighted Average Unit Cost} = \frac{\text{Total Cost of Units Available for Sale}}{\text{Units Available for Sale}}$$
+
+To illustrate, the data for Item 127B are used as follows:
+
+[Para ilustrar, se utilizan los datos del Artículo 127B de la siguiente manera:]
+
+$$\text{Weighted Average Unit Cost} = \frac{\$45,180}{2,100 \text{ units}} = \$21.51 \text{ per unit (rounded)}$$
+
+The cost of the January 31 ending inventory is as follows:
+
+[El costo del inventario final del 31 de enero es el siguiente:]
+
+$$\text{Inventory, January 31} = 800 \text{ units} \times \$21.51 = \$17,208$$
+
+Deducting the cost of the January 31 inventory of $17,208 from the cost of goods available for sale of $45,180 yields the cost of goods sold of $27,972, computed as follows:
+
+[Restando el costo del inventario del 31 de enero de $17,208 del costo de los bienes disponibles para la venta de $45,180 se obtiene el costo de los bienes vendidos de $27,972, calculado de la siguiente manera:]
+
+$$\text{Cost of Goods Sold} = \text{Cost of Goods Available for Sale} - \text{Ending Inventory}$$
+
+| Beginning inventory, January 1 | $20,000 |
+|---|---|
+| Purchases ($11,200 + $13,980) | 25,180 |
+| **Cost of goods available for sale in January** | **$45,180** |
+| Ending inventory, January 31 | (17,208) |
+| **Cost of goods sold** | **$27,972** |
+
+The $17,208 cost of the ending inventory on January 31 is made up of a weighted average of the cost of units available for sale during the month. The cost of goods sold is made up of the weighted average of the cost of the units sold during the month. Exhibit 8 shows the relationship of the cost of goods sold for January and the ending inventory on January 31.
+
+[El costo de $17,208 del inventario final al 31 de enero está compuesto por un promedio ponderado del costo de las unidades disponibles para la venta durante el mes. El costo de los bienes vendidos está compuesto por el promedio ponderado del costo de las unidades vendidas durante el mes. La Figura 8 muestra la relación del costo de los bienes vendidos para enero y el inventario final al 31 de enero.]
+
+---
+
+## Exhibit 8
+
+### Weighted Average Flow of Costs with Periodic Inventory
+
+[**Figura 8** - Flujo de Costos de Promedio Ponderado con Inventario Periódico]
+
+<!-- 📍 IMAGEN: Exhibit 8 - Weighted Average Flow of Costs with Periodic Inventory (coordenadas [184, 92, 825, 563]) -->
+
+![Exhibit 8 - Weighted Average Flow of Costs with Periodic Inventory](./img/exhibit8_weighted_average_periodic.png)
+
+---
+
+## Check Up Corner 6-3
+
+### Periodic Inventory
+
+[**Esquina de Verificación 6-3 - Inventario Periódico**]
+
+The beginning inventory, purchases, and sales of Item PEAR4 for a recent year are as follows:
+
+[El inventario inicial, las compras y las ventas del Artículo PEAR4 para un año reciente son los siguientes:]
+
+| Date | Transaction | Units | Unit Cost | Total Cost |
+|---|---|---|---|---|
+| Jan. 1 | Inventory | 6 | $50 | $300 |
+| Mar. 20 | Purchase | 14 | $55 | 770 |
+| Oct. 30 | Purchase | 20 | $62 | 1,240 |
+| **Available for sale** | | **40** | | **$2,310** |
+
+There are 16 units of the item in the physical inventory at December 31, the end of the fiscal year. The company uses the periodic inventory system. Determine (1) the December 31 inventory balance and (2) the cost of goods sold for the year, using the:
+
+[Hay 16 unidades del artículo en el inventario físico al 31 de diciembre, al final del año fiscal. La empresa utiliza el sistema de inventario periódico. Determine (1) el saldo del inventario al 31 de diciembre y (2) el costo de los bienes vendidos para el año, utilizando los siguientes métodos:]
+
+a. first-in, first-out (FIFO) method.
+b. last-in, first-out (LIFO) method.
+c. weighted average cost method.
+
+---
+
+### Solution - Check Up Corner 6-3
+
+[**Solución - Esquina de Verificación 6-3**]
+
+#### a. FIFO Method
+
+For FIFO, the ending inventory consists of the most recent purchases. Since there are 16 units in ending inventory, they come from the October 30 purchase (20 units at $62):
+
+[Para FIFO, el inventario final consiste en las compras más recientes. Dado que hay 16 unidades en el inventario final, provienen de la compra del 30 de octubre (20 unidades a $62):]
+
+$$\text{Ending Inventory (FIFO)} = 16 \text{ units} \times \$62 = \$992$$
+
+$$\text{Cost of Goods Sold (FIFO)} = \text{Cost of Goods Available for Sale} - \text{Ending Inventory}$$
+
+$$\text{COGS (FIFO)} = \$2,310 - \$992 = \$1,318$$
+
+| | Units | Unit Cost | Total Cost |
+|---|---|---|---|
+| **Ending Inventory:** | | | |
+| Oct. 30 Purchase | 16 | $62 | $992 |
+| **Total Ending Inventory** | **16** | | **$992** |
+| | | | |
+| **Cost of Goods Sold:** | | | |
+| Cost of goods available for sale | | | $2,310 |
+| Ending inventory | | | (992) |
+| **Cost of goods sold** | | | **$1,318** |
+
+---
+
+#### b. LIFO Method
+
+For LIFO, the ending inventory consists of the earliest costs. Since there are 16 units in ending inventory, they come from the beginning inventory (6 units at $50) and the March 20 purchase (10 units at $55):
+
+[Para LIFO, el inventario final consiste en los costos más antiguos. Dado que hay 16 unidades en el inventario final, provienen del inventario inicial (6 unidades a $50) y de la compra del 20 de marzo (10 unidades a $55):]
+
+$$\text{Ending Inventory (LIFO)} = (6 \times \$50) + (10 \times \$55)$$
+
+$$\text{Ending Inventory (LIFO)} = \$300 + \$550 = \$850$$
+
+$$\text{Cost of Goods Sold (LIFO)} = \text{Cost of Goods Available for Sale} - \text{Ending Inventory}$$
+
+$$\text{COGS (LIFO)} = \$2,310 - \$850 = \$1,460$$
+
+| | Units | Unit Cost | Total Cost |
+|---|---|---|---|
+| **Ending Inventory:** | | | |
+| Jan. 1 Inventory | 6 | $50 | $300 |
+| Mar. 20 Purchase | 10 | $55 | 550 |
+| **Total Ending Inventory** | **16** | | **$850** |
+| | | | |
+| **Cost of Goods Sold:** | | | |
+| Cost of goods available for sale | | | $2,310 |
+| Ending inventory | | | (850) |
+| **Cost of goods sold** | | | **$1,460** |
+
+---
+
+#### c. Weighted Average Method
+
+The weighted average unit cost is calculated as follows:
+
+[El costo unitario promedio ponderado se calcula de la siguiente manera:]
+
+$$\text{Weighted Average Unit Cost} = \frac{\text{Total Cost of Units Available for Sale}}{\text{Units Available for Sale}}$$
+
+$$\text{Weighted Average Unit Cost} = \frac{\$2,310}{40 \text{ units}} = \$57.75 \text{ per unit}$$
+
+The ending inventory is then calculated as:
+
+[El inventario final se calcula entonces como:]
+
+$$\text{Ending Inventory (Weighted Average)} = 16 \text{ units} \times \$57.75 = \$924$$
+
+The cost of goods sold is then:
+
+[El costo de bienes vendidos es entonces:]
+
+$$\text{COGS (Weighted Average)} = \$2,310 - \$924 = \$1,386$$
+
+| | Units | Unit Cost | Total Cost |
+|---|---|---|---|
+| Weighted Average Unit Cost | 40 | $57.75 | $2,310 |
+| | ($2,310 ÷ 40) | | |
+| | | | |
+| **Ending Inventory:** | | | |
+| 16 units × $57.75 | | | **$924** |
+| | | | |
+| **Cost of Goods Sold:** | | | |
+| Cost of goods available for sale | | | $2,310 |
+| Ending inventory | | | (924) |
+| **Cost of goods sold** | | | **$1,386** |
+
+---
+
+**Chapter 6: Inventories: 6-4c Weighted Average Cost Method**
+
+*Book Title: Financial and Managerial Accounting*
+*Printed By: Raydel Castro Guerra (raydel.castro001@mymdc.net)*
+*© 2023 Cengage Learning, Cengage Learning*
