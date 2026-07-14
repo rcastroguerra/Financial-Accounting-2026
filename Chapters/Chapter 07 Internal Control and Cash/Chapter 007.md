@@ -26,6 +26,8 @@
 
 ##### [Capitulo 7-3a Control of Cash Receipts](#162472)
 
+##### [Capitulo 7-3b Control of Cash Payments](#675689)
+
 <h1 id="697783" style="color:#E65100;">
   <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
     Chapter Introduction
@@ -715,40 +717,32 @@ An important control to protect cash received in over-the-counter sales is a cas
 ![Exhibit 8 - Cash Register as a Control](./img/010.png)
 
 1. At the beginning of every work shift, each cash register clerk is given a cash drawer containing a predetermined amount of cash. This amount is used for making change for customers and is sometimes called a change fund.  
+[Al comienzo de cada turno de trabajo, a cada cajero de caja registradora se le entrega un cajón de efectivo que contiene una cantidad predeterminada de efectivo. Esta cantidad se utiliza para dar cambio a los clientes y a veces se llama fondo de cambio.]
 
-[1. Al comienzo de cada turno de trabajo, a cada cajero de caja registradora se le entrega un cajón de efectivo que contiene una cantidad predeterminada de efectivo. Esta cantidad se utiliza para dar cambio a los clientes y a veces se llama fondo de cambio.]
+2. When a salesperson enters the amount of a sale, the cash register displays the amount to the customer. This allows the customer to verify that the clerk has charged the correct amount. The customer also receives a cash receipt.  
+[Cuando un vendedor ingresa el monto de una venta, la caja registradora muestra el monto al cliente. Esto permite al cliente verificar que el empleado ha cobrado el monto correcto. El cliente también recibe un recibo de efectivo.]
 
-2. When a salesperson enters the amount of a sale, the cash register displays the amount to the customer. This allows the customer to verify that the clerk has charged the correct amount. The customer also receives a cash receipt.
+3. At the end of the shift, the clerk and the supervisor count the cash in the clerk's cash drawer. The amount of cash in each drawer should equal the beginning amount of cash plus the cash sales for the day.  
+[Al final del turno, el empleado y el supervisor cuentan el efectivo en el cajón de efectivo del empleado. La cantidad de efectivo en cada cajón debe ser igual a la cantidad inicial de efectivo más las ventas en efectivo del día.]
 
-[2. Cuando un vendedor ingresa el monto de una venta, la caja registradora muestra el monto al cliente. Esto permite al cliente verificar que el empleado ha cobrado el monto correcto. El cliente también recibe un recibo de efectivo.]
+4. The supervisor takes the cash to the Cashier's Department where it is placed in a safe.  
+[El supervisor lleva el efectivo al Departamento de Caja donde se coloca en una caja fuerte.]
 
-3. At the end of the shift, the clerk and the supervisor count the cash in the clerk's cash drawer. The amount of cash in each drawer should equal the beginning amount of cash plus the cash sales for the day.
+5. The supervisor forwards the clerk's cash register receipts to the Accounting Department.  
+[El supervisor envía los recibos de la caja registradora del empleado al Departamento de Contabilidad.]
 
-[3. Al final del turno, el empleado y el supervisor cuentan el efectivo en el cajón de efectivo del empleado. La cantidad de efectivo en cada cajón debe ser igual a la cantidad inicial de efectivo más las ventas en efectivo del día.]
+6. The cashier prepares a bank deposit ticket.  
+[El cajero prepara un comprobante de depósito bancario.]
 
-4. The supervisor takes the cash to the Cashier's Department where it is placed in a safe.
+7. The cashier deposits the cash in the bank, or the cash is picked up by an armored car service, such as The Brink's Company (BCO).  
+[El cajero deposita el efectivo en el banco, o el efectivo es recogido por un servicio de vehículo blindado, como The Brink's Company (BCO).]
 
-[4. El supervisor lleva el efectivo al Departamento de Caja donde se coloca en una caja fuerte.]
+8. The Accounting Department summarizes the cash receipts and records the day's cash sales.  
+[El Departamento de Contabilidad resume los recibos de efectivo y registra las ventas en efectivo del día.]
 
-5. The supervisor forwards the clerk's cash register receipts to the Accounting Department.
+9. When cash is deposited in the bank, the bank normally stamps a duplicate copy of the deposit ticket with the amount received. This bank receipt is returned to the Accounting Department, where it is compared to the total amount that should have been deposited. This control helps ensure that all the cash is deposited and that no cash is lost or stolen on the way to the bank. Any shortages are thus promptly detected.  
+[Cuando se deposita efectivo en el banco, el banco normalmente sella una copia duplicada del comprobante de depósito con el monto recibido. Este recibo bancario se devuelve al Departamento de Contabilidad, donde se compara con el monto total que debería haberse depositado. Este control ayuda a garantizar que todo el efectivo se deposite y que no se pierda ni sea robado en el camino al banco. Cualquier faltante se detecta de inmediato.]
 
-[5. El supervisor envía los recibos de la caja registradora del empleado al Departamento de Contabilidad.]
-
-6. The cashier prepares a bank deposit ticket.
-
-[6. El cajero prepara un comprobante de depósito bancario.]
-
-7. The cashier deposits the cash in the bank, or the cash is picked up by an armored car service, such as The Brink's Company (BCO).
-
-[7. El cajero deposita el efectivo en el banco, o el efectivo es recogido por un servicio de carro blindado, como The Brink's Company (BCO).]
-
-8. The Accounting Department summarizes the cash receipts and records the day's cash sales.
-
-[8. El Departamento de Contabilidad resume los recibos de efectivo y registra las ventas en efectivo del día.]
-
-9. When cash is deposited in the bank, the bank normally stamps a duplicate copy of the deposit ticket with the amount received. This bank receipt is returned to the Accounting Department, where it is compared to the total amount that should have been deposited. This control helps ensure that all the cash is deposited and that no cash is lost or stolen on the way to the bank. Any shortages are thus promptly detected.
-
-[9. Cuando se deposita efectivo en el banco, el banco normalmente sella una copia duplicada del comprobante de depósito con el monto recibido. Este recibo bancario se devuelve al Departamento de Contabilidad, donde se compara con el monto total que debería haberse depositado. Este control ayuda a garantizar que todo el efectivo se deposite y que no se pierda ni sea robado en el camino al banco. Cualquier faltante se detecta de inmediato.]
 
 Salespersons may make errors in making change for customers or in ringing up cash sales. As a result, the amount of cash on hand may differ from the amount of cash sales. Such differences are recorded in a **cash short and over account** (An account in which are recorded errors in cash sales or errors in making change causing the amount of actual cash on hand to differ from the beginning amount of cash plus the cash sales for the day.)
 
@@ -774,55 +768,44 @@ The cash sales, receipts, and shortage of $22 ($35,690 – $35,668) would be jou
 | | Sales | | 35,690 |
 | | *Record cash sales and shortage.* | | |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
-<table class="tg"><tbody>
+<table><tbody>
   <tr>
-    <td class="tg-baqh" colspan="2">Assets</td>
-    <td class="tg-baqh">=</td>
-    <td class="tg-baqh" colspan="2">Liabilities</td>
-    <td class="tg-baqh">+</td>
-    <td class="tg-baqh" colspan="4">Stockholders'Equity</td>
+    <td colspan="2">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="4">Stockholders'Equity</td>
   </tr>
   <tr>
-    <td class="tg-baqh" colspan="2">cash</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh" colspan="2"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh" colspan="2">Sales(Revenue)</td>
-    <td class="tg-baqh" colspan="2">Cash Short and Over</td>
+    <td colspan="2">cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Sales(Revenue)</td>
+    <td colspan="2">Cash Short and Over</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Debit</td>
-    <td class="tg-baqh">Credit</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">Debit</td>
-    <td class="tg-baqh">Credit</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">Debit</td>
-    <td class="tg-baqh">Credit</td>
-    <td class="tg-baqh">Debit</td>
-    <td class="tg-baqh">Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
   </tr>
   <tr>
-    <td class="tg-baqh">35,668</td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">35,690</td>
-    <td class="tg-baqh">22</td>
-    <td class="tg-baqh"></td>
+    <td>35,668</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>35,690</td>
+    <td>22</td>
+    <td></td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 If there had been cash over, Cash Short and Over would have been credited for the overage. At the end of the accounting period, a debit balance in Cash Short and Over is included in miscellaneous expenses on the income statement. A credit balance is included in the "Other revenue" section. If a salesperson consistently has large cash short and over amounts, the supervisor may require the clerk to take additional training.
 
@@ -835,37 +818,28 @@ If there had been cash over, Cash Short and Over would have been credited for th
 Cash is received in the mail when customers pay their bills. This cash is usually in the form of checks and money orders. Most companies design their invoices so that customers return a portion of the invoice, called a remittance advice, with their payment. Remittance advices may be used to control cash received in the mail as follows:
 
 [El efectivo se recibe por correo cuando los clientes pagan sus facturas. Este efectivo suele ser en forma de cheques y giros postales. La mayoría de las empresas diseñan sus facturas para que los clientes devuelvan una parte de la factura, llamada aviso de remesa, con su pago. Los avisos de remesa pueden utilizarse para controlar el efectivo recibido por correo de la siguiente manera:]
-
-1. An employee opens the incoming mail and compares the amount of cash received with the amount shown on the remittance advice. If a customer does not return a remittance advice, the employee prepares one. The remittance advice serves as a:
-
+1. An employee opens the incoming mail and compares the amount of cash received with the amount shown on the remittance advice. If a customer does not return a remittance advice, the employee prepares one. The remittance advice serves as a:  
 [1. Un empleado abre el correo entrante y compara la cantidad de efectivo recibido con la cantidad que aparece en el aviso de remesa. Si un cliente no devuelve un aviso de remesa, el empleado prepara uno. El aviso de remesa sirve como:]
 
-2. The employee opening the mail stamps checks and money orders "For Deposit Only" in the bank account of the business.
-
+2. The employee opening the mail stamps checks and money orders "For Deposit Only" in the bank account of the business.  
 [2. El empleado que abre el correo estampa los cheques y giros postales con "Solo para Depósito" en la cuenta bancaria de la empresa.]
 
-3. The remittance advices and their summary totals are delivered to the Accounting Department.
-
+3. The remittance advices and their summary totals are delivered to the Accounting Department.  
 [3. Los avisos de remesa y sus totales resumidos se entregan al Departamento de Contabilidad.]
 
-4. All cash and money orders are delivered to the Cashier's Department.
-
+4. All cash and money orders are delivered to the Cashier's Department.  
 [4. Todo el efectivo y los giros postales se entregan al Departamento de Caja.]
 
-5. The cashier prepares a bank deposit ticket.
-
+5. The cashier prepares a bank deposit ticket.  
 [5. El cajero prepara un comprobante de depósito bancario.]
 
-6. The cashier deposits the cash in the bank, or the cash is picked up by an armored car service, such as Garda World Security Corporation (GW).
-
+6. The cashier deposits the cash in the bank, or the cash is picked up by an armored car service, such as Garda World Security Corporation (GW).  
 [6. El cajero deposita el efectivo en el banco, o el efectivo es recogido por un servicio de carro blindado, como Garda World Security Corporation (GW).]
 
-7. An accounting clerk records the cash received and posts the amounts to the customer accounts.
-
+7. An accounting clerk records the cash received and posts the amounts to the customer accounts.  
 [7. Un auxiliar de contabilidad registra el efectivo recibido y registra los montos en las cuentas de los clientes.]
 
-8. When cash is deposited in the bank, the bank normally stamps a duplicate copy of the deposit ticket with the amount received. This bank receipt is returned to the Accounting Department, where it is compared to the total amount that should have been deposited. This control helps ensure that all cash is deposited and that no cash is lost or stolen on the way to the bank. Any shortages are thus promptly detected.
-
+8. When cash is deposited in the bank, the bank normally stamps a duplicate copy of the deposit ticket with the amount received. This bank receipt is returned to the Accounting Department, where it is compared to the total amount that should have been deposited. This control helps ensure that all cash is deposited and that no cash is lost or stolen on the way to the bank. Any shortages are thus promptly detected.  
 [8. Cuando se deposita efectivo en el banco, el banco normalmente sella una copia duplicada del comprobante de depósito con el monto recibido. Este recibo bancario se devuelve al Departamento de Contabilidad, donde se compara con el monto total que debería haberse depositado. Este control ayuda a garantizar que todo el efectivo se deposite y que no se pierda ni sea robado en el camino al banco. Cualquier faltante se detecta de inmediato.]
 
 Separating the duties of the Cashier's Department, which handles cash, and the Accounting Department, which records cash, is a control. If Accounting Department employees both handle and record cash, an employee could steal cash and change the accounting records to hide the theft.
@@ -887,14 +861,14 @@ On the due date, the company records the electronic transfer as a receipt of cas
 Companies encourage customers to use EFT for the following reasons:
 
 [Las empresas animan a los clientes a utilizar EFT por las siguientes razones:]
+- EFTs cost less than receiving cash payments through the mail.  
+  [Los EFT cuestan menos que recibir pagos en efectivo por correo.]
 
-- EFTs cost less than receiving cash payments through the mail.
-- EFTs enhance internal controls over cash, since the cash is received directly by the bank without any employees handling cash.
-- EFTs reduce late payments from customers and speed up the processing of cash receipts.
+- EFTs enhance internal controls over cash, since the cash is received directly by the bank without any employees handling cash.  
+  [Los EFT mejoran los controles internos sobre el efectivo, ya que el efectivo es recibido directamente por el banco sin que ningún empleado maneje el efectivo.]
 
-[Los EFT cuestan menos que recibir pagos en efectivo por correo.
-- Los EFT mejoran los controles internos sobre el efectivo, ya que el efectivo es recibido directamente por el banco sin que ningún empleado maneje el efectivo.
-- Los EFT reducen los pagos atrasados de los clientes y aceleran el procesamiento de los recibos de efectivo.]
+- EFTs reduce late payments from customers and speed up the processing of cash receipts.  
+  [Los EFT reducen los pagos atrasados de los clientes y aceleran el procesamiento de los recibos de efectivo.]
 
 ---
 
@@ -904,8 +878,72 @@ Companies encourage customers to use EFT for the following reasons:
 
 ---
 
-**Chapter 7: Internal Control and Cash: 7-3a Control of Cash Receipts**
+<h1 id="675689" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-3b Control of Cash Payments
+  </a>
+</h1>
 
-*Book Title: Financial and Managerial Accounting*
-*Printed By: Raydel Castro Guerra (raydel.castro001@mymdc.net)*
-*© 2023 Cengage Learning, Cengage Learning*
+
+The control of cash payments should provide reasonable assurance that:
+
+[El control de los pagos en efectivo debe proporcionar una seguridad razonable de que:]
+
+- Payments are made for only authorized transactions.  
+  [Los pagos se realicen solo para transacciones autorizadas.]
+
+- Cash is used effectively and efficiently. For example, controls should ensure that all available purchase discounts are taken.  
+  [El efectivo se utilice de manera efectiva y eficiente. Por ejemplo, los controles deben garantizar que se tomen todos los descuentos por compras disponibles.]
+
+In a small business, an owner/manager may authorize payments based on personal knowledge. In a large business, however, purchasing goods, inspecting the goods received, and verifying the invoices are usually performed by different employees. These duties must be coordinated to ensure that proper payments are made to creditors. One system used for this purpose is the voucher system.
+
+[En una pequeña empresa, el propietario/gerente puede autorizar los pagos basándose en su conocimiento personal. En una gran empresa, sin embargo, la compra de bienes, la inspección de los bienes recibidos y la verificación de las facturas suelen ser realizadas por diferentes empleados. Estas funciones deben coordinarse para garantizar que se realicen los pagos adecuados a los acreedores. Un sistema utilizado para este propósito es el sistema de vales.]
+
+---
+
+## Voucher System
+
+A **voucher system** (A set of procedures that uses vouchers for authorizing and recording liabilities and cash payments.) is a set of procedures for authorizing and recording liabilities and cash payments. A **voucher** (Any document that serves as proof of authority to pay cash or issue an electronic funds transfer, but for many businesses, is a special form used to record data about a liability and the details of its payment.) is any document that serves as proof of authority to pay cash or issue an electronic funds transfer. An invoice that has been approved for payment could be considered a voucher. In many businesses, however, a voucher is a special form used to record data about a liability and the details of its payment.
+
+[Un **sistema de vales** (un conjunto de procedimientos que utiliza vales para autorizar y registrar pasivos y pagos en efectivo) es un conjunto de procedimientos para autorizar y registrar pasivos y pagos en efectivo. Un **vale** (cualquier documento que sirva como prueba de autoridad para pagar efectivo o emitir una transferencia electrónica de fondos, pero para muchas empresas, es un formulario especial utilizado para registrar datos sobre un pasivo y los detalles de su pago) es cualquier documento que sirva como prueba de autoridad para pagar efectivo o emitir una transferencia electrónica de fondos. Una factura que ha sido aprobada para el pago podría considerarse un vale. En muchas empresas, sin embargo, un vale es un formulario especial utilizado para registrar datos sobre un pasivo y los detalles de su pago.]
+
+In a manual system, a voucher is normally prepared after all necessary supporting documents have been received. For the purchase of goods, a voucher is supported by the supplier's invoice, a purchase order, and a receiving report. After a voucher is prepared, it is submitted for approval. Once approved, the voucher is recorded in the accounts and filed by due date. Upon payment, the voucher is recorded in the same manner as the payment of an account payable.
+
+[En un sistema manual, un vale normalmente se prepara después de que se hayan recibido todos los documentos de respaldo necesarios. Para la compra de bienes, un vale está respaldado por la factura del proveedor, una orden de compra y un informe de recepción. Después de preparar un vale, se presenta para su aprobación. Una vez aprobado, el vale se registra en las cuentas y se archiva por fecha de vencimiento. Al momento del pago, el vale se registra de la misma manera que el pago de una cuenta por pagar.]
+
+In a computerized system, data from the supporting documents (such as purchase orders, receiving reports, and suppliers' invoices) are entered directly into computer files. At the due date, the checks are automatically generated and mailed to creditors. At that time, the voucher is electronically transferred to a paid voucher file.
+
+[En un sistema computarizado, los datos de los documentos de respaldo (como órdenes de compra, informes de recepción y facturas de proveedores) se ingresan directamente en archivos de computadora. En la fecha de vencimiento, los cheques se generan automáticamente y se envían por correo a los acreedores. En ese momento, el vale se transfiere electrónicamente a un archivo de vales pagados.]
+
+---
+
+## Cash Paid by EFT
+
+Cash can also be paid by electronic funds transfer (EFT) systems. For example, you can withdraw cash from your bank account using an ATM machine. Your withdrawal is a type of EFT transfer.
+
+[El efectivo también se puede pagar mediante sistemas de transferencia electrónica de fondos (EFT). Por ejemplo, puede retirar efectivo de su cuenta bancaria utilizando un cajero automático. Su retiro es un tipo de transferencia EFT.]
+
+Companies also use EFT transfers. For example, many companies pay their employees via EFT. Under such a system, employees authorize the deposit of their payroll checks directly into their checking accounts. Each pay period, the company transfers the employees' net pay to their checking accounts through the use of EFT. Many companies also use EFT systems to pay their suppliers and other vendors.
+
+[Las empresas también utilizan transferencias EFT. Por ejemplo, muchas empresas pagan a sus empleados a través de EFT. Bajo tal sistema, los empleados autorizan el depósito de sus cheques de nómina directamente en sus cuentas corrientes. Cada período de pago, la empresa transfiere el pago neto de los empleados a sus cuentas corrientes mediante el uso de EFT. Muchas empresas también utilizan sistemas EFT para pagar a sus proveedores y otros vendedores.]
+
+---
+
+**Link to eBay:** eBay purchased PayPal (PYPL), which was developed to enable individuals and businesses to safely send and receive payments online. Because of new online payment systems such as Apple Pay, eBay discontinued its PayPal operations in 2015 and established PayPal as a separate, publicly held company.
+
+[**Enlace a eBay:** eBay compró PayPal (PYPL), que fue desarrollado para permitir que individuos y empresas envíen y reciban pagos en línea de manera segura. Debido a nuevos sistemas de pago en línea como Apple Pay, eBay discontinuó sus operaciones de PayPal en 2015 y estableció PayPal como una empresa separada que cotiza en bolsa.]
+
+---
+
+## Business Insight
+
+### Mobile (Cell Phone) Banking
+
+[**Perspectiva de Negocio - Banca Móvil (Teléfono Celular)**]
+
+With apps such as Apple Pay and Venmo, banking using our cell (mobile) phones is rapidly emerging as a preferred method of making payments and deposits. With these apps, our cell phones become our wallets and our cash is electronic. We digitally transfer cash from our bank accounts or credit cards with a tap, and deposit checks by snapping an image with our phone's camera. Security is enhanced with fingerprint or Face ID login to the smartphone. In this way, only the phone's owner can open the "wallet." While electronic payments speed up transaction processing and produce fewer errors, many of the internal control features required for managing cash payments and deposits are eliminated by this technology, much like EFT transactions. Moreover, even credit card slips are replaced by electronic authorizations and transactions. Internal controls are still required to verify that prices are accurate and goods are properly delivered for authenticated purchases.
+
+[Con aplicaciones como Apple Pay y Venmo, la banca mediante nuestros teléfonos celulares (móviles) está emergiendo rápidamente como un método preferido para realizar pagos y depósitos. Con estas aplicaciones, nuestros teléfonos celulares se convierten en nuestras carteras y nuestro efectivo es electrónico. Transferimos digitalmente efectivo de nuestras cuentas bancarias o tarjetas de crédito con un toque, y depositamos cheques tomando una imagen con la cámara de nuestro teléfono. La seguridad se mejora con el inicio de sesión mediante huella digital o Face ID en el teléfono inteligente. De esta manera, solo el propietario del teléfono puede abrir la "cartera". Si bien los pagos electrónicos aceleran el procesamiento de transacciones y producen menos errores, muchas de las características de control interno requeridas para gestionar los pagos y depósitos en efectivo son eliminadas por esta tecnología, al igual que las transacciones EFT. Además, incluso los comprobantes de tarjetas de crédito son reemplazados por autorizaciones y transacciones electrónicas. Todavía se requieren controles internos para verificar que los precios sean precisos y que los bienes se entreguen adecuadamente para las compras autenticadas.]
+
+---
+
