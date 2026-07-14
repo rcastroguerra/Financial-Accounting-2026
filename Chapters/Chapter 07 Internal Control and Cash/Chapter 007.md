@@ -28,6 +28,12 @@
 
 ##### [Capitulo 7-3b Control of Cash Payments](#675689)
 
+##### [Capitulo 7-4 Bank Accounts](#008874)
+
+##### [Capitulo 7-4a Bank Statement](#294977)
+
+##### [Capitulo 7-4b Using the Bank Statement as a Control over Cash](#193437)
+
 <h1 id="697783" style="color:#E65100;">
   <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
     Chapter Introduction
@@ -947,3 +953,186 @@ With apps such as Apple Pay and Venmo, banking using our cell (mobile) phones is
 
 ---
 
+<h1 id="008874" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-4 Bank Accounts
+  </a>
+</h1>
+
+
+A major reason that companies use bank accounts is for internal control. Some of the control advantages of using bank accounts are as follows:
+
+[Una razón principal por la que las empresas utilizan cuentas bancarias es para el control interno. Algunas de las ventajas de control de utilizar cuentas bancarias son las siguientes:]
+
+- Bank accounts reduce the amount of cash on hand.  
+  [Las cuentas bancarias reducen la cantidad de efectivo disponible.]
+
+- Bank accounts provide an independent recording of cash transactions. Reconciling the balance of the cash account in the company's records with the cash balance according to the bank is an important control.  
+  [Las cuentas bancarias proporcionan un registro independiente de las transacciones en efectivo. Conciliar el saldo de la cuenta de efectivo en los registros de la empresa con el saldo de efectivo según el banco es un control importante.]
+
+- Use of bank accounts facilitates the transfer of funds using EFT systems.  
+  [El uso de cuentas bancarias facilita la transferencia de fondos mediante sistemas EFT.]
+
+**Objective 4** - Describe the nature of a bank account and its use in controlling cash.
+
+[**Objetivo 4** - Describir la naturaleza de una cuenta bancaria y su uso en el control del efectivo.]
+
+---
+
+<h1 id="294977" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-4a Bank Statement
+  </a>
+</h1>
+
+
+Banks maintain a record of all checking account transactions. A summary of all transactions, called a **bank statement** (A summary of all checking account transactions mailed to the depositor or made available online by the bank each month.), is mailed, usually each month, to the company (depositor) or made available online. The bank statement shows the beginning balance, additions, deductions, and the ending balance. A typical bank statement is shown in Exhibit 9 for Power Networking.
+
+[Los bancos mantienen un registro de todas las transacciones de cuentas corrientes. Un resumen de todas las transacciones, llamado **estado de cuenta bancario** (un resumen de todas las transacciones de cuentas corrientes enviado por correo al depositante o puesto a disposición en línea por el banco cada mes), se envía por correo, generalmente cada mes, a la empresa (depositante) o se pone a disposición en línea. El estado de cuenta bancario muestra el saldo inicial, las adiciones, las deducciones y el saldo final. Un estado de cuenta bancario típico se muestra en la Figura 9 para Power Networking.]
+
+---
+
+## Exhibit 9
+
+### Bank Statement
+
+[**Figura 9** - Estado de Cuenta Bancario]
+
+<!-- 📍 IMAGEN: Exhibit 9 - Bank Statement (coordenadas [131, 333, 842, 892]) -->
+
+![Exhibit 9 - Bank Statement](./img/011.png)
+
+Checks or copies of the checks listed in the order that they were paid by the bank may accompany the bank statement. If paid checks are returned, they are stamped "Paid," together with the date of payment. Many banks no longer return checks or check copies. Instead, the check payment information is available online.
+
+[Los cheques o copias de los cheques enumerados en el orden en que fueron pagados por el banco pueden acompañar al estado de cuenta bancario. Si se devuelven cheques pagados, están sellados "Pagado", junto con la fecha de pago. Muchos bancos ya no devuelven cheques o copias de cheques. En su lugar, la información de pago de cheques está disponible en línea.]
+
+The company's checking account balance in the bank records is a liability. Thus, in the bank's records, the company's account has a credit balance. Because the bank statement is prepared from the bank's point of view, a credit memo entry on the bank statement indicates an increase (a credit) to the company's account. Likewise, a debit memo entry on the bank statement indicates a decrease (a debit) in the company's account. This relationship is shown in Exhibit 10.
+
+[El saldo de la cuenta corriente de la empresa en los registros bancarios es un pasivo. Por lo tanto, en los registros del banco, la cuenta de la empresa tiene un saldo acreedor. Debido a que el estado de cuenta bancario se prepara desde el punto de vista del banco, una entrada de memo de crédito en el estado de cuenta bancario indica un aumento (un crédito) en la cuenta de la empresa. Del mismo modo, una entrada de memo de débito en el estado de cuenta bancario indica una disminución (un débito) en la cuenta de la empresa. Esta relación se muestra en la Figura 10.]
+
+---
+
+## Exhibit 10
+
+### Checking Account: Company and Bank Perspectives
+
+[**Figura 10** - Cuenta Corriente: Perspectivas de la Empresa y del Banco]
+
+<!-- 📍 IMAGEN: Exhibit 10 - Checking Account: Company and Bank Perspectives (coordenadas [129, 190, 840, 420]) -->
+
+![Exhibit 10 - Checking Account: Company and Bank Perspectives](./img/012.png)
+
+A bank makes credit entries (issues credit memos) for the following:
+
+[Un banco realiza asientos de crédito (emite memos de crédito) por lo siguiente:]
+
+- Deposits made by electronic funds transfer (EFT)  
+  [Depósitos realizados mediante transferencia electrónica de fondos (EFT)]
+
+- Collections of notes receivable for the company  
+  [Cobros de notas por cobrar para la empresa]
+
+- Proceeds for a loan made to the company by the bank  
+  [Productos de un préstamo otorgado a la empresa por el banco]
+
+- Interest earned on the company's account  
+  [Intereses ganados en la cuenta de la empresa]
+
+- Correction (if any) of bank errors  
+  [Corrección (si corresponde) de errores bancarios]
+
+A bank makes debit entries (issues debit memos) for the following:
+
+[Un banco realiza asientos de débito (emite memos de débito) por lo siguiente:]
+
+- Payments made by electronic funds transfer (EFT)  
+  [Pagos realizados mediante transferencia electrónica de fondos (EFT)]
+
+- Service charges  
+  [Cargos por servicios]
+
+- Customer checks returned for not sufficient funds  
+  [Cheques de clientes devueltos por fondos insuficientes]
+
+- Correction (if any) of bank errors  
+  [Corrección (si corresponde) de errores bancarios]
+
+Customers' checks returned for not sufficient funds, called NSF checks, are customer checks that were initially deposited but were not paid by the customer's bank. Because the company's bank credited the customer's check to the company's account when it was deposited, the bank debits the company's account (issues a debit memo) when the check is returned without payment.
+
+[Los cheques de clientes devueltos por fondos insuficientes, llamados cheques NSF, son cheques de clientes que se depositaron inicialmente pero que no fueron pagados por el banco del cliente. Debido a que el banco de la empresa acreditó el cheque del cliente en la cuenta de la empresa cuando se depositó, el banco debita la cuenta de la empresa (emite un memo de débito) cuando el cheque se devuelve sin pago.]
+
+The reason for a credit or debit memo entry is indicated on the bank statement. Exhibit 9 identifies the following types of credit and debit memo entries:
+
+[La razón de una entrada de memo de crédito o débito se indica en el estado de cuenta bancario. La Figura 9 identifica los siguientes tipos de entradas de memo de crédito y débito:]
+
+- EC: Error correction to correct bank error  
+  [EC: Corrección de error para corregir error bancario]
+
+- NSF: Not sufficient funds check  
+  [NSF: Cheque por fondos insuficientes]
+
+- SC: Service charge  
+  [SC: Cargo por servicio]
+
+- ACH: Automated clearing house entry for electronic funds transfer  
+  [ACH: Entrada de cámara de compensación automatizada para transferencia electrónica de fondos]
+
+- MS: Miscellaneous item such as collection of a note receivable on behalf of the company or receipt of a loan by the company from the bank  
+  [MS: Artículo diverso como cobro de una nota por cobrar en nombre de la empresa o recepción de un préstamo por parte de la empresa del banco]
+
+The preceding list includes the notation "ACH" for electronic funds transfers. ACH is a network for clearing electronic funds transfers among individuals, companies, and banks. Because electronic funds transfers may be either deposits or payments, ACH entries may indicate either a debit or credit entry to the company's account. Likewise, entries to correct bank errors and miscellaneous items may indicate a debit or credit entry to the company's account.
+
+[La lista anterior incluye la notación "ACH" para transferencias electrónicas de fondos. ACH es una red para la compensación de transferencias electrónicas de fondos entre individuos, empresas y bancos. Debido a que las transferencias electrónicas de fondos pueden ser depósitos o pagos, las entradas ACH pueden indicar una entrada de débito o crédito en la cuenta de la empresa. Del mismo modo, las entradas para corregir errores bancarios y artículos diversos pueden indicar una entrada de débito o crédito en la cuenta de la empresa.]
+
+---
+
+
+<h1 id="193437" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-4b Using the Bank Statement as a Control over Cash
+  </a>
+</h1>
+
+The bank statement is a primary control that a company uses over cash. A company uses the bank's statement by comparing the company's record of cash transactions to those recorded by the bank.
+
+[El estado de cuenta bancario es un control principal que una empresa utiliza sobre el efectivo. Una empresa utiliza el estado de cuenta del banco comparando el registro de transacciones en efectivo de la empresa con los registrados por el banco.]
+
+The cash balance shown by a bank statement is usually different from the company's cash balance, as shown in Exhibit 11 for Power Networking.
+
+[El saldo de efectivo que muestra un estado de cuenta bancario suele ser diferente del saldo de efectivo de la empresa, como se muestra en la Figura 11 para Power Networking.]
+
+---
+
+## Exhibit 11
+
+### Power Networking's Bank Statement and Records
+
+[**Figura 11** - Estado de Cuenta Bancario y Registros de Power Networking]
+
+<!-- 📍 IMAGEN: Exhibit 11 - Power Networking's Bank Statement and Records (coordenadas [161, 292, 824, 589]) -->
+
+![Exhibit 11 - Power Networking's Bank Statement and Records](./img/013.png)
+
+Differences between the company balance and bank balance may arise because of a delay by either the company or bank in recording transactions. For example, there is normally a time lag of one or more days between the date a check is written and the date that it is paid by the bank. Likewise, there is normally a time lag between when the company mails a deposit to the bank (or uses the night depository) and when the bank receives and records the deposit.
+
+[Las diferencias entre el saldo de la empresa y el saldo bancario pueden surgir debido a un retraso de la empresa o del banco en el registro de las transacciones. Por ejemplo, normalmente hay un desfase de uno o más días entre la fecha en que se escribe un cheque y la fecha en que el banco lo paga. Del mismo modo, normalmente hay un desfase entre el momento en que la empresa envía un depósito al banco (o utiliza el depósito nocturno) y el momento en que el banco recibe y registra el depósito.]
+
+---
+
+## Business Insight
+
+### Bank Error in Your Favor (or Maybe Not)
+
+[**Perspectiva de Negocio - Error Bancario a su Favor (o Quizás No)**]
+
+A New Zealand couple expected a $100,000 deposit into their checking account, but discovered the bank accidentally deposited $10,000,000. The couple immediately transferred the $10,000,000 to another account and left the country, hoping to cash in on this supposed windfall. Not surprisingly, they were found, arrested, and prosecuted for fraud. So, if you find a bank error in your favor, it really isn't like getting a Monopoly card. You cannot keep the cash, but must return it to the bank. Banks typically have a long time to correct such errors, and if it can be reasonably determined that you knew of the error, but failed to report it, you could be prosecuted for bank fraud.
+
+[Una pareja de Nueva Zelanda esperaba un depósito de $100,000 en su cuenta corriente, pero descubrió que el banco había depositado accidentalmente $10,000,000. La pareja transfirió inmediatamente los $10,000,000 a otra cuenta y abandonó el país, esperando aprovechar esta supuesta ganancia inesperada. Como era de esperar, fueron encontrados, arrestados y procesados por fraude. Por lo tanto, si encuentra un error bancario a su favor, realmente no es como obtener una tarjeta de Monopoly. No puede quedarse con el efectivo, sino que debe devolverlo al banco. Los bancos suelen tener mucho tiempo para corregir tales errores, y si se puede determinar razonablemente que usted sabía del error, pero no lo informó, podría ser procesado por fraude bancario.]
+
+*Source: Nickel, "Bank Error in Your Favor?," Forbes.com, May 2012.*
+
+Differences may also arise because the bank has debited or credited the company's account for transactions that the company will not know about until the bank statement is received. Finally, differences may arise from errors made by either the company or the bank. For example, the company may incorrectly post to Cash a check written for $4,500 as $450. Likewise, a bank may incorrectly record the amount of a check.
+
+[Las diferencias también pueden surgir porque el banco ha debitado o acreditado la cuenta de la empresa por transacciones que la empresa no conocerá hasta que reciba el estado de cuenta bancario. Finalmente, las diferencias pueden surgir de errores cometidos por la empresa o por el banco. Por ejemplo, la empresa puede registrar incorrectamente en Efectivo un cheque emitido por $4,500 como $450. Del mismo modo, un banco puede registrar incorrectamente el monto de un cheque.]
+
+---
