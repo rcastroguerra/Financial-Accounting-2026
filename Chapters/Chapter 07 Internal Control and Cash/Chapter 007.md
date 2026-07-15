@@ -34,6 +34,12 @@
 
 ##### [Capitulo 7-4b Using the Bank Statement as a Control over Cash](#193437)
 
+##### [Capitulo 7-5 Bank Reconciliation](#950588)
+
+##### [Capitulo 7-6 Special-Purpose Cash Funds](#753201)
+
+##### [Capitulo 7-7 Financial Statement Reporting of Cash](#783735)
+
 <h1 id="697783" style="color:#E65100;">
   <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
     Chapter Introduction
@@ -1136,3 +1142,728 @@ Differences may also arise because the bank has debited or credited the company'
 [Las diferencias también pueden surgir porque el banco ha debitado o acreditado la cuenta de la empresa por transacciones que la empresa no conocerá hasta que reciba el estado de cuenta bancario. Finalmente, las diferencias pueden surgir de errores cometidos por la empresa o por el banco. Por ejemplo, la empresa puede registrar incorrectamente en Efectivo un cheque emitido por $4,500 como $450. Del mismo modo, un banco puede registrar incorrectamente el monto de un cheque.]
 
 ---
+
+
+<h1 id="950588" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-5 Bank Reconciliation
+  </a>
+</h1>
+
+A **bank reconciliation** (The analysis that details the items responsible for the difference between the cash balance reported on the bank statement and the balance of the cash account in the ledger.) is an analysis of the items and amounts creating the difference between the cash balance reported on the bank statement and the balance of the cash account in the ledger. The adjusted cash balance determined in the bank reconciliation is reported on the balance sheet.
+
+[Una **conciliación bancaria** (el análisis que detalla los elementos y montos responsables de la diferencia entre el saldo de efectivo reportado en el estado de cuenta bancario y el saldo de la cuenta de efectivo en el libro mayor) es un análisis de los elementos y montos que crean la diferencia entre el saldo de efectivo reportado en el estado de cuenta bancario y el saldo de la cuenta de efectivo en el libro mayor. El saldo de efectivo ajustado determinado en la conciliación bancaria se reporta en el balance general.]
+
+**Objective 5** - Describe and illustrate the use of a bank reconciliation in controlling cash.
+
+[**Objetivo 5** - Describir e ilustrar el uso de una conciliación bancaria en el control del efectivo.]
+
+A bank reconciliation is usually divided into two sections as follows:
+
+[Una conciliación bancaria generalmente se divide en dos secciones de la siguiente manera:]
+
+1. The bank section begins with the cash balance according to the bank statement and ends with the adjusted balance.  
+   [La sección del banco comienza con el saldo de efectivo según el estado de cuenta bancario y termina con el saldo ajustado.]
+
+2. The company section begins with the cash balance according to the company's records and ends with the adjusted balance.  
+   [La sección de la empresa comienza con el saldo de efectivo según los registros de la empresa y termina con el saldo ajustado.]
+
+The adjusted balance from bank and company sections must be equal. The format of the bank reconciliation follows:
+
+[El saldo ajustado de las secciones del banco y de la empresa debe ser igual. El formato de la conciliación bancaria es el siguiente:]
+
+<img src="./img/014.png" width="800"></img>
+
+| Bank Section | Amount |
+|---|---|
+| Cash balance according to bank | XXX |
+| Add: Deposits not recorded by bank | XXX |
+| Deduct: Outstanding checks | (XXX) |
+| **Adjusted balance** | **XXX** |
+
+| Company Section | Amount |
+|---|---|
+| Cash balance according to company | XXX |
+| Add: Credit memos not recorded | XXX |
+| Deduct: Debit memos not recorded | (XXX) |
+| **Adjusted balance** | **XXX** |
+
+
+A bank reconciliation is prepared using steps illustrated in Exhibit 12.
+
+[Una conciliación bancaria se prepara utilizando los pasos ilustrados en la Figura 12.]
+
+---
+
+## Exhibit 12
+
+### How to Prepare a Bank Reconciliation
+
+[**Figura 12** - Cómo Preparar una Conciliación Bancaria]
+
+<!-- 📍 IMAGEN: Exhibit 12 - How to Prepare a Bank Reconciliation (páginas 2-3) -->
+
+![Exhibit 12 - How to Prepare a Bank Reconciliation](./img/015.png)
+
+---
+
+### Bank Section of Reconciliation
+
+[**Sección del Banco de la Conciliación**]
+
+**Step 1.** Enter the Cash balance according to bank from the ending cash balance according to the bank statement.  
+[**Paso 1.** Ingrese el saldo de Efectivo según el banco a partir del saldo de efectivo final según el estado de cuenta bancario.]
+
+**Step 2.** Add deposits not recorded by the bank.  
+[**Paso 2.** Sume los depósitos no registrados por el banco.]
+
+Identify deposits not recorded by the bank by comparing each deposit listed on the bank statement with unrecorded deposits appearing in the preceding period's reconciliation and with the current period's deposits.
+
+[Identifique los depósitos no registrados por el banco comparando cada depósito enumerado en el estado de cuenta bancario con los depósitos no registrados que aparecen en la conciliación del período anterior y con los depósitos del período actual.]
+
+Examples: Deposits in transit at the end of the period.  
+[Ejemplos: Depósitos en tránsito al final del período.]
+
+**Step 3.** Deduct outstanding checks that have not been paid by the bank.  
+[**Paso 3.** Deduzca los cheques pendientes que no han sido pagados por el banco.]
+
+Identify outstanding checks by comparing paid checks with outstanding checks appearing on the preceding period's reconciliation and with recorded checks.
+
+[Identifique los cheques pendientes comparando los cheques pagados con los cheques pendientes que aparecen en la conciliación del período anterior y con los cheques registrados.]
+
+Examples: Outstanding checks at the end of the period.  
+[Ejemplos: Cheques pendientes al final del período.]
+
+**Step 4.** Determine the Adjusted balance by adding Step 2 and deducting Step 3.  
+[**Paso 4.** Determine el saldo ajustado sumando el Paso 2 y deduciendo el Paso 3.]
+
+---
+
+### Company Section of Reconciliation
+
+[**Sección de la Empresa de la Conciliación**]
+
+**Step 5.** Enter the Cash balance according to company from the ending cash balance according to the company's records.  
+[**Paso 5.** Ingrese el saldo de Efectivo según la empresa a partir del saldo de efectivo final según los registros de la empresa.]
+
+**Step 6.** Add credit memos that have not been recorded.  
+[**Paso 6.** Sume los memos de crédito que no han sido registrados.]
+
+Identify the bank credit memos that have not been recorded by comparing the bank statement credit memos to entries in the journal.
+
+[Identifique los memos de crédito bancarios que no han sido registrados comparando los memos de crédito del estado de cuenta bancario con los asientos en el diario.]
+
+Examples: A note receivable and interest that the bank has collected for the company.  
+[Ejemplos: Una nota por cobrar e intereses que el banco ha cobrado para la empresa.]
+
+**Step 7.** Deduct debit memos that have not been recorded.  
+[**Paso 7.** Deduzca los memos de débito que no han sido registrados.]
+
+Identify the bank debit memos that have not been recorded by comparing the bank statement debit memos to entries in the journal.
+
+[Identifique los memos de débito bancarios que no han sido registrados comparando los memos de débito del estado de cuenta bancario con los asientos en el diario.]
+
+Examples: Customers' not sufficient funds (NSF) checks; bank service charges.  
+[Ejemplos: Cheques de clientes por fondos insuficientes (NSF); cargos por servicios bancarios.]
+
+**Step 8.** Determine the Adjusted balance by adding Step 6 and deducting Step 7.  
+[**Paso 8.** Determine el saldo ajustado sumando el Paso 6 y deduciendo el Paso 7.]
+
+---
+
+### Verify That Adjusted Balances Are Equal
+
+[**Verificar que los Saldos Ajustados Sean Iguales**]
+
+**Step 9.** Verify that the adjusted balances determined in Steps 4 and 8 are equal.  
+[**Paso 9.** Verifique que los saldos ajustados determinados en los Pasos 4 y 8 sean iguales.]
+
+The adjusted balances in the bank and company sections of the reconciliation must be equal. If the balances are not equal, an item has been overlooked and must be found.
+
+[Los saldos ajustados en las secciones del banco y de la empresa de la conciliación deben ser iguales. Si los saldos no son iguales, se ha pasado por alto un elemento y debe encontrarse.]
+
+Sometimes, the adjusted balances are not equal because either the company or the bank has made an error. In such cases, the error is often discovered by comparing the amount of each item (deposit and check) on the bank statement with that in the company's records.
+
+[A veces, los saldos ajustados no son iguales porque la empresa o el banco han cometido un error. En tales casos, el error a menudo se descubre comparando el monto de cada elemento (depósito y cheque) en el estado de cuenta bancario con el de los registros de la empresa.]
+
+Any bank or company errors discovered should be added to or deducted from the bank or company section of the reconciliation, depending on the nature of the error. For example, assume that the bank incorrectly recorded a company check for $50 as $500. This bank error of $450 ($500 – $50) would be added to the bank balance in the bank section of the reconciliation. In addition, the bank would be notified of the error so that it could be corrected. On the other hand, assume that the company recorded a deposit of $1,200 as $2,100. This company error of $900 ($2,100 – $1,200) would be deducted from the cash balance in the company section of the bank reconciliation. The company would correct the error using a journal entry.
+
+[Cualquier error bancario o de la empresa descubierto debe agregarse o deducirse de la sección del banco o de la empresa de la conciliación, según la naturaleza del error. Por ejemplo, suponga que el banco registró incorrectamente un cheque de la empresa por $50 como $500. Este error bancario de $450 ($500 – $50) se agregaría al saldo bancario en la sección del banco de la conciliación. Además, se notificaría al banco del error para que pudiera corregirse. Por otro lado, suponga que la empresa registró un depósito de $1,200 como $2,100. Este error de la empresa de $900 ($2,100 – $1,200) se deduciría del saldo de efectivo en la sección de la empresa de la conciliación bancaria. La empresa corregiría el error mediante un asiento de diario.]
+
+---
+
+### Illustration - Power Networking
+
+To illustrate, the bank statement for Power Networking in Exhibit 9 is used. This bank statement shows a balance of $3,359.78 as of July 31. The cash balance in Power Networking's ledger on the same date is $2,549.99. Using the preceding steps, the following reconciling items were identified:
+
+[Para ilustrar, se utiliza el estado de cuenta bancario de Power Networking en la Figura 9. Este estado de cuenta muestra un saldo de $3,359.78 al 31 de julio. El saldo de efectivo en el libro mayor de Power Networking en la misma fecha es de $2,549.99. Utilizando los pasos anteriores, se identificaron los siguientes elementos de conciliación:]
+
+- **Step 2.** Deposit of July 31, not recorded on bank statement: $816.20  
+  [**Paso 2.** Depósito del 31 de julio, no registrado en el estado de cuenta bancario: $816.20]
+
+- **Step 3.** Outstanding checks:  
+  [**Paso 3.** Cheques pendientes:]
+
+| Outstanding Checks | Amount |
+|---|---|
+| Check No. 812 | $1,061.00 |
+| Check No. 878 | 435.39 |
+| Check No. 883 | 48.60 |
+| **Total** | **$1,544.99** |
+
+- **Step 6.** Note receivable of $400 plus interest of $8 collected by bank not recorded in the journal as indicated by a credit memo of $408.  
+  [**Paso 6.** Nota por cobrar de $400 más intereses de $8 cobrados por el banco no registrados en el diario según lo indicado por un memo de crédito de $408.]
+
+- **Step 7.** Check from customer (Thomas Ivey) for $300 returned by bank because of insufficient funds (NSF) as indicated by a debit memo of $300.00.  
+  [**Paso 7.** Cheque del cliente (Thomas Ivey) por $300 devuelto por el banco por fondos insuficientes (NSF) según lo indicado por un memo de débito de $300.00.]
+
+- **Step 7.** Bank service charges of $18, not recorded in the journal as indicated by a debit memo of $18.00.  
+  [**Paso 7.** Cargos por servicios bancarios de $18, no registrados en el diario según lo indicado por un memo de débito de $18.00.]
+
+In addition, an error of $9 was discovered. This error occurred when Check No. 879 for $732.26 to Taylor Co., on account, was recorded in the company's journal as $723.26.
+
+[Además, se descubrió un error de $9. Este error ocurrió cuando el Cheque No. 879 por $732.26 a Taylor Co., a cuenta, se registró en el diario de la empresa como $723.26.]
+
+The bank reconciliation, based on the Exhibit 9 bank statement and the preceding reconciling items, is shown in Exhibit 13 for Power Networking.
+
+[La conciliación bancaria, basada en el estado de cuenta bancario de la Figura 9 y los elementos de conciliación anteriores, se muestra en la Figura 13 para Power Networking.]
+
+---
+
+## Exhibit 13
+
+### Bank Reconciliation for Power Networking
+
+[**Figura 13** - Conciliación Bancaria para Power Networking]
+
+<!-- 📍 IMAGEN: Exhibit 13 - Bank Reconciliation for Power Networking (coordenadas [88, 39, 843, 330]) -->
+
+![Exhibit 13 - Bank Reconciliation for Power Networking](./img/016.png)
+
+<table><tbody>
+  <tr>
+    <td>Sección</td>
+    <td colspan="4">Concepto</td>
+    <td>Amoung ($)</td>
+    <td>Total ($)</td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td colspan="3">Cash balance according to bank statement</td>
+    <td></td>
+    <td>3,359.78</td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td colspan="3">Add: Deposit in transit on July 31</td>
+    <td></td>
+    <td>816.20</td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Subtotal</td>
+    <td></td>
+    <td>4,175.98</td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td colspan="3">Deduct: Outstanding Check No. 812</td>
+    <td>1,061.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Deduct: Outstanding Check No. 878</td>
+    <td>435.39</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Deduct: Outstanding Check No. 883</td>
+    <td>48.60</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Total deductions</td>
+    <td></td>
+    <td>(1,544.99)</td>
+  </tr>
+  <tr>
+    <td>Bank Statement</td>
+    <td></td>
+    <td colspan="3">Adjusted balance</td>
+    <td></td>
+    <td>2,630.99</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td colspan="3">Cash balance according to Power Networking</td>
+    <td></td>
+    <td>2,549.99</td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td colspan="3">Add: Note and interest collected by bank</td>
+    <td></td>
+    <td>408.00</td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Subtotal</td>
+    <td></td>
+    <td>2,957.99</td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td colspan="3">Deduct: Check returned because of insufficient funds</td>
+    <td>300.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Deduct: Bank service charge</td>
+    <td>18.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td></td>
+    <td colspan="2">Deduct: Error in recording Check No. 879</td>
+    <td>9.00</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Total deductions</td>
+    <td></td>
+    <td>(327.00)</td>
+  </tr>
+  <tr>
+    <td>Power Networking Books</td>
+    <td></td>
+    <td colspan="3">Adjusted balance</td>
+    <td></td>
+    <td>2,630.99</td>
+  </tr>
+</tbody></table>
+
+---
+
+### Journal Entries for Power Networking
+
+The company's records do not need to be updated for any items in the bank section of the reconciliation. This section begins with the cash balance according to the bank statement. However, the bank should be notified of any errors that need to be corrected.
+
+[Los registros de la empresa no necesitan actualizarse para ningún elemento en la sección del banco de la conciliación. Esta sección comienza con el saldo de efectivo según el estado de cuenta bancario. Sin embargo, se debe notificar al banco de cualquier error que necesite ser corregido.]
+
+The company's records must be updated for any items in the company section of the bank reconciliation. The company's records are updated using journal entries. For example, journal entries should be made for any unrecorded bank memos and any company errors.
+
+[Los registros de la empresa deben actualizarse para cualquier elemento en la sección de la empresa de la conciliación bancaria. Los registros de la empresa se actualizan mediante asientos de diario. Por ejemplo, se deben hacer asientos de diario para cualquier memo bancario no registrado y cualquier error de la empresa.]
+
+The journal entries for Power Networking, based on the bank reconciliation shown in Exhibit 13, are as follows:
+
+[Los asientos de diario para Power Networking, basados en la conciliación bancaria que se muestra en la Figura 13, son los siguientes:]
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| July 31 | Cash | 408 | |
+| | Notes Receivable | | 400 |
+| | Interest Revenue | | 8 |
+| | *Record collection of note receivable by bank.* | | |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="2">Stockholders'Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">cash</td>
+    <td colspan="2">Notes Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Interest Revenue</td>
+  </tr>
+  <tr>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td>408</td>
+    <td></td>
+    <td></td>
+    <td>400</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>8</td>
+  </tr>
+</tbody>
+</table>
+
+| Date | Account | Debit | Credit |
+|---|---|---|---|
+| July 31 | Accounts Receivable—Thomas Ivey | 300 |  |
+|  | Miscellaneous Expense | 18 |  |
+|  | Accounts Payable—Taylor Co. | 9 |  |
+|  | Cash |  | 327 |
+|  | *Record error in recording Check No. 879.* |  |  |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="2">Stockholders'Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">cash</td>
+    <td colspan="2">Accounts Receivable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Accounts Payable</td>
+    <td rowspan="3"></td>
+    <td colspan="2">Miscellaneous Expense</td>
+  </tr>
+  <tr>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>327</td>
+    <td>300</td>
+    <td></td>
+    <td>9</td>
+    <td></td>
+    <td>18</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
+---
+
+## Check Up Corner 7-2
+
+### Bank Reconciliation
+
+[**Esquina de Verificación 7-2 - Conciliación Bancaria**]
+
+The following data related to the bank account of Apex Company were gathered on December 31, 20Y9, the end of the fiscal year:
+
+[Los siguientes datos relacionados con la cuenta bancaria de Apex Company se recopilaron el 31 de diciembre de 20Y9, al final del año fiscal:]
+
+| | Amount |
+|---|---|
+| Balance per bank account | $14,500 |
+| Balance per company records | 13,875 |
+
+The following additional information was provided to help reconcile the company's bank account:
+
+[Se proporcionó la siguiente información adicional para ayudar a conciliar la cuenta bancaria de la empresa:]
+
+| | Amount |
+|---|---|
+| Bank service charges | $75 |
+| Deposit in transit | 3,750 |
+| Check from Dave Hilman returned for insufficient funds (NSF) | 800 |
+| Outstanding checks | 5,250 |
+
+Prepare a bank reconciliation for Apex Company on December 31, 20Y9.
+
+[Prepare una conciliación bancaria para Apex Company el 31 de diciembre de 20Y9.]
+
+---
+
+### Solution - Check Up Corner 7-2
+
+<img src="./img/017.png" width="800"></img>
+
+[**Solución - Esquina de Verificación 7-2**]
+
+#### Apex Company
+#### Bank Reconciliation
+#### December 31, 20Y9
+
+| Bank Section | Amount | Total |
+|---|---|---|
+| Cash balance according to bank statement |  | $14,500 |
+| Add: Deposit in transit |  | 3,750 |
+| Deduct: Outstanding checks |  | (5,250) |
+| **Adjusted balance** |  | **$13,000** |
+
+| Company Section | Amount | Total |
+|---|---|---|
+| Cash balance according to company records |  | $13,875 |
+| Deduct: Check returned because of insufficient funds (NSF) | (800) |  |
+| Bank service charges | (75) |  |
+| Total deductions |  | (875) |
+| **Adjusted balance** |  | **$13,000** |
+
+
+
+---
+
+### Journal Entries for Apex Company
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Accounts Receivable—Dave Hilman | 800 | |
+| | Cash | | 800 |
+| | *Record NSF check returned by bank.* | | |
+| Dec. 31 | Miscellaneous Expense | 75 | |
+| | Cash | | 75 |
+| | *Record bank service charges.* | | |
+
+---
+
+After the preceding journal entries are recorded and posted, the cash account will have a debit balance of $2,630.99. This cash balance agrees with the adjusted balance shown on the bank reconciliation. This is the amount of cash on July 31 and is the amount that is reported on Power Networking's July 31 balance sheet.
+
+[Después de que se registran y traspasan los asientos de diario anteriores, la cuenta de efectivo tendrá un saldo deudor de $2,630.99. Este saldo de efectivo coincide con el saldo ajustado que se muestra en la conciliación bancaria. Esta es la cantidad de efectivo al 31 de julio y es la cantidad que se reporta en el balance general de Power Networking del 31 de julio.]
+
+
+Businesses may reconcile their bank accounts in a slightly different format from that shown in Exhibit 13. Regardless, the objective is to control cash by reconciling the company's records with the bank statement. In doing so, any errors or misuse of cash may be detected.
+
+[Las empresas pueden conciliar sus cuentas bancarias en un formato ligeramente diferente al que se muestra en la Figura 13. Independientemente, el objetivo es controlar el efectivo conciliando los registros de la empresa con el estado de cuenta bancario. Al hacerlo, se pueden detectar errores o mal uso del efectivo.]
+
+To enhance internal control, the bank reconciliation should be prepared by an employee who does not take part in or record cash transactions. Otherwise, mistakes may occur, and it is more likely that cash will be stolen or misapplied. For example, an employee who handles cash and also reconciles the bank statement could steal a cash deposit, omit the deposit from the accounts, and omit it from the reconciliation.
+
+[Para mejorar el control interno, la conciliación bancaria debe ser preparada por un empleado que no participe ni registre transacciones en efectivo. De lo contrario, pueden ocurrir errores y es más probable que el efectivo sea robado o mal aplicado. Por ejemplo, un empleado que maneja efectivo y también concilia el estado de cuenta bancario podría robar un depósito en efectivo, omitir el depósito de las cuentas y omitirlo de la conciliación.]
+
+Bank reconciliations are also an important part of computerized systems where deposits and checks are stored in electronic files and records. Some systems use computer software to determine the difference between the bank statement and company cash balances. The software then adjusts for deposits in transit and outstanding checks. Any remaining differences are reported for further analysis.
+
+[Las conciliaciones bancarias también son una parte importante de los sistemas computarizados donde los depósitos y cheques se almacenan en archivos y registros electrónicos. Algunos sistemas utilizan software informático para determinar la diferencia entre el estado de cuenta bancario y los saldos de efectivo de la empresa. El software luego ajusta los depósitos en tránsito y los cheques pendientes. Cualquier diferencia restante se reporta para un análisis adicional.]
+
+---
+
+
+<h1 id="753201" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-6 Special-Purpose Cash Funds
+  </a>
+</h1>
+
+A company often has to pay small amounts for such items as postage, office supplies, or minor repairs. Although small, such payments may occur often enough to total a significant amount. Thus, it is desirable to control such payments. However, writing a check for each small payment is not practical. Instead, a special cash fund, called a **petty cash fund** (A special cash fund to pay relatively small amounts.), is used.
+
+[Una empresa a menudo tiene que pagar pequeñas cantidades por artículos como sellos postales, suministros de oficina o reparaciones menores. Aunque son pequeñas, tales pagos pueden ocurrir con la frecuencia suficiente para totalizar una cantidad significativa. Por lo tanto, es deseable controlar tales pagos. Sin embargo, escribir un cheque para cada pago pequeño no es práctico. En su lugar, se utiliza un fondo de efectivo especial, llamado **fondo de caja menor** (un fondo de efectivo especial para pagar cantidades relativamente pequeñas).]
+
+**Objective 6** - Describe the accounting for special-purpose cash funds.
+
+[**Objetivo 6** - Describir la contabilidad para los fondos de efectivo de propósito especial.]
+
+---
+
+## Petty Cash Fund
+
+A petty cash fund is established by estimating the amount of payments needed from the fund during a period, such as a week or a month. A check is then written and cashed for this amount. The money obtained from cashing the check is then given to an employee, called the petty cash custodian. The petty cash custodian disburses monies from the fund as needed. For control purposes, the company may place restrictions on the maximum amount and the types of payments that can be made from the fund. Each time money is paid from petty cash, the custodian records the details on a petty cash receipts form.
+
+[Un fondo de caja menor se establece estimando la cantidad de pagos necesarios del fondo durante un período, como una semana o un mes. Luego se escribe y cobra un cheque por esta cantidad. El dinero obtenido del cobro del cheque se entrega a un empleado, llamado custodio de caja menor. El custodio de caja menor desembolsa dinero del fondo según sea necesario. Para fines de control, la empresa puede establecer restricciones sobre el monto máximo y los tipos de pagos que se pueden realizar desde el fondo. Cada vez que se paga dinero de la caja menor, el custodio registra los detalles en un formulario de recibos de caja menor.]
+
+The petty cash fund is normally replenished at periodic intervals, when it is depleted, or when it reaches a minimum amount. When a petty cash fund is replenished, the accounts debited are determined by summarizing the petty cash receipts. A check is then written for this amount, payable to Petty Cash.
+
+[El fondo de caja menor normalmente se reabastece a intervalos periódicos, cuando se agota o cuando alcanza una cantidad mínima. Cuando se reabastece un fondo de caja menor, las cuentas debitadas se determinan resumiendo los recibos de caja menor. Luego se escribe un cheque por esta cantidad, pagadero a Caja Menor.]
+
+To illustrate, assume that a petty cash fund of $500 is established on August 1. The entry to journalize this transaction is as follows:
+
+[Para ilustrar, suponga que se establece un fondo de caja menor de $500 el 1 de agosto. El asiento para registrar esta transacción en el diario es el siguiente:]
+
+<img src="./img/018.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Aug. 1 | Petty Cash | 500 | |
+| | Cash | | 500 |
+| | *Established petty cash fund.* | | |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="2">Stockholders'Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">cash</td>
+    <td colspan="2">Petty Cash</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>500</td>
+    <td>500</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+The only time Petty Cash is debited is when the fund is initially established, as shown in the preceding entry, or when the fund is being increased. The only time Petty Cash is credited is when the fund is being decreased or eliminated.
+
+[La única vez que se debita Caja Menor es cuando el fondo se establece inicialmente, como se muestra en el asiento anterior, o cuando se aumenta el fondo. La única vez que se acredita Caja Menor es cuando se disminuye o se elimina el fondo.]
+
+At the end of August, there is $30 of petty cash on hand and petty cash receipts for the following items:
+
+[Al final de agosto, hay $30 de efectivo de caja menor disponible y recibos de caja menor para los siguientes elementos:]
+
+| Item | Amount |
+|---|---|
+| Office supplies | $380 |
+| Postage (debit Office Supplies) | 22 |
+| Store supplies | 35 |
+| Miscellaneous administrative expense | 30 |
+| **Total** | **$467** |
+
+If the amount to replenish the petty cash fund does not equal the total of the petty cash receipts, the difference is recorded as Cash Short and Over. In the preceding example, $470 ($500 less cash on hand of $30) is needed to replenish the petty cash fund. Since the total of the petty cash receipts is $467, Cash Short and Over is debited for $3, as shown in the following entry to replenish the petty cash fund.
+
+[Si la cantidad para reabastecer el fondo de caja menor no es igual al total de los recibos de caja menor, la diferencia se registra como Faltante y Sobrante de Efectivo. En el ejemplo anterior, se necesitan $470 ($500 menos el efectivo disponible de $30) para reabastecer el fondo de caja menor. Dado que el total de los recibos de caja menor es de $467, Faltante y Sobrante de Efectivo se debita por $3, como se muestra en el siguiente asiento para reabastecer el fondo de caja menor.]
+
+<img src="./img/019.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Aug. 31 | Office Supplies | 402 | |
+| | Store Supplies | 35 | |
+| | Miscellaneous Administrative Expense | 30 | |
+| | Cash Short and Over | 3 | |
+| | Cash | | 470 |
+| | *Replenished petty cash fund.* | | |
+
+<table><tbody>
+  <tr>
+    <td colspan="4">Assets</td>
+    <td></td>
+    <td></td>
+    <td>=</td>
+    <td colspan="2">Liabilities</td>
+    <td>+</td>
+    <td colspan="4">Stockholders'Equity</td>
+  </tr>
+  <tr>
+    <td colspan="2">cash</td>
+    <td colspan="2">Office Supplies</td>
+    <td colspan="2">Store Supplies</td>
+    <td rowspan="3"></td>
+    <td colspan="2"></td>
+    <td rowspan="3"></td>
+    <td colspan="2">Cash Short and Over</td>
+    <td colspan="2">Misc. Administrative Expense</td>
+  </tr>
+  <tr>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+    <td>Debit</td>
+    <td>Credit</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>470</td>
+    <td>402</td>
+    <td></td>
+    <td>35</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>3</td>
+    <td></td>
+    <td>30</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+Petty Cash is not debited or credited when the petty cash fund is replenished. Instead, only the accounts affected by the petty cash receipts and any Cash Short and Over are recorded, as shown in the preceding entry. Replenishing the petty cash fund restores the fund to its original cash on hand of $500.
+
+[Caja Menor no se debita ni se acredita cuando se reabastece el fondo de caja menor. En su lugar, solo se registran las cuentas afectadas por los recibos de caja menor y cualquier Faltante y Sobrante de Efectivo, como se muestra en el asiento anterior. Reabastecer el fondo de caja menor restaura el fondo a su efectivo original disponible de $500.]
+
+---
+
+## Special-Purpose Funds
+
+Companies often use other cash funds for special needs, such as payroll or travel expenses. Such funds are called **special-purpose funds** (Cash funds used for a special business need.). For example, each salesperson might be given $1,000 for travel-related expenses. Periodically, each salesperson submits an expense report, and the fund is replenished. Special-purpose funds are established and controlled in a manner similar to that of the petty cash fund.
+
+[Las empresas suelen utilizar otros fondos de efectivo para necesidades especiales, como nómina o gastos de viaje. Dichos fondos se llaman **fondos de propósito especial** (fondos de efectivo utilizados para una necesidad comercial especial). Por ejemplo, a cada vendedor se le podría dar $1,000 para gastos relacionados con viajes. Periódicamente, cada vendedor presenta un informe de gastos y el fondo se reabastece. Los fondos de propósito especial se establecen y controlan de manera similar al fondo de caja menor.]
+
+---
+
+<h1 id="783735" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-7 Financial Statement Reporting of Cash
+  </a>
+</h1>
+
