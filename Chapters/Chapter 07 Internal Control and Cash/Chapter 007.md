@@ -40,6 +40,10 @@
 
 ##### [Capitulo 7-7 Financial Statement Reporting of Cash](#783735)
 
+##### [Capitulo 7-8a Let’s Review Chapter Summary](#098425)
+
+##### [Capitulo 7-8b Key Terms](#783853)
+
 <h1 id="697783" style="color:#E65100;">
   <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
     Chapter Introduction
@@ -1866,4 +1870,234 @@ Companies often use other cash funds for special needs, such as payroll or trave
     7-7 Financial Statement Reporting of Cash
   </a>
 </h1>
+
+
+Cash is normally listed as the first asset in the "Current assets" section of the balance sheet. Most companies present only a single cash amount on the balance sheet by combining all their bank and cash fund accounts.
+
+[El efectivo normalmente se enumera como el primer activo en la sección de "Activos corrientes" del balance general. La mayoría de las empresas presentan solo una cantidad única de efectivo en el balance general combinando todas sus cuentas bancarias y de fondos de efectivo.]
+
+**Objective 7** - Describe and illustrate the reporting of cash and cash equivalents in the financial statements.
+
+[**Objetivo 7** - Describir e ilustrar la presentación de informes de efectivo y equivalentes de efectivo en los estados financieros.]
+
+A company may temporarily have excess cash. In such cases, the company normally invests in highly liquid investments in order to earn interest. These investments are called **cash equivalents** (Highly liquid investments that are usually reported with cash on the balance sheet.). Examples of cash equivalents include U.S. Treasury bills, notes issued by major corporations (referred to as commercial paper), and money market funds. In such cases, companies usually report Cash and cash equivalents as one amount on the balance sheet with an accompanying note on cash equivalents.
+
+[Una empresa puede tener temporalmente exceso de efectivo. En tales casos, la empresa normalmente invierte en inversiones altamente líquidas para obtener intereses. Estas inversiones se llaman **equivalentes de efectivo** (inversiones altamente líquidas que generalmente se reportan con el efectivo en el balance general). Ejemplos de equivalentes de efectivo incluyen letras del Tesoro de EE.UU., notas emitidas por grandes corporaciones (conocidas como papel comercial) y fondos del mercado monetario. En tales casos, las empresas suelen reportar Efectivo y equivalentes de efectivo como una cantidad en el balance general con una nota adjunta sobre los equivalentes de efectivo.]
+
+The balance sheet presentation for cash for eBay follows:
+
+[La presentación en el balance general del efectivo para eBay es la siguiente:]
+
+<!-- 📍 IMAGEN: eBay Balance Sheet Presentation for Cash (coordenadas [106, 526, 853, 867]) -->
+
+![eBay Balance Sheet Presentation for Cash](./img/020.png)
+
+---
+
+## Business Insight
+
+### Managing Apple's Cash
+
+[**Perspectiva de Negocio - Gestión del Efectivo de Apple**]
+
+Apple Inc. (AAPL) has investments and cash that total over $205 billion. This represents over 60% of Apple's total assets, and thus requires significant management attention. How does Apple manage these assets? Apple owns Braeburn Capital, a Nevada-based asset management company. Braeburn was established in 2006 for one purpose: to manage Apple's cash and investments. Braeburn operates under a veil of secrecy, and little is known about the firm. It is simply described as "Braeburn Capital Inc. is the asset management arm of Apple Inc. The firm invests in the public equity markets." Apple's financial statement footnotes provide some detail describing its holdings. More than $20 billion is included as cash or cash equivalents, such as money market funds. The remainder is divided between short- and long-term investments.
+
+[Apple Inc. (AAPL) tiene inversiones y efectivo que totalizan más de $205 mil millones. Esto representa más del 60% de los activos totales de Apple, y por lo tanto requiere una atención significativa de la administración. ¿Cómo gestiona Apple estos activos? Apple es propietaria de Braeburn Capital, una empresa de gestión de activos con sede en Nevada. Braeburn se estableció en 2006 con un propósito: gestionar el efectivo y las inversiones de Apple. Braeburn opera bajo un velo de secreto y se sabe poco sobre la empresa. Simplemente se describe como "Braeburn Capital Inc. es el brazo de gestión de activos de Apple Inc. La empresa invierte en los mercados de capitales públicos." Las notas a los estados financieros de Apple proporcionan algunos detalles que describen sus participaciones. Más de $20 mil millones se incluyen como efectivo o equivalentes de efectivo, como fondos del mercado monetario. El resto se divide entre inversiones a corto y largo plazo.]
+
+*Source: Apple Inc., Form 10-K for a Recent Fiscal Year Ended September 24.*
+
+Banks may require that companies maintain minimum cash balances in their bank accounts. Such a balance is called a **compensating balance** (A minimum cash balance required by some banks to be maintained in a bank account.). This is often required by the bank as part of a loan agreement or line of credit. A line of credit is a preapproved amount the bank is willing to lend to a customer upon request. Compensating balance requirements are normally disclosed in notes to the financial statements.
+
+[Los bancos pueden exigir que las empresas mantengan saldos de efectivo mínimos en sus cuentas bancarias. Tal saldo se llama **saldo compensatorio** (un saldo de efectivo mínimo requerido por algunos bancos para ser mantenido en una cuenta bancaria). Esto a menudo es requerido por el banco como parte de un acuerdo de préstamo o línea de crédito. Una línea de crédito es un monto preaprobado que el banco está dispuesto a prestar a un cliente a solicitud. Los requisitos de saldo compensatorio normalmente se divulgan en las notas a los estados financieros.]
+
+---
+
+## Pathways Challenge
+
+### This Is Accounting!
+
+### Economic Activity
+
+[**Desafío Pathways - ¡Esto es Contabilidad! - Actividad Económica**]
+
+Bitcoin is a type of digital currency, called a cryptocurrency, that has gained acceptance from a number of investors, businesses, and consumers. Like the U.S. dollar, bitcoins are a medium of exchange, but unlike the U.S. dollar, they do not possess physical form, are not legal tender, and are not backed by a government. Overstock.com, Inc. (OSTK) is an online retailer based in Midvale, Utah, that accepts bitcoins as a form of payment.
+
+[Bitcoin es un tipo de moneda digital, llamada criptomoneda, que ha ganado aceptación de varios inversores, empresas y consumidores. Al igual que el dólar estadounidense, los bitcoins son un medio de intercambio, pero a diferencia del dólar estadounidense, no poseen forma física, no son de curso legal y no están respaldados por un gobierno. Overstock.com, Inc. (OSTK) es un minorista en línea con sede en Midvale, Utah, que acepta bitcoins como forma de pago.]
+
+#### Critical Thinking/Judgment
+
+[**Pensamiento Crítico/Juicio**]
+
+1. How should Overstock.com report its bitcoin holdings in its financial statements?  
+   [¿Cómo debería Overstock.com reportar sus tenencias de bitcoins en sus estados financieros?]
+
+2. How should Overstock.com value its bitcoin holdings?  
+   [¿Cómo debería Overstock.com valorar sus tenencias de bitcoins?]
+
+
+<img src="./img/021.png" width="800"></img>
+---
+
+## Analysis for Decision Making
+
+### Days' Cash on Hand
+
+**Objective 8** - Describe and illustrate the use of days' cash on hand to assess a company's ability to meet its cash commitments.
+
+[**Objetivo 8** - Describir e ilustrar el uso de los días de efectivo disponible para evaluar la capacidad de una empresa para cumplir con sus compromisos de efectivo.]
+
+**Days' cash on hand** (A measure of how long a company could survive if its sources of revenue were to decline significantly, computed as cash and short-term investments divided by daily cash operating expenses.) measures how long a company could survive if its sources of revenue were to decline significantly. A higher number of days implies a higher liquidity and is viewed favorably by creditors. However, a number of days' cash on hand that is too high may indicate that the company has not invested cash back into the business or returned profits back to the owners. Days' cash on hand greater than 50 days would be considered adequate for businesses.
+
+[**Días de efectivo disponible** (una medida de cuánto tiempo podría sobrevivir una empresa si sus fuentes de ingresos disminuyeran significativamente, calculada como efectivo e inversiones a corto plazo dividido por los gastos operativos diarios en efectivo) mide cuánto tiempo podría sobrevivir una empresa si sus fuentes de ingresos disminuyeran significativamente. Un mayor número de días implica una mayor liquidez y es visto favorablemente por los acreedores. Sin embargo, un número de días de efectivo disponible demasiado alto puede indicar que la empresa no ha invertido efectivo nuevamente en el negocio o no ha devuelto las ganancias a los propietarios. Se consideraría que días de efectivo disponibles superiores a 50 días son adecuados para las empresas.]
+
+Days' cash on hand is calculated as follows:
+
+[Los días de efectivo disponible se calculan de la siguiente manera:]
+
+$$\text{Days' Cash on Hand} = \frac{\text{Cash and Short-Term Investments}}{\text{Daily Cash Operating Expenses}}$$
+
+$$
+\text{Días de efectivo disponible} =
+\frac{\text{Efectivo e inversiones a corto plazo}}
+{\text{Gastos operativos diarios en efectivo}}
+$$
+
+The cash and short-term investments are taken from the year-end balance sheet and represent the most liquid assets. The daily cash operating expenses are computed from income statement information, as follows:
+
+[El efectivo y las inversiones a corto plazo se toman del balance general de fin de año y representan los activos más líquidos. Los gastos operativos diarios en efectivo se calculan a partir de la información del estado de resultados, de la siguiente manera:]
+
+$$
+\text{Daily Cash Operating Expenses} =
+\frac{\text{Operating Expenses} - \text{Depreciation Expense}}{365\ \text{Days}}
+$$
+
+$$
+\text{Gastos Operativos Diarios en Efectivo} =
+\frac{\text{Gastos Operativos} - \text{Gasto por Depreciación}}{365\ \text{días}}
+$$
+
+Depreciation expense is subtracted from the operating expenses because it is a noncash expense. The net amount is divided by 365 days in order to convert the annual cash operating expense amount into a daily amount.
+
+[El gasto de depreciación se resta de los gastos operativos porque es un gasto no en efectivo. El monto neto se divide por 365 días para convertir el monto anual de gastos operativos en efectivo en un monto diario.]
+
+Days' cash on hand is the number of days the daily cash operating expenses can be supported by cash and near-cash balances. It is a popular measure used by nonprofits whose revenues are based on contributions. It reveals how long the nonprofit could survive if contributions dropped significantly. It is also used by startup companies to measure how long cash is available to support operations until revenues begin to be earned. The measure can be used to estimate how long a business could survive a catastrophic event, such as a software virus for an Internet company or a national health emergency for an airline.
+
+[Los días de efectivo disponible es el número de días en que los gastos operativos diarios en efectivo pueden ser respaldados por saldos de efectivo y casi efectivo. Es una medida popular utilizada por organizaciones sin fines de lucro cuyos ingresos se basan en contribuciones. Revela cuánto tiempo podría sobrevivir la organización sin fines de lucro si las contribuciones disminuyeran significativamente. También es utilizado por empresas emergentes para medir cuánto tiempo está disponible el efectivo para respaldar las operaciones hasta que comiencen a obtenerse ingresos. La medida se puede utilizar para estimar cuánto tiempo podría sobrevivir una empresa a un evento catastrófico, como un virus informático para una empresa de Internet o una emergencia nacional de salud para una aerolínea.]
+
+To illustrate, the following information is provided from three recent annual financial statements for eBay (in millions):
+
+[Para ilustrar, se proporciona la siguiente información de tres estados financieros anuales recientes de eBay (en millones):]
+
+<img src="./img/022.png" width="800"></img>
+
+|  | Year 1 | Year 2 | Year 3 |
+|---|---|---|---|
+| Cash (end of year) | $975 | $2,202 | $2,120 |
+| Short-term investments (end of year) | 1,850 | 2,713 | 3,743 |
+| Operating expenses | 5,971 | 6,142 | 5,442 |
+| Depreciation expense | 681 | 696 | 676 |
+
+The days' cash on hand for all three years is computed as follows:
+
+[Los días de efectivo disponible para los tres años se calculan de la siguiente manera:]
+
+| Métrica | Year 3 | Year 2 | Year 1 |
+|---|---|---|---|
+| Cash and short-term investments |  |  |  |
+| $975 + $1,850 | 2,825 |  |  |
+| $2,202 + $2,713 |  | 4,915 |  |
+| $2,120 + $3,743 |  |  | 5,863 |
+| Daily cash operating expenses |  |  |  |
+| ($5,971 − $681) ÷ 365 | 14.5 |  |  |
+| ($6,142 − $696) ÷ 365 |  | 14.9 |  |
+| ($5,442 − $676) ÷ 365 |  |  | 13.1 |
+| Days' cash on hand |  |  |  |
+| $2,825 ÷ $14.5 per day | 194.8 |  |  |
+| $4,915 ÷ $14.9 per day |  | 329.9 |  |
+| $5,863 ÷ $13.1 per day |  |  | 447.6 |
+
+As can be seen, eBay's days' cash on hand varied from a high of 360.2 days in Year 1 to a low of 279.4 days in Year 3. However, the days' cash on hand exceeds 194 days for all three years. Thus, the change in days' cash on hand is not a concern. This high number of days suggests that a catastrophic event would not threaten eBay's survival. eBay appears to have sufficient liquidity to support operations and business growth.
+
+[Como se puede ver, los días de efectivo disponible de eBay variaron desde un máximo de 360.2 días en el Año 1 hasta un mínimo de 279.4 días en el Año 3. Sin embargo, los días de efectivo disponible superan los 194 días para los tres años. Por lo tanto, el cambio en los días de efectivo disponible no es una preocupación. Este alto número de días sugiere que un evento catastrófico no amenazaría la supervivencia de eBay. eBay parece tener suficiente liquidez para respaldar las operaciones y el crecimiento del negocio.]
+
+---
+
+## Make a Decision
+
+### Days' Cash on Hand
+
+[**Tome una Decisión - Días de Efectivo Disponible**]
+
+- Analyze and compare Amazon.com to Netflix (MAD 7-1) (Continuing company analysis)
+- Analyze and compare J. C. Penney and Macy's (MAD 7-2)
+- Analyze Apache Corporation (MAD 7-3)
+- Analyze and compare Restaurant Brands and Dunkin' Brands (MAD 7-4)
+
+---
+
+<h1 id="098425" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-8a Let’s Review Chapter Summary
+  </a>
+</h1>
+
+# 7-8 Let's Review Chapter Summary
+
+1. Sarbanes-Oxley requires companies to maintain strong and effective internal controls and to report on the effectiveness of the internal controls.  
+[**1.** Sarbanes-Oxley requiere que las empresas mantengan controles internos sólidos y efectivos y que informen sobre la efectividad de los controles internos.]
+
+2. The objectives of internal control are to provide reasonable assurance that (1) assets are safeguarded and used for business purposes, (2) business information is accurate, and (3) the company is complying with laws and regulations. The elements of internal control are the control environment, risk assessment, control procedures, monitoring, and information and communication.  
+[**2.** Los objetivos del control interno son proporcionar una seguridad razonable de que (1) los activos estén salvaguardados y se utilicen para fines comerciales, (2) la información comercial sea precisa y (3) la empresa cumpla con las leyes y regulaciones. Los elementos del control interno son el entorno de control, la evaluación de riesgos, los procedimientos de control, la supervisión, y la información y comunicación.]
+
+3. A cash register is a control for protecting cash received in over-the-counter sales. A remittance advice is a control for cash received through the mail. Separating the duties of handling cash and recording cash is also a control. A voucher system is a control system for cash payments. Many companies use electronic funds transfers for cash receipts and cash payments.  
+[**3.** Una caja registradora es un control para proteger el efectivo recibido en ventas al mostrador. Un aviso de remesa es un control para el efectivo recibido por correo. Separar las funciones de manejar el efectivo y registrar el efectivo también es un control. Un sistema de vales es un sistema de control para los pagos en efectivo. Muchas empresas utilizan transferencias electrónicas de fondos para los recibos y pagos de efectivo.]
+
+4. Bank accounts control cash by reducing the amount of cash on hand and facilitating the transfer of cash between businesses and locations. In addition, the bank statement allows a business to reconcile the cash transactions recorded in the accounting records to those recorded by the bank.  
+[**4.** Las cuentas bancarias controlan el efectivo reduciendo la cantidad de efectivo disponible y facilitando la transferencia de efectivo entre empresas y ubicaciones. Además, el estado de cuenta bancario permite a una empresa conciliar las transacciones en efectivo registradas en los registros contables con las registradas por el banco.]
+
+5. A bank reconciliation is prepared using the nine steps as summarized in Exhibit 12. The items in the company section of a bank reconciliation must be journalized in the company's records.  
+[**5.** Una conciliación bancaria se prepara utilizando los nueve pasos resumidos en la Figura 12. Los elementos en la sección de la empresa de una conciliación bancaria deben ser registrados en el diario en los registros de la empresa.]
+
+6. Special-purpose cash funds, such as a petty cash fund or a travel fund, are used by businesses to meet specific needs. Each fund is established by cashing a check for the amount of cash needed. At periodic intervals, the fund is replenished and the disbursements recorded.  
+[**6.** Los fondos de efectivo de propósito especial, como un fondo de caja menor o un fondo de viaje, son utilizados por las empresas para satisfacer necesidades específicas. Cada fondo se establece cobrando un cheque por la cantidad de efectivo necesaria. A intervalos periódicos, el fondo se reabastece y se registran los desembolsos.]
+
+7. Cash is listed as the first asset in the **Current assets** section of the balance sheet. Companies that have invested excess cash in highly liquid investments usually report **Cash and cash equivalents** on the balance sheet.  
+[**7.** El efectivo se enumera como el primer activo en la sección de **Activos corrientes** del balance general. Las empresas que han invertido el exceso de efectivo en inversiones altamente líquidas suelen reportar **Efectivo y equivalentes de efectivo** en el balance general.]
+
+8. Days' cash on hand is the number of days the daily cash operating expenses can be supported by cash and near-cash balances. A higher number of days implies a higher liquidity and is viewed favorably by creditors. However, a number of days' cash on hand that is too high may indicate that a company has not invested cash back into the business or returned profits back to the owners.  
+[**8.** Los días de efectivo disponible es el número de días en que los gastos operativos diarios en efectivo pueden ser respaldados por saldos de efectivo y casi efectivo. Un mayor número de días implica una mayor liquidez y es visto favorablemente por los acreedores. Sin embargo, un número de días de efectivo disponible demasiado alto puede indicar que una empresa no ha invertido efectivo nuevamente en el negocio o no ha devuelto las ganancias a los propietarios.]
+
+---
+
+<h1 id="783853" style="color:#E65100;">
+  <a href="#Chapter_007" style="color:inherit; text-decoration:none;">
+    7-8b Key Terms
+  </a>
+</h1>
+
+
+
+[**7-8b Términos Clave**]
+
+| English Term | Español | Definition (English) | Definición (Español) |
+|---|---|---|---|
+| bank reconciliation | conciliación bancaria | The analysis that details the items responsible for the difference between the cash balance reported on the bank statement and the balance of the cash account in the ledger. | El análisis que detalla los elementos responsables de la diferencia entre el saldo de efectivo reportado en el estado de cuenta bancario y el saldo de la cuenta de efectivo en el libro mayor. |
+| bank statement | estado de cuenta bancario | A summary of all checking account transactions mailed to the depositor or made available online by the bank each month. | Un resumen de todas las transacciones de cuentas corrientes enviado por correo al depositante o puesto a disposición en línea por el banco cada mes. |
+| cash | efectivo | Coins, currency (paper money), checks, money orders, and money on deposit that is available for unrestricted withdrawal from banks and other financial institutions. | Monedas, moneda (papel moneda), cheques, giros postales y dinero en depósito que está disponible para retiro sin restricciones de bancos y otras instituciones financieras. |
+| cash equivalents | equivalentes de efectivo | Highly liquid investments that are usually reported with cash on the balance sheet. | Inversiones altamente líquidas que generalmente se reportan con el efectivo en el balance general. |
+| cash short and over account | cuenta de faltante y sobrante de efectivo | An account in which are recorded errors in cash sales or errors in making change causing the amount of actual cash on hand to differ from the beginning amount of cash plus the cash sales for the day. | Una cuenta en la que se registran errores en las ventas en efectivo o errores al dar cambio que hacen que la cantidad de efectivo real disponible difiera de la cantidad inicial de efectivo más las ventas en efectivo del día. |
+| compensating balance | saldo compensatorio | A minimum cash balance required by some banks to be maintained in a bank account. | Un saldo de efectivo mínimo requerido por algunos bancos para ser mantenido en una cuenta bancaria. |
+| control environment | entorno de control | The overall attitude of management and employees about the importance of controls. | La actitud general de la administración y los empleados sobre la importancia de los controles. |
+| days' cash on hand | días de efectivo disponible | A measure of how long a company could survive if its sources of revenue were to decline significantly, computed as cash and short-term investments divided by daily cash operating expenses. | Una medida de cuánto tiempo podría sobrevivir una empresa si sus fuentes de ingresos disminuyeran significativamente, calculada como efectivo e inversiones a corto plazo dividido por los gastos operativos diarios en efectivo. |
+| electronic funds transfer (EFT) | transferencia electrónica de fondos (EFT) | A system in which computers rather than paper (money, checks, etc.) are used to effect cash transactions. | Un sistema en el que se utilizan computadoras en lugar de papel (dinero, cheques, etc.) para efectuar transacciones en efectivo. |
+| elements of internal control | elementos del control interno | The elements that together sustain internal control and include the control environment, risk assessment, control activities, information and communication, and monitoring. | Los elementos que juntos sostienen el control interno e incluyen el entorno de control, la evaluación de riesgos, las actividades de control, la información y comunicación, y la supervisión. |
+| employee fraud | fraude de empleados | The intentional act of deceiving an employer for personal gain. | El acto intencional de engañar a un empleador para beneficio personal. |
+| internal control | control interno | The policies and procedures used to safeguard assets, ensure accurate business information, and ensure compliance with laws and regulations. | Las políticas y procedimientos utilizados para salvaguardar los activos, garantizar información comercial precisa y garantizar el cumplimiento de las leyes y regulaciones. |
+| petty cash fund | fondo de caja menor | A special cash fund to pay relatively small amounts. | Un fondo de efectivo especial para pagar cantidades relativamente pequeñas. |
+| Sarbanes-Oxley Act | Ley Sarbanes-Oxley | (No definition provided in original) | (No se proporcionó definición en el original) |
+| special-purpose funds | fondos de propósito especial | Cash funds used for a special business need. | Fondos de efectivo utilizados para una necesidad comercial especial. |
+| voucher | vale | Any document that serves as proof of authority to pay cash or issue an electronic funds transfer, but for many businesses, is a special form used to record data about a liability and the details of its payment. | Cualquier documento que sirva como prueba de autoridad para pagar efectivo o emitir una transferencia electrónica de fondos, pero para muchas empresas, es un formulario especial utilizado para registrar datos sobre un pasivo y los detalles de su pago. |
+| voucher system | sistema de vales | A set of procedures that uses vouchers for authorizing and recording liabilities and cash payments. | Un conjunto de procedimientos que utiliza vales para autorizar y registrar pasivos y pagos en efectivo. |
+
+---
 
