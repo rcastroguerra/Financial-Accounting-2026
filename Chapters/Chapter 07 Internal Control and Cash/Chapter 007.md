@@ -2041,30 +2041,29 @@ As can be seen, eBay's days' cash on hand varied from a high of 360.2 days in Ye
   </a>
 </h1>
 
-# 7-8 Let's Review Chapter Summary
 
 1. Sarbanes-Oxley requires companies to maintain strong and effective internal controls and to report on the effectiveness of the internal controls.  
 [**1.** Sarbanes-Oxley requiere que las empresas mantengan controles internos sólidos y efectivos y que informen sobre la efectividad de los controles internos.]
 
-2. The objectives of internal control are to provide reasonable assurance that (1) assets are safeguarded and used for business purposes, (2) business information is accurate, and (3) the company is complying with laws and regulations. The elements of internal control are the control environment, risk assessment, control procedures, monitoring, and information and communication.  
+1. The objectives of internal control are to provide reasonable assurance that (1) assets are safeguarded and used for business purposes, (2) business information is accurate, and (3) the company is complying with laws and regulations. The elements of internal control are the control environment, risk assessment, control procedures, monitoring, and information and communication.  
 [**2.** Los objetivos del control interno son proporcionar una seguridad razonable de que (1) los activos estén salvaguardados y se utilicen para fines comerciales, (2) la información comercial sea precisa y (3) la empresa cumpla con las leyes y regulaciones. Los elementos del control interno son el entorno de control, la evaluación de riesgos, los procedimientos de control, la supervisión, y la información y comunicación.]
 
-3. A cash register is a control for protecting cash received in over-the-counter sales. A remittance advice is a control for cash received through the mail. Separating the duties of handling cash and recording cash is also a control. A voucher system is a control system for cash payments. Many companies use electronic funds transfers for cash receipts and cash payments.  
+1. A cash register is a control for protecting cash received in over-the-counter sales. A remittance advice is a control for cash received through the mail. Separating the duties of handling cash and recording cash is also a control. A voucher system is a control system for cash payments. Many companies use electronic funds transfers for cash receipts and cash payments.  
 [**3.** Una caja registradora es un control para proteger el efectivo recibido en ventas al mostrador. Un aviso de remesa es un control para el efectivo recibido por correo. Separar las funciones de manejar el efectivo y registrar el efectivo también es un control. Un sistema de vales es un sistema de control para los pagos en efectivo. Muchas empresas utilizan transferencias electrónicas de fondos para los recibos y pagos de efectivo.]
 
-4. Bank accounts control cash by reducing the amount of cash on hand and facilitating the transfer of cash between businesses and locations. In addition, the bank statement allows a business to reconcile the cash transactions recorded in the accounting records to those recorded by the bank.  
+1. Bank accounts control cash by reducing the amount of cash on hand and facilitating the transfer of cash between businesses and locations. In addition, the bank statement allows a business to reconcile the cash transactions recorded in the accounting records to those recorded by the bank.  
 [**4.** Las cuentas bancarias controlan el efectivo reduciendo la cantidad de efectivo disponible y facilitando la transferencia de efectivo entre empresas y ubicaciones. Además, el estado de cuenta bancario permite a una empresa conciliar las transacciones en efectivo registradas en los registros contables con las registradas por el banco.]
 
-5. A bank reconciliation is prepared using the nine steps as summarized in Exhibit 12. The items in the company section of a bank reconciliation must be journalized in the company's records.  
+1. A bank reconciliation is prepared using the nine steps as summarized in Exhibit 12. The items in the company section of a bank reconciliation must be journalized in the company's records.  
 [**5.** Una conciliación bancaria se prepara utilizando los nueve pasos resumidos en la Figura 12. Los elementos en la sección de la empresa de una conciliación bancaria deben ser registrados en el diario en los registros de la empresa.]
 
-6. Special-purpose cash funds, such as a petty cash fund or a travel fund, are used by businesses to meet specific needs. Each fund is established by cashing a check for the amount of cash needed. At periodic intervals, the fund is replenished and the disbursements recorded.  
+1. Special-purpose cash funds, such as a petty cash fund or a travel fund, are used by businesses to meet specific needs. Each fund is established by cashing a check for the amount of cash needed. At periodic intervals, the fund is replenished and the disbursements recorded.  
 [**6.** Los fondos de efectivo de propósito especial, como un fondo de caja menor o un fondo de viaje, son utilizados por las empresas para satisfacer necesidades específicas. Cada fondo se establece cobrando un cheque por la cantidad de efectivo necesaria. A intervalos periódicos, el fondo se reabastece y se registran los desembolsos.]
 
-7. Cash is listed as the first asset in the **Current assets** section of the balance sheet. Companies that have invested excess cash in highly liquid investments usually report **Cash and cash equivalents** on the balance sheet.  
+1. Cash is listed as the first asset in the **Current assets** section of the balance sheet. Companies that have invested excess cash in highly liquid investments usually report **Cash and cash equivalents** on the balance sheet.  
 [**7.** El efectivo se enumera como el primer activo en la sección de **Activos corrientes** del balance general. Las empresas que han invertido el exceso de efectivo en inversiones altamente líquidas suelen reportar **Efectivo y equivalentes de efectivo** en el balance general.]
 
-8. Days' cash on hand is the number of days the daily cash operating expenses can be supported by cash and near-cash balances. A higher number of days implies a higher liquidity and is viewed favorably by creditors. However, a number of days' cash on hand that is too high may indicate that a company has not invested cash back into the business or returned profits back to the owners.  
+1. Days' cash on hand is the number of days the daily cash operating expenses can be supported by cash and near-cash balances. A higher number of days implies a higher liquidity and is viewed favorably by creditors. However, a number of days' cash on hand that is too high may indicate that a company has not invested cash back into the business or returned profits back to the owners.  
 [**8.** Los días de efectivo disponible es el número de días en que los gastos operativos diarios en efectivo pueden ser respaldados por saldos de efectivo y casi efectivo. Un mayor número de días implica una mayor liquidez y es visto favorablemente por los acreedores. Sin embargo, un número de días de efectivo disponible demasiado alto puede indicar que una empresa no ha invertido efectivo nuevamente en el negocio o no ha devuelto las ganancias a los propietarios.]
 
 ---
