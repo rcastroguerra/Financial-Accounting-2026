@@ -34,6 +34,14 @@
 
 ##### [Capitulo 9-4 Natural Resources](#757962)
 
+##### [Capitulo 9-5 Intangible Assets](#811296)
+
+##### [Capitulo 9-5a Patents](#516923)
+
+##### [Capitulo 9-5b Copyrights and Trademarks](#181965)
+
+##### [Capitulo 9-5c Goodwill](#253118)
+
 <h1 id="911677" style="color:#E65100;">
   <a href="#Chapter_009" style="color:inherit; text-decoration:none;">
     9-1 Nature of Fixed Assets
@@ -1308,5 +1316,407 @@ On the first day of the year, Firefall Company purchased equipment at a cost of 
 <h1 id="757962" style="color:#E65100;">
   <a href="#Chapter_009" style="color:inherit; text-decoration:none;">
     9-4 Natural Resources
+  </a>
+</h1>
+
+
+Some businesses own natural resources such as timber, minerals, or oil. The characteristics of natural resources are as follows:
+
+[Algunas empresas poseen recursos naturales como madera, minerales o petróleo. Las características de los recursos naturales son las siguientes:]
+
+- **Naturally Occurring:** An asset that is created through natural growth or naturally through the passage of time. For example, timber is a natural resource that naturally grows over time.
+- **Removed for Sale:** The asset is consumed by removing it from its land source. For example, timber is removed for use when it is harvested, and minerals are removed when they are mined.
+- **Removed and Sold over More Than One Year:** The natural resource is removed and sold over a period of more than one year.
+---
+- **Ocurrencia Natural:** Un activo que se crea a través del crecimiento natural o naturalmente a través del paso del tiempo. Por ejemplo, la madera es un recurso natural que crece naturalmente con el tiempo.
+- **Extraído para la Venta:** El activo se consume extrayéndolo de su fuente terrestre. Por ejemplo, la madera se extrae para su uso cuando se cosecha, y los minerales se extraen cuando se extraen.
+- **Extraído y Vendido durante Más de un Año:** El recurso natural se extrae y se vende durante un período de más de un año.
+
+**Objective 4** - Describe the accounting for natural resources, including the journal entry for depletion.
+
+[**Objetivo 4** - Describir la contabilidad para los recursos naturales, incluyendo el asiento de diario para la depreciación por agotamiento.]
+
+Natural resources are classified as a type of fixed asset. The cost of a natural resource includes the cost of obtaining and preparing it for use. For example, legal fees incurred in purchasing a natural resource are included as part of its cost.
+
+[Los recursos naturales se clasifican como un tipo de activo fijo. El costo de un recurso natural incluye el costo de obtenerlo y prepararlo para su uso. Por ejemplo, los honorarios legales incurridos en la compra de un recurso natural se incluyen como parte de su costo.]
+
+As natural resources are harvested or mined and then sold, a portion of their cost is debited to an expense account called **Depletion Expense** (The process of transferring the cost of natural resources to an expense account.). Depletion is determined as follows:
+
+[A medida que los recursos naturales se cosechan o extraen y luego se venden, una parte de su costo se debita a una cuenta de gastos llamada **Gasto por Agotamiento** (el proceso de transferir el costo de los recursos naturales a una cuenta de gastos). El agotamiento se determina de la siguiente manera:]
+
+**Step 1.** Determine the depletion rate as follows:
+
+[**Paso 1.** Determine la tasa de agotamiento de la siguiente manera:]
+
+$$\text{Depletion Rate} = \frac{\text{Cost of Resource}}{\text{Estimated Total Units of Resource}}$$
+
+**Step 2.** Multiply the depletion rate by the quantity removed from the resource during the period.
+
+[**Paso 2.** Multiplique la tasa de agotamiento por la cantidad extraída del recurso durante el período.]
+
+$$\text{Depletion Expense} = \text{Depletion Rate} \times \text{Quantity Removed}$$
+
+To illustrate, assume that Karst Company purchased mining rights as follows:
+
+[Para ilustrar, suponga que Karst Company compró derechos mineros de la siguiente manera:]
+
+| | Amount |
+|---|---|
+| Cost of mineral deposit | $400,000 |
+| Estimated total units of resource | 1,000,000 tons |
+| Tons mined during year | 90,000 tons |
+
+The depletion expense of $36,000 for the year is computed as follows:
+
+[El gasto por agotamiento de $36,000 para el año se calcula de la siguiente manera:]
+
+**Step 1.** Depletion Rate = $400,000 ÷ 1,000,000 Tons = **$0.40 per Ton**
+
+**Step 2.** Depletion Expense = $0.40 per Ton × 90,000 Tons = **$36,000**
+
+The adjusting entry to record the depletion is as follows:
+
+[El asiento de ajuste para registrar el agotamiento es el siguiente:]
+
+<img src="./img/032.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Depletion Expense | 36,000 | |
+| | Accumulated Depletion | | 36,000 |
+| | *Depletion of mineral deposit.* | | |
+
+| Assets | = | Liabilities | + | Stockholders' Equity |
+|---|---|---|---|---|
+| Accumulated Depletion +36,000 | | | | Depletion Expense -36,000 |
+
+Like the accumulated depreciation account, Accumulated Depletion is a contra asset account. It is reported on the balance sheet as a deduction from the cost of the mineral deposit.
+
+[Al igual que la cuenta de depreciación acumulada, el Agotamiento Acumulado es una cuenta de contra activo. Se reporta en el balance general como una deducción del costo del depósito mineral.]
+
+---
+
+## Check Up Corner 9-3
+
+### Natural Resources
+
+[**Esquina de Verificación 9-3 - Recursos Naturales**]
+
+Caldwell Mining Co. acquired mineral rights for $126,000,000. The mineral deposit is estimated at 42,000,000 tons. During the current year, 3,800,000 tons were mined and sold.
+
+[Caldwell Mining Co. adquirió derechos minerales por $126,000,000. El depósito mineral se estima en 42,000,000 de toneladas. Durante el año en curso, se extrajeron y vendieron 3,800,000 toneladas.]
+
+- **a.** What is the depletion rate per ton?
+- **b.** Determine the amount of depletion expense for the current year.
+- **c.** Journalize the adjusting entry to recognize depletion expense at the end of the year.
+---
+- **a.** ¿Cuál es la tasa de agotamiento por tonelada?
+- **b.** Determine el monto del gasto por agotamiento para el año en curso.
+- **c.** Registre en el diario el asiento de ajuste para reconocer el gasto por agotamiento al final del año.
+
+---
+
+### Solution - Check Up Corner 9-3
+
+<img src="./img/033.png" width="800"></img>
+
+[**Solución - Esquina de Verificación 9-3**]
+
+**a.** Depletion Rate = $126,000,000 ÷ 42,000,000 Tons = **$3.00 per ton**
+
+**b.** Depletion Expense = $3.00 per ton × 3,800,000 Tons = **$11,400,000**
+
+**c.** Adjusting Entry:
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Depletion Expense | 11,400,000 | |
+| | Accumulated Depletion | | 11,400,000 |
+| | *Depletion of mineral deposit.* | | |
+
+---
+
+<h1 id="811296" style="color:#E65100;">
+  <a href="#Chapter_009" style="color:inherit; text-decoration:none;">
+    9-5 Intangible Assets
+  </a>
+</h1>
+
+
+Long-term assets that are used in the operations of the business, but do not exist physically, are called intangible assets.
+
+[Los activos a largo plazo que se utilizan en las operaciones del negocio, pero que no existen físicamente, se llaman activos intangibles.]
+
+**Objective 5** - Describe the accounting for intangible assets, such as patents, copyrights, and goodwill.
+
+[**Objetivo 5** - Describir la contabilidad para activos intangibles, como patentes, derechos de autor y plusvalía.]
+
+**Intangible assets** (Long-term assets that are used in the operations of a business, are not held for sale, and are without physical qualities.) may be acquired through innovative, creative activities or from purchasing the rights from another company. Examples of intangible assets include patents, copyrights, trademarks, and goodwill.
+
+[Los **activos intangibles** (activos a largo plazo que se utilizan en las operaciones de un negocio, no se mantienen para la venta y carecen de cualidades físicas) pueden adquirirse a través de actividades innovadoras y creativas o mediante la compra de los derechos de otra empresa. Ejemplos de activos intangibles incluyen patentes, derechos de autor, marcas registradas y plusvalía.]
+
+The accounting for intangible assets is similar to that for fixed assets. The major issues are:
+
+[La contabilidad para los activos intangibles es similar a la de los activos fijos. Los principales problemas son:]
+
+- Determining the initial cost.
+- Determining the **amortization** (The periodic transfer of the cost of an intangible asset to expense or of a bond discount to interest expense.), which is the amount of cost to transfer to expense.
+
+- Determinar el costo inicial.
+- Determinar la **amortización** (la transferencia periódica del costo de un activo intangible a gastos o de un descuento de bonos a gastos por intereses), que es el monto del costo a transferir a gastos.
+
+Amortization results from the passage of time or a decline in the usefulness of the intangible asset.
+
+[La amortización resulta del paso del tiempo o de una disminución en la utilidad del activo intangible.]
+
+---
+
+<h1 id="516923" style="color:#E65100;">
+  <a href="#Chapter_009" style="color:inherit; text-decoration:none;">
+    9-5a Patents
+  </a>
+</h1>
+
+
+Manufacturers may acquire exclusive rights to produce and sell goods with one or more unique features. Such rights are granted by **patents** (Exclusive rights to produce and sell goods with one or more unique features.), which the federal government issues to inventors. These rights continue in effect for 20 years. A business may purchase patent rights from others, or it may obtain patents developed by its own research and development.
+
+[Los fabricantes pueden adquirir derechos exclusivos para producir y vender bienes con una o más características únicas. Dichos derechos son otorgados por **patentes** (derechos exclusivos para producir y vender bienes con una o más características únicas), que el gobierno federal otorga a los inventores. Estos derechos permanecen en vigor durante 20 años. Una empresa puede comprar derechos de patente de otros, o puede obtener patentes desarrolladas por su propia investigación y desarrollo.]
+
+The initial cost of a purchased patent, including any legal fees, is debited to an asset account. This cost is written off, or amortized, over the years of the patent's expected useful life. The expected useful life of a patent may be less than its legal life. For example, a patent may become worthless due to changing technology or consumer tastes.
+
+[El costo inicial de una patente comprada, incluidos los honorarios legales, se debita a una cuenta de activo. Este costo se amortiza durante los años de la vida útil esperada de la patente. La vida útil esperada de una patente puede ser menor que su vida legal. Por ejemplo, una patente puede perder su valor debido a cambios en la tecnología o los gustos de los consumidores.]
+
+Patent amortization is normally computed using the straight-line method. The amortization is recorded by debiting an amortization expense account and crediting the patents account. A separate contra asset account is usually not used for intangible assets.
+
+[La amortización de patentes normalmente se calcula utilizando el método de línea recta. La amortización se registra debitando una cuenta de gastos de amortización y acreditando la cuenta de patentes. Por lo general, no se utiliza una cuenta de contra activo separada para los activos intangibles.]
+
+To illustrate, assume that at the beginning of its fiscal year, a company acquires patent rights for $100,000. Although the patent will not expire for 14 years, its remaining useful life is estimated as five years. The adjusting entry to amortize the patent at the end of the year is as follows:
+
+[Para ilustrar, suponga que al comienzo de su año fiscal, una empresa adquiere derechos de patente por $100,000. Aunque la patente no expirará durante 14 años, su vida útil restante se estima en cinco años. El asiento de ajuste para amortizar la patente al final del año es el siguiente:]
+
+<img src="./img/034.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Amortization Expense—Patents | 20,000 | |
+| | Patents | | 20,000 |
+| | *Amortized patent rights ($100,000 ÷ 5 years).* | | |
+
+Some companies develop their own patents through research and development. In such cases, any research and development costs are recorded as current operating expenses in the period in which they are incurred. This accounting for research and development costs is justified on the basis that any future benefits from current research and development are highly uncertain.
+
+[Algunas empresas desarrollan sus propias patentes a través de la investigación y el desarrollo. En tales casos, los costos de investigación y desarrollo se registran como gastos operativos corrientes en el período en que se incurren. Esta contabilidad para los costos de investigación y desarrollo se justifica sobre la base de que cualquier beneficio futuro de la investigación y el desarrollo actual es altamente incierto.]
+
+---
+
+## Business Insight
+
+### Facebook Value
+
+[**Perspectiva de Negocio - Valor de Facebook**]
+
+The market value of Facebook, Inc. (FB) can be determined by multiplying the common stock outstanding by the market price per share. The market value of Facebook at the end of a recent year was $494.0 billion. The book value of stockholders' equity (net assets) of Facebook on the same date was $101.1 billion. The difference of $392.9 billion is largely due to the unrecognized intangible assets of Facebook. Intangible assets that are recognized for accounting purposes are only those that are supported by a business transaction. For Facebook, these include acquired goodwill, patents, technology, and trade name, which total only $19.6 billion. Technology companies, such as Facebook, will typically have large unrecognized intangible value beyond that recorded for accounting purposes.
+
+[El valor de mercado de Facebook, Inc. (FB) se puede determinar multiplicando las acciones comunes en circulación por el precio de mercado por acción. El valor de mercado de Facebook al final de un año reciente fue de $494.0 mil millones. El valor en libros del capital contable (activos netos) de Facebook en la misma fecha era de $101.1 mil millones. La diferencia de $392.9 mil millones se debe en gran parte a los activos intangibles no reconocidos de Facebook. Los activos intangibles que se reconocen a efectos contables son solo aquellos que están respaldados por una transacción comercial. Para Facebook, estos incluyen la plusvalía adquirida, patentes, tecnología y nombre comercial, que totalizan solo $19.6 mil millones. Las empresas de tecnología, como Facebook, típicamente tendrán un gran valor intangible no reconocido más allá de lo registrado a efectos contables.]
+
+---
+
+<h1 id="181965" style="color:#E65100;">
+  <a href="#Chapter_009" style="color:inherit; text-decoration:none;">
+    9-5b Copyrights and Trademarks
+  </a>
+</h1>
+
+The exclusive right to publish and sell a literary, artistic, or musical composition is granted by a **copyright** (The exclusive right to publish and sell a literary, artistic, or musical composition.). Copyrights are issued by the federal government and extend for 70 years beyond the author's death. The costs of a copyright include all costs of creating the work plus any other costs of obtaining the copyright. A copyright that is purchased is recorded at the price paid for it. Copyrights are amortized over their estimated useful lives.
+
+[El derecho exclusivo de publicar y vender una composición literaria, artística o musical es otorgado por un **derecho de autor** (el derecho exclusivo de publicar y vender una composición literaria, artística o musical). Los derechos de autor son emitidos por el gobierno federal y se extienden por 70 años después de la muerte del autor. Los costos de un derecho de autor incluyen todos los costos de crear la obra más cualquier otro costo de obtener el derecho de autor. Un derecho de autor que se compra se registra al precio pagado por él. Los derechos de autor se amortizan durante su vida útil estimada.]
+
+A **trademark** (A name, term, or symbol used to identify a business and its products.) is a name, term, or symbol used to identify a business and its products. Under federal law, businesses can protect their trademarks by registering them for 10 years and renewing the registration for 10-year periods. Like a copyright, the legal costs of registering a trademark are recorded as an asset. Most businesses identify their registered trademarks with ® in their advertisements and on their products.
+
+[Una **marca registrada** (un nombre, término o símbolo utilizado para identificar un negocio y sus productos) es un nombre, término o símbolo utilizado para identificar un negocio y sus productos. Bajo la ley federal, las empresas pueden proteger sus marcas registradas registrándolas por 10 años y renovando el registro por períodos de 10 años. Al igual que un derecho de autor, los costos legales de registrar una marca registrada se registran como un activo. La mayoría de las empresas identifican sus marcas registradas con ® en sus anuncios y en sus productos.]
+
+If a trademark is purchased from another business, its cost is recorded as an asset. In such cases, the cost of the trademark is considered to have an indefinite useful life. Thus, trademarks are not amortized. Instead, trademarks are reviewed periodically for impaired value. When a trademark is impaired, the trademark should be written down and a loss recognized.
+
+[Si una marca registrada se compra a otra empresa, su costo se registra como un activo. En tales casos, se considera que el costo de la marca registrada tiene una vida útil indefinida. Por lo tanto, las marcas registradas no se amortizan. En su lugar, las marcas registradas se revisan periódicamente para detectar un valor deteriorado. Cuando una marca registrada se deteriora, la marca registrada debe ser cancelada y se debe reconocer una pérdida.]
+
+---
+
+**Link to McDonald's:** McDonald's Corporation owns trademarks on "McDonald's" and the Golden Arches logo.
+
+[**Enlace a McDonald's:** McDonald's Corporation posee marcas registradas de "McDonald's" y el logotipo de los Arcos Dorados.]
+
+---
+
+<h1 id="253118" style="color:#E65100;">
+  <a href="#Chapter_009" style="color:inherit; text-decoration:none;">
+    9-5c Goodwill
+  </a>
+</h1>
+
+
+**Goodwill** (An intangible asset that is created from such favorable factors as location, product quality, reputation, and managerial skill.) refers to an intangible asset of a business that is created from such favorable factors as location, product quality, reputation, and managerial skill. Goodwill allows a business to earn a greater rate of return than normal.
+
+[La **plusvalía** (un activo intangible que se crea a partir de factores favorables como la ubicación, la calidad del producto, la reputación y la habilidad administrativa) se refiere a un activo intangible de un negocio que se crea a partir de factores favorables como la ubicación, la calidad del producto, la reputación y la habilidad administrativa. La plusvalía permite a un negocio obtener una tasa de rendimiento mayor de lo normal.]
+
+Generally accepted accounting principles (GAAP) allow goodwill to be recorded only if it is objectively determined by a transaction. An example of such a transaction is the purchase of a business at a price in excess of the fair value of its net assets (assets less liabilities). The excess is recorded as goodwill and reported as an intangible asset. Goodwill is the most often reported intangible asset. This is because goodwill arises from merger transactions, which are common.
+
+[Los principios de contabilidad generalmente aceptados (GAAP) permiten registrar la plusvalía solo si se determina objetivamente mediante una transacción. Un ejemplo de tal transacción es la compra de un negocio a un precio superior al valor razonable de sus activos netos (activos menos pasivos). El exceso se registra como plusvalía y se reporta como un activo intangible. La plusvalía es el activo intangible que se reporta con más frecuencia. Esto se debe a que la plusvalía surge de transacciones de fusión, que son comunes.]
+
+---
+
+**Link to McDonald's:** On a recent balance sheet, McDonald's reported goodwill of $2.7 billion. Most of McDonald's goodwill arises when it purchases existing restaurants from franchisees.
+
+[**Enlace a McDonald's:** En un balance general reciente, McDonald's reportó plusvalía de $2.7 mil millones. La mayor parte de la plusvalía de McDonald's surge cuando compra restaurantes existentes a los franquiciados.]
+
+Unlike patents and copyrights, goodwill is not amortized. However, a loss should be recorded if the future prospects of the purchased firm become impaired. This loss would normally be disclosed in the "Other expense" section of the income statement.
+
+[A diferencia de las patentes y los derechos de autor, la plusvalía no se amortiza. Sin embargo, se debe registrar una pérdida si las perspectivas futuras de la empresa comprada se deterioran. Esta pérdida normalmente se divulgaría en la sección de "Otros gastos" del estado de resultados.]
+
+---
+
+## International Connection
+
+### IFRS International Financial Reporting Standards (IFRS)
+
+[**Conexión Internacional - Normas Internacionales de Información Financiera (IFRS)**]
+
+IFRS allow certain research and development (R&D) costs to be recorded as assets when incurred. Typically, R&D costs are classified as either research costs or development costs. If certain criteria are met, research costs can be recorded as an expense, while development costs can be recorded as an asset. This criterion includes such considerations as the company's intent to use or to sell the intangible asset. For example, Volkswagen AG (VOW3) reported capitalized development costs of €5.2 billion on a recent statement of financial position (balance sheet), where € represents the euro, the common currency of the European Economic Union.
+
+[Las IFRS permiten que ciertos costos de investigación y desarrollo (I+D) se registren como activos cuando se incurren. Típicamente, los costos de I+D se clasifican como costos de investigación o costos de desarrollo. Si se cumplen ciertos criterios, los costos de investigación se pueden registrar como un gasto, mientras que los costos de desarrollo se pueden registrar como un activo. Este criterio incluye consideraciones como la intención de la empresa de usar o vender el activo intangible. Por ejemplo, Volkswagen AG (VOW3) reportó costos de desarrollo capitalizados de €5.2 mil millones en un estado de posición financiera reciente (balance general), donde € representa el euro, la moneda común de la Unión Económica Europea.]
+
+To illustrate, assume that on December 31 FaceCard Company has determined that $250,000 of the goodwill created from the purchase of Electronic Systems is impaired. The entry to record the impairment is as follows:
+
+[Para ilustrar, suponga que el 31 de diciembre FaceCard Company ha determinado que $250,000 de la plusvalía creada por la compra de Electronic Systems está deteriorada. El asiento para registrar el deterioro es el siguiente:]
+
+<img src="./img/035.png" width="800"></img>
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Loss from Impaired Goodwill | 250,000 | |
+| | Goodwill | | 250,000 |
+| | *Record impairment of goodwill.* | | |
+
+---
+
+**Link to McDonald's:** McDonald's compares fair value to book (carrying) value to determine whether goodwill is impaired. In a recent annual report, McDonald's reported $99.4 million of losses in its International Developmental Markets segment.
+
+[**Enlace a McDonald's:** McDonald's compara el valor razonable con el valor en libros (contable) para determinar si la plusvalía está deteriorada. En un informe anual reciente, McDonald's reportó $99.4 millones de pérdidas en su segmento de Mercados Internacionales de Desarrollo.]
+
+Exhibit 12 summarizes the characteristics of intangible assets.
+
+[La Figura 12 resume las características de los activos intangibles.]
+
+---
+
+## Exhibit 12
+
+### Comparison of Intangible Assets
+
+[**Figura 12** - Comparación de Activos Intangibles]
+
+<!-- 📍 IMAGEN: Exhibit 12 - Comparison of Intangible Assets (página 2) -->
+
+![Exhibit 12 - Comparison of Intangible Assets](./img/036.png)
+
+| Intangible Asset | Description | Amortization Period | Periodic Expense |
+|---|---|---|---|
+| Patent | Exclusive right to benefit from an innovation | Estimated useful life not to exceed legal life | Amortization expense |
+| Copyright | Exclusive right to benefit from a literary, artistic, or musical composition | Estimated useful life not to exceed legal life | Amortization expense |
+| Trademark | Exclusive use of a name, term, or symbol | None | Impairment loss if fair value less than carrying value (impaired) |
+| Goodwill | Excess of purchase price of a business over the fair value of its net assets (assets – liabilities) | None | Impairment loss if fair value less than carrying value (impaired) |
+
+---
+
+## Pathways Challenge
+
+### This Is Accounting!
+
+### Economic Activity
+
+[**Desafío Pathways - ¡Esto es Contabilidad! - Actividad Económica**]
+
+Verizon Communications Inc. (VZ) is the largest wireless service provider in the United States with over 114 million retail subscribers. To deliver its products and services, Verizon must have access to spectrum—the radio frequencies that carry sound, data, and video to wireless devices. However, spectrum is a limited resource that the Federal Communications Commission (FCC) licenses to businesses for a period of 10 years, subject to renewal. In a recent year, Verizon acquired almost $898 million in wireless licenses.
+
+[Verizon Communications Inc. (VZ) es el proveedor de servicios inalámbricos más grande de los Estados Unidos con más de 114 millones de suscriptores minoristas. Para entregar sus productos y servicios, Verizon debe tener acceso al espectro —las frecuencias de radio que transportan sonido, datos y video a los dispositivos inalámbricos. Sin embargo, el espectro es un recurso limitado que la Comisión Federal de Comunicaciones (FCC) otorga licencias a las empresas por un período de 10 años, sujeto a renovación. En un año reciente, Verizon adquirió casi $898 millones en licencias inalámbricas.]
+
+#### Critical Thinking/Judgment
+
+[**Pensamiento Crítico/Juicio**]
+
+1. How should Verizon account for its acquisition of wireless licenses?
+2. What is the useful life of a wireless license?
+3. Should Verizon expense (amortize) the cost of its wireless licenses?
+---
+1. ¿Cómo debería Verizon contabilizar la adquisición de sus licencias inalámbricas?
+1. ¿Cuál es la vida útil de una licencia inalámbrica?
+2. ¿Debería Verizon gastar (amortizar) el costo de sus licencias inalámbricas?
+
+<img src="./img/037.png" width="800"></img>
+
+---
+
+## Check Up Corner 9-4
+
+### Intangible Assets
+
+[**Esquina de Verificación 9-4 - Activos Intangibles**]
+
+Hollis Company acquired patents for $125,000 on July 1 of the current year. The technology supported by these patents was expected to have a 10-year life. In addition, goodwill from acquiring Logan Company in a prior year was impaired by $30,000 due to new competitive technologies.
+
+[Hollis Company adquirió patentes por $125,000 el 1 de julio del año en curso. Se esperaba que la tecnología respaldada por estas patentes tuviera una vida útil de 10 años. Además, la plusvalía de la adquisición de Logan Company en un año anterior se deterioró en $30,000 debido a nuevas tecnologías competitivas.]
+
+- **a.** Journalize the acquisition of the patent on July 1.
+- **b.** Journalize the adjusting entry for the amortization of the patent on December 31.
+- **c.** Journalize the adjusting entry for the impairment of goodwill on December 31.
+
+---
+- **a.** Registre en el diario la adquisición de la patente el 1 de julio.
+- **b.** Registre en el diario el asiento de ajuste para la amortización de la patente el 31 de diciembre.
+- **c.** Registre en el diario el asiento de ajuste para el deterioro de la plusvalía el 31 de diciembre.]
+
+---
+
+### Solution - Check Up Corner 9-4
+
+<img src="./img/038.png" width="800"></img>
+
+[**Solución - Esquina de Verificación 9-4**]
+
+**a.** July 1 – Acquisition of Patent
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| July 1 | Patents | 125,000 | |
+| | Cash | | 125,000 |
+| | *Acquired patents for cash.* | | |
+
+**b.** December 31 – Amortization of Patent
+
+| | Amount |
+|---|---|
+| Cost | $125,000 |
+| Useful life | 10 years |
+| Annual amortization | $12,500 |
+| Months in service | 6/12 |
+| **Current year amortization** | **$6,250** |
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Amortization Expense—Patents | 6,250 | |
+| | Patents | | 6,250 |
+| | *Amortized patent rights ($125,000 ÷ 10 years × 6/12).* | | |
+
+**c.** December 31 – Impairment of Goodwill
+
+| Date | Account | Debit | Credit |
+|------|---------|-------|--------|
+| Dec. 31 | Loss from Impaired Goodwill | 30,000 | |
+| | Goodwill | | 30,000 |
+| | *Record impairment of goodwill.* | | |
+
+---
+
+<h1 id="061866" style="color:#E65100;">
+  <a href="#Chapter_009" style="color:inherit; text-decoration:none;">
+    Titulo
   </a>
 </h1>
