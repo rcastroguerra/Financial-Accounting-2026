@@ -1671,7 +1671,7 @@ Hollis Company acquired patents for $125,000 on July 1 of the current year. The 
 ---
 - **a.** Registre en el diario la adquisición de la patente el 1 de julio.
 - **b.** Registre en el diario el asiento de ajuste para la amortización de la patente el 31 de diciembre.
-- **c.** Registre en el diario el asiento de ajuste para el deterioro de la plusvalía el 31 de diciembre.]
+- **c.** Registre en el diario el asiento de ajuste para el deterioro de la plusvalía el 31 de diciembre.
 
 ---
 
