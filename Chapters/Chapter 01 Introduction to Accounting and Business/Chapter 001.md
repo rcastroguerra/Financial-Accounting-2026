@@ -3766,7 +3766,7 @@ $$
 **Obj. 2** - Describe generally accepted accounting principles, including the underlying assumptions and principles.
 [Describa los principios de contabilidad generalmente aceptados, incluyendo los supuestos y principios subyacentes.]
 
-On February 22, Kountry Repair Service extended an offer of $200,000 for land that had been priced for sale at $250,000. On April 3, Kountry Repair accepted the seller's counteroffer of $230,000 and bought the land for this amount. On September 15, the land was assessed at a value of $185,000 for property tax purposes. On January 9 of the next year, Kountry Repair was offered $300,000 for the land by a national retail chain. At what value should the land be recorded in Kountry Repair Service's records?
+On February 22, Kountry Repair Service extended an offer of $200,000 for land that had been priced for sale at $250,000. On April 3, Kountry Repair accepted the seller's counteroffer of $230,000 and bought the land for this amount. On September 15, the land was assessed at a value of $185,000 for property tax purposes. On January 9 of the next year, Kountry Repair was offered $300,000 for the land by a national retail chain. At what value should the land be recorded in Kountry Repair Service's records?  
 [El 22 de febrero, Kountry Repair Service extendió una oferta de $200,000 por un terreno que había estado a la venta por $250,000. El 3 de abril, Kountry Repair aceptó la contraoferta del vendedor de $230,000 y compró el terreno por este monto. El 15 de septiembre, el terreno fue tasado en $185,000 para fines de impuestos a la propiedad. El 9 de enero del año siguiente, a Kountry Repair se le ofrecieron $300,000 por el terreno por una cadena minorista nacional. ¿A qué valor debe registrarse el terreno en los registros de Kountry Repair Service?]
 
 **Solution [Solución]:**
@@ -3800,7 +3800,7 @@ Dream-It LLC is a motivational consulting business. At the end of its accounting
 **a.** Stockholders' equity as of December 31, 20Y2.
 [Patrimonio de los accionistas al 31 de diciembre de 20Y2.]
 
-**b.** Stockholders' equity as of December 31, 20Y3, assuming that assets increased by $90,000 and liabilities increased by $25,000 during 20Y3.
+**b.** Stockholders' equity as of December 31, 20Y3, assuming that assets increased by $90,000 and liabilities increased by $25,000 during 20Y3.  
 [Patrimonio de los accionistas al 31 de diciembre de 20Y3, suponiendo que los activos aumentaron en $90,000 y los pasivos aumentaron en $25,000 durante 20Y3.]
 
 **Solution [Solución]:**
